@@ -1,9 +1,9 @@
-name: Generate blocklists
+name: Update blocklists
 
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'sources/**.txt'
   workflow_dispatch:
