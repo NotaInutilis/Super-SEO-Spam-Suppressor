@@ -59,6 +59,39 @@ Blocked sites are organized using subfolders and `.txt` files in the `sources` f
 
 If you have no idea how Git works, you can still contribute! Just [open an issue](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor/issues) with the URLs you would like to add to the list, grouping them by language and categories if possible. We'll check and add them shortly.
 
+### Report malicious websites
+
+The next best thing to do after adding a malicious website (malware, phishing, scam) to this list is to to report it so it actually doesn't show up in searches, or even gets taken offline by its host or registrar!
+Here's a video guide on how to do it: [How Anyone Can DESTROY A Scam Website in Minutes 😤 (Scammers Will HATE This)](https://www.youtube.com/watch?v=0fIUiv9-UFk).
+
+Sites to report malicious URLs:
+- Search engines:
+    - [Google SafeBrowsing](https://safebrowsing.google.com/safebrowsing/report_phish/)
+    - [Microsoft](https://www.microsoft.com/wdsi/support/report-unsafe-site)
+- Cybersecurity providers:
+    - [Fortiguard](https://www.fortiguard.com/webfilter)
+    - [BrightCloud](https://www.brightcloud.com/tools/url-ip-lookup.php)
+    - [CRDF](https://threatcenter.crdf.fr/submit_url.html)
+    - [Netcraft](https://report.netcraft.com/report)
+    - [Palo Alto Networks](https://urlfiltering.paloaltonetworks.com/)
+    - [ESET](https://phishing.eset.com/report)
+    - [Trend Micro](https://global.sitesafety.trendmicro.com/index.php)
+    - [Forcepoint](https://csi.forcepoint.com/)
+    - [Spam404](https://www.spam404.com/report.html)
+    - [Cisco Talos](https://talosintelligence.com/reputation_center)
+    - [URLhaus](https://urlhaus.abuse.ch/browse/)
+- Antivirus publishers:
+    - [BitDefender](https://www.bitdefender.com/consumer/support/answer/29358/)
+    - [McAfee](https://sitelookup.mcafee.com/)
+    - [Symantec](https://sitereview.symantec.com/#/)
+    - [Kaspersky](https://opentip.kaspersky.com/)
+    - [Avira](https://www.avira.com/en/analysis/submit-url)
+    - [Avast](https://www.avast.com/report-malicious-file.php)
+- Phishing databases:
+    - [Phishing Initiative](https://phishing-initiative.eu/contrib/)
+    - [PhishTank](https://www.phishtank.com/add_web_phish.php)
+    - [OpenPhish](https://openphish.com/) via [e-mail](mailto:report@openphish.com)
+
 ## Credits
 
 This blocklist is left in the public domain.
