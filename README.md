@@ -17,7 +17,7 @@ All of the tech giants play this game so consider also using a social media bloc
 
 [Blocklist in uBlacklist format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/master/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist). It removes blocked sites from search engine results.
 
-[Click here to subscribe.](https://iorate.github.io/ublacklist/subscribe?name=Super%20SEO%20Spam%20Suppressor&url=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/master/ublacklist.txt) (This automatic subscription link is only compatible with Chrome)
+[Click here to subscribe.](https://iorate.github.io/ublacklist/subscribe?name=Super%20SEO%20Spam%20Suppressor&url=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/master/ublacklist.txt)  (This automatic subscription link is only compatible with Chrome, you have to add it by yourself on other browsers!)
 
 ### Domains list
 
