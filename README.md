@@ -101,6 +101,7 @@ This blocklist borrows:
 - the full domain blocklist of quenhus' [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) which is in [the public domain (unlicence)](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE).
 - the full domain blocklist of no-cmyk's [Search Engine Spam Blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist) which has no licence.
 - the full domain blocklist of franga2000's [AliExpress fake site blocker](https://github.com/franga2000/aliexpress-fake-sites) which has no licence.
+- the full domain blocklist of levitation's fork of the [AliExpress fake site blocker](https://github.com/levitation-opensource/aliexpress-fake-sites) which has no licence.
 - a few entries from one of DandelionSprout's "Ad Removal List for Unusual Ads" on the [adfilt](https://github.com/DandelionSprout/adfilt) blocklist repository which is distributed under the [Dandelicence](https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md).
 
 ## Other useful lists
