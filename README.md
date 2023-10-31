@@ -11,6 +11,8 @@ Its drive to commercialize our every online interaction also has consequences on
 This list is, as any good adblocking tool is, an attempt to escape this neverending capitalist coercition and attention theft.
 All of the tech giants play this game so consider also using a social media blocklist.
 
+This blocklist is left in the [public domain (Do What The Fuck You Want To Public License)](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor/blob/main/LICENSE).
+
 ## Browser extensions
 
 ### uBlacklist syntax
@@ -57,7 +59,7 @@ Blocked sites are organized using subfolders and `.txt` files in the `sources` f
 
 ### How to contribute (easy mode)
 
-If you have no idea how Git works, you can still contribute! Just [open an issue](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor/issues) with the URLs you would like to add to the list, grouping them by language and categories if possible. We'll check and add them shortly.
+If you have no idea how Git works, you can still contribute! Just [open an issue](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor/issues) with the URLs you would like to add to the list (or remove, false positives happen!),, grouping them by language and categories if possible. We'll check and add them shortly.
 
 ### Report malicious websites
 
@@ -92,17 +94,16 @@ Sites to report malicious URLs:
     - [PhishTank](https://www.phishtank.com/add_web_phish.php)
     - [OpenPhish](https://openphish.com/) via [e-mail](mailto:report@openphish.com)
 
-## Credits
+## Aggregated lists
 
-This blocklist is left in the public domain.
 
-This blocklist borrows:
-- the blocklist generation code and readme that I co-wrote for rimu's [No-QAnon](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) blocklist which is distributed under the [anti-fascist licence](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor/blob/master/LICENSE.txt).
-- the full domain blocklist of quenhus' [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) which is in [the public domain (unlicence)](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE).
-- the full domain blocklist of no-cmyk's [Search Engine Spam Blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist) which has no licence.
-- the full domain blocklist of franga2000's [AliExpress fake site blocker](https://github.com/franga2000/aliexpress-fake-sites) which has no licence.
-- the full domain blocklist of levitation's fork of the [AliExpress fake site blocker](https://github.com/levitation-opensource/aliexpress-fake-sites) which has no licence.
-- a few entries from one of DandelionSprout's "Ad Removal List for Unusual Ads" on the [adfilt](https://github.com/DandelionSprout/adfilt) blocklist repository which is distributed under the [Dandelicence](https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md).
+This blocklist borrows from the following projects:
+- the blocklist generation code and readme that I co-wrote for rimu's [No-QAnon](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) ([anti-fascist licence](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor/blob/master/LICENSE.txt)).
+- the [full blocklist](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/dist/other_format/domains/all.txt) from quenhus' [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) ([The Unlicense, public domain](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE)).
+- the [full blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist/blob/master/blocklist.txt) from no-cmyk's [Search Engine Spam Blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist) (no licence).
+- the [full blocklist](https://github.com/franga2000/aliexpress-fake-sites/blob/main/domains.txt) from franga2000's [AliExpress fake site blocker](https://github.com/franga2000/aliexpress-fake-sites) (no licence).
+- the [full blocklist](https://github.com/levitation-opensource/aliexpress-fake-sites/blob/main/domains.txt) from levitation's fork of the [AliExpress fake site blocker](https://github.com/levitation-opensource/aliexpress-fake-sites) (no licence).
+- a few entries of the "Ad Removal List for Unusual Ads" blocklist from DandelionSprout's [adfilt](https://github.com/DandelionSprout/adfilt) ([Dandelicence](https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md)).
 
 ## Other useful lists
 
