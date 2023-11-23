@@ -11,6 +11,8 @@
 cp -a ./import/original/. ./import/modified/
 
 # Cleanup imported sources (Same code in update.sh)
+## Special cleanup for this list because of one mixed format import https://github.com/levitation-opensource/aliexpress-fake-sites/blob/main/domains.txt
+find ./import/modified -type f -name "*.txt" -exec sed -ri 's/^*\.//i' {} \;
 ## Special cleanup for imported sources of other formats (AdBlock, hosts, etc.)
 find ./import/modified -type f -name "*.txt" -exec sed -ri 's/^[^#[:alnum:]]/#&/; s/^0\.0\.0\.0[[:space:]]*//i' {} \;
 ## Normalizes URLs into domains: lowercases, remove leading spaces, protocol (`x://`) `www.` subdomains, everything after `/`, only one space before `#`. Keeps comments intact
