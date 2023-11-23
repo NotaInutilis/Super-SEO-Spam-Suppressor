@@ -36,8 +36,6 @@ python scripts/domains_to_hosts_ipv6.py > hosts.txt.ipv6
 python scripts/domains_to_dnsmasq.py > dnsmasq.txt
 
 ## For browser extensions
-### Netsane
-python scripts/domains_to_netsane.py > netsane.txt
 ### Adblock
 python scripts/domains_to_adblock.py > adblock_temp.txt
 cp ./headers/adblock.txt adblock.txt
