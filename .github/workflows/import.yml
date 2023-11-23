@@ -1,12 +1,8 @@
-name: Update blocklists
+name: Import blocklists
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'sources/**.txt'
-      - 'filters/**.txt'
+  schedule:
+    - cron:  '42 3,15 * * *'
   workflow_dispatch:
 
 jobs:
@@ -20,6 +16,8 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: "3.10"
+    - name: Run import
+      run: ./scripts/import.sh
     - name: Run update
       run: ./scripts/update.sh
     - name: Commit and push
@@ -27,6 +25,6 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        if git commit -m "Update blocklists"; then
+        if git commit -m "Import blocklists"; then
           git push
         fi
