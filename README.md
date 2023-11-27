@@ -17,45 +17,61 @@ This blocklist is left in the [public domain (Do What The Fuck You Want To Publi
 
 ### uBlacklist syntax
 
-[Blocklist in uBlacklist format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/master/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist). It removes blocked sites from search engine results.
+[Blocklist in uBlacklist format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist). It removes blocked sites from search engine results.
 
-[Click here to subscribe.](https://iorate.github.io/ublacklist/subscribe?name=Super%20SEO%20Spam%20Suppressor&url=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/master/ublacklist.txt)  (This automatic subscription link is only compatible with Chrome, you have to add it by yourself on other browsers!)
+[Click here to subscribe.](https://iorate.github.io/ublacklist/subscribe?name=Super%20SEO%20Spam%20Suppressor&url=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt)  (This automatic subscription link is only compatible with Chrome, you have to add it by yourself on other browsers!)
 
 ### AdBlock Plus syntax
 
-[Blocklist in AdBlock format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/master/adblock.txt) to use with an adblocker ([uBlock Origin](https://ublockorigin.com), [Adguard](https://adguard.com)…) or Adguard Home. It uses a [strict blocking rule](https://github.com/gorhill/uBlock/wiki/Strict-blocking) to block access to those sites on your browser.
+[Blocklist in AdBlock format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/adblock.txt) to use with an adblocker ([uBlock Origin](https://ublockorigin.com), [Adguard](https://adguard.com)…) or Adguard Home. It uses a [strict blocking rule](https://github.com/gorhill/uBlock/wiki/Strict-blocking) to block access to those sites on your browser.
 
-[Click here to subscribe.](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/master/adblock.txt&title=Super%20SEO%20Spam%20Suppressor)
+[Click here to subscribe.](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/adblock.txt&title=Super%20SEO%20Spam%20Suppressor)
 
-## Hosts format
+## DNS blockers
 
-[Blocklist in Hosts format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/master/hosts.txt) to use in a [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file or PiHole.
+### Hosts format
 
-[IPV6 version](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/master/hosts.txt.ipv6).
+[Blocklist in Hosts format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/hosts.txt) to use in a [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file or [Pi-hole](https://pi-hole.net/).
 
-Known issue: Firefox's DNS over HTTPS option bypasses the computer's hosts file ruleset. https://bugzilla.mozilla.org/show_bug.cgi?id=1453207
+[IPV6 version](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/hosts.txt.ipv6).
 
-## Dnsmasq format
+**Known issue:** [Firefox's DNS over HTTPS option bypasses the computer's hosts file ruleset.](https://bugzilla.mozilla.org/show_bug.cgi?id=1453207)
 
-[Blocklist in Dnsmasq format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/master/dnsmasq.txt) to use with the [Dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html) DNS server software.
+### Dnsmasq format
+
+[Blocklist in Dnsmasq format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/dnsmasq.txt) to use with the [Dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html) DNS server software.
+
+## Fediverse formats
+
+### Mastodon
+
+[Blocklist in Mastodon format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/mastodon.csv) to use with [Mastodon](https://joinmastodon.org/) and other federated services. It will defederate from blocked instances.
+
+### Fediblockhole
+
+[Blocklist in FediBlockHole format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/fediblockhole.csv) to use with the [FediBlockHole](https://github.com/eigenmagic/fediblockhole) tool for Mastodon. It will defederate from blocked instances.
 
 ## How to contribute
 
-Clone this repository and add new domains in the appropriate `.txt` files in the `sources` folder. If you do not want to categorize, just put it in the `sources/default.txt` file and it will be blocked.
+Clone this repository and add one domain per line in `.txt` files stored in the `sources` folder. Blocked sites are organized using subfolders and `.txt` files within the `sources` folder. Use comments (`#`) and markdown files (`.md`) to add more information and references.
 
-> For the `https://www.example.com` website, add `example.com` to the `sources/default.txt` file.
+> For the `https://www.example.com` website, add `example.com` on a new line of the `sources/default.txt` file.
 
-Then, when you push your changes to the `sources` folder, GitHub actions should kick in and automatically generate new versions of the blocklists. Should you want to generate them yourself, you can run the `scripts/update.sh` script (prerequisites : bash, python).
+You can paste the full URL: the update script will clean it and make it a domain. As the hosts format does not automatically block subdomains (e.g. `subdomain.example.com`), they have to be explicitely added to the list to maintain compatibility.
 
-Finally, make a pull request: we'll review and approve it within a few days.
+It is possible to add TLDs (e.g. `com`, without the dot) to the list, they will be blocked by Dnsmasq, adblockers and uBlacklist. Domains related to Fediverse instances (Mastodon, Peertube, etc.) should be put in `.txt` files with `fediverse` in their names (e.g. `Bad Fediverse is bad.txt`) so that they are included in the Fediverse blocklists.
 
-### Categorization
+Then, when you push your changes to the `sources` folder, GitHub actions automatically generate new versions of the blocklists. Should you want to generate them yourself, you can run the `scripts/update.sh` script (prerequisites : bash, python).
 
-Blocked sites are organized using subfolders and `.txt` files in the `sources` folder. Use markdown (`.md`) files and comments (`#`) to add more information and references.
+Finally, make a pull request: it will be reviewed and approve it within a few days.
+
+### Importing an external list
+
+External lists can be imported by adding them to the `import/importlist.txt` as a new line in the following format: `list name.txt|url`. They are automatically downloaded twice a day, cleaned (some formats only), copied to the `sources/_imported/`folder and thus added to the list generation database. The domain list in the `import/allowlist.txt` file serves as an exception ruleset for imported lists.
 
 ### How to contribute (easy mode)
 
-If you have no idea how Git works, you can still contribute! Just [open an issue](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor/issues) with the URLs you would like to add to the list (or remove, false positives happen!),, grouping them by language and categories if possible. We'll check and add them shortly.
+If you have no idea how Git works, you can still contribute! Just [open an issue](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor/issues) with the URLs you would like to add to the list (or remove, false positives happen!), grouping them by language and categories if possible. We'll check and add them shortly.
 
 ### Report malicious websites
 
@@ -92,9 +108,8 @@ Sites to report malicious URLs:
 
 ## Aggregated lists
 
-
 This blocklist borrows from the following projects:
-- the blocklist generation code and readme that I co-wrote for rimu's [No-QAnon](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) ([anti-fascist licence](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor/blob/master/LICENSE.txt)).
+- the blocklist generation code and readme that I co-wrote for rimu's [No-QAnon](https://github.com/rimu/no-qanon) ([anti-fascist licence](https://github.com/rimu/no-qanon/blob/master/LICENSE.txt)).
 - the [full blocklist](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/dist/other_format/domains/all.txt) from quenhus' [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) ([The Unlicense, public domain](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE)).
 - the [full blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist/blob/master/blocklist.txt) from no-cmyk's [Search Engine Spam Blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist) (no licence).
 - the [full blocklist](https://github.com/franga2000/aliexpress-fake-sites/blob/main/domains.txt) from franga2000's [AliExpress fake site blocker](https://github.com/franga2000/aliexpress-fake-sites) (no licence).
