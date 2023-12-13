@@ -114,7 +114,7 @@ This blocklist borrows from the following projects:
 - the [full blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist/blob/master/blocklist.txt) from no-cmyk's [Search Engine Spam Blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist) (no licence).
 - the [full blocklist](https://github.com/franga2000/aliexpress-fake-sites/blob/main/domains.txt) from franga2000's [AliExpress fake site blocker](https://github.com/franga2000/aliexpress-fake-sites) (no licence).
 - the [full blocklist](https://github.com/levitation-opensource/aliexpress-fake-sites/blob/main/domains.txt) from levitation's fork of the [AliExpress fake site blocker](https://github.com/levitation-opensource/aliexpress-fake-sites) (no licence).
-- a few entries of the "Ad Removal List for Unusual Ads" blocklist from DandelionSprout's [adfilt](https://github.com/DandelionSprout/adfilt) ([Dandelicence](https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md)).
+- the [full blocklist](https://dl.red.flag.domains/red.flag.domains.txt) from [Red Flag Domains](https://red.flag.domains/) ([Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 ## Other useful lists
 
