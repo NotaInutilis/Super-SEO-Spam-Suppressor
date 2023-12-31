@@ -4,3 +4,4 @@ Search-Engine-Spam-Blocklist.txt|https://raw.githubusercontent.com/no-cmyk/Searc
 content-farm-list.txt|https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt
 uBlock-Origin-dev-filter Global.txt|https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/domains/global.txt
 Red Flag Domains.txt|https://dl.red.flag.domains/red.flag.domains.txt
+seo-garbage.txt|https://raw.githubusercontent.com/insomnimus/seo-garbage/main/list.txt

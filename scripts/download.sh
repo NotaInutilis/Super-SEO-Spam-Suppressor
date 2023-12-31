@@ -6,5 +6,5 @@
 
 IFS='|'
 while read FILE URL; do
-    wget -O ./import/original/"$FILE" -- "$URL"
+    curl -fL "$URL" -o ./import/original/"$FILE"
 done
