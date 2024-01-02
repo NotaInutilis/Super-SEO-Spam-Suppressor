@@ -5,3 +5,6 @@ content-farm-list.txt|https://raw.githubusercontent.com/wdmpa/content-farm-list/
 uBlock-Origin-dev-filter Global.txt|https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/domains/global.txt
 Red Flag Domains.txt|https://dl.red.flag.domains/red.flag.domains.txt
 seo-garbage.txt|https://raw.githubusercontent.com/insomnimus/seo-garbage/main/list.txt
+my_filters_001 antipup.txt|https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative list formats/antipup_domains.txt
+my_filters_001 antitypo.txt|https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antitypo_domains.txt
+my_filters_001 clickbait.txt|https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
