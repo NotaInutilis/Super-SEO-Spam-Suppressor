@@ -4,6 +4,9 @@ Super SEO Spam Suppressor (SSSS[^SSSS]) is a domains blocklist of sites abusing 
 
 [^SSSS]: It's a Gridman reference. I'm spelling it out because it's also the name of a skin disease: don't go looking for SSSS on image search.
 
+> Our website is now optimized to supply content to Google, not build an audience of its own.
+> [Mia Sato, "The Perfect Webpage",*The Verge*.](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
+
 As of now, present day, time of writing year 2023, Google is now a barely useable terminally enshittified mess, merely a husk of the wonderful discovery tool it was yesterday.
 Do you want to learn about *thing*?
 [How about **buying** *thing* and **consuming** *thing* instead?](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)
