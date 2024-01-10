@@ -1,6 +1,6 @@
 # Super SEO Spam Suppressor
 
-Super SEO Spam Suppressor (SSSS[^SSSS]) is a domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI. It is best used with uBlacklist.
+Super SEO Spam Suppressor (SSSS[^SSSS]) is a domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage. It is best used with uBlacklist.
 
 [^SSSS]: It's a Gridman reference. I'm spelling it out because it's also the name of a skin disease: don't go looking for SSSS on image search.
 
