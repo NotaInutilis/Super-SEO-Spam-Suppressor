@@ -7,7 +7,7 @@ Super SEO Spam Suppressor (SSSS[^SSSS]) is a domains blocklist of sites abusing 
 > Our website is now optimized to supply content to Google, not build an audience of its own.  
 > [Mia Sato, "The Perfect Webpage", *The Verge*.](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 
-As of now, present day, time of writing year 2023, Google is now a barely useable, terminally enshittified mess, merely a husk of the wonderful discovery tool it was yesterday.
+As of now, present day, time of writing year 2024, [it is now scientifically proven](https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf) that [Google has become a barely useable, terminally enshittified mess](https://www.themarysue.com/google-search-is-busted/), merely a husk of the wonderful discovery tool it was yesterday.
 Do you want to learn about *thing*?
 [How about **buying** *thing* and **consuming** *thing* instead?](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)
 Its drive to commercialize our every online interaction also has consequences on other, much more user friendly search engines such as DuckDuckGo, whose indexers crawl through [shit optimized for Google's terrible algorithm](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization).
