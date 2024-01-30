@@ -121,7 +121,7 @@ This blocklist borrows from the following projects:
 - the [full blocklist](https://dl.red.flag.domains/red.flag.domains.txt) from [Red Flag Domains](https://red.flag.domains/) ([Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 - the [full blocklist](https://github.com/insomnimus/seo-garbage/blob/main/list.txt) from insomnimus' [seo-garbage](https://github.com/insomnimus/seo-garbage) ([Apache License](https://github.com/insomnimus/seo-garbage/blob/main/LICENSE)).
 - the [antipup domains](https://github.com/iam-py-test/my_filters_001/blob/main/Alternative%20list%20formats/antipup_domains.txt), [antitypo domains](https://github.com/iam-py-test/my_filters_001/blob/main/Alternative%20list%20formats/antitypo_domains.txt) and [clickbait domains](https://github.com/iam-py-test/my_filters_001/blob/main/Alternative%20list%20formats/clickbait_domains.txt) blocklist from iam-py-test's [my_filters_001](https://github.com/iam-py-test/my_filters_001) ([CC0 1.0 Universal](https://github.com/iam-py-test/my_filters_001/blob/main/LICENSE)).
-- the [full blocklist](https://github.com/LiamDawe/steamdeck_spamblock/blob/main/PLAIN_LIST) from Liam Dawe's [steamdeck_spamblock](https://github.com/LiamDawe/steamdeck_spamblock).
+- the [full blocklist](https://github.com/LiamDawe/steamdeck_spamblock/blob/main/PLAIN_LIST) from Liam Dawe's [steamdeck_spamblock](https://github.com/LiamDawe/steamdeck_spamblock) ([MIT License](https://github.com/LiamDawe/steamdeck_spamblock/blob/main/LICENSE)).
 
 ## Other useful lists
 
