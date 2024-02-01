@@ -9,3 +9,7 @@ my_filters_001 antipup.txt|https://raw.githubusercontent.com/iam-py-test/my_filt
 my_filters_001 antitypo.txt|https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antitypo_domains.txt
 my_filters_001 clickbait.txt|https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 steamdeck_spamblock.txt|https://raw.githubusercontent.com/LiamDawe/steamdeck_spamblock/main/PLAIN_LIST
+ublacklist-noai.txt|https://raw.githubusercontent.com/ite-usagi/ublacklist-noai/main/uBlacklist.txt
+ublacklist-ai.txt|https://raw.githubusercontent.com/PrincessAkira/ublacklist-ai/main/ublacklist-ai.txt
+uBlacklist GitHub Translation.txt|https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt
+uBlacklist Stack Overflow Translation.txt|https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt
