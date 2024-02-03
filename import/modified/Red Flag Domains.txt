@@ -1,4 +1,4 @@
-#last-update:2024-02-01
+#last-update:2024-02-02
 000webhostapp.fr
 000webhost.fr
 01labanquepostale.fr
@@ -2598,6 +2598,7 @@ apps-mailorangebank.fr
 apps-nickel.fr
 apps-secupass-agricole-assurance.fr
 appstore-localisation.fr
+appweb-secupass-sg-assurances.fr
 apsu.fr
 aptlo.fr
 aqmazon.fr
@@ -3123,6 +3124,7 @@ auth-certificat-air.fr
 auth-chronopost.fr
 authclient-ameli.fr
 authclientcompte.fr
+auth-colis.fr
 auth-commande.fr
 auth-compte-netflix.fr
 authcompte-netflix.fr
@@ -5384,6 +5386,7 @@ chronoservicesuivi.fr
 chrono-ship.fr
 chrono-shipping.fr
 chrono-sms.fr
+chrono-sms-info.fr
 chrono-sms-suivi.fr
 chronosport.fr
 chronospostsecur.fr
@@ -5943,6 +5946,7 @@ compte-engie.fr
 compte-espace-client.fr
 comptefacturation.fr
 compte-free.fr
+compte-fr.fr
 comptehabbo.fr
 compte-info.fr
 compteinfo.fr
@@ -9121,6 +9125,7 @@ google-mail.fr
 google-meet.fr
 googlenow.fr
 googleoogle.fr
+google-redirectes.fr
 google-security.fr
 googlesupport.fr
 googletagmanager.fr
@@ -9200,6 +9205,8 @@ gouvcontravention.fr
 gouv-contravention-info.fr
 gouv-contraventions.fr
 gouvcontraventions.fr
+gouv-contrav.fr
+gouv-creances.fr
 gouv-crit-air.fr
 gouv-critair.fr
 gouvcritair.fr
@@ -9645,6 +9652,7 @@ httpinfoamendes-paiements.fr
 httplivraison-support-direction.fr
 httpsassurance-cartevitale-ameli.fr
 httpscpam-ameli.fr
+https-leboncoin.fr
 httpsteresaexpress.fr
 httpsupport-amelifrances.fr
 hu59vb-societegenerale.fr
@@ -9775,6 +9783,7 @@ ieboncoin.fr
 iedalo.fr
 ieurope1.fr
 ifea.fr
+ifload-leboncoin.fr
 ifogreffe.fr
 ifpimpotsdgfip.fr
 ifrancetvinfo.fr
@@ -9962,6 +9971,7 @@ info-antai-mon-compte.fr
 info-ants-paiement.fr
 info-assistance-maladie.fr
 info-assurance-maladie.fr
+info-assurancemaladie.fr
 infoassurance-maladie.fr
 info-assurance-maladie-france.fr
 info-assurancemaladie-renouvellement.fr
@@ -11193,6 +11203,7 @@ leboncoin-certif.fr
 leboncoinchronopost.fr
 le-boncoin-entreparticulier.fr
 leboncoinfaillerp.fr
+le-boncoin.fr
 lebonco-in.fr
 leboncoinfrance.fr
 leboncoin-fr-telephones-iphone-8762453.fr
@@ -11850,6 +11861,7 @@ mabanquepopulaire.fr
 mabanquepostale.fr
 ma-banque-postal.fr
 mabanquepostal.fr
+mabanquepriveebarclays.fr
 mabanquepriveepalatine.fr
 mabanquepro.fr
 mabanque-societegenerale.fr
@@ -12079,6 +12091,7 @@ majefrance.fr
 maj-epay.fr
 majespaceperson.fr
 majevents.fr
+majffrinforants.fr
 majinfoclients.fr
 maj-mabanque-bnpparibas.fr
 majmaj.fr
@@ -13226,6 +13239,7 @@ morganlouedec.fr
 morning-croissant.fr
 mosaicfinance-client.fr
 moschinoparis.fr
+moscotfrance.fr
 moscotparis.fr
 motoetloisir.fr
 mountainhardwearparis.fr
@@ -13377,6 +13391,7 @@ myyahoo.fr
 mzetic.fr
 mztmut.fr
 n1up.fr
+n26bank.fr
 n26-groupe.fr
 n26-support.fr
 n2-societegenerale.fr
@@ -15421,6 +15436,7 @@ qihza.yt
 qinamax.fr
 qliceadsl.fr
 qlwebcaf.fr
+qooqle.fr
 q-parkfrance.fr
 qsdmq.yt
 qsjbe.yt
@@ -16202,6 +16218,7 @@ rh-laposte.fr
 rhonesalpes.fr
 riau.fr
 rib-lbc.fr
+rib-lbc-securiser.fr
 rib-leboncoin.fr
 rib-paiementleboncoin.fr
 ribpaysecure.fr
@@ -17754,6 +17771,7 @@ smsameli.fr
 sms-chrono.fr
 sms-chrono-info-colis.fr
 sms-chrono-info.fr
+sms-chrono-info-livraison.fr
 sms-chrono-post.fr
 sms-chrono-post-suivi.fr
 sms-chrono-suivi.fr
@@ -20236,6 +20254,7 @@ xn--antai-rglementation-hzb.fr
 xn--antai-rglement-contravention-nqc.fr
 xn--antai-rgularisation-hzb.fr
 xn--antai-rgulation-hnb.fr
+xn--antar-amende-routire-61b.fr
 xn--ant-dma.fr
 xn--arbnb-cta.fr
 xn--archivesdpartementales-j8b.fr
