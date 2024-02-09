@@ -67,11 +67,11 @@ It is possible to add TLDs (e.g. `com`, without the dot) to the list, they will 
 
 Then, when you push your changes to the `sources` folder, GitHub actions automatically generate new versions of the blocklists. Should you want to generate them yourself, you can run the `scripts/update.sh` script (prerequisites : bash, python).
 
-Finally, make a pull request: it will be reviewed and approve it within a few days.
+Finally, make a pull request: it will be reviewed and approved within a few days.
 
 ### Importing an external list
 
-External lists can be imported by adding them to the `sources/imports/importlist.txt` as a new line in the following format: `list name.txt|url`. They are automatically downloaded twice a day, cleaned (some formats only), copied to the `sources/domains/_imported/`folder and thus added to the list generation database. The domain list in the `sources/imports/allowlist.txt` file serves as an exception ruleset for imported lists.
+External lists can be imported by adding them to the `sources/imports/importlist.txt` as a new line in the following format: `list name.txt|url`. They are automatically downloaded twice a day, cleaned (some formats only), copied to the `sources/domains/_imported/` folder and thus added to the list generation database. The domain list in the `sources/imports/allowlist.txt` file serves as an exception ruleset for imported lists.
 
 ### How to contribute (easy mode)
 
