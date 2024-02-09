@@ -57,9 +57,9 @@ This blocklist is left in the [public domain (Do What The Fuck You Want To Publi
 
 ## How to contribute
 
-Clone this repository and add one domain per line in `.txt` files stored in the `sources` folder. Blocked sites are organized using subfolders and `.txt` files within the `sources` folder. Use comments (`#`) and markdown files (`.md`) to add more information and references.
+Clone this repository and add one domain per line in `.txt` files stored in the `sources/domains` folder. Blocked sites are organized using subfolders and `.txt` files within the `sources/domains` folder. Use comments (`#`) and markdown files (`.md`) to add more information and references.
 
-> For the `https://www.example.com` website, add `example.com` on a new line of the `sources/default.txt` file.
+> For the `https://www.example.com` website, add `example.com` on a new line of the `sources/domains/default.txt` file.
 
 You can paste the full URL: the update script will clean it and make it a domain. As the hosts format does not automatically block subdomains (e.g. `subdomain.example.com`), they have to be explicitely added to the list to maintain compatibility.
 
@@ -71,7 +71,7 @@ Finally, make a pull request: it will be reviewed and approve it within a few da
 
 ### Importing an external list
 
-External lists can be imported by adding them to the `import/importlist.txt` as a new line in the following format: `list name.txt|url`. They are automatically downloaded twice a day, cleaned (some formats only), copied to the `sources/_imported/`folder and thus added to the list generation database. The domain list in the `import/allowlist.txt` file serves as an exception ruleset for imported lists.
+External lists can be imported by adding them to the `sources/imports/importlist.txt` as a new line in the following format: `list name.txt|url`. They are automatically downloaded twice a day, cleaned (some formats only), copied to the `sources/domains/_imported/`folder and thus added to the list generation database. The domain list in the `sources/imports/allowlist.txt` file serves as an exception ruleset for imported lists.
 
 ### How to contribute (easy mode)
 
