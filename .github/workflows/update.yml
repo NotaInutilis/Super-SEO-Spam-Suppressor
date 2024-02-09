@@ -4,8 +4,7 @@ on:
   push:
     paths:
       - 'sources/**.txt'
-    paths-ignore:
-      - 'sources/imports/**'
+      - '!sources/imports/**'
   workflow_dispatch:
 
 jobs:
