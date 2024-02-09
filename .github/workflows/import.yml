@@ -1,12 +1,16 @@
 name: Import blocklists
 
 on:
+  push:
+    paths:
+      - 'sources/imports/**.txt'
   schedule:
     - cron:  '42 3,15 * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  import:
+    name: Import blocklists
 
     runs-on: ubuntu-latest
 

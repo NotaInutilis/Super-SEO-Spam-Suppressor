@@ -2,15 +2,15 @@ name: Update blocklists
 
 on:
   push:
-    branches:
-      - main
     paths:
       - 'sources/**.txt'
-      - 'filters/**.txt'
+    paths-ignore:
+      - 'sources/imports/**'
   workflow_dispatch:
 
 jobs:
-  build:
+  update:
+    name: Update blocklists
 
     runs-on: ubuntu-latest
 
