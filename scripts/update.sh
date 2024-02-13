@@ -33,7 +33,7 @@ find ./sources/tlds -type f -iname "*.txt" -exec cat {} \; > ./sources/tlds.txt
 
 ## Cleanup the lists
 ### Remove comments, inline comments, spaces and empty lines
-find ./sources -maxdepth 1 -type f -iname "*.txt" -exec sed -i '/^#/d; s/#.*//; s/ //g; /^ *$/d'
+find ./sources -maxdepth 1 -type f -iname "*.txt" -exec sed -i '/^#/d; s/#.*//; s/ //g; /^ *$/d' {} \;
 ### Sort and remove duplicates
 find ./sources -maxdepth 1 -type f -iname "*.txt" -exec bash -c '
     sort -u "$0" > "$0_temp.txt";
@@ -44,7 +44,7 @@ find ./sources -maxdepth 1 -type f -iname "*.txt" -exec bash -c '
 §
 ## Domains
 cp ./sources/headers/default.txt domains.txt
-cat ./sources/domains.txt domains.txt
+cat ./sources/domains.txt >> domains.txt
 
 ## For DNS filtering
 ### Hosts
