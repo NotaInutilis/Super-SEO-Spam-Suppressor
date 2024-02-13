@@ -16,8 +16,8 @@ with open("sources/urls.txt", "r") as urls:
 blocklist = linesdomains + linestlds + linesurls
 
 # Print blocklist
-for line in header:
-	print(line)
+for line in linesheader:
+	print(line.strip())
 print()
 for line in blocklist:
 	print('||' + line.strip() + '^')
