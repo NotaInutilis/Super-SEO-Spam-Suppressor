@@ -1,36 +1,50 @@
 #!/usr/bin/env bash
 
-# Use this script to generate all the blocklists using the `.txt` files in the `sources` folder.
-# e.g.
+# Generates all the blocklists from the content of the `sources` folder.
+# Usage:
 # ./scripts/update.sh
 
-# Cleanup sources/domains (same code in import.sh)
-## Normalizes URLs into domains: lowercases, remove leading spaces, protocol (`x://`) `www.` subdomains, everything after `/`, only one space before `#`. Keeps comments intact
-find ./sources/domains -type f -name "*.txt" -exec sed -ri 'h; s/[^#]*//1; x; s/#.*//; s/.*/\L&/; s/^[[:space:]]*//i; s/^.*:\/\///i; s/^[.*]*//i; s/^www\.//i; s/\/[^[:space:]]*//i; s/[[:space:]].*$/ /i; G; s/(.*)\n/\1/' {} \;
-## Remove duplicate domains from each source file (keeps repeated comments and empty lines for organization)
-find ./sources/domains -type f -name "*.txt" -exec bash -c '
+# Normalize sources
+
+## Normalize domains: lowercases, remove leading spaces, protocol (`x://`), `www.` subdomains, path ( `/` and after), leave only one space before inline comment (`#`). Keeps comments intact
+# (same code in import.sh)
+find ./sources/domains -type f -iname "*.txt" -exec sed -ri 'h; s/[^#]*//1; x; s/#.*//; s/.*/\L&/; s/^[[:space:]]*//i; s/^.*:\/\///i; s/^[.*]*//i; s/^www\.//i; s/\/[^[:space:]]*//i; s/[[:space:]].*$/ /i; G; s/(.*)\n/\1/' {} \;
+## Normalize URLs: lowercases, remove leading spaces, protocol (`*://*`), `www.` subdomains, leave only one space before inline comment (`#`). Keeps comments intact
+find ./sources/urls -type f -iname "*.txt" -exec sed -ri 'h; s/[^#]*//1; x; s/#.*//; s/.*/\L&/; s/^[[:space:]]*//i; s/^.*:\/\///i; s/^[.*]*//i; s/^www\.//i; s/[[:space:]].*$/ /i; G; s/(.*)\n/\1/' {} \;
+## Normalize TLDs: lowercases, remove leading spaces and `.`, path ( `/` and after), leave only one space before inline comment (`#`). Keeps comments intact
+find ./sources/tlds -type f -iname "*.txt" -exec sed -ri 'h; s/[^#]*//1; x; s/#.*//; s/.*/\L&/; s/^[[:space:]]*//i; s/^[.*]*//i;  s/\/[^[:space:]]*//i; s/[[:space:]].*$/ /i; G; s/(.*)\n/\1/' {} \;
+
+### Remove duplicate lines from each source file (keeps repeated comments and empty lines for organization)
+# (same code in import.sh)
+find ./sources/domains ./sources/urls ./sources/tlds -type f -iname "*.txt" -exec bash -c '
     awk "(\$0 ~ /^[[:space:]]*#/ || NF == 0 || !seen[\$0]++)" "$0" > "$0_temp.txt";
     mv "$0_temp.txt" "$0";
 ' {} \;
 
-# Combine all sources/domains into a domains list
+## Combine all sources into lists
+### Domains
 find ./sources/domains -type f -iname "*.txt" -exec cat {} \; > ./sources/domains.txt
-## Fediverse domains list
+### Fediverse domains
 find ./sources/domains -type f -iname "*fediverse*.txt" -exec cat {} \; > ./sources/fediverse_domains.txt
+### URLs
+find ./sources/urls -type f -iname "*.txt" -exec cat {} \; > ./sources/urls.txt
+### TLDs
+find ./sources/tlds -type f -iname "*.txt" -exec cat {} \; > ./sources/tlds.txt
 
-# Cleanup the domains list
-## Remove comments, inline comments, spaces and empty lines
-sed -i '/^#/d; s/#.*//; s/ //g; /^ *$/d' ./sources/domains.txt fediverse_domains.txt
-## Sort and remove duplicates
-sort -u ./sources/domains.txt > domains_temp.txt
-mv domains_temp.txt ./sources/domains.txt
-sort -u ./sources/fediverse_domains.txt > fediverse_domains_temp.txt
-mv fediverse_domains_temp.txt ./sources/fediverse_domains.txt
+## Cleanup the lists
+### Remove comments, inline comments, spaces and empty lines
+find ./sources -maxdepth 1 -type f -iname "*.txt" -exec sed -i '/^#/d; s/#.*//; s/ //g; /^ *$/d' {} \;
+### Sort and remove duplicates
+find ./sources -maxdepth 1 -type f -iname "*.txt" -exec bash -c '
+    sort -u "$0" > "$0_temp.txt";
+    mv "$0_temp.txt" "$0";
+' {} \;
 
-# Generate blocklists from the domains list
-
+# Generate blocklists
+§
 ## Domains
-cp ./sources/domains.txt domains.txt
+cp ./sources/headers/default.txt domains.txt
+cat ./sources/domains.txt >> domains.txt
 
 ## For DNS filtering
 ### Hosts
@@ -41,13 +55,10 @@ python scripts/domains_to_dnsmasq.py > dnsmasq.txt
 
 ## For browser extensions
 ### Adblock
-python scripts/domains_to_adblock.py > adblock_temp.txt
-cp ./sources/headers/adblock.txt adblock.txt
-cat adblock_temp.txt >> adblock.txt
-rm adblock_temp.txt
+python scripts/adblock.py > adblock.txt
 ### uBlacklist
 python scripts/domains_to_ublacklist.py > ublacklist_temp.txt
-cp ./sources/headers/ublacklist.txt ublacklist.txt
+cp ./sources/headers/default.txt ublacklist.txt
 cat ublacklist_temp.txt >> ublacklist.txt
 rm ublacklist_temp.txt
 

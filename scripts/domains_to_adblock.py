@@ -2,7 +2,7 @@
 # Usage:
 #	python domains_to_adblock.py > adblock.txt
 
-text_file = open("domains.txt", "r")
+text_file = open("sources/domains.txt", "r")
 lines = text_file.readlines()
 text_file.close()
 
