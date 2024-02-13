@@ -3,7 +3,7 @@
 # Usage:
 #	python fediverse_domains_to_fediblockhole.py > fediblockhole.txt
 
-text_file = open("fediverse_domains.txt", "r")
+text_file = open("sources/fediverse_domains.txt", "r")
 lines = text_file.readlines()
 text_file.close()
 
