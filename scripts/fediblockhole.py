@@ -14,6 +14,5 @@ blocklist = linesfedidomains
 # Print blocklist
 for line in linesheader:
 	print(line.strip())
-print()
 for line in blocklist:
 	print(line.strip() + ',suspend,Super-SEO-Spam-Blocker blocklist,Super-SEO-Spam-Blocker blocklist')
