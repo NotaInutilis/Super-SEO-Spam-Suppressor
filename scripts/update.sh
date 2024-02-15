@@ -9,9 +9,9 @@
 ## Normalize domains: lowercases, remove leading spaces, protocol (`x://`), `www.` subdomains, path ( `/` and after), leave only one space before inline comment (`#`). Keeps comments intact
 # (same code in import.sh)
 find ./sources/domains -type f -iname "*.txt" -exec sed -ri 'h; s/[^#]*//1; x; s/#.*//; s/.*/\L&/; s/^[[:space:]]*//i; s/^.*:\/\///i; s/^[.*]*//i; s/^www\.//i; s/\/[^[:space:]]*//i; s/[[:space:]].*$/ /i; G; s/(.*)\n/\1/' {} \;
-## Normalize URLs: lowercases, remove leading spaces, protocol (`*://*`), `www.` subdomains, last `/`, leave only one space before inline comment (`#`). Keeps comments intact
+## Normalize URLs: remove leading spaces, protocol (`*://*`), `www.` subdomains, last `/`, leave only one space before inline comment (`#`). Keeps comments intact
 # add remove last /
-find ./sources/urls -type f -iname "*.txt" -exec sed -ri 'h; s/[^#]*//1; x; s/#.*//; s/.*/\L&/; s/^[[:space:]]*//i; s/^.*:\/\///i; s/^[.*]*//i; s/^www\.//i; s/[[:space:]].*$/ /i; G; s/(.*)\n/\1/' {} \;
+find ./sources/urls -type f -iname "*.txt" -exec sed -ri 'h; s/[^#]*//1; x; s/#.*//; s/^[[:space:]]*//i; s/^.*:\/\///i; s/^[.*]*//i; s/^www\.//i; s/[[:space:]].*$/ /i; G; s/(.*)\n/\1/' {} \;
 ## Normalize TLDs: lowercases, remove leading spaces and `.`, path ( `/` and after), leave only one space before inline comment (`#`). Keeps comments intact
 find ./sources/tlds -type f -iname "*.txt" -exec sed -ri 'h; s/[^#]*//1; x; s/#.*//; s/.*/\L&/; s/^[[:space:]]*//i; s/^[.*]*//i;  s/\/[^[:space:]]*//i; s/[[:space:]].*$/ /i; G; s/(.*)\n/\1/' {} \;
 
