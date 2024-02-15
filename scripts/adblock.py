@@ -20,4 +20,4 @@ for line in linesheader:
 	print(line.strip())
 print()
 for line in blocklist:
-	print('||' + line.strip() + '^')
+	print('||' + line.strip() + '^$document')
