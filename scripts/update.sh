@@ -52,6 +52,8 @@ python scripts/hosts.py > hosts.txt
 python scripts/hosts_ipv6.py > hosts_ipv6.txt
 ### DNSmasq
 python scripts/dnsmasq.py > dnsmasq.txt
+### pdnsd
+python scripts/pdnsd.py > pdnsd.txt
 
 ## For browser extensions
 ### Adblock
