@@ -47,7 +47,7 @@ This blocklist is left in the [public domain (Do What The Fuck You Want To Publi
 
 ### pdnsd format
 
-[Blocklist in pdnsd format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/pdnsd.txt) to use with the [pdnsd](https://web.archive.org/web/20201203080556/http://members.home.nl/p.a.rombouts/pdnsd/) caching DNS proxy server software.
+[Blocklist in pdnsd format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/pdnsd.txt) to use with the [pdnsd](https://wiki.archlinux.org/title/Pdnsd) caching DNS proxy server software.
 
 ## Fediverse formats
 
