@@ -45,6 +45,10 @@ This blocklist is left in the [public domain (Do What The Fuck You Want To Publi
 
 [Blocklist in Dnsmasq format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/dnsmasq.txt) to use with the [Dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html) DNS server software.
 
+### pdnsd format
+
+[Blocklist in pdnsd format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/pdnsd.txt) to use with the [pdnsd](https://wiki.archlinux.org/title/Pdnsd) caching DNS proxy server software.
+
 ## Fediverse formats
 
 ### Mastodon
