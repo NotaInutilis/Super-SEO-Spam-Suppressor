@@ -1,6 +1,7 @@
-# Super SEO Spam Suppressor
+# Super SEO Spam Suppressor (SSSS[^SSSS])
 
-Super SEO Spam Suppressor (SSSS[^SSSS]) is a domains blocklist of sites abusing SEO tactics to spam web searches with advertisement, empty content (monetized with ads), malware (looking like ads) and generative AI garbage. It is best used with uBlacklist.
+A blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements, malwares, and useless garbage in general.
+It is best used with uBlacklist.
 
 [^SSSS]: It's a Gridman reference. I'm spelling it out because it's also the name of a skin disease: don't go looking for SSSS on image search.
 
@@ -11,7 +12,7 @@ As of now, present day, time of writing year 2024, [it is now scientifically pro
 Do you want to learn about *thing*?
 [How about **buying** *thing* and **consuming** *thing* instead?](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)
 Its drive to commercialize our every online interaction also has consequences on other, much more user friendly search engines such as DuckDuckGo, whose indexers crawl through [shit optimized for Google's terrible algorithm](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization).
-Moreover, generative models are now branded as "AIs" and they suck.
+Plus the latest trend of so-called "artificial intelligence" generative models produces even more garbage at an ever growing pace.
 This list is, as any good adblocking tool is, an attempt to escape this neverending capitalist coercition and attention theft.
 All of the tech giants play this game so consider also using a social media blocklist.
 
