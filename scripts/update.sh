@@ -37,8 +37,8 @@ find ./sources/regex_addresses -type f -iname "*.txt" -exec cat {} \; > ./source
 find ./sources/regex_titles -type f -iname "*.txt" -exec cat {} \; > ./sources/regex_titles.txt
 
 ## Cleanup the lists
-### Remove comments, inline comments, spaces and empty lines
-find ./sources -maxdepth 1 -type f -iname "*.txt" -exec sed -i '/^#/d; s/#.*//; s/ //g; /^ *$/d' {} \;
+### Remove comments, inline comments and empty lines
+find ./sources -maxdepth 1 -type f -iname "*.txt" -exec sed -i '/^#/d; s/#.*//; /^ *$/d' {} \;
 ### Sort and remove duplicates
 find ./sources -maxdepth 1 -type f -iname "*.txt" -exec bash -c '
     sort -u "$0" > "$0_temp.txt";

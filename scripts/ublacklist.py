@@ -29,4 +29,4 @@ for line in blocklist:
 for line in linesreaddresses:
 	print(line.strip())
 for line in linesretitles:
-	print('title/' + line.strip() + '/i')
+	print('title/' + line.strip())
