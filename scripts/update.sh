@@ -31,6 +31,10 @@ find ./sources/domains -type f -iname "*fediverse*.txt" -exec cat {} \; > ./sour
 find ./sources/urls -type f -iname "*.txt" -exec cat {} \; > ./sources/urls.txt
 ### TLDs
 find ./sources/tlds -type f -iname "*.txt" -exec cat {} \; > ./sources/tlds.txt
+### Regex addresses
+find ./sources/regex_addresses -type f -iname "*.txt" -exec cat {} \; > ./sources/regex_addresses.txt
+### Regex titles
+find ./sources/regex_titles -type f -iname "*.txt" -exec cat {} \; > ./sources/regex_titles.txt
 
 ## Cleanup the lists
 ### Remove comments, inline comments, spaces and empty lines
