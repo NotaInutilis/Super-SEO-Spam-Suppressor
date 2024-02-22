@@ -15,10 +15,10 @@ with open("sources/urls.txt", "r") as urls:
 	linesurls = urls.readlines()
 blocklist = linesdomains + linestlds + linesurls
 
-#with open("sources/regex_addresses.txt", "r") as readdresses:
-#	linesreaddresses = titles.readlines()
+with open("sources/regex_addresses.txt", "r") as readdresses:
+	linesreaddresses = readdresses.readlines()
 with open("sources/regex_titles.txt", "r") as retitles:
-	linesretitles = titles.readlines()
+	linesretitles = retitles.readlines()
 
 # Print blocklist
 for line in linesheader:
@@ -26,7 +26,7 @@ for line in linesheader:
 print()
 for line in blocklist:
 	print('*://*.' + line.strip() + '/*')
-#for line in linesreaddresses:
-#	print(line.strip())
+for line in linesreaddresses:
+	print(line.strip())
 for line in linesretitles:
 	print('title/' + line.strip() + '/i')

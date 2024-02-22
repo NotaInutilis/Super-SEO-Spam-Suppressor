@@ -46,7 +46,7 @@ find ./sources -maxdepth 1 -type f -iname "*.txt" -exec bash -c '
 ' {} \;
 
 # Generate blocklists
-§
+
 ## Domains
 python scripts/domains.py > domains.txt
 
