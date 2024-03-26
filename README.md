@@ -131,6 +131,8 @@ This blocklist borrows from the following projects:
 - the [full blocklist](https://github.com/PrincessAkira/ublacklist-ai/blob/main/ublacklist-ai.txt) from PrincessAkira's [ublacklist-ai](https://github.com/PrincessAkira/ublacklist-ai) ([Apache License 2.0](https://github.com/PrincessAkira/ublacklist-ai/blob/main/LICENSE)).
 - the [full blocklist](https://github.com/arosh/ublacklist-github-translation/blob/master/uBlacklist.txt) from arosh's [uBlacklist GitHub Translation](https://github.com/arosh/ublacklist-github-translation) ([CC0 1.0 Universal](https://github.com/arosh/ublacklist-github-translation/blob/master/LICENSE)).
 - the [full blocklist](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/uBlacklist.txt) from arosh's [uBlacklist Stack Overflow Translation](https://github.com/arosh/ublacklist-stackoverflow-translation) ([CC0 1.0 Universal](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/LICENSE)).
+- the [full blocklist](https://codeberg.org/ranmaru22/ublacklist-anti-ai-art-subscription/src/branch/main/list.txt) from ranmaru22's [ublacklist-anti-ai-art-subscription](https://codeberg.org/ranmaru22/ublacklist-anti-ai-art-subscription) (no licence).
+- the [full blocklist](https://github.com/elliotwutingfeng/SpamdexingSites/blob/main/blocklist.txt) from elliotwutingfeng's [Spamdexing Sites](https://github.com/elliotwutingfeng/SpamdexingSites) ([BSD-3-Clause License](https://github.com/elliotwutingfeng/SpamdexingSites/blob/main/LICENSE)).
 
 ## Other useful lists
 
