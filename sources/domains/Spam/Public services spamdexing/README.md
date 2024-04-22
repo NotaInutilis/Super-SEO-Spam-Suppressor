@@ -1,0 +1,1 @@
+Private companies and malicious actors trying to overtake real public services in search results in order to hog public money by providing unneeded and/or poor quality "services".
