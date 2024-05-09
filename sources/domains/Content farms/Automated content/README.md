@@ -1,1 +1,1 @@
-It's all pure content: empty, soulless, about everything at once, yet saying nothing at all. Probably AI automated, the very worst use of WordPress.
+It's all pure content: empty, soulless, about everything at once, yet saying nothing at all. An incoherent mess of articles on a lot of barely related topics. Probably AI automated, the very worst use of WordPress.
