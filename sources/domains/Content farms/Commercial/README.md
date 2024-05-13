@@ -1,0 +1,1 @@
+Slap a blog on that prestashop! It's full of useless and unrelated info but brings click metrics!
