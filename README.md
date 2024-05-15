@@ -135,6 +135,10 @@ This blocklist borrows from the following projects:
 - the [full blocklist](https://github.com/elliotwutingfeng/SpamdexingSites/blob/main/blocklist.txt) from elliotwutingfeng's [Spamdexing Sites](https://github.com/elliotwutingfeng/SpamdexingSites) ([BSD-3-Clause License](https://github.com/elliotwutingfeng/SpamdexingSites/blob/main/LICENSE)).
 - the [full blocklist](https://github.com/pihole-blacklists/blacklists/blob/master/blacklists/dropshipping) from pihole-blacklists' [Pi-hole Blacklists](https://github.com/pihole-blacklists/blacklists) (no licence).
 
+## Fandom (formerly known as Wikia)
+
+[Fandom is bad for a number of reasons](https://www.youtube.com/watch?v=qcfuA_UAz3I), including aggressive SEO tactics and stealing content from its contributors. This list is not blocking its search results, which consistently appear on top of any fan-wiki related request, but instead advises to install extensions such as [Indie Wiki Buddy](https://getindie.wiki/) and [wiki.gg Redirect](https://www.wiki.gg/redirect). These take advantage of these SEO boosted results to replace them with redirection to independent and community owned wikis.
+
 ## Other useful lists
 
 - [Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations): Consider blocking social media and big tech corporations.
