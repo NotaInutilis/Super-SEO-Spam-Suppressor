@@ -29,6 +29,8 @@ find ./sources/domains -type f -iname "*.txt" -exec cat {} \; > ./sources/domain
 find ./sources/domains -type f -iname "*fediverse*.txt" -exec cat {} \; > ./sources/fediverse_domains.txt
 ### URLs
 find ./sources/urls -type f -iname "*.txt" -exec cat {} \; > ./sources/urls.txt
+### Pages
+find ./sources/pages -type f -iname "*.txt" -exec cat {} \; > ./sources/pages.txt
 ### TLDs
 find ./sources/tlds -type f -iname "*.txt" -exec cat {} \; > ./sources/tlds.txt
 ### Regex addresses

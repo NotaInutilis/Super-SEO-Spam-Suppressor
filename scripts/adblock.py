@@ -13,7 +13,9 @@ with open("sources/tlds.txt", "r") as tlds:
 	linestlds = tlds.readlines()
 with open("sources/urls.txt", "r") as urls:
 	linesurls = urls.readlines()
-blocklist = linesdomains + linestlds + linesurls
+with open("sources/pages.txt", "r") as pages:
+	linespages = pages.readlines()
+blocklist = linesdomains + linestlds + linesurls + linespages
 
 # Print blocklist
 for line in linesheader:
