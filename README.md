@@ -1,6 +1,6 @@
 # Super SEO Spam Suppressor (SSSS[^SSSS])
 
-A blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements, malwares, and useless garbage in general.
+An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements, malwares, and useless wasteful garbage in general.
 It is best used with uBlacklist.
 
 [^SSSS]: It's a Gridman reference. I'm spelling it out because it's also the name of a skin disease: don't go looking for SSSS on image search.
@@ -143,3 +143,4 @@ This blocklist borrows from the following projects:
 
 - [Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations): Consider blocking social media and big tech corporations.
 - [ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest): Pinterest is also SEO spamming.
+- [A dove is dumb](https://a.dove.isdumb.one/list.txt): Adobe is bad.
