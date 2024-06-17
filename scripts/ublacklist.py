@@ -3,7 +3,7 @@
 # python ublacklist.py > ublacklist.txt
 
 # Open header
-with open("sources/headers/default.txt", "r") as header:
+with open("sources/headers/ublacklist.txt", "r") as header:
 	linesheader = header.readlines()
 
 # Open blocked formats
