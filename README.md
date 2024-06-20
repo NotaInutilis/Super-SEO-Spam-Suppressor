@@ -119,12 +119,12 @@ Sites to report malicious URLs:
 
 This blocklist borrows from the following projects:
 - the blocklist generation code and readme that I co-wrote for rimu's [No-QAnon](https://github.com/rimu/no-qanon) ([anti-fascist licence](https://github.com/rimu/no-qanon/blob/master/LICENSE.txt)).
-- the [full blocklist](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/dist/other_format/domains/all.txt) from quenhus' [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) ([The Unlicense, public domain](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE)).
+- the [full blocklist](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/dist/other_format/domains/all.txt) from quenhus's [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) ([The Unlicense, public domain](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE)).
 - the [full blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist/blob/master/blocklist.txt) from no-cmyk's [Search Engine Spam Blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist) (no licence).
 - the [full blocklist](https://github.com/franga2000/aliexpress-fake-sites/blob/main/domains.txt) from franga2000's [AliExpress fake site blocker](https://github.com/franga2000/aliexpress-fake-sites) (no licence).
 - the [full blocklist](https://github.com/levitation-opensource/aliexpress-fake-sites/blob/main/domains.txt) from levitation's fork of [AliExpress fake site blocker](https://github.com/levitation-opensource/aliexpress-fake-sites) (no licence).
 - the [full blocklist](https://dl.red.flag.domains/red.flag.domains.txt) from [Red Flag Domains](https://red.flag.domains/) ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
-- the [full blocklist](https://github.com/insomnimus/seo-garbage/blob/main/list.txt) from insomnimus' [seo-garbage](https://github.com/insomnimus/seo-garbage) ([Apache License](https://github.com/insomnimus/seo-garbage/blob/main/LICENSE)).
+- the [full blocklist](https://github.com/insomnimus/seo-garbage/blob/main/list.txt) from insomnimus's [seo-garbage](https://github.com/insomnimus/seo-garbage) ([Apache License](https://github.com/insomnimus/seo-garbage/blob/main/LICENSE)).
 - the [antipup domains](https://github.com/iam-py-test/my_filters_001/blob/main/Alternative%20list%20formats/antipup_domains.txt), [antitypo domains](https://github.com/iam-py-test/my_filters_001/blob/main/Alternative%20list%20formats/antitypo_domains.txt) and [clickbait domains](https://github.com/iam-py-test/my_filters_001/blob/main/Alternative%20list%20formats/clickbait_domains.txt) blocklists from iam-py-test's [my_filters_001](https://github.com/iam-py-test/my_filters_001) ([CC0 1.0 Universal](https://github.com/iam-py-test/my_filters_001/blob/main/LICENSE)).
 - the [full blocklist](https://github.com/LiamDawe/steamdeck_spamblock/blob/main/PLAIN_LIST) from LiamDawe's [steamdeck_spamblock](https://github.com/LiamDawe/steamdeck_spamblock) ([MIT License](https://github.com/LiamDawe/steamdeck_spamblock/blob/main/LICENSE)).
 - the [full blocklist](https://github.com/ite-usagi/ublacklist-noai/blob/main/uBlacklist.txt) from ite-usagi's [ublacklist-noai](https://github.com/ite-usagi/ublacklist-noai) ([MIT License](https://github.com/ite-usagi/ublacklist-noai/blob/main/LICENSE)).
@@ -133,7 +133,8 @@ This blocklist borrows from the following projects:
 - the [full blocklist](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/uBlacklist.txt) from arosh's [uBlacklist Stack Overflow Translation](https://github.com/arosh/ublacklist-stackoverflow-translation) ([CC0 1.0 Universal](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/LICENSE)).
 - the [full blocklist](https://codeberg.org/ranmaru22/ublacklist-anti-ai-art-subscription/src/branch/main/list.txt) from ranmaru22's [ublacklist-anti-ai-art-subscription](https://codeberg.org/ranmaru22/ublacklist-anti-ai-art-subscription) (no licence).
 - the [full blocklist](https://github.com/elliotwutingfeng/SpamdexingSites/blob/main/blocklist.txt) from elliotwutingfeng's [Spamdexing Sites](https://github.com/elliotwutingfeng/SpamdexingSites) ([BSD-3-Clause License](https://github.com/elliotwutingfeng/SpamdexingSites/blob/main/LICENSE)).
-- the [full blocklist](https://github.com/pihole-blacklists/blacklists/blob/master/blacklists/dropshipping) from pihole-blacklists' [Pi-hole Blacklists](https://github.com/pihole-blacklists/blacklists) (no licence).
+- the [full blocklist](https://github.com/pihole-blacklists/blacklists/blob/master/blacklists/dropshipping) from pihole-blacklists's [Pi-hole Blacklists](https://github.com/pihole-blacklists/blacklists) (no licence).
+- the [hosts blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/noai_hosts.txt) from laylavish's [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) (no licence).
 
 ## Fandom (formerly known as Wikia)
 
@@ -141,6 +142,7 @@ This blocklist borrows from the following projects:
 
 ## Other useful lists
 
+- [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): a *very* exhaustive AI blocklist with a lot of entries that I'm not yet able to import in SSSS.
+- [ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest): I hate Pinterest.
+- [A dove is dumb](https://a.dove.isdumb.one/list.txt): Adobe hates you.
 - [Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations): Consider blocking social media and big tech corporations.
-- [ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest): Pinterest is also SEO spamming.
-- [A dove is dumb](https://a.dove.isdumb.one/list.txt): Adobe is bad.
