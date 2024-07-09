@@ -18,10 +18,12 @@ blocklist = linesdomains + linestlds + linesurls
 with open("sources/pages.txt", "r") as pages:
 	linespages = pages.readlines()
 
-with open("sources/regex_addresses.txt", "r") as readdresses:
-	linesreaddresses = readdresses.readlines()
-with open("sources/regex_titles.txt", "r") as retitles:
-	linesretitles = retitles.readlines()
+
+with open("sources/titles.txt", "r") as titles:
+	linestitles = titles.readlines()
+
+with open("sources/regex.txt", "r") as regex:
+	linesregex = regex.readlines()
 
 # Print blocklist
 for line in linesheader:
@@ -31,7 +33,7 @@ for line in blocklist:
 	print('*://*.' + line.strip() + '/*')
 for line in linespages:
 	print('*://*.' + line.strip() + '*')
-for line in linesreaddresses:
+for line in linestitles:
+	print('title *= "' + line.strip() + '" i')
+for line in linesregex:
 	print(line.strip())
-for line in linesretitles:
-	print('title' + line.strip())

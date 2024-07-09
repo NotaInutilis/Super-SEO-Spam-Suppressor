@@ -1,1 +1,0 @@
-https://iorate.github.io/ublacklist/docs/advanced-features#regular-expressions-for-page-titles
