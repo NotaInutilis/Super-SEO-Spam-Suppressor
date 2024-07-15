@@ -18,7 +18,6 @@ blocklist = linesdomains + linestlds + linesurls
 with open("sources/pages.txt", "r") as pages:
 	linespages = pages.readlines()
 
-
 with open("sources/titles.txt", "r") as titles:
 	linestitles = titles.readlines()
 
