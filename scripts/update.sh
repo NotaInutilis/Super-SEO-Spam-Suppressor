@@ -33,10 +33,10 @@ find ./sources/urls -type f -iname "*.txt" -exec cat {} \; > ./sources/urls.txt
 find ./sources/pages -type f -iname "*.txt" -exec cat {} \; > ./sources/pages.txt
 ### TLDs
 find ./sources/tlds -type f -iname "*.txt" -exec cat {} \; > ./sources/tlds.txt
-### Regex addresses
-find ./sources/regex_addresses -type f -iname "*.txt" -exec cat {} \; > ./sources/regex_addresses.txt
-### Regex titles
-find ./sources/regex_titles -type f -iname "*.txt" -exec cat {} \; > ./sources/regex_titles.txt
+### Titles
+find ./sources/titles -type f -iname "*.txt" -exec cat {} \; > ./sources/titles.txt
+### Regex
+find ./sources/regex -type f -iname "*.txt" -exec cat {} \; > ./sources/regex.txt
 
 ## Cleanup the lists
 ### Remove comments, inline comments and empty lines
