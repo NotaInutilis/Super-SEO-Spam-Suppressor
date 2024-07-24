@@ -1,6 +1,6 @@
 # Super SEO Spam Suppressor (SSSS[^SSSS])
 
-An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements, malwares, and useless wasteful garbage in general.
+An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: junk news, content farms, scams, impersonations, fads and bubbles (Web3 or genAI), and all other kinds of useless wasteful garbage.
 It is best used with uBlacklist.
 
 [^SSSS]: It's a Gridman reference. I'm spelling it out because it's also the name of a skin disease: don't go looking for SSSS on image search.
