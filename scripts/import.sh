@@ -12,7 +12,7 @@ cp -a ./sources/imports/original/. ./sources/imports/modified/
 
 # Cleanup imported sources
 ## Special cleanup for imported sources of other formats (match, hosts, AdBlock, etc.)
-find ./sources/imports/modified -type f -iname "*.txt" -exec sed -ri 's/^\*\:\/\///i; s/^\*\.//i; s/^0\.0\.0\.0[[:space:]]*//i; s/^[^#[:alnum:]]/#&/' {} \;
+find ./sources/imports/modified -type f -iname "*.txt" -exec sed -ri 's/^\*\:\/\///i; s/^\*\.//i; s/^0\.0\.0\.0[[:space:]]*//i; s/^127\.0\.0\.1[[:space:]]*//i; s/^255\.255\.255\.255[[:space:]]*//i; s/^\:\:1[[:space:]]*//i; s/^fe80\:\:1\%lo0[[:space:]]*//i; s/^[[:space:]]*localhost[[:space:]]*$//i; s/^[[:space:]]*localhost.localdomain[[:space:]]*$//i; s/^[[:space:]]*local[[:space:]]*$//i; s/^[[:space:]]*broadcasthost[[:space:]]*$//i; s/^[^#[:alnum:]]/#&/' {} \;
 ## Normalize domains: lowercases, remove leading spaces, protocol (`x://`), `www.` subdomains, path ( `/` and after), leave only one space before inline comment (`#`). Keeps comments intact
 # (same code in update.sh)
 find ./sources/imports/modified -type f -iname "*.txt" -exec sed -ri 'h; s/[^#]*//1; x; s/#.*//; s/.*/\L&/; s/^[[:space:]]*//i; s/^.*:\/\///i; s/^[.*]*//i; s/^www\.//i; s/\/[^[:space:]]*//i; s/[[:space:]].*$/ /i; G; s/(.*)\n/\1/' {} \;
