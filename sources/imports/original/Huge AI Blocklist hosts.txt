@@ -555,6 +555,9 @@
 0.0.0.0 copilot.github.com
 0.0.0.0 ubrand.com
 0.0.0.0 amhuru.com
+0.0.0.0 aixstock.com
+0.0.0.0 pictorem.com
+0.0.0.0 oksuro.com
 
 
 # [.art sites]
@@ -1000,6 +1003,7 @@
 0.0.0.0 samurai-gamers.com
 0.0.0.0 zleague.gg
 0.0.0.0 dinosaur.org
+0.0.0.0 disciplines.ng
 
 
 #### www. ver
@@ -1543,6 +1547,9 @@
 0.0.0.0 www.copilot.github.com
 0.0.0.0 www.ubrand.com
 0.0.0.0 www.amhuru.com
+0.0.0.0 www.aixstock.com
+0.0.0.0 www.pictorem.com
+0.0.0.0 www.oksuro.com
 
 
 # [.art sites]
@@ -1988,3 +1995,4 @@
 0.0.0.0 www.samurai-gamers.com
 0.0.0.0 www.zleague.gg
 0.0.0.0 www.dinosaur.org
+0.0.0.0 www.disciplines.ng
