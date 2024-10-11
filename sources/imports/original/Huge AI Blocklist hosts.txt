@@ -562,6 +562,9 @@
 0.0.0.0 oksuro.com
 0.0.0.0 promptden.com
 0.0.0.0 photoai.com
+0.0.0.0 stockcake.com
+0.0.0.0 aiscribbles.com
+0.0.0.0 frequentart.myportfolio.com
 
 
 # [.art sites]
@@ -827,6 +830,8 @@
 0.0.0.0 fluxai.dev
 0.0.0.0 flux-ai.io
 0.0.0.0 aiimagegenerator.is
+0.0.0.0 musesai.io
+0.0.0.0 promptstock.photos
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1563,6 +1568,9 @@
 0.0.0.0 www.oksuro.com
 0.0.0.0 www.promptden.com
 0.0.0.0 www.photoai.com
+0.0.0.0 www.stockcake.com
+0.0.0.0 www.aiscribbles.com
+0.0.0.0 www.frequentart.myportfolio.com
 
 
 # [.art sites]
@@ -1828,6 +1836,8 @@
 0.0.0.0 www.fluxai.dev
 0.0.0.0 www.flux-ai.io
 0.0.0.0 www.aiimagegenerator.is
+0.0.0.0 www.musesai.io
+0.0.0.0 www.promptstock.photos
 
 
 # [AI Projects Hosted on Other Sites]
