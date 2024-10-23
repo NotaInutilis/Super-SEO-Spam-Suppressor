@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Oct 2024 22:47 UTC
-# Version: 2024.1021.2247.49
+# Last modified: 22 Oct 2024 22:50 UTC
+# Version: 2024.1022.2250.27
 # Syntax: Domains (without subdomains)
-# Number of entries: 12230
+# Number of entries: 12236
 #
 01crypto.com
 1-stud.net
@@ -43,6 +43,7 @@ eu.2bagsvalley.cn
 3d-printing.store
 3racingparts.com
 3w-verlag.de
+4k-smart.com
 4living.at
 4rxofficial.com
 5-drugs.com
@@ -737,14 +738,11 @@ autoreifen-brand.shop
 autoreifen-eberle.shop
 autoreifen-feldmann.com
 autoreifen-frenzel.com
-autoreifen-geyer.com
 autoreifen-herzog.com
 autoreifen-horn.com
 autoreifen-jansen.com
 autoreifen-kahl.com
 autoreifen-kessler.com
-autoreifen-kilian.com
-autoreifen-miller.com
 autoreifen-moll.shop
 autoreifen-noll.shop
 autoreifen-peter.shop
@@ -847,6 +845,7 @@ babystore.life
 babytoysangebote.de
 babywarepromo.com
 baccocapital.pro
+bacedic.com
 bachmann-handel.de
 backen-shop.com
 backformen-shop.com
@@ -1151,6 +1150,8 @@ bestoil24.de
 bestpharmstore.top
 bestpillservice.com
 bestpillsnetwork.com
+bestpriceremedies.com
+bestpricetreatments.com
 bestproaspect.com
 bestproshopping.com
 bestreliableremedies.com
@@ -1257,6 +1258,7 @@ bikes-maintenance.com
 bikesequipment.com
 bikesget.com
 bikeshockabsorberde.com
+bikesiteopt.com
 bikesonlinesale.com
 biketaillightsde.com
 biketireskit.com
@@ -1299,7 +1301,6 @@ binaritrading.com
 binarush.com
 binarycent.com
 binarylowcost.com
-binarymate.com
 binarystockmarket.com
 binatex.com
 bindado.de
@@ -1318,6 +1319,7 @@ biologischestation.de
 bioluxgmbh.com
 bionaturkosmetik.com
 biopelletis.com
+biranco.com
 birdtalkforum.com
 birgit-hamburg.de
 birken-online.com
@@ -2634,6 +2636,7 @@ demoniajapan.com
 demoniaonlineshop.com
 demoniaportugal.com
 demoniaromania.com
+demoniaschuhe.de
 demoniashoesnorge.com
 demoniastiefel.de
 demoniasuomi.com
@@ -3015,6 +3018,7 @@ easyca.ca
 easycrypto4u.com
 easyfiles.io
 easyoil24.de
+easyrueo.com
 easyxp.com
 eatathome.de
 eatenet-tech.de
@@ -3025,7 +3029,6 @@ ebashop.store
 ebaydw.com
 ebaydw.xyz
 eberhard-versand.de
-ebert-autoreifen.com
 eberwein-versand.de
 ebike-center-sued.de
 ebike-express.de
@@ -3453,6 +3456,7 @@ eusuperstores.com
 euvalentinogaravani.de
 euwerkzeugwartung.de
 ev-farm.com
+evagelidis.com
 evannexde.shop
 evbam.com
 evelo.shop
@@ -3778,6 +3782,7 @@ fine2buy.com
 fineobermeyer.com
 fineonlinesale.com
 finest-rctoy.com
+finest-tool.com
 finestmotion.com
 finestsurf.com
 finestussport.com
@@ -4025,7 +4030,6 @@ fruechtepfluecken.ch
 ftmtrade.co
 ftsefx.net
 fu-ostholstein.de
-fuchs-reifen.com
 fuchs-versandhaus.de
 fuechsefussball.de
 fuehrungszeugnis.at
@@ -4382,6 +4386,7 @@ gforesuomi.com
 gforesuomi.net
 gftrades.com
 gfxroyal.com
+ggoote.site
 gh-versand.com
 ghfreight.net
 ghjmtt.com
@@ -4410,7 +4415,6 @@ giscapital.world
 giselablohm.de
 glamkraze.shop
 glamorousoutfit.com
-glaser-reifenhandel.com
 glassesde.com
 glemory.com
 glennauto.shop
@@ -4528,6 +4532,7 @@ gorobo.de
 gotrixa.de
 gourmandebusy.com
 goviva-kaffee.de
+goyardnn.com
 shoptr2.gpec-bd.org
 gplate.de
 gpt-chatt.com
@@ -4717,7 +4722,6 @@ hackettlondonde.com
 haden.at
 hafenchor-essen.de
 hagedornmode.de
-hagen-reifen.com
 hagenbeck.store
 haglofsoutletsuomi.com
 hagomann.de
@@ -5250,6 +5254,7 @@ htsmarketpro.com
 httmotorde.shop
 hubcitysale.com
 hubhockey.com
+hubokaytool.com
 hubusfashion.com
 hudejos.de
 hudsonbathing.com
@@ -5420,6 +5425,7 @@ imperial-musicstore.de
 imperio-hamburg.de
 import-export.website
 importcapital.cc
+impruneta.de
 impulsa.shopping
 imrato.com
 in-sachen-garten24.de
@@ -6273,7 +6279,6 @@ lemonfi.shop
 lemonishop.shop
 lempirecrypto.com
 lemsdeutschland.com
-lemsschuhe.at
 lemsschuhedeutschland.de
 lenastorees.com
 lennegrund-tech.de
@@ -6768,6 +6773,7 @@ maxvela.shop
 maxwellwilliamshop.com
 mayapartde.shop
 mayhemfinancial.com
+mayr-reifen.com
 mayrhofen-hotels.at
 mayrundistribution.com
 mbel-setsprize.com
@@ -7007,7 +7013,6 @@ mission-marketing-gmbh.de
 missmede.shop
 missomajewellery.com
 misterhaushalt.de
-misterlamp.de
 miswimbest.com
 mitkindundrad.de
 mitsuielectronics.com
@@ -7855,6 +7860,7 @@ onrunningwien.at
 onsale-lampen.com
 onsalecomp.com
 onsaledevice.com
+onsaledibtool.com
 onsalefashionshoe.com
 onsalehousehold.com
 onsalemower.com
@@ -7895,6 +7901,7 @@ optbagsite.com
 optcamp.com
 optessentialoils.com
 optfurniture.com
+optimal-device.com
 optimalattire.com
 optimalskis.com
 optimarkets.com
@@ -8511,7 +8518,6 @@ premierneu.shop
 premison.de
 premium-heizoel.de
 premium-tools-sales.com
-premiumfeuer.com
 premiuminvestclub.com
 premiumpillservice.com
 premiumpricepills.com
@@ -8618,6 +8624,7 @@ psycho-bunny.at
 psychobunnydeutschland.com
 ptdaily.eu
 pthipv.com
+ptoopen.com
 pts-personal.de
 pubcrawl.at
 puenktchenyoga.de
@@ -8872,7 +8879,6 @@ regtek-kauf.de
 rehaubrandstore.com
 reichwahl.de
 reifen-discounter24.de
-reifen-engels.com
 reifen-faber.com
 reifen-finke.com
 reifen-fleischmann.com
@@ -8881,10 +8887,9 @@ reifen-graf.com
 reifen-haase.com
 reifen-haupt.com
 reifen-hecht.com
-reifen-heinze.com
-reifen-hummel.com
 reifen-karl.com
 reifen-metz.com
+reifen-pape.com
 reifen-reichelt.com
 reifen-schneider24.com
 reifen-stumpf.com
@@ -8896,12 +8901,10 @@ reifenhandel-brandl.com
 reifenhandel-dietrich.com
 reifenhandel-eberhardt.shop
 reifenhandel-eggert.shop
-reifenhandel-erdmann.com
 reifenhandel-freitag.com
 reifenhandel-fritz.shop
 reifenhandel-herrmann.shop
 reifenhandel-hinz.shop
-reifenhandel-hummel.com
 reifenhandel-jordan.shop
 reifenhandel-keil.com
 reifenhandel-kellner.com
@@ -8924,7 +8927,6 @@ reifenversand-fritsch.com
 reifenversand-gerber.com
 reifenversand-hanke.com
 reifenversand-hauser.shop
-reifenversand-hausmann.com
 reifenversand-hermann.com
 reifenversand-hoppe.com
 reifenversand-kaufmann.com
@@ -9534,6 +9536,7 @@ sejal-artos.com
 sektglaser.com
 select-football.com
 selectedmedsonline.com
+selectedtabsonline.com
 selfridges-work.com
 sellercenter.shop
 sellerclothing.com
@@ -10112,6 +10115,7 @@ starwarslover.com
 statehills.com
 stationeryopt.com
 stationerythe.com
+stationsparty.de
 staubsauger-deals.com
 staubsauger-spar-deals.com
 staubsaugerhaus.de
@@ -11191,6 +11195,7 @@ pandoracharms.uk.com
 yeezy.uk.com
 yeezy350.uk.com
 yeezys.uk.com
+uk-tweed-jackets.com
 ukactivestyle.com
 ukouaw88.online
 ulikeu.top
@@ -11794,6 +11799,7 @@ weihnachtstassenstore.com
 weile-tech.de
 weimar-wedding.de
 weimmer.de
+wein-vip.shop
 weinbergmunchen.de
 weindorf-lonsheim.de
 weinemotionen.de
@@ -11850,7 +11856,6 @@ westhillcapital.pro
 westickers.com
 wetan24.de
 wethioproperties.com
-wetryharde.com
 wetsuitus.com
 wetting.de
 whansurflead.com
@@ -12121,7 +12126,6 @@ ydconsultant.com
 ydmenstyle.com
 years-offers.com
 yeezy.at
-yeezy-450.com
 yeezyadidas.de
 yeezybelgique.com
 yeezyberlin.de
@@ -12132,6 +12136,7 @@ yelars.de
 yem.foundation
 yilexin.shop
 yimbers.de
+yndrm.bio
 yoga-go.io
 yogaathleta.de
 yogabaum.at
@@ -12187,6 +12192,7 @@ zeoption.com
 zeroplay.de
 zetko-waren.com
 zetko-waren.de
+app.zety.de
 zhrtasarimf.shop
 zidnjlamp.com
 zigaretten-bestellen.net
