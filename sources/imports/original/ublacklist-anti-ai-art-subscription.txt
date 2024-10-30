@@ -202,7 +202,7 @@
 *://*.drip.art/*
 *://*.dsjs.art/*
 *://*.easy-peasy.ai/*
-*://ebank.nz/*
+*://*.ebank.nz/*
 *://*.ebsynth.com/*
 *://*.echo.win/*
 *://*.eightify.app/*
@@ -290,6 +290,7 @@
 *://*.inworld.ai/*
 *://*.ipic.ai/*
 *://*.irmoai.com/*
+*://*.ishencai.com/*
 *://*.jacting.com/*
 *://*.jasper.ai/*
 *://*.jasper.art/*
@@ -339,7 +340,7 @@
 *://*.maket.ai/*
 *://*.mancoding.com/*
 *://*.manytools.ai/*
-*://*.mascots.ai/
+*://*.mascots.ai/*
 *://*.masterpiecestudio.com/*
 *://*.medium.com/generative-ai/*
 *://*.meeting.ai/*
@@ -431,6 +432,7 @@
 *://*.productscope.ai/*
 *://*.profilepicture.ai/*
 *://*.promeai.com/*
+*://*.promeai.pro/*
 *://*.promptbase.com/*
 *://*.promptchan.ai/*
 *://*.prompthero.com/*
