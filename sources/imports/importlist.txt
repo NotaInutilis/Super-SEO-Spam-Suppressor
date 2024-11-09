@@ -18,3 +18,6 @@ SpamdexingSites.txt|https://raw.githubusercontent.com/elliotwutingfeng/Spamdexin
 pihole-blacklists dropshipping.txt|https://raw.githubusercontent.com/pihole-blacklists/blacklists/master/blacklists/dropshipping
 Huge AI Blocklist hosts.txt|https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/noai_hosts.txt
 Fake.txt|https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
+Bad referrers NGINX Ultimate Bad Bots Blocker.txt|https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/refs/heads/master/_generator_lists/bad-referrers.list
+Bad referrers Apache Ultimate Bad Bots Blocker.txt|https://raw.githubusercontent.com/mitchellkrogza/apache-ultimate-bad-bot-blocker/refs/heads/master/_generator_lists/bad-referrers.list
+
