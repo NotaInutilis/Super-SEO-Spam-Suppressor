@@ -136,8 +136,6 @@ This blocklist borrows from the following projects:
 - the [full blocklist](https://github.com/pihole-blacklists/blacklists/blob/master/blacklists/dropshipping) from pihole-blacklists's [Pi-hole Blacklists](https://github.com/pihole-blacklists/blacklists) (no licence).
 - the [hosts blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/noai_hosts.txt) from laylavish's [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) (no licence).
 - the [fake (wildcard domains) blocklist](https://github.com/hagezi/dns-blocklists/blob/main/wildcard/fake-onlydomains.txt) from hagezi's [DNS Blocklists](https://github.com/hagezi/dns-blocklists) ([GNU General Public License v3.0](https://github.com/hagezi/dns-blocklists/blob/main/LICENSE))
-- the [bad referrers list](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/_generator_lists/bad-referrers.list) from mitchellkrogza's [NGINX Ultimate Bad Bots Blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) ([MIT Licence](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/LICENSE.md))
-- the [bad referrers list](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker/blob/master/_generator_lists/bad-referrers.list) from mitchellkrogza's [Apache Ultimate Bad Bots Blocker](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker) ([MIT Licence](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker/blob/master/LICENSE.md))
 
 ## Fandom (formerly known as Wikia)
 
