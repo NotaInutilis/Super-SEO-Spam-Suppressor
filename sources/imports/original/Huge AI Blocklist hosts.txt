@@ -331,6 +331,7 @@
 0.0.0.0 dzine.ai
 0.0.0.0 decohere.ai
 0.0.0.0 myninja.ai
+0.0.0.0 thedream.ai
 
 
 # [.com sites]
@@ -598,6 +599,9 @@
 0.0.0.0 laprompt.com
 0.0.0.0 fluxaistudio.com
 0.0.0.0 tusiart.com
+0.0.0.0 artificialpaintings.com
+0.0.0.0 insertface.com
+0.0.0.0 dungeonsanddragonsfan.com
 
 
 # [.art sites]
@@ -1062,6 +1066,7 @@
 0.0.0.0 dinosaur.org
 0.0.0.0 disciplines.ng
 0.0.0.0 nucleovisual.com
+0.0.0.0 fullbloomclub.net
 
 
 #### www. ver
@@ -1381,6 +1386,7 @@
 0.0.0.0 www.dzine.ai
 0.0.0.0 www.decohere.ai
 0.0.0.0 www.myninja.ai
+0.0.0.0 www.thedream.ai
 
 
 # [.com sites]
@@ -1648,6 +1654,9 @@
 0.0.0.0 www.laprompt.com
 0.0.0.0 www.fluxaistudio.com
 0.0.0.0 www.tusiart.com
+0.0.0.0 www.artificialpaintings.com
+0.0.0.0 www.insertface.com
+0.0.0.0 www.dungeonsanddragonsfan.com
 
 
 # [.art sites]
@@ -2109,3 +2118,4 @@
 0.0.0.0 www.dinosaur.org
 0.0.0.0 www.disciplines.ng
 0.0.0.0 www.nucleovisual.com
+0.0.0.0 www.fullbloomclub.net
