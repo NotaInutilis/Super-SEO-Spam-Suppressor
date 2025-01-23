@@ -1,1 +1,1 @@
-Poor quality news sites and blogs.
+Clickbait, poor writing that is often publish by an ad company.
