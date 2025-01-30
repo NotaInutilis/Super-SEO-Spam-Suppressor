@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Jan 2025 11:49 UTC
-# Version: 2025.0129.1149.29
+# Last modified: 29 Jan 2025 23:48 UTC
+# Version: 2025.0129.2348.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 10596
+# Number of entries: 10597
 #
 01crypto.com
 1-stud.net
@@ -6261,7 +6261,6 @@ motorrad-2023.com
 motorrad-levy-elsa.com
 motorrad70.com
 motorraderhelme.de
-motorraders.de
 motorsensen-shop.com
 motzenerdistribution.com
 motzkus-sport24.de
@@ -6821,6 +6820,7 @@ onlinekamagrastore.org
 onlinekmnwi.com
 onlinekuche.com
 onlineladywear.com
+app.onlinelebenslauf.com
 onlinemaripe.com
 onlinemensdenim.com
 onlinemotorrad.com
@@ -10563,6 +10563,7 @@ zerogrid.shop
 zesavi-tech.de
 zetko-waren.com
 zetko-waren.de
+app.zety.de
 zhrtasarimf.shop
 zicklerbrennholz.de
 zidnjlamp.com
