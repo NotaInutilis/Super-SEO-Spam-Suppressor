@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Feb 2025 11:53 UTC
-# Version: 2025.0210.1153.08
+# Last modified: 10 Feb 2025 23:48 UTC
+# Version: 2025.0210.2348.10
 # Syntax: Domains (without subdomains)
 # Number of entries: 10581
 #
@@ -5911,6 +5911,7 @@ medilifescience.com
 medimaxkontakt.de
 medimaxstore.de
 medina24.de
+medrezeptfrei.com
 meds-store-24h.com
 meds-tabs.com
 medshopcpl.com
@@ -6733,7 +6734,6 @@ olemusik-shop.de
 olfanew.com
 olivespielzeug.com
 oliviachic.com
-olukai-france.fr
 olympicsvipshop.com
 olympis.de
 ome2.vip
