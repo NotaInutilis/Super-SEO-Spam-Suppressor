@@ -137,6 +137,7 @@ This blocklist borrows from the following projects:
 - the [hosts blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/noai_hosts.txt) from laylavish's [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) (no licence).
 - the [fake (wildcard domains) blocklist](https://github.com/hagezi/dns-blocklists/blob/main/wildcard/fake-onlydomains.txt) from hagezi's [DNS Blocklists](https://github.com/hagezi/dns-blocklists) ([GNU General Public License v3.0](https://github.com/hagezi/dns-blocklists/blob/main/LICENSE))
 - the [Anti-Malware Domains blocklist](https://github.com/DandelionSprout/adfilt/blob/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt) from DandelionSprout's [adfilt](https://github.com/DandelionSprout/adfilt) ([Dandelicence](https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md)).
+- the [full plus domains blocklist](https://github.com/fmhy/FMHYFilterlist/blob/main/filterlist-domains.txt) from fmhy's FMHY [Filterlist](https://github.com/fmhy/FMHYFilterlist) ([GNU General Public License v3.0](https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE))
 
 ## Fandom (formerly known as Wikia)
 

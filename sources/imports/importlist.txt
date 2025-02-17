@@ -19,4 +19,4 @@ pihole-blacklists dropshipping.txt|https://raw.githubusercontent.com/pihole-blac
 Huge AI Blocklist hosts.txt|https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/noai_hosts.txt
 Fake.txt|https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
 Anti Malware Domains.txt|https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt
-
+FMHY domains plus.txt|https://raw.githubusercontent.com/fmhy/FMHYFilterlist/refs/heads/main/filterlist-domains.txt
