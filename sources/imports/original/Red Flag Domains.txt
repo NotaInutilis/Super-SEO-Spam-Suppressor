@@ -1,4 +1,4 @@
-#last-update:2025-02-15
+#last-update:2025-02-16
 000webhostapp.fr
 000webhost.fr
 01labanquepostale.fr
@@ -1717,6 +1717,7 @@ ameli-demarches.fr
 ameli-docs.fr
 ameli-donnee-secure.fr
 ameli-dossier73638.fr
+ameli-dossier-cartevitale.fr
 ameli-dossier-client.fr
 ameli-dossier.fr
 ameli-dossier-patient.fr
@@ -12905,6 +12906,7 @@ information-livraison.fr
 information-macartevitale.fr
 information-netflix.fr
 information-personnel.fr
+information-prime.fr
 information-redirection.fr
 information-regulariser.fr
 information-retard-redistrubution.fr
@@ -12928,6 +12930,7 @@ informations-netflix.fr
 information-societegenerale.fr
 informations-paiement.fr
 informationspaypal.fr
+informations-prime.fr
 informations-relais.fr
 informations-sante.fr
 informations-secu.fr
@@ -13151,6 +13154,7 @@ infosseccvitale.fr
 infos-secure-vitale.fr
 infossecuritevitale.fr
 infossecuvitale.fr
+infos-service-relay.fr
 infosservicesantevitale.fr
 infos-sfr.fr
 infos-stationnement.fr
@@ -15433,7 +15437,9 @@ mammut-france.fr
 mammutoutlet.fr
 mamtut.fr
 mamutuellemgen.fr
+management-prime.fr
 manage-netflix.fr
+manage-prime.fr
 manage-primevideo.fr
 manamano.fr
 manazon.fr
@@ -19169,6 +19175,7 @@ pha2mazo.fr
 pharmacie2000-caen.fr
 pharmacie-ameli.fr
 pharmacieandrein.fr
+pharmacieaurelien-saintraphael.fr
 pharmaciebastide-servian.fr
 pharmacieboieldieu.fr
 pharmaciebremond-manosque.fr
@@ -19181,7 +19188,9 @@ pharmaciedebeure.fr
 pharmaciedecereste.fr
 pharmacie-de-guyenne.fr
 pharmaciedelamphore.fr
+pharmaciedelaplace-les-andelys.fr
 pharmaciedelaplage-cavalaire.fr
+pharmaciedelaposte-belfort.fr
 pharmaciedelepine.fr
 pharmaciedemedis.fr
 pharmaciedemouleydier.fr
@@ -19197,6 +19206,7 @@ pharmaciedesson.fr
 pharmaciedesstades-lourdes.fr
 pharmaciedestroissapins-thann.fr
 pharmaciedesvallees.fr
+pharmaciedevezenobres.fr
 pharmaciedirect.fr
 pharmacieducasino.fr
 pharmacieducolombier.fr
@@ -19215,6 +19225,7 @@ pharmaciegenilac.fr
 pharmaciegounod-nice.fr
 pharmaciegranderue-vaison.fr
 pharmacie-gratte-ciel.fr
+pharmaciekiehl-meyer-valdemoder.fr
 pharmacielacombebourdinaud.fr
 pharmacielebrunmarc.fr
 pharmacie-leforestier-aigrefeuillesurmaine.fr
@@ -19231,9 +19242,11 @@ pharmacieprincipale-gardanne.fr
 pharmaciesaintferreol.fr
 pharmaciesaintgenes.fr
 pharmaciesaintjean-ajaccio.fr
+pharmaciesaintmichel-strasbourg.fr
 pharmacie-sterling.fr
 pharmaciethomas-guillers.fr
 pharmaciethurin.fr
+pharmacieuhlmann-vesoul.fr
 pharmacieumbricht.fr
 pharmacievancappel.fr
 pharmacievittouris.fr
@@ -19740,6 +19753,8 @@ prime-gestion.fr
 primegestion.fr
 primegroup.fr
 primehdtv.fr
+prime-information.fr
+prime-informations.fr
 prime-infos.fr
 prime-inscription.fr
 primeiptvservice.fr
@@ -19747,6 +19762,8 @@ prime-livraison.fr
 primelivraison.fr
 prime-login.fr
 primelogin.fr
+prime-manage.fr
+prime-management.fr
 primeminister.fr
 prime-modif.fr
 prime-modification.fr
@@ -19760,6 +19777,7 @@ prime-primevideo.fr
 prime-privacy.fr
 prime-reclamation.fr
 primereclamation.fr
+prime-reglages.fr
 prime-renew.fr
 primerenew.fr
 prime-renouvellement.fr
@@ -20342,6 +20360,7 @@ registre-clients-compte.fr
 registre-compte-clients.fr
 registre-cpam.fr
 registre-votrecartevitale.fr
+reglages-prime.fr
 reglement-amande.fr
 reglement-amandegouv.fr
 reglement-amandesgouv.fr
