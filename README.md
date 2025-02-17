@@ -141,11 +141,14 @@ This blocklist borrows from the following projects:
 
 ## Fandom (formerly known as Wikia)
 
-[Fandom is bad for a number of reasons](https://www.youtube.com/watch?v=qcfuA_UAz3I), including aggressive SEO tactics and stealing content from its contributors. This list is not blocking its search results, which consistently appear on top of any fan-wiki related request, but instead advises to install extensions such as [Indie Wiki Buddy](https://getindie.wiki/) and [wiki.gg Redirect](https://www.wiki.gg/redirect). These take advantage of these SEO boosted results to replace them with redirection to independent and community owned wikis.
+[Fandom is bad for a number of reasons](https://www.youtube.com/watch?v=qcfuA_UAz3I), including aggressive SEO tactics and stealing content from its contributors.
+This list is not blocking its search results, which consistently appear on top of any fan-wiki related request, but instead advises to install extensions such as [Indie Wiki Buddy](https://getindie.wiki/) and [wiki.gg Redirect](https://www.wiki.gg/redirect). These take advantage of these SEO boosted results to replace them with redirection to independent and community owned wikis.
 
-## Other useful lists
+## Recommended lists and projects
 
 - [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): a *very* exhaustive AI blocklist with a lot of entries that I'm not yet able to import in SSSS.
 - [ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest): I hate Pinterest.
 - [A dove is dumb](https://a.dove.isdumb.one/list.txt): Adobe hates you.
 - [Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations): Consider blocking social media and big tech corporations.
+- [FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard): Alerts on risky sites if they're not blocked already.
+- [Alerte sur les sites GenAI](https://next.ink/164873/outils-next-une-extension-chrome-et-firefox-pour-etre-alerte-des-sites-genai/): Alertes sur le sites en IA pourris si ils ne sont pas déjà bloqués.
