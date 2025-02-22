@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Feb 2025 12:02 UTC
-# Version: 2025.0221.1202.19
+# Last modified: 22 Feb 2025 00:31 UTC
+# Version: 2025.0222.0031.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 10892
+# Number of entries: 10893
 #
 01crypto.com
 1-stud.net
@@ -441,7 +441,6 @@ annafieldshop.fr
 annafieldwien.at
 annawelpen.de
 annebarot.com
-annelieholmen.com
 annelore.shop
 annenowakwelpen.de
 anneschilk.com
@@ -713,6 +712,9 @@ awccanadianpharmacy.org
 awirer.com
 axa-europe-patrimoine.com
 axa-gestion.com
+axacoins.com
+axaimarketfx.com
+axatechviewou.com
 axelarigatojapan.net
 axelarigatomilano.it
 axelarigatooslo.com
@@ -1457,6 +1459,7 @@ brueggen-handel.de
 bruland.store
 brunateschuhewerksverkauf.de
 brunetsludmila.com
+bs2best.at
 bse-capital.com
 bskinenvide.shop
 bsm-consulting.de
@@ -10414,7 +10417,6 @@ vorzeltede.com
 votezerro.com
 vrtil.com
 vswatches.net
-vtmarkets.net
 eu.vtmarkets.com
 vtmarketsfr.com
 vtoolstore.de
@@ -10853,7 +10855,6 @@ zerogrid.shop
 zesavi-tech.de
 zetko-waren.com
 zetko-waren.de
-app.zety.de
 zhrtasarimf.shop
 zicklerbrennholz.de
 zidnjlamp.com
