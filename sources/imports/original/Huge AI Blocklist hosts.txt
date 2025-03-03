@@ -15,6 +15,7 @@
 
 
 # [.ai sites]
+0.0.0.0 forkful.ai
 0.0.0.0 cgdream.ai
 0.0.0.0 tryleap.ai
 0.0.0.0 magichour.ai
@@ -787,6 +788,7 @@
 0.0.0.0 inspiringdesigns.net
 0.0.0.0 flux-ai.net
 0.0.0.0 vitalentum.net
+0.0.0.0 heatware.net
 0.0.0.0 bigshadows.net
 0.0.0.0 eyecandy.net
 
@@ -1133,11 +1135,13 @@
 0.0.0.0 ipv6.rs
 0.0.0.0 homediningkitchen.com
 0.0.0.0 psichologyanswers.com
+0.0.0.0 umatechnology.org
 
 
 #### www. ver
 
 # [.ai sites]
+0.0.0.0 www.forkful.ai
 0.0.0.0 www.cgdream.ai
 0.0.0.0 www.tryleap.ai
 0.0.0.0 www.magichour.ai
@@ -1909,6 +1913,7 @@
 0.0.0.0 www.vitalentum.net
 0.0.0.0 www.bigshadows.net
 0.0.0.0 www.eyecandy.net
+0.0.0.0 www.heatware.net
 
 
 # [.pub, io, .app, etc sites]
@@ -2252,3 +2257,4 @@
 0.0.0.0 www.ipv6.rs
 0.0.0.0 www.homediningkitchen.com
 0.0.0.0 www.psichologyanswers.com
+0.0.0.0 www.umatechnology.org
