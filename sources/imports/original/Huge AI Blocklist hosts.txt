@@ -351,6 +351,9 @@
 0.0.0.0 yeschat.ai
 0.0.0.0 neoprompt.ai
 0.0.0.0 boodlebox.ai
+0.0.0.0 sunoai.ai
+0.0.0.0 thetawise.ai
+0.0.0.0 imagineanything.ai
 
 
 # [.com sites]
@@ -657,6 +660,8 @@
 0.0.0.0 peopleai.com
 0.0.0.0 airportcalgary.com
 0.0.0.0 dogbreedadvice.com
+0.0.0.0 drawatoon.com
+0.0.0.0 suno.com
 
 
 # [.art sites]
@@ -953,6 +958,7 @@
 0.0.0.0 igot.coffee
 0.0.0.0 manuals.plus
 0.0.0.0 scpa.education
+0.0.0.0 sunoai.asia
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1484,6 +1490,9 @@
 0.0.0.0 www.yeschat.ai
 0.0.0.0 www.neoprompt.ai
 0.0.0.0 www.boodlebox.ai
+0.0.0.0 www.sunoai.ai
+0.0.0.0 www.thetawise.ai
+0.0.0.0 www.imagineanything.ai
 
 
 # [.com sites]
@@ -1790,6 +1799,8 @@
 0.0.0.0 www.peopleai.com
 0.0.0.0 www.airportcalgary.com
 0.0.0.0 www.dogbreedadvice.com
+0.0.0.0 www.drawatoon.com
+0.0.0.0 www.suno.com
 
 
 # [.art sites]
@@ -2084,6 +2095,7 @@
 0.0.0.0 www.igot.coffee
 0.0.0.0 www.manuals.plus
 0.0.0.0 www.scpa.education
+0.0.0.0 www.sunoai.asia
 
 
 # [AI Projects Hosted on Other Sites]
