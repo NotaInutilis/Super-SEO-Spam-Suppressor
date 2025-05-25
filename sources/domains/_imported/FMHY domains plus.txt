@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Plus
 # Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-# Last modified: 27 Dec 2024 22:23 UTC
+# Last modified: 24 May 2025 19:47 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 310
+# Entries: 313
 # Expires: 4 days
 # Format: domains
 
@@ -135,6 +135,8 @@ pcprogs.ru
 pcprogs.net
 freesoft.space
 dekisoft.com
+appdoze.com
+protonge.com
 # Torrent Sites / Clients
 thekickasstorrents.com
 kickass-official.blue
@@ -147,6 +149,7 @@ frostwire.com
 bitlord.com
 bitlorddl.com
 1377x.to
+nyaa.eu
 # Software / Apps
 limewire.com
 downloadlynet.ir
@@ -266,6 +269,7 @@ windows-7.net
 windows-activators.com
 windows64.net
 windowsbit.net
+
 # This section of the filterlist contains not recommended/potentially unsafe sites and software domains used in the Plus version
 # Software / App Sites
 cnet.com
