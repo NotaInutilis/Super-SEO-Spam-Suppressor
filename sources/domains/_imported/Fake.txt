@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 May 2025 07:20 UTC
-# Version: 2025.0525.0720.11
+# Last modified: 25 May 2025 22:24 UTC
+# Version: 2025.0525.2224.19
 # Syntax: Domains (without subdomains)
-# Number of entries: 14330
+# Number of entries: 14338
 #
 01crypto.com
 1001clothing.eu
@@ -748,6 +748,7 @@ artemondo.eu
 artestaes.shop
 artevive.de
 arti-ava.de
+try.articblast.co
 artisan-galerie.com
 artizenti.de
 artnewsnet.com
@@ -880,6 +881,7 @@ auroregibeau.shop
 auroxtrade.net
 aus-gelassen.de
 ausdet.de
+auspitz-shop.com
 ausrustungshandel.de
 austria-myhermes.cc
 austrialpinverkaufe.com
@@ -1817,6 +1819,7 @@ brakediscshop.com
 bralettesstore.com
 brandenburger-garten.de
 branditurner.shop
+brandnewoutdoor.com
 brandoftennis.com
 brandschutzfachbuero-engler.de
 brandskishop.com
@@ -3167,7 +3170,6 @@ delaamoebelde.shop
 delebensmittel.com
 delegacar.com
 delhihurricanes.com
-delicioush.com
 delightsky.store
 delishpetfoodde.com
 parcel.deliv.com
@@ -3881,6 +3883,7 @@ emc-containerhandel.com
 emeingarten24.com
 emeingarten24h.com
 emerallda.com
+emergingsurf.com
 emilemartin.com
 emiliamarie.com
 emilyedwards.de
@@ -3940,7 +3943,6 @@ ensemble4cyclisme.com
 enstocks3v.top
 entdeckennatur.com
 entermusic.it
-entertainl.com
 enthusiastip.com
 entornobanoes.com
 entornobanoeseur.shop
@@ -4206,7 +4208,6 @@ exquisitmobel.com
 exquisitpflanze.com
 exteom.com
 exteriork.com
-extonglobal.com
 extraordiner.com
 extraordiny.com
 extrapassion.club
@@ -4526,7 +4527,6 @@ firegemss.com
 firewoiks.com
 firewood-versand.de
 firma-leitner.at
-firmadmire.com
 firmeneintrag.net
 first-bikes.de
 first-investcapital.com
@@ -4917,6 +4917,7 @@ gainful-markets.com
 platform.gainfulmarkets-tech.com
 gainpipstrade.com
 gala-gruppe.com
+galaktischshop.com
 galandu.de
 galaxy-handel.de
 galaxyfox.io
@@ -5571,6 +5572,7 @@ gutewelt.shop
 gutgarten.com
 gutgolf.com
 gutscheinglueck24.de
+guttler-gartengerate.de
 gutumzug.at
 gv-invest.com
 de.gvgmall.com
@@ -5919,9 +5921,11 @@ hellyhansenireland.com
 hellyhansenkuwait.com
 hellyhansenlatvija.com
 hellyhansenmexico.com
+hellyhansennederland.com
 hellyhansennorge.net
 hellyhansenparis.net
 hellyhansenromania.net
+hellyhansensrbija.com
 hellyhansenuk.com
 hellyhansenuruguay.com
 helmetaccessoriesstore.com
@@ -6972,6 +6976,7 @@ kbnlogistics.com
 kckmoneyy.com
 kcypacking.com
 ke-99.top
+kedsberlin.de
 kedscanada.net
 kedsfactoryoutlet.com
 kedsgermany.com
@@ -6983,6 +6988,7 @@ kedssuomishop.com
 keendeutsch.de
 keenknown.com
 keenooc.com
+keenschuhe.at
 keepcandles.shop
 kelansu.com
 kellgy.com
@@ -7097,6 +7103,7 @@ kiwifunk.com
 kizaro.de
 kjolchic.com
 kjsr-radeberg.de
+kjw-garten.de
 klang-plan.de
 klarako.com
 klaria.de
@@ -7431,6 +7438,7 @@ leahideas.com
 leamalala.com
 start.learn-english.education
 leatherbagsale.com
+leatherjacketgear.com
 lebendigewelt.com
 lebens-traum.at
 lebenskompassde.shop
@@ -7516,7 +7524,6 @@ leuchtenver.com
 leuchtenzubehor.com
 leuchtkorken.de
 leuxthetics.com
-levelbikes.de
 leverkusenboutique.com
 levins-stockholm.com
 levuna.ch
@@ -7685,7 +7692,6 @@ lockwoodinv.com
 locmyparcel.com
 locmyparcel.info
 locobox.net
-locomotivey.com
 lodiro.de
 lodischuheonlineshop.de
 loewe-vom-sauerland.de
@@ -7829,6 +7835,7 @@ lukeshoe.com
 luladress.com
 lululemoneu.shop
 lululemonhamburg.de
+lululemonportugal.net
 lululemonsale.de
 lululemoosterreich.at
 lulumini.de
@@ -7911,6 +7918,7 @@ madelor.com
 madison-fashion.com
 maennerexpress.info
 maesh.shop
+maestro-morabito.com
 maforia-produkttest-anmeldung.com
 magag.de
 magalistore.com
@@ -8172,7 +8180,6 @@ medeurope24.com
 media-deals24.de
 media-fix.de
 media-genius.eu
-media-voigt.de
 media-weber.com
 media24.live
 mediafritz.com
@@ -8761,7 +8768,6 @@ my-pawly.com
 my-pills.biz
 my-schaschlik.shop
 my-slide.de
-my-trip-online.com
 myalpins.com
 portal.mybeautyplans.com
 mybestjudymerch.com
@@ -10127,14 +10133,12 @@ preminantdo.com
 premison.de
 premium-feuer.com
 premium-heizoel.de
-premium-yields.com
 premiumfeuer.com
 premiumfeuer.shop
 premiumgkvxpxxsy.com
 premiuminvestclub.com
 premiumpricepills24hr.com
 premiumvip-spot.com
-premiumyields1.com
 prenrt.com
 prescribet.com
 presentlyk.com
@@ -10485,6 +10489,7 @@ realmadridassets.com
 realstock.es
 realyiyi.com
 reardlesof.com
+rebatenewoutdoor.com
 rebateoutdoorpro.com
 rebateoutsportus.com
 rebatestoreus.com
@@ -11918,6 +11923,7 @@ stephandoleschal.shop
 stephanheinrich.shop
 stephanie-gustai.de
 stepscorner.com
+stereoswitch.de
 sterico24.de
 sterlingsfx.com
 sternestd.de
@@ -12180,6 +12186,7 @@ supply-swim.com
 supply-toys.com
 supplyalfresco.com
 supplyaquatics.com
+supplychicgeneral.com
 supplydentalcare.com
 supplyswimwear.com
 supportfortross.org
@@ -12619,7 +12626,6 @@ thursdayboots.at
 thursdayboots.de
 thursdaybootsdeutschland.com
 thursdaybootsdeutschland.de
-thursdaybootswien.at
 thursdaycanada.com
 tidalsway.ru
 tienda-pellets.com
@@ -13180,6 +13186,7 @@ urbanoutletstores.com
 urbmale.cc
 urdotx.com
 350yeezy.us.com
+adidas.us.com
 coachoutlet-store.us.org
 jordan-shoes.us.com
 marcjacoboutlet.us.com
@@ -13849,6 +13856,7 @@ werkzeugmaschinenstore.com
 werkzeugmesser.de
 werkzeugprada.com
 werkzeugprodukte.com
+werkzeugtrailer.de
 werkzeugverkauf.com
 werkzeugversorgung.com
 werner-darlehen.com
