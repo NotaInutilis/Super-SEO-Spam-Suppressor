@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jun 2025 18:13 UTC
-# Version: 2025.0607.1813.03
+# Last modified: 08 Jun 2025 10:20 UTC
+# Version: 2025.0608.1020.23
 # Syntax: Domains (without subdomains)
-# Number of entries: 14502
+# Number of entries: 14493
 #
 01crypto.com
 1001clothing.eu
@@ -405,6 +405,7 @@ alpbeat.com
 alpenfluss.at
 alpenrose-mode.com
 alpenwolken.de
+alpexoplus.com
 alphabetk.com
 alphabetw.com
 alphagamers.de
@@ -422,7 +423,6 @@ alpspitz-tech.de
 alro-stahlbau.de
 alter48.fr
 alterinvest.fr
-alternatef.com
 alternatei.com
 alternative-markets.com
 alternativeplacement.com
@@ -2286,7 +2286,6 @@ spade.chantevil.cfd
 chaps-herrenmode.de
 characterh.com
 chargetiede.shop
-charismatico.com
 charmdaily.com
 charmsvision.com
 chartistake.com
@@ -2485,6 +2484,7 @@ duneshoesouthafrica.co.za
 fitnesstogether.co.uk
 hildathelabel.co.uk
 homegymsupply.co.uk
+horizonsmusic.co.uk
 labubu.co.uk
 leathershire.co.uk
 luxeparfum.co.uk
@@ -4154,7 +4154,6 @@ europeannewstoday.com
 europeanpharm.net
 europharmacyonline.com
 europharmsonline.com
-europharmx.com
 europillsonline.com
 europrofitspro.com
 euroshopping.store
@@ -4339,6 +4338,7 @@ famigo24.de
 familiarm.net
 familiarn.com
 familienbegleiterin.de
+family-pills.com
 familyhistoryjamaica.com
 familynow.club
 famiud.store
@@ -4643,7 +4643,6 @@ florian-mentoring.com
 floriansteiner.net
 floriantrading.com
 floriluxe.de
-floryday.com
 floveme.com
 flow-electric.de
 flow-tex.de
@@ -5790,7 +5789,6 @@ haushaltsheld.com
 haushaltskoenig.de
 haushaltsproduktede.com
 haushaltsreich.de
-hausladende.com
 hauslager.com
 hausmobel-de.com
 hausonline24.com
@@ -6051,7 +6049,6 @@ highjel.com
 highlandshotels.net
 highluxury.sk
 highluxurystore.co
-highqualitestoys.com
 hightqualitywear.com
 hihstore.com
 hijabsalma.shop
@@ -8551,7 +8548,6 @@ moanaforyoudiscount.shop
 mobel-welt.com
 mobelimfreien.com
 mobelmagie.com
-mobelneu.com
 mobelniedrigerpreis.com
 mobelprada-de.com
 mobelsessel.com
@@ -9028,7 +9024,6 @@ nazaone.com
 nbynicole.com
 ncases.com
 nchen.de
-ndfinitee.com
 neary.de
 necessityi.com
 necessoul.com
@@ -9262,6 +9257,7 @@ norrona.vip
 norsacke.com
 norsk-apotek24.com
 norskeapotek.net
+northcapitalinvest.com
 northfacegreeceshops.com
 northfaceoutletstoreus.com
 northwaveoff.com
@@ -9385,7 +9381,6 @@ officeboxonline.com
 officesuppliesmaster.com
 slimvitaxdietgummies.officialdealsite.com
 officialnursery.com
-officialrebrand.shop
 officialyamato.co
 officialyeti.com
 offizielleprodukte.shop
@@ -10257,6 +10252,7 @@ prime-deutschland.com
 prime-e-bike.eu
 prime-moda.com
 prime-smog.com
+primecapitals.de
 primecargotransit.com
 primeclubs.store
 primecoffeezone.com
@@ -10397,7 +10393,6 @@ fr.puprime.net
 fr.puprime.online
 purawerk-gmbh.de
 pureloveov.best
-purelywhitedeluxe.com
 pureprefer.com
 purexx-tech.de
 purku.top
@@ -11035,7 +11030,6 @@ safewayus.com
 safir.com
 sagaenterprizes.com
 sagenverkauf.com
-saint-blanc.com
 saintjamesireland.com
 saintjamesoutlet.at
 sakaziq.com
@@ -11069,7 +11063,6 @@ salesceramic.com
 salesconsulter.de
 saleshopplus.com
 saleshyanne.com
-salesoilcooler.com
 salesportshoe.com
 salespumpe.com
 salesroaster.com
@@ -11145,7 +11138,6 @@ sanukfinland.com
 sanuknz.com
 sanukoutlet.store
 sanuksalecanada.com
-sanuksandalen.de
 sanukschoenen.com
 sanukschuhe.de
 sanuksuomi.net
@@ -14084,7 +14076,6 @@ wildlingshoesportugal.com
 wildlingshoessverige.com
 wildlingshoesuk.com
 wildlingshoeswien.at
-wildmodesoldes.com
 wildschytz.shop
 wilfriedngatchi.com
 wilhelmfoodshop.com
