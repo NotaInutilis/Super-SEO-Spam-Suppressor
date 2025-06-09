@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jun 2025 10:20 UTC
-# Version: 2025.0608.1020.23
+# Last modified: 08 Jun 2025 22:21 UTC
+# Version: 2025.0608.2221.12
 # Syntax: Domains (without subdomains)
-# Number of entries: 14493
+# Number of entries: 14515
 #
 01crypto.com
 1001clothing.eu
@@ -3124,6 +3124,7 @@ degartenfreizeit.com
 degeschirr.com
 degnerwelpen.de
 degussa.website
+degussa-goldhandel.ac
 dehaag-tech.de
 deharaldsoldie.shop
 deharaldsoldieava.shop
@@ -3153,6 +3154,7 @@ deinetierliebe.de
 deingartenguru.com
 deinglueckswinkel.shop
 deinhandwerkershop.de
+deinheizoel.de
 deinheizoelprofi24.de
 deini.com
 deinliebesmensch.de
@@ -3940,6 +3942,7 @@ endrix-pat.fr
 energeticw.com
 energfahrrad.de
 energie-thuleweit.de
+energieheizen.de
 energieheld24.com
 energiekick.at
 energiesparlampen.shop
@@ -5049,6 +5052,7 @@ gartenland-martens.de
 gartenlands.com
 gartenlandschaftladen.com
 gartenmachtshop.de
+gartenmaschinen-arbeitsgerate.shop
 gartenpflegeshop.com
 gartenplus24.com
 gartenrabatt.com
@@ -5929,6 +5933,9 @@ heizoelguru.de
 heizoeljetzt.de
 heizoelonline24.com
 heizoelpro.de
+heizoelprofi.de
+heizoelpunkt.de
+heizoelsofort.de
 heizoelsolutions.com
 heizoelsolutions.net
 heizoelspar.de
@@ -7334,6 +7341,13 @@ kunstfurzuhause.com
 kunstlaufweg.de
 kunstpfadfinder.de
 kunstpfadkarte.de
+kunstpfadnetz.de
+kunstpfadrouten.de
+kunstpfadweg.de
+kunstreiseplan.de
+kunstreiseweg.de
+kunststrecke.de
+kunststreifzug.de
 kunsttourweg.de
 kunstumweg.de
 kunstverlauf.de
@@ -9360,7 +9374,11 @@ octeno.de
 ocycling.com
 odlorabatt.com
 oel-direkt.de
+oelheizung24.de
+oeljetzt.de
+oelonlineshop.de
 oelpreisfinder.de
+oelschnell.de
 oesterreichischeapotheke.com
 ofenbrnholz.com
 ofendeutschland.com
@@ -10551,6 +10569,7 @@ rasen24.com
 rasen24h.com
 rasenmaherwendik.de
 rasenmuller.de
+rasenpro.com
 rasenprofis.net
 rasenshop24.com
 rasentrak.com
@@ -11753,6 +11772,7 @@ sofasundsessel.com
 sofie-boutiques.de
 sofort-kreditt.com
 sofortfinanz.com
+sofortheizoel.de
 soft-handel.de
 softelektro.com
 softpulse.digital
@@ -13050,6 +13070,7 @@ traumwolke.shop
 traunsberger-garten.de
 traunsbergergarten.de
 travano.de
+travel-24.eu
 travel-and-jobs.com
 traveledgy.com
 travelhotel2u.com
@@ -13472,6 +13493,7 @@ vast-spedition.com
 vatan.at
 vatlab.cc
 vatradecoin.net
+vauclinmotoculture.de
 vaudeberlin.de
 vaudefabrikverkauf.de
 vavaplay.com
