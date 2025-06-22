@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Jun 2025 10:43 UTC
-# Version: 2025.0621.1043.14
+# Last modified: 21 Jun 2025 22:42 UTC
+# Version: 2025.0621.2242.40
 # Syntax: Domains (without subdomains)
-# Number of entries: 15039
+# Number of entries: 15042
 #
 01crypto.com
 1001clothing.eu
@@ -1793,6 +1793,7 @@ bog-apotheke.com
 bogensportdeister.shop
 bognerosterreich.at
 bogsschuhe.de
+bohnenfreude.de
 boho-and-chic.de
 bohrteam-handel.de
 boilsofas.com
@@ -3506,6 +3507,7 @@ dirctychop.com
 directco-invest.com
 directepargne.com
 directkredite.com
+direktbike.store
 direkte-verarbeitung.site
 dirkelektro.com
 dirkuhren.de
@@ -10957,6 +10959,7 @@ rasenmotor.com
 rasenmuller.de
 rasenpro.com
 rasenprofis.net
+rasenroboter-shop.com
 rasenshop24.com
 rasentrak.com
 rastrillo.de
