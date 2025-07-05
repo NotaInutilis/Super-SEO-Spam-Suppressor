@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jul 2025 10:45 UTC
-# Version: 2025.0704.1045.13
+# Last modified: 04 Jul 2025 18:43 UTC
+# Version: 2025.0704.1843.50
 # Syntax: Domains (without subdomains)
-# Number of entries: 14396
+# Number of entries: 14397
 #
 01crypto.com
 1001clothing.eu
@@ -2844,6 +2844,7 @@ crxjik.shop
 cryotoxtrade.com
 crypt-trade.com
 cryptex-online.de
+cryptex-vip.com
 crypto-bulot.com
 crypto-institute.com
 crypto-major.com
