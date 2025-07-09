@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jul 2025 10:45 UTC
-# Version: 2025.0708.1045.05
+# Last modified: 08 Jul 2025 14:43 UTC
+# Version: 2025.0708.1443.17
 # Syntax: Domains (without subdomains)
-# Number of entries: 14335
+# Number of entries: 14336
 #
 01crypto.com
 1001clothing.eu
@@ -6654,6 +6654,7 @@ jbcapitals.com
 jbpecas.com
 jdbr-investissements.com
 jdfimportexportgmbh.de
+jdflmportexport.de
 je-decouvre.fr
 jeansniedrigerpreis.com
 jeansrabatt.de
