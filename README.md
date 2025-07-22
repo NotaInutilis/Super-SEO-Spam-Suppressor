@@ -50,6 +50,10 @@ This blocklist is left in the [public domain (Do What The Fuck You Want To Publi
 
 [Blocklist in pdnsd format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/pdnsd.txt) to use with the [pdnsd](https://wiki.archlinux.org/title/Pdnsd) caching DNS proxy server software.
 
+### Unbound format
+
+[Blocklist in Unbound configuration format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/unbound.txt) to use with the [Unbound](https://nlnetlabs.nl/projects/unbound/) validating, recursive, caching DNS resolver.
+
 ## Fediverse formats
 
 ### Mastodon
