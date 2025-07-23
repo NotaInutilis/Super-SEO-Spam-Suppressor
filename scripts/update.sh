@@ -60,6 +60,8 @@ python scripts/hosts_ipv6.py > hosts_ipv6.txt
 python scripts/dnsmasq.py > dnsmasq.txt
 ### pdnsd
 python scripts/pdnsd.py > pdnsd.txt
+### Unbound
+python scripts/unbound.py > unbound.txt
 
 ## For browser extensions
 ### Adblock
