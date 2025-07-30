@@ -142,6 +142,7 @@ This blocklist borrows from the following projects:
 - the [fake (wildcard domains) blocklist](https://github.com/hagezi/dns-blocklists/blob/main/wildcard/fake-onlydomains.txt) from hagezi's [DNS Blocklists](https://github.com/hagezi/dns-blocklists) ([GNU General Public License v3.0](https://github.com/hagezi/dns-blocklists/blob/main/LICENSE))
 - the [Anti-Malware Domains blocklist](https://github.com/DandelionSprout/adfilt/blob/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt) from DandelionSprout's [adfilt](https://github.com/DandelionSprout/adfilt) ([Dandelicence](https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md)).
 - the [full plus domains blocklist](https://github.com/fmhy/FMHYFilterlist/blob/main/filterlist-domains.txt) from fmhy's FMHY [Filterlist](https://github.com/fmhy/FMHYFilterlist) ([GNU General Public License v3.0](https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE))
+- the [ad and tracking server blocklist](https://pgl.yoyo.org/as/serverlist.php?hostformat=plain) maintained by [Peter Lowe](https://pgl.yoyo.org/adservers/) ([McRae General Public License](https://pgl.yoyo.org/license/))
 
 ## Fandom (formerly known as Wikia)
 
