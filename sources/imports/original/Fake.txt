@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Aug 2025 18:40 UTC
-# Version: 2025.0806.1840.57
+# Last modified: 07 Aug 2025 06:40 UTC
+# Version: 2025.0807.0640.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 13935
+# Number of entries: 13933
 #
 01broker.com
 01crypto.com
@@ -4328,7 +4328,6 @@ financial-broker.com
 financialbinary.com
 financialexpressbank.com
 financialfutures.net
-financien-krediet.nl
 financiere-dainville.com
 financiere-haussmann.com
 financieredsbg.com
@@ -6701,7 +6700,6 @@ karpfenrutenneu.com
 karriere-von-zuhause.de
 karrierevonzuhause.de
 karroc.de
-kartenluchs.com
 karynhenwood.com
 kash-leone.fr
 kashefcog.com
