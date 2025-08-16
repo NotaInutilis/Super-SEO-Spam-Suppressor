@@ -1,4 +1,4 @@
-#last-update:2025-08-15
+#last-update:2025-08-16
 000webhostapp.fr
 000webhost.fr
 01labanquepostale.fr
@@ -2767,6 +2767,7 @@ annulationcbcarte-societegenerale.fr
 annulation-commandes.fr
 annulation-creditmutuel.fr
 annulation-credmutuel.fr
+annulation-darty.fr
 annulationdepaiement.fr
 annulationdepaiement-societegenerale.fr
 annulation-esim.fr
@@ -4763,6 +4764,7 @@ billetteriejulofficiel.fr
 billetterie-loomwordltour.fr
 billetterie-loomworldtour.fr
 billetterieloomworldtour.fr
+billetterie-mayhem.fr
 billetterieminute.fr
 billetterie-ninho.fr
 billetterie-ninhosdt.fr
@@ -5097,6 +5099,7 @@ bouigues.fr
 bouiguetelecom.fr
 boujois.fr
 boulager.fr
+boulanger-remboursements.fr
 boulangerr.fr
 bourgognefranchcomte.fr
 bourgognefrancheconte.fr
@@ -5471,6 +5474,7 @@ caf-loire-atlantique.fr
 cafparrainage.fr
 cafpaylib-recup.fr
 cafranchecomte.fr
+caf-rapide-fr.fr
 caf-regularisation.fr
 caf-remboursement.fr
 caf-seinesaintdenis.fr
@@ -8169,6 +8173,7 @@ compte-santepublique.fr
 comptes-auth.fr
 comptes-bnpparibas.fr
 comptes-client.fr
+comptes-clients.fr
 comptes-connecte.fr
 compte-secure-ameli-france.fr
 compte-secure.fr
@@ -9414,6 +9419,7 @@ demandecartevitale.fr
 demandecartevitales.fr
 demandecartevital.fr
 demande-certificat-air.fr
+demande-de-confirmation-lbc.fr
 demandedelogement14.fr
 demandedelogement21.fr
 demandedelogement29.fr
@@ -10276,17 +10282,25 @@ eden-park-fr.fr
 eden-park-off.fr
 eden-park-paris.fr
 edenpark-paris.fr
+edenredassistance.fr
+edenredcare.fr
+edenredcenter.fr
 edenredclient.fr
 edenredclients.fr
 edenredcontact.fr
+edenreddashboard.fr
 edenredespace.fr
 edenredexpert.fr
 edenredfrance.fr
+edenredguide.fr
 edenredhelp.fr
 edenredinfo.fr
+edenredportail.fr
 edenredportal.fr
 edenredpro.fr
+edenredresource.fr
 edenredservice.fr
+edenredservices.fr
 edenredsupport.fr
 e-depotdsfond-auth.fr
 edf-accounting.fr
@@ -17165,6 +17179,7 @@ marlinkeventssas.fr
 marmithon.fr
 marmut.fr
 marquekangol.fr
+marshallfrance.fr
 ma-rubrique-amelie.fr
 ma-rubrique-ameli.fr
 ma-sante-ameli.fr
@@ -19851,6 +19866,7 @@ notification-formulaire.fr
 notification-info.fr
 notificationmailinfos.fr
 notification-netflix.fr
+notification-prime.fr
 notificationsacces-ca.fr
 notifications-amendes.fr
 notifications-auto-plus.fr
@@ -19859,6 +19875,7 @@ notifications-client.fr
 notification-securepass.fr
 notification-securite.fr
 notifications-email.fr
+notifications-prime.fr
 notifications-securepass.fr
 notification-support.fr
 notifnpal.fr
@@ -21436,6 +21453,7 @@ planetmaillot.fr
 planetside2.fr
 planification-colis.fr
 planification-mondialrelay-enligne.fr
+plan-prime.fr
 plantfor.fr
 plantor.fr
 plan-vitale.fr
@@ -22077,6 +22095,7 @@ princesscasino.fr
 printerest.fr
 priosante.fr
 prism-casino.fr
+privatebankinglcl.fr
 private-sportshop.fr
 privehsbc.fr
 privilege-infos.fr
@@ -22111,6 +22130,7 @@ profression-sport-loisirs.fr
 programmation-livraison-dhl.fr
 programmation-livraison.fr
 programmation-relivraison.fr
+programme-prime.fr
 programmer-malivraison.fr
 programmermalivraison.fr
 proidees.fr
@@ -22386,6 +22406,7 @@ rappel-dossier.fr
 rappel-infos.fr
 rappel-netfiix.fr
 rappel-paiement.fr
+rappel-prime.fr
 rappels-abonnement.fr
 rappels-netfiix.fr
 rappelsuivi.fr
@@ -25019,6 +25040,7 @@ service-secure.fr
 service-securite.fr
 servicesecuriteoppsition.fr
 servicesecuritevitale.fr
+servicesedenred.fr
 services-facturation.fr
 servicesfrance-amendes.fr
 service-sfr-esim.fr
