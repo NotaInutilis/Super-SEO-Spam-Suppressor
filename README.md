@@ -151,6 +151,7 @@ This list is not blocking its search results, which consistently appear on top o
 ## Recommended lists and projects
 
 - [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): a *very* exhaustive AI blocklist with a lot of entries that I'm not yet able to import in SSSS.
+- [Bad Website Blocklist](https://github.com/popcar2/BadWebsiteBlocklist): a well documented AI & SEO blocklist for uBlacklist that I'm also not yet able to import in SSSS.
 - [ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest): I hate Pinterest.
 - [A dove is dumb](https://a.dove.isdumb.one/list.txt): Adobe hates you.
 - [Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations): Consider blocking social media and big tech corporations.
