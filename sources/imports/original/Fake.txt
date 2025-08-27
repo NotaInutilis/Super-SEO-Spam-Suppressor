@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Aug 2025 14:29 UTC
-# Version: 2025.0826.1429.13
+# Last modified: 27 Aug 2025 06:28 UTC
+# Version: 2025.0827.0628.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 13807
+# Number of entries: 13809
 #
 01broker.com
 01crypto.com
@@ -11221,6 +11221,7 @@ sofologic.de
 sofort-kreditt.com
 sofort-registerauszug24.de
 sofortfinanz.com
+sofortkreditplus.com
 soft-handel.de
 softelektro.com
 software-onsale.com
@@ -11988,6 +11989,7 @@ teodoroautopecas.com
 terange.com
 teras.at
 terea-polen.com
+terea-polen.is
 terminatei.com
 termink.com
 terminologe.com
