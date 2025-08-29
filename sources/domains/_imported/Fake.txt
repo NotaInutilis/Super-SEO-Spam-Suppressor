@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Aug 2025 10:28 UTC
-# Version: 2025.0828.1028.59
+# Last modified: 28 Aug 2025 18:30 UTC
+# Version: 2025.0828.1830.06
 # Syntax: Domains (without subdomains)
-# Number of entries: 13861
+# Number of entries: 13863
 #
 01broker.com
 01crypto.com
@@ -3030,6 +3030,7 @@ delyanshop.com
 demababy.de
 demays.cc
 demediz.com
+demeindlshop.com
 demetramaheras.com
 demonia-finland.com
 demoniabootscanada.com
@@ -13024,6 +13025,7 @@ vicinityk.com
 victoriassecrets.at
 victoroutlet.de
 victoryshop.shop
+vidaq.de
 viddsey.pro
 videforex.com
 videospiel-markt.de
