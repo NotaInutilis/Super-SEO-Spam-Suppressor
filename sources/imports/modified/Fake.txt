@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Sep 2025 06:44 UTC
-# Version: 2025.0911.0644.52
+# Last modified: 11 Sep 2025 22:25 UTC
+# Version: 2025.0911.2225.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 14030
+# Number of entries: 14034
 #
 01broker.com
 01crypto.com
@@ -1807,6 +1807,7 @@ brennholz-world.at
 brennholz-zertifikats.de
 brennholz360.com
 brennholzbillharz.shop
+brennholzdge.com
 brennholzdirekt.com
 brennholzgo.de
 brennholzhandelnahn.com
@@ -1821,6 +1822,7 @@ brennholzruhl.de
 brennholzs.com
 brennholzschnell24.de
 brennholzscholl.com
+brennholzundkaminhalbert.com
 brennholzweber.de
 brennholzwerner.de
 brennholzwittmann.com
@@ -7128,6 +7130,7 @@ l6shop.site
 laamcom.com
 laandingblog.com
 labelyourlife.shop
+labexholz.com
 labnicear.best
 labq22.in
 labubu-lounge.de
@@ -8766,6 +8769,7 @@ naturinowien.at
 naturkindershopdeeur.shop
 naturkosmetik-werkstattcheap.shop
 naturkraft-express.de
+naturtechgarten.com
 naturwaerme-karow.de
 naumann-versand.com
 nauticaromania.com
