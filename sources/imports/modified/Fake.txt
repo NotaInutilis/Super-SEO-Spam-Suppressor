@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Sep 2025 15:28 UTC
-# Version: 2025.0912.1528.46
+# Last modified: 13 Sep 2025 11:02 UTC
+# Version: 2025.0913.1102.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 14052
+# Number of entries: 14055
 #
 01broker.com
 01crypto.com
@@ -3929,6 +3929,7 @@ etropo.com
 etsbois-de-chaufage.com
 jordanofficial.eu.com
 longchamp.eu.com
+longchampale.eu.com
 us.nl.eu.org
 officiellejordan.eu.com
 eu-class.com
@@ -5254,6 +5255,7 @@ goptions.com
 gore-zone.de
 goreweardeutschland.de
 gorgeousn.com
+gorgeousshop.org
 gorobo.de
 gosmartwatch.de
 gothictot.com
@@ -6615,6 +6617,7 @@ joyful-christmas.com
 joyshoetique.com
 jp-gaultier-marketplace.com
 jp-performance.net
+jpins.shop
 jqwerks.com
 jrnpzf.top
 jsellerov.best
@@ -7504,7 +7507,6 @@ hausiro.liviture.top
 livoro-deutschland.com
 livretplus.com
 livsy.de
-lksbe.shop
 lkw-mieten-wien.at
 ller.net
 lloen.shop
@@ -11341,7 +11343,6 @@ skisnowboardsale.com
 skispeichern.com
 skitnicemk.best
 skm-meetings.de
-skove.shop
 skylinefx.co
 skyquaddrone.com
 skyrro.com
@@ -13188,6 +13189,7 @@ vestapros.com
 vestigejewelry.com
 vet-staking.com
 vetapotheke-shop.de
+vetementmodefemme.com
 vetntilate.com
 vettuma.com
 vex-group.pro
@@ -14000,6 +14002,7 @@ zentrumeinkauf.com
 zeradaoautopecas.com
 zeroceann.com
 zeroplay.de
+zertifikate24.online
 zesavi-tech.de
 zesbit.com
 zestara-berlin.de
