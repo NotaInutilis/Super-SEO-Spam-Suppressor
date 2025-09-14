@@ -1,0 +1,1 @@
+If a sketcy SEO slop blog is trying to sell you pills, it's likely a scam. Also putting sites that advertise on these platforms here.
