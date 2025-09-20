@@ -24,7 +24,7 @@ This blocklist is left in the [public domain (Do What The Fuck You Want To Publi
 
 [Blocklist in uBlacklist format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist). It removes blocked sites from search engine results.
 
-[Click here to subscribe.](https://iorate.github.io/ublacklist/subscribe?name=Super%20SEO%20Spam%20Suppressor&url=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt)  (This automatic subscription link is only compatible with Chrome, you have to add it by yourself on other browsers!)
+[Click here to subscribe.](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FNotaInutilis%2FSuper-SEO-Spam-Suppressor%2Fmain%2Fublacklist.txt) Note that subscription links need to be enabled for this to work.
 
 ### AdBlock Plus syntax
 
@@ -38,7 +38,7 @@ This blocklist is left in the [public domain (Do What The Fuck You Want To Publi
 
 [Blocklist in Hosts format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/hosts.txt) to use in a [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file or [Pi-hole](https://pi-hole.net/).
 
-[IPV6 version](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/hosts.txt.ipv6).
+[IPv6 version](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/hosts.txt.IPv6).
 
 **Known issue:** [Firefox's DNS over HTTPS option bypasses the computer's hosts file ruleset.](https://bugzilla.mozilla.org/show_bug.cgi?id=1453207)
 
