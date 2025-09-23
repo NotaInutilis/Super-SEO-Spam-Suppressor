@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Sep 2025 06:50 UTC
-# Version: 2025.0922.0650.59
+# Last modified: 22 Sep 2025 16:37 UTC
+# Version: 2025.0922.1637.50
 # Syntax: Domains (without subdomains)
-# Number of entries: 14054
+# Number of entries: 14056
 #
 01broker.com
 01crypto.com
@@ -443,6 +443,7 @@ am-luxury.de
 amagliecalcio.com
 ntqcp9y.amapolaproject.eu
 amarego.com
+amaribaby.shop
 amazenda.com
 amazonboxus.com
 amazoncoin.su
@@ -10897,6 +10898,7 @@ savagexfentyde.com
 hessnatur.saveeu.shop
 savela.de
 savesilomart.com
+savesprintmart.com
 savvynix.com
 sawbehind.com
 sawfashionnew.com
