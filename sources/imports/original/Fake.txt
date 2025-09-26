@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Sep 2025 10:25 UTC
-# Version: 2025.0925.1025.27
+# Last modified: 25 Sep 2025 22:24 UTC
+# Version: 2025.0925.2224.59
 # Syntax: Domains (without subdomains)
-# Number of entries: 13848
+# Number of entries: 13849
 #
 01broker.com
 01crypto.com
@@ -10852,6 +10852,7 @@ schwarzundlang.de
 schweibenhandel.com
 schweibenprofi.com
 schweihoferdiscount.shop
+schweizer-modewelt.com
 scieriebarlet.com
 scilulustore.com
 scooter-chip.de
