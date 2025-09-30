@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Sep 2025 10:25 UTC
-# Version: 2025.0929.1025.26
+# Last modified: 29 Sep 2025 22:25 UTC
+# Version: 2025.0929.2225.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 13886
+# Number of entries: 13887
 #
 01broker.com
 01crypto.com
@@ -13289,6 +13289,7 @@ wanderrucksackede.com
 wandleuchtende.com
 wanduhru.de
 wanfangmaier.com
+wannounce.com
 wanster.shop
 wantclothes.com
 wapo-shop.de
