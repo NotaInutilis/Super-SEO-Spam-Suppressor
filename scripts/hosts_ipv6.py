@@ -16,5 +16,5 @@ for line in linesheader:
 	print(line.strip())
 print()
 for line in blocklist:
-	print('::1 ' + line.strip())
-	print('::1 www.' + line.strip())
+	print(':: ' + line.strip())
+	print(':: www.' + line.strip())
