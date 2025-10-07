@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Oct 2025 10:27 UTC
-# Version: 2025.1006.1027.55
+# Last modified: 06 Oct 2025 22:25 UTC
+# Version: 2025.1006.2225.22
 # Syntax: Domains (without subdomains)
-# Number of entries: 13719
+# Number of entries: 13721
 #
 01broker.com
 01crypto.com
@@ -6231,6 +6231,7 @@ inov-8suomi.com
 insideinvest.pro
 insiderlx.com
 insightfulyou.net
+insolesgeeks.com
 inspectionk.com
 inspectiony.com
 inspirelf.com
@@ -11194,6 +11195,7 @@ solarszellen.de
 solarwind-shop.com
 solauthentic.com
 solden-hotels.com
+soldessacsparis.com
 solidarity-finanzierung.com
 solidinvest.co
 solobit.co
