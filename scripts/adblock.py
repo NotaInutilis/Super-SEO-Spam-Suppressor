@@ -17,9 +17,14 @@ with open("sources/pages.txt", "r") as pages:
 	linespages = pages.readlines()
 blocklist = linesdomains + linestlds + linesurls + linespages
 
+with open("sources/regex.txt", "r") as regex:
+	linesregex = regex.readlines()
+
 # Print blocklist
 for line in linesheader:
 	print(line.strip())
 print()
 for line in blocklist:
 	print('||' + line.strip() + '^$document')
+for line in linesregex:
+	print(line.strip())

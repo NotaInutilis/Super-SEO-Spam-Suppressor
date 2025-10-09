@@ -35,6 +35,8 @@ find ./sources/pages -type f -iname "*.txt" -exec cat {} \; > ./sources/pages.tx
 find ./sources/tlds -type f -iname "*.txt" -exec cat {} \; > ./sources/tlds.txt
 ### Titles
 find ./sources/titles -type f -iname "*.txt" -exec cat {} \; > ./sources/titles.txt
+### Espressions
+find ./sources/expressions -type f -iname "*.txt" -exec cat {} \; > ./sources/expressions.txt
 ### Regex
 find ./sources/regex -type f -iname "*.txt" -exec cat {} \; > ./sources/regex.txt
 
