@@ -33,8 +33,6 @@ find ./sources/urls -type f -iname "*.txt" -exec cat {} \; > ./sources/urls.txt
 find ./sources/pages -type f -iname "*.txt" -exec cat {} \; > ./sources/pages.txt
 ### TLDs
 find ./sources/tlds -type f -iname "*.txt" -exec cat {} \; > ./sources/tlds.txt
-### Titles
-find ./sources/titles -type f -iname "*.txt" -exec cat {} \; > ./sources/titles.txt
 ### Espressions
 find ./sources/expressions -type f -iname "*.txt" -exec cat {} \; > ./sources/expressions.txt
 ### Regex
