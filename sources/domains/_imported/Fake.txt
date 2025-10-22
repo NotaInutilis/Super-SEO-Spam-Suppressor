@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 10:24 UTC
-# Version: 2025.1021.1024.13
+# Last modified: 21 Oct 2025 22:24 UTC
+# Version: 2025.1021.2224.18
 # Syntax: Domains (without subdomains)
-# Number of entries: 14205
+# Number of entries: 14210
 #
 01broker.com
 01crypto.com
@@ -1808,9 +1808,12 @@ boxinvesting.com
 boxspringpro.com
 bozok.at
 bp-direct.com
+bp-engel.de
 bp-heizoel.de
+bp-keuter.de
 bp-mineraloel.de
 bp-mineraloele.com
+bp-ort.de
 bpgcoin.com
 bpgroupe.com
 bpo-partners.com
@@ -5389,6 +5392,7 @@ gpt-immediate.com
 gpt55x.io
 grablee.store
 graciousk.com
+graenergie.com
 grafwerkzeug.com
 gramellot.de
 graminator.net
@@ -7131,6 +7135,7 @@ knifemasteroff.com
 knivebestech.com
 knivescondor.com
 knivesesee.com
+knobloch-energie.de
 knoblochholzhandel.de
 knoopfashion.com
 knuddelkind.com
