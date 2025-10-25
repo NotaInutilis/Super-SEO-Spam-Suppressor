@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Oct 2025 20:25 UTC
-# Version: 2025.1024.2025.21
+# Last modified: 25 Oct 2025 08:26 UTC
+# Version: 2025.1025.0826.17
 # Syntax: Domains (without subdomains)
-# Number of entries: 13976
+# Number of entries: 13977
 #
 01broker.com
 01crypto.com
@@ -8051,6 +8051,7 @@ mediamarkets.de
 mediamarkkinat.com
 mediamarkt-at.com
 mediamarkt-de.com
+mediaplus.shop
 mediatech-shop.com
 medicalandbeautycare.com
 medicamententreparticulier.com
