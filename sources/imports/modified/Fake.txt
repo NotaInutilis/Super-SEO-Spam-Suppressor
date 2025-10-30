@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Oct 2025 09:25 UTC
-# Version: 2025.1029.0925.09
+# Last modified: 29 Oct 2025 21:30 UTC
+# Version: 2025.1029.2130.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 14077
+# Number of entries: 14078
 #
 01broker.com
 01crypto.com
@@ -5801,6 +5801,7 @@ heizoel-gunstig-24.com
 heizoel-held.com
 heizoel-held.de
 heizoel-jetzt.de
+heizoel-marke.de
 heizoel-portal.de
 heizoel-premium.de
 heizoel-rabatt.de
