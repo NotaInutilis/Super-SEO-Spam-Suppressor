@@ -11,7 +11,7 @@ It is best used with uBlacklist.
 [Since 2019, Google's search functions are being destroyed](https://www.wheresyoured.at/the-men-who-killed-google/): [it is now scientifically proven](https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf) that [the biggest search engine on the internet has become a barely useable, terminally enshittified mess](https://www.themarysue.com/google-search-is-busted/), merely a husk of the wonderful discovery tool it was yesterday.
 Do you want to learn about *thing*?
 [How about **buying** *thing* and **consuming** *thing* instead?](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)
-Its drive to commercialize our every online interaction also has consequences on other, much more user friendly search engines such as DuckDuckGo, whose indexers crawl through [shit optimized for Google's terrible algorithm](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization).
+Its drive to commercialize our every online interaction also has consequences on other search engines whose indexers crawl through [shit optimized for Google's terrible algorithm](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization).
 Plus the latest trend of so-called "artificial intelligence" generative models produces even more garbage at an ever growing pace.
 This list is, as any good adblocking tool is, an attempt to escape this neverending capitalist coercition and attention theft.
 All of the tech giants play this game so consider also using a social media blocklist.
