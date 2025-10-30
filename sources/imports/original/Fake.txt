@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Oct 2025 21:30 UTC
-# Version: 2025.1029.2130.13
+# Last modified: 30 Oct 2025 09:25 UTC
+# Version: 2025.1030.0925.35
 # Syntax: Domains (without subdomains)
-# Number of entries: 14078
+# Number of entries: 14081
 #
 01broker.com
 01crypto.com
@@ -4987,6 +4987,7 @@ gavriel-kauf.de
 gawude.shop
 gazkuch.shop
 gbgroup.ee
+gbuynix.com
 gcitrading.com
 geappliances-shop.com
 gear-outdoors.com
@@ -5347,7 +5348,6 @@ gothimmes.com
 gotrax.store
 gotrixa.de
 gourmetecke.com
-govern1.com
 gp-photo.shop
 gplate.de
 gpslocatorphone.com
@@ -9196,6 +9196,7 @@ obozboots.com
 obroker.com
 ocayo.de
 occasionak.com
+occasionk.com
 ochsner-agrarhandel.com
 ocinboutique.de
 octa-trade.com
@@ -11608,6 +11609,8 @@ spicebazaar.de
 spices-sale.com
 spiele-grotte.de
 spielhaus.shop
+spielprokonsole.shop
+spielprokonsole24.shop
 spielsmodelle.com
 spieluniversum.com
 spielzeug-ente.com
