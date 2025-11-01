@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Oct 2025 10:05 UTC
-# Version: 2025.1031.1005.05
+# Last modified: 31 Oct 2025 17:26 UTC
+# Version: 2025.1031.1726.11
 # Syntax: Domains (without subdomains)
-# Number of entries: 14207
+# Number of entries: 14206
 #
 01broker.com
 01crypto.com
@@ -2208,7 +2208,6 @@ caterpillarschuhe.at
 caterpillarschuhe.de
 caterpillarsuomi.com
 caterpillarwien.com
-catfilled.baby
 catfootwear-at.com
 cathkidstonshopuk.com
 cathybentley.shop
