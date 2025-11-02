@@ -22,7 +22,7 @@ This blocklist is left in the [public domain (Do What The Fuck You Want To Publi
 
 ### uBlacklist syntax
 
-[Blocklist in uBlacklist format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist). It removes blocked sites from search engine results.
+[Blocklist in uBlacklist format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist). It filters blocked sites from results on several search engines.
 
 [Click here to subscribe.](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FNotaInutilis%2FSuper-SEO-Spam-Suppressor%2Fmain%2Fublacklist.txt) Note that subscription links need to be enabled for this to work.
 
