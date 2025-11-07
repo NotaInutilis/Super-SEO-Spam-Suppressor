@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Nov 2025 09:26 UTC
-# Version: 2025.1106.0926.26
+# Last modified: 07 Nov 2025 01:26 UTC
+# Version: 2025.1107.0126.35
 # Syntax: Domains (without subdomains)
-# Number of entries: 13952
+# Number of entries: 13954
 #
 01broker.com
 01crypto.com
@@ -2947,6 +2947,7 @@ de-upwork.online
 de-vivobarefoots.com
 de4teslaava.shop
 deaddictedtohandbagsapp.com
+deairecru.com
 dealfundus.de
 dealira.com
 dealit-quick-nl.com
@@ -12983,6 +12984,7 @@ vejasneakerswien.at
 vejatenis.com
 vejavienna.at
 vejazapatoscolombia.net
+velander-beratung.de
 velanoshop.com
 velaro-plus.com
 vellamia.de
