@@ -1,1 +1,2 @@
-`sed` for the [Spam blacklist](https://meta.wikimedia.org/wiki/Spam_blacklist): `sed  "s|\\\[^.]||g;s|\\\||g;s|.*(.*||g;s|.*\[.*||g;s|^\\.||g;s|\s#.*||g;s|.*/.*||g;s|.*{.*||g;s|#.*||g;s|.*\*.*||g;s|.*+.*||g;s|.*?.*||g;s|.*\\^.*||g;"'/.\+\..\+/!d'`
+`sed` for the [Spam blacklist](https://meta.wikimedia.org/wiki/Spam_blacklist): `sed "s|\\\[^.|^/]||
+g;s|\\\||g;s|.*(.*||g;s|.*\[.*||g;s|^\\.||g;s|\s#.*||g;s|.*/.*||g;s|.*{.*||g;s|#.*||g;s|.*\*.*||g;s|.*+.*||g;s|.*?.*||g;s|.*\\^.*||g;"'/.\+\..\+/!d'`
