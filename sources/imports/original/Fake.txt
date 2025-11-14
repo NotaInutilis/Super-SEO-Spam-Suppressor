@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Nov 2025 09:26 UTC
-# Version: 2025.1113.0926.50
+# Last modified: 13 Nov 2025 21:28 UTC
+# Version: 2025.1113.2128.27
 # Syntax: Domains (without subdomains)
-# Number of entries: 14354
+# Number of entries: 14353
 #
 01broker.com
 01crypto.com
@@ -6643,7 +6643,6 @@ iount.com
 iovannhecimovic.com
 iowautotrading.com
 ipanema-osterreich.at
-net.ipdwio.com
 iphone16-refurbed.de
 iprimmo.com
 iptvdutch.store
