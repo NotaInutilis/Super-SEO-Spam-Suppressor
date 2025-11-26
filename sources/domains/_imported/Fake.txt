@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Nov 2025 09:28 UTC
-# Version: 2025.1125.0928.27
+# Last modified: 25 Nov 2025 21:28 UTC
+# Version: 2025.1125.2128.52
 # Syntax: Domains (without subdomains)
-# Number of entries: 13848
+# Number of entries: 13849
 #
 01broker.com
 01crypto.com
@@ -10473,6 +10473,7 @@ robo-center.com
 robo-fx.co
 robo-wienburg.com
 robobrokerltd.com
+robosparkinvestor.de
 roboter-maeher.com
 robottagliaerbascontato.com
 robottonte.com
