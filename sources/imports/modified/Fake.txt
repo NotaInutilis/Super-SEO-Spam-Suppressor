@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Nov 2025 09:27 UTC
-# Version: 2025.1130.0927.44
+# Last modified: 30 Nov 2025 17:28 UTC
+# Version: 2025.1130.1728.34
 # Syntax: Domains (without subdomains)
-# Number of entries: 14025
+# Number of entries: 14028
 #
 01broker.com
 01crypto.com
@@ -1825,6 +1825,7 @@ brennholzboersch.com
 brennholzdge.com
 brennholzdirekt.com
 brennholzdoeg.com
+brennholzededgar.com
 brennholzforheat.com
 brennholzgo.de
 brennholzkamin.de
@@ -5998,6 +5999,7 @@ hoferwien.com
 hoff-de.com
 hoffmannwelpen.de
 hofinger-modehaus.com
+hofman.com
 hofmann23.de
 hofmannmode.de
 hofnergraz.at
@@ -7043,6 +7045,7 @@ kleidungsmarkt.com
 klein-shop.de
 kleinegeschende.com
 kleinwien.at
+kleversholz.com
 kleverzins.de
 klimmotorrad.com
 klingerdirndl.com
