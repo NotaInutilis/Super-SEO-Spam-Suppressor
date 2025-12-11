@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Dec 2025 09:28 UTC
-# Version: 2025.1210.0928.45
+# Last modified: 10 Dec 2025 21:28 UTC
+# Version: 2025.1210.2128.33
 # Syntax: Domains (without subdomains)
 # Number of entries: 14169
 #
@@ -1319,6 +1319,7 @@ berlinsprime.de
 berlinstil.de
 berlinwoch.com
 berluxe.de
+bermuda-musicshop.de
 bernardes.de
 bernhardthome.com
 beruhig-ende.de
@@ -9298,7 +9299,6 @@ oelza.de
 oelzone.de
 oelzy.de
 oesterreichischeapotheke.com
-oewist.com
 ofendeutschland.com
 ofenhausfuchs.com
 ofenrohr.eu
