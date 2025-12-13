@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 09:28 UTC
-# Version: 2025.1212.0928.53
+# Last modified: 12 Dec 2025 18:14 UTC
+# Version: 2025.1212.1814.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 14188
+# Number of entries: 14189
 #
 01broker.com
 01crypto.com
@@ -8642,6 +8642,7 @@ morgentau-brautmoden.de
 morii.nl
 moro-fahrraeder.de
 mortalvessel.com
+morvath-ltd.com
 mosaik-invest.com
 mosano.de
 moscotberlin.de
