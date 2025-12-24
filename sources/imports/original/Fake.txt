@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Dec 2025 09:28 UTC
-# Version: 2025.1223.0928.25
+# Last modified: 24 Dec 2025 01:28 UTC
+# Version: 2025.1224.0128.45
 # Syntax: Domains (without subdomains)
-# Number of entries: 13953
+# Number of entries: 13955
 #
 01broker.com
 01crypto.com
@@ -1150,6 +1150,7 @@ bauzeug.de
 bavariasis.com
 baya-bikini.de
 bayer-heizen.at
+bayerwald-heizoel.de
 bayin-tech.de
 bayowns.com
 bayreuth-boutique.de
@@ -6559,6 +6560,7 @@ jackensalestore.com
 jacketshopdeutschland.com
 jacmusfashion.com
 jacoobss.store
+jaeger-brennstoffe.de
 jaeger-ra.net
 jafana.de
 jagute.de
