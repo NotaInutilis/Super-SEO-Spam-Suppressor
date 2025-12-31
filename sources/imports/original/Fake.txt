@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Dec 2025 09:30 UTC
-# Version: 2025.1230.0930.41
+# Last modified: 31 Dec 2025 09:31 UTC
+# Version: 2025.1231.0931.33
 # Syntax: Domains (without subdomains)
-# Number of entries: 14118
+# Number of entries: 14119
 #
 01broker.com
 01crypto.com
@@ -95,6 +95,7 @@ abrahamr.com
 abrisphere.com
 abrorabatt.de
 absolutelk.com
+absolutelyn.com
 absoluteo.com
 absorbpath.com
 absorrption.com
@@ -2779,6 +2780,7 @@ crxjik.shop
 cryotoxtrade.com
 cryptex-online.de
 cryptex-vip.com
+tax.crypto.com
 crypto-bulot.com
 crypto-institute.com
 crypto-invest-ai.de
@@ -10241,7 +10243,6 @@ protovfurniture.com
 proupwholesale.com
 provenxperts.com
 proveri.de
-providedes.com
 provise24.com
 prowerkparts.com
 proximitye.com
