@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jan 2026 09:30 UTC
-# Version: 2026.0111.0930.38
+# Last modified: 11 Jan 2026 17:30 UTC
+# Version: 2026.0111.1730.35
 # Syntax: Domains (without subdomains)
-# Number of entries: 14245
+# Number of entries: 14244
 #
 01broker.com
 01crypto.com
@@ -2799,7 +2799,6 @@ crypto-invest-ai.de
 crypto-invest-strategie.de
 crypto-major.com
 crypto-next.com
-crypto-tradevest.com
 cryptoassetscontrol.com
 cryptobourse.net
 cryptocash24.com
