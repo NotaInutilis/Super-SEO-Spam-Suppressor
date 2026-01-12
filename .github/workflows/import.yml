@@ -12,14 +12,12 @@ jobs:
   import:
     name: Import blocklists
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
 
     steps:
     - uses: actions/checkout@v6
-    - name: Set up Python 3.10
+    - name: Set up Python
       uses: actions/setup-python@v6
-      with:
-        python-version: "3.10"
     - name: Run import
       run: ./scripts/import.sh
     - name: Run update
@@ -29,6 +27,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        if git commit -m "Import blocklists"; then
-          git push
-        fi
+        git commit -m "Import blocklists"
+        git push

@@ -11,14 +11,12 @@ jobs:
   update:
     name: Update blocklists
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
 
     steps:
     - uses: actions/checkout@v6
-    - name: Set up Python 3.10
+    - name: Set up Python
       uses: actions/setup-python@v6
-      with:
-        python-version: "3.10"
     - name: Run update
       run: ./scripts/update.sh
     - name: Commit and push
@@ -26,6 +24,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        if git commit -m "Update blocklists"; then
-          git push
-        fi
+        git commit -m "Update blocklists"
+        git push
