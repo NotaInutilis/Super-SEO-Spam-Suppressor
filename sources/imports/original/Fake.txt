@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jan 2026 13:42 UTC
-# Version: 2026.0122.1342.54
+# Last modified: 23 Jan 2026 01:27 UTC
+# Version: 2026.0123.0127.26
 # Syntax: Domains (without subdomains)
-# Number of entries: 14204
+# Number of entries: 14206
 #
 01broker.com
 01crypto.com
@@ -9918,6 +9918,7 @@ petlifebio.com
 petmirth.com
 petoutlet.store
 petrichorra.com
+petrobas.ch
 petromaxsales.com
 petronpay.com
 petshops1.com
@@ -13367,6 +13368,7 @@ viennastil.at
 vientooffice.de
 vierjahreszeitengarten.com
 vierpfote.de
+viforex.com
 vignette-shops.com
 vignobles-terroirs.com
 vigoroussport.com
