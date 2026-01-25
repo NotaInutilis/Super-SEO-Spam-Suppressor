@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jan 2026 09:26 UTC
-# Version: 2026.0124.0926.57
+# Last modified: 24 Jan 2026 17:28 UTC
+# Version: 2026.0124.1728.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 13881
+# Number of entries: 13880
 #
 01broker.com
 01crypto.com
@@ -11752,7 +11752,6 @@ strunz-kapital.com
 studenten-lektor.de
 studiomrb.it
 studiosflora.de
-nyhead.stufffall.shop
 stuhleangebote.com
 stuhlebanke.com
 stuhlepromos.com
