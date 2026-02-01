@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Jan 2026 09:28 UTC
-# Version: 2026.0131.0928.27
+# Last modified: 31 Jan 2026 15:27 UTC
+# Version: 2026.0131.1527.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 14179
+# Number of entries: 14180
 #
 01broker.com
 01crypto.com
@@ -2386,6 +2386,7 @@ clothing-s.com
 clothingcream.com
 clothingitemus.com
 clothingonsale-online.com
+clothlve.com
 cloudapotheke.com
 clouddiy.shop
 cloudschuhesale.de
