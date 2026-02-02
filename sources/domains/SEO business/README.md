@@ -1,1 +1,1 @@
-Companies, individuals, news sites, formations and get rich quick schemes. The whole business is rotten.
+SEO, ads, marketing, etc. We'll sort them out properly later.
