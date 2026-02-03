@@ -162,10 +162,13 @@ This list is not blocking its search results, which consistently appear on top o
 
 ## Recommended lists and projects
 
-- [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): a *very* exhaustive AI blocklist with a lot of entries that I'm not yet able to import in SSSS.
-- [Bad Website Blocklist](https://github.com/popcar2/BadWebsiteBlocklist): a well documented AI & SEO blocklist for uBlacklist that I'm also not yet able to import in SSSS.
+- [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): A *very* exhaustive AI blocklist with a lot of entries that I'm not yet able to import in SSSS
+- [Stevo's GenAI Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist): A blocklist to remove genAI "features" from most sites we still have to use
+- [Bad Website Blocklist](https://github.com/popcar2/BadWebsiteBlocklist): A well documented AI & SEO blocklist for uBlacklist that I'm also not yet able to import in SSSS
 - [ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest): I hate Pinterest.
 - [A dove is dumb](https://a.dove.isdumb.one/list.txt): Adobe hates you.
 - [Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations): Consider blocking social media and big tech corporations.
 - [FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard): Alerts on risky sites if they're not blocked already.
-- [Alerte sur les sites GenAI](https://next.ink/164873/outils-next-une-extension-chrome-et-firefox-pour-etre-alerte-des-sites-genai/): Alertes sur le sites en IA pourris si ils ne sont pas déjà bloqués.
+- [Alerte sur les sites GenAI](https://next.ink/164873/outils-next-une-extension-chrome-et-firefox-pour-etre-alerte-des-sites-genai/): Alertes sur le sites en IA pourris si ils ne sont pas déjà bloqués
+- [Soul Over AI](https://github.com/xoundbyte/soul-over-ai): An index of fake genAI artists on music platforms
+- [blocklist for AI music on youtube](https://surasshu.com/blocklist-for-ai-music-on-youtube/): A genAI blocklist for blocktube
