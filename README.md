@@ -36,13 +36,13 @@ This blocklist is left in the [public domain (Do What The Fuck You Want To Publi
 
 [Blocklist in uBlacklist format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist). It filters blocked sites from results on [several search engines](https://github.com/iorate/ublacklist?tab=readme-ov-file#supported-search-engines).
 
-[Click here to subscribe.](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FNotaInutilis%2FSuper-SEO-Spam-Suppressor%2Fmain%2Fublacklist.txt) Note that subscription links need to be enabled for this to work.
+[Click here to subscribe.](https://ublacklist.github.io/rulesets/subscribe?url=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt) Note that subscription links need to be enabled for this to work.
 
 ### AdBlock Plus syntax
 
 [Blocklist in AdBlock format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/adblock.txt) to use with an adblocker ([uBlock Origin](https://ublockorigin.com), [Adguard](https://adguard.com)…) or Adguard Home. It uses a [strict blocking rule](https://github.com/gorhill/uBlock/wiki/Strict-blocking) to block access to those sites on your browser.
 
-[Click here to subscribe.](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/adblock.txt&title=Super%20SEO%20Spam%20Suppressor)
+[Click here to subscribe.](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/adblock.txt)
 
 ## DNS blockers
 
