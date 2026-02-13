@@ -1,1 +1,1 @@
-It's all pure content: empty, soulless, about everything at once, yet saying nothing at all. An incoherent mess of articles on a lot of barely related topics. Probably AI automated, the very worst use of WordPress.
+Blogs (usually) full of slop. Now it's fully AI. Imagine that a couple years ago, people were typing this shit by hand!

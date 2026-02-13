@@ -1,0 +1,1 @@
+Black hat SEO tricks, which involve hacking websites or abusing known vulnerability to create links to their shit sites, or directly send you to a scam
