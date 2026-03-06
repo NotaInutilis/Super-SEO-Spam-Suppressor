@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 09:34 UTC
-# Version: 2026.0305.0934.32
+# Last modified: 05 Mar 2026 22:03 UTC
+# Version: 2026.0305.2203.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 14124
+# Number of entries: 14123
 #
 01broker.com
 01crypto.com
@@ -5626,7 +5626,6 @@ hcm.clinic
 hdfmilbratbrennholz.de
 hdofenhaus.com
 hdtvcar.com
-he.de
 headlinesworldnews.com
 headtennistownde.com
 healing-rock.de
