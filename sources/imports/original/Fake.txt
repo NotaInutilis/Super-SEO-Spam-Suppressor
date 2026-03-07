@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 09:54 UTC
-# Version: 2026.0306.0954.42
+# Last modified: 06 Mar 2026 17:02 UTC
+# Version: 2026.0306.1702.50
 # Syntax: Domains (without subdomains)
-# Number of entries: 14132
+# Number of entries: 14133
 #
 01broker.com
 01crypto.com
@@ -350,6 +350,7 @@ allegoo.com
 allekaufhauser.com
 alles-anhanger.com
 allesescooter.de
+allesfuerdengarten.com
 allesfurbaby.de
 allesfurzuhause.de
 allesheizung.de
