@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 09:31 UTC
-# Version: 2026.0310.0931.23
+# Last modified: 10 Mar 2026 21:31 UTC
+# Version: 2026.0310.2131.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 14436
+# Number of entries: 14453
 #
 01broker.com
 01crypto.com
@@ -850,6 +850,7 @@ aurahous.com
 aurainfusions.com
 aureamunich.de
 aurelllc.com
+aurenbridge.com
 auresthiqan.sbs
 aurexk-pital.com
 aurolonix.com
@@ -1795,6 +1796,8 @@ brennholz49.de
 brennholzbillharz.shop
 brennholzboersch.com
 brennholzdge.com
+brennholzfiger.com
+brennholzholzge.com
 brennholzkamin.de
 brennholzmeister.com
 brennholzmeister.de
@@ -2047,6 +2050,7 @@ capital-epargne.com
 capital-rvg.com
 capital888.net
 capitalcourtage.com
+capitalfm.io
 capitalfrance.fr
 capitalfxs.com
 capitalholdings.icu
@@ -2171,6 +2175,7 @@ celorin.com
 cenatrix.com
 centahah.de
 center-staubsauger.de
+centerviewpnllc.com
 centralsport.nl
 cerabone.cz
 ceramicjapan-de.com
@@ -3200,6 +3205,7 @@ deutschechic.de
 deutschegrammophoneu-outlets.shop
 deutscher-invest-markt.de
 deutschersammlerschatz.com
+deutsches-gut.de
 deutschesbrennholz.de
 deutschezeltwelt.com
 deutschgeschenkfest.com
@@ -4454,6 +4460,7 @@ finovexpro-app.com
 finpari.com
 finprofm.com
 finrally.com
+finrocketpro.com
 fintechnews.live
 fintegral.world
 fintrexia.org
@@ -5892,6 +5899,7 @@ heizova.de
 heizparadies.de
 heizpellets247.de
 heizpro.com
+heizprohandel.com
 heizstrahlerprada.de
 heizsy.de
 heiztechnik-kundendienst.at
@@ -9721,6 +9729,7 @@ optessentialoils.com
 optimalattire.com
 optimaltackle.com
 optimarkets.com
+optinomic.co
 option-bank.com
 optionbanking.com
 optionet.com
@@ -14272,8 +14281,11 @@ yogastr.com
 yokee.de
 yokemart.com
 yokofashionswitzerland.com
+yonexdeutschland.com
+yonexdeutschland.de
 yoocaa.com
 yoohal.com
+yooso.de
 yorkbootsshop.de
 youdenovahome.shop
 youkukestylus.com
@@ -14293,6 +14305,7 @@ yuan-paygroup.com
 yuanpaygroup.org
 yuaonew.com
 yuguz.com
+yumgo.net
 yummycrystal.com
 yumor.shop
 life.yuomyt.com
@@ -14357,6 +14370,7 @@ zeigstil.com
 zeit-modehaus.com
 zeitgeschenen.de
 zeitlosliebe.de
+zelara.de
 zelono.de
 zelterabatt.com
 zeltkinggear.com
@@ -14369,6 +14383,7 @@ zenla.de
 zenniagoods.com
 zeno-paris.shop
 zenova-shop.de
+zenovaa.store
 zentempel.com
 zentiv.de
 zentoil.de
@@ -14389,6 +14404,7 @@ zetko-waren.de
 app.zety.de
 zeylor-pacte.com
 zfggmbh.de
+ziegler-handel.de
 zieglerzurich.ch
 zigaretten-bestellen.net
 zigaretten-steuerfrei-bestellen.com
@@ -14402,6 +14418,7 @@ zinpp.com
 zinsacm.com
 zinsfuchs.com
 zinsmanager.de
+zinsprofi.net
 zinzendorf-mode.at
 zipgoat.com
 zirella.de
