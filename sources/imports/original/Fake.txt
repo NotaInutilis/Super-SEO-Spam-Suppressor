@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Mar 2026 09:31 UTC
-# Version: 2026.0311.0931.09
+# Last modified: 11 Mar 2026 15:31 UTC
+# Version: 2026.0311.1531.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 14465
+# Number of entries: 14464
 #
 01broker.com
 01crypto.com
@@ -3201,7 +3201,6 @@ deutsche-backwaren-manufaktur.com
 deutsche-fahrrader.com
 deutsche-rentenauskunft.de
 deutsche-wurst-manufaktur.com
-deutschebapotheke.net
 deutschechic.de
 deutschegrammophoneu-outlets.shop
 deutscher-invest-markt.de
