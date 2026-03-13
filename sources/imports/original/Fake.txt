@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Mar 2026 09:32 UTC
-# Version: 2026.0312.0932.27
+# Last modified: 12 Mar 2026 21:32 UTC
+# Version: 2026.0312.2132.02
 # Syntax: Domains (without subdomains)
-# Number of entries: 14471
+# Number of entries: 14472
 #
 01broker.com
 01crypto.com
@@ -12107,6 +12107,7 @@ steelcabinetsonline.com
 steelite-au.com
 stehaufe.de
 steiffen.shop
+steinberg-munchen.com
 steinbohrershop.com
 steiner-wien.at
 steinersalzburg.at
