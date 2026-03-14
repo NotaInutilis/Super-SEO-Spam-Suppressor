@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 09:33 UTC
-# Version: 2026.0313.0933.17
+# Last modified: 13 Mar 2026 16:18 UTC
+# Version: 2026.0313.1618.50
 # Syntax: Domains (without subdomains)
-# Number of entries: 14481
+# Number of entries: 14482
 #
 01broker.com
 01crypto.com
@@ -5493,6 +5493,7 @@ gtoptions.com
 guamthuc.com
 guaranteeddealhub.com
 guardiannewstoday.com
+guardunit77-booking.com
 guckeisen-garten.de
 guckflix.de
 guessfinland.com
