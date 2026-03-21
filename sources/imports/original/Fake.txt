@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 09:30 UTC
-# Version: 2026.0320.0930.49
+# Last modified: 20 Mar 2026 16:17 UTC
+# Version: 2026.0320.1617.04
 # Syntax: Domains (without subdomains)
-# Number of entries: 14394
+# Number of entries: 14395
 #
 01broker.com
 01crypto.com
@@ -8463,6 +8463,7 @@ milanowood.de
 milaravibes.de
 milea-wien.at
 milentech.com
+millaura.com
 milleis-bk.com
 milleniumchain.com
 millioncrystal.com
