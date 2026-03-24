@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Mar 2026 09:36 UTC
-# Version: 2026.0323.0936.05
+# Last modified: 23 Mar 2026 15:37 UTC
+# Version: 2026.0323.1537.01
 # Syntax: Domains (without subdomains)
-# Number of entries: 14178
+# Number of entries: 14180
 #
 01broker.com
 01crypto.com
@@ -4850,6 +4850,7 @@ gartenbnke.com
 gartendekoprada.de
 gartendo.de
 gartenesstisch.com
+gartenfarbewelt.com
 gartenflamme24.de
 gartenfreunde-murrhardt.de
 gartengeraete-shop.de
@@ -8571,6 +8572,7 @@ monsieur-pharmacien.com
 monsoonosterreich.at
 monsroyales.com
 monsterboxofficial.com
+montageanziehen.com
 montanahudson.com
 montblancsale.de
 monteconsale.at
