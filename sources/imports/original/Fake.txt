@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Mar 2026 09:34 UTC
-# Version: 2026.0324.0934.36
+# Last modified: 24 Mar 2026 17:54 UTC
+# Version: 2026.0324.1754.35
 # Syntax: Domains (without subdomains)
-# Number of entries: 14204
+# Number of entries: 14206
 #
 01broker.com
 01crypto.com
@@ -6052,6 +6052,7 @@ holzlangbau.de
 holzliefer.com
 holzpuzzlez.com
 holzqualitat.de
+holzsofort.de
 holzstreif.de
 holzti.com
 holzvomland.de
@@ -9314,6 +9315,7 @@ obmarkets.com
 obozboots.com
 obozdeutschland.com
 obroker.com
+obsidian-group.org
 obstbaumpflanzen.com
 obstbaumrabatt.com
 obstbaumwelt.com
