@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Mar 2026 09:38 UTC
-# Version: 2026.0328.0938.12
+# Last modified: 28 Mar 2026 22:37 UTC
+# Version: 2026.0328.2237.17
 # Syntax: Domains (without subdomains)
-# Number of entries: 14239
+# Number of entries: 14240
 #
 01broker.com
 01crypto.com
@@ -7861,6 +7861,7 @@ luvinity-berlin.de
 luvness.de
 luvori.de
 luvyle.com
+luwander.shop
 luxavita-berlin.de
 luxde.de
 luxeberlin.de
