@@ -1,1 +1,0 @@
-It's not run by a company but it's still an unreadable SEO hellhole.

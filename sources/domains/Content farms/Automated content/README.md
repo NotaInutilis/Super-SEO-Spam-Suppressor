@@ -1,1 +1,0 @@
-Blogs (usually) full of slop. Now it's fully AI. Imagine that a couple years ago, people were typing this shit by hand!
