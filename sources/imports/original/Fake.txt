@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Apr 2026 09:40 UTC
-# Version: 2026.0415.0940.27
+# Last modified: 15 Apr 2026 17:09 UTC
+# Version: 2026.0415.1709.43
 # Syntax: Domains (without subdomains)
-# Number of entries: 14686
+# Number of entries: 14685
 #
 01broker.com
 01crypto.com
@@ -788,7 +788,6 @@ asfintarg.com
 asflnaq.me
 asfnneghs.cyou
 asfrnagi.beer
-asfrnagi.lat
 asgeirpetursson.com
 ashatoslombardini.com
 ashbergh.com
