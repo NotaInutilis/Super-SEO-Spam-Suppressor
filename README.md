@@ -153,7 +153,8 @@ This blocklist borrows from the following projects:
 - the [hosts blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/noai_hosts.txt) from laylavish's [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) (no licence).
 - the [fake (wildcard domains) blocklist](https://github.com/hagezi/dns-blocklists/blob/main/wildcard/fake-onlydomains.txt) from hagezi's [DNS Blocklists](https://github.com/hagezi/dns-blocklists) ([GNU General Public License v3.0](https://github.com/hagezi/dns-blocklists/blob/main/LICENSE))
 - the [Anti-Malware Domains blocklist](https://github.com/DandelionSprout/adfilt/blob/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt) from DandelionSprout's [adfilt](https://github.com/DandelionSprout/adfilt) ([Dandelicence](https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md)).
-- the [full plus domains blocklist](https://github.com/fmhy/FMHYFilterlist/blob/main/filterlist-domains.txt) from fmhy's FMHY [Filterlist](https://github.com/fmhy/FMHYFilterlist) ([GNU General Public License v3.0](https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE))
+- the [full plus domains blocklist](https://github.com/fmhy/FMHYFilterlist/blob/main/filterlist-domains.txt) from fmhy's [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) ([GNU General Public License v3.0](https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE))
+- the [full blocklist](https://github.com/alvi-se/ai-ublock-blacklist/blob/master/ublacklist.txt) from alvi-se's [AI uBlock Origin Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) ([GNU General Public License v3.0](https://github.com/alvi-se/ai-ublock-blacklist/blob/master/LICENSE))
 
 ## Fandom (formerly known as Wikia)
 
@@ -172,3 +173,4 @@ This list is not blocking its search results, which consistently appear on top o
 - [Alerte sur les sites GenAI](https://next.ink/164873/outils-next-une-extension-chrome-et-firefox-pour-etre-alerte-des-sites-genai/): Alertes sur le sites en IA pourris si ils ne sont pas déjà bloqués
 - [Soul Over AI](https://github.com/xoundbyte/soul-over-ai): An index of fake genAI artists on music platforms
 - [blocklist for AI music on youtube](https://surasshu.com/blocklist-for-ai-music-on-youtube/): A genAI blocklist for blocktube
+- [CevvalYoutubeAIBlocklist](https://github.com/cevvalkoala/CevvalYoutubeAIBlocklist): A genAI blocklist for Youtube using uBlock Origin
