@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 May 2026 07:50 UTC
-# Version: 2026.0507.0750.18
+# Last modified: 07 May 2026 17:15 UTC
+# Version: 2026.0507.1715.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 14381
+# Number of entries: 14384
 #
 01broker.com
 01crypto.com
@@ -1453,6 +1453,7 @@ bikeambulanz-mobil.de
 bikeauction.de
 bikebabyseatde.com
 bikebitsde.com
+bikebox-salzgitter.de
 bikeboys-onlineshop.de
 bikechainlockde.com
 bikecomponents24.de
@@ -1470,6 +1471,7 @@ bikelovershop.com
 bikemarket.com
 biken-fahrrad.com
 bikenabende.com
+bikenetz.de
 bikepartonline.com
 bikepartsale.com
 bikepartsneu.com
@@ -4931,6 +4933,7 @@ gartenmotor.de
 gartenmotorgerate.com
 gartenobstshop.com
 gartenpflanzende.com
+gartenpflege-in-duisburg.de
 gartenpflegeshop.com
 gartenpicks.de
 gartenplus24.com
