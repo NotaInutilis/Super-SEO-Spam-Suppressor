@@ -46,6 +46,11 @@ find ./sources -maxdepth 1 -type f -iname "*.txt" -exec bash -c '
     sort -u "$0" > "$0_temp.txt";
     mv "$0_temp.txt" "$0";
 ' {} \;
+### Prune offline domains
+find ./sources -maxdepth 1 -type f -iname "*domains.txt" -exec bash -c '
+    grep -vxFf "./sources/offline/offline_domains.txt" "$0" > "$0_temp.txt";
+    mv "$0_temp.txt" "$0";
+' {} \;
 
 # Generate blocklists
 
