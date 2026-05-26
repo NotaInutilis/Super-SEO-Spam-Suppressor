@@ -48,7 +48,7 @@ find ./sources -maxdepth 1 -type f -iname "*.txt" -exec bash -c '
 ' {} \;
 ### Prune offline domains
 find ./sources -maxdepth 1 -type f -iname "*domains.txt" -exec bash -c '
-    grep -vxFf "./sources/offine/offline_domains.txt" "$0" > "$0_temp.txt";
+    grep -vxFf "./sources/offline/offline_domains.txt" "$0" > "$0_temp.txt";
     mv "$0_temp.txt" "$0";
 ' {} \;
 
