@@ -53,7 +53,7 @@ come-star.com
 twingate.com
 homenethowto.com
 techrt.com
-windows10forums.com
+#windows10forums.com # it's a forum, the last good kind of social media
 helpdeskgeek.com
 windowschimp.com
 computerhope.com
@@ -108,7 +108,6 @@ learnunic.com
 languatalk.com
 mycleverai.com
 frenchicoai.com
-borne.ai
 learnpal.ai
 lingopie.com
 frenchtogether.com
@@ -754,10 +753,8 @@ scrapingbee.com
 browserless.io
 evomi.com
 lbttechnologygroup.com
-pixelscan.net
 scrapeless.com
 netnut.io
-serveur-prive.net
 fr.admininfo.info
 kb.unixservertech.com
 howtoforge.com
@@ -780,7 +777,6 @@ linuxcommandlibrary.com
 infratrend.fr
 dmi40.fr
 guru99.com
-jeveuxetredatascientist.fr
 pingmynetwork.com
 amj74-informatique.fr
 cbtnuggets.com
@@ -817,7 +813,7 @@ tutorialsfreak.com # SEO spam
 signalboosters.com
 proofpoint.com
 speednetlte.com
-cloudfloordns.com # seo spam
+cloudfloordns.com # seo spam, ai images
 dn.org
 macrohype.com
 humanwhocodes.com
@@ -830,9 +826,8 @@ technorms.com
 elementor.com
 geckoandfly.com
 redditmedia.com
-hostinger.com
+hostinger.com # useful host BUT "Vibe code your website or web app today" bullshit
 cleanbrowsing.org
-blog.cleanbrowsing.org
 dnsfilter.com #ai
 wintips.org
 protectyoungeyes.com
@@ -844,5 +839,5 @@ titanhq.com # ai
 whatsoftware.com # seo
 gadgetsloud.com
 kidzsearch.com # LLM spam
-windowsdigitals.com # seo # not sure, seems handmade and not spammy
+#windowsdigitals.com # seo # not sure, seems handmade and not spammy
 #firstlight.net # seo # can't find more than 2 bad blog entries
