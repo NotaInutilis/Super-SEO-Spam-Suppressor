@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jun 2026 21:51 UTC
-# Version: 2026.0616.2151.52
+# Last modified: 17 Jun 2026 06:32 UTC
+# Version: 2026.0617.0632.28
 # Syntax: Domains (without subdomains)
 # Number of entries: 16912
 #
@@ -580,6 +580,7 @@ ge.thebloomcar.com
 trd.titan-capital-partners.com
 adl.tlhqca.shop
 kino.tolle-nachrichten.com
+get-epicooler.topashopo.com
 kayh.tovy.shop
 rafso.tovy.shop
 gwcsale.towncabco.com
@@ -15093,7 +15094,6 @@ todaytoneshop.com
 todo-para-camping-caravans.es
 todo-para-embarcaciones.com
 toffifeeaktion.de
-togelhongkongpools1.com
 togelsydneypools.org
 togetherrxacces.com
 tojo-heizoel.de
