@@ -2,21 +2,19 @@
 # "Discounts" on a subscription, white label at the end of an order.
 # https://www.reddit.com/r/france/comments/1egjmgq/comment/lftzsnw/
 # https://github.com/easylist/easylist/issues/1766
-https://webloyalty.com/world
-webloyalty.fr/* 
-webloyalty-affiliates.fr/*
-webloyalty-leblog.fr/*
-https://www.remisesetreductions.fr/
-webloyalty-panel.com/*
-webloyalty.ch/*
-webloyalty.com/*
-webloyalty.be/*
-webloyalty.co.uk/*
-privilegiosencompras.es/*
+webloyalty.com
+webloyalty.fr 
+webloyalty-affiliates.fr
+webloyalty-leblog.fr
+remisesetreductions.fr
+webloyalty-panel.com
+webloyalty.ch
+webloyalty.be
+webloyalty.co.uk
+privilegiosencompras.es
 wlscripts.fr
 wlscripts.net
 wlscripts.org
-https://webloyalty.co.uk/
-https://webloyalty.mx/
-https://webloyalty.ie
-https://www.webloyalty.es/
+webloyalty.mx
+webloyalty.ie
+webloyalty.es
