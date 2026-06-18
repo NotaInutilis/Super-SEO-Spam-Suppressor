@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Jun 2026 06:32 UTC
-# Version: 2026.0617.0632.28
+# Last modified: 17 Jun 2026 13:52 UTC
+# Version: 2026.0617.1352.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 16912
+# Number of entries: 16910
 #
 trader.212group.de
 eu.2bagsvalley.cn
@@ -580,7 +580,6 @@ ge.thebloomcar.com
 trd.titan-capital-partners.com
 adl.tlhqca.shop
 kino.tolle-nachrichten.com
-get-epicooler.topashopo.com
 kayh.tovy.shop
 rafso.tovy.shop
 gwcsale.towncabco.com
@@ -2289,7 +2288,6 @@ bestwear.club
 bestwerkzeugeshop.com
 besvip.top
 betashop-gmbh.com
-bethanystore.com
 beti-digital.de
 betonruttler.com
 betonspot.com
