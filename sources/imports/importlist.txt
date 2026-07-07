@@ -17,7 +17,6 @@ ublacklist-anti-ai-art-subscription.txt|https://codeberg.org/ranmaru22/ublacklis
 SpamdexingSites.txt|https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/main/blocklist.txt
 pihole-blacklists dropshipping.txt|https://raw.githubusercontent.com/pihole-blacklists/blacklists/master/blacklists/dropshipping
 Huge AI Blocklist hosts.txt|https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/noai_hosts.txt
-image-search AI Blocklist hosts.txt|https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist/raw/branch/main/noai_hosts.txt
 Fake.txt|https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
 Anti Malware Domains.txt|https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt
 FMHY domains plus.txt|https://raw.githubusercontent.com/fmhy/FMHYFilterlist/refs/heads/main/filterlist-domains.txt
