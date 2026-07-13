@@ -5,12 +5,11 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jul 2026 07:01 UTC
-# Version: 2026.0712.0701.09
+# Last modified: 12 Jul 2026 17:55 UTC
+# Version: 2026.0712.1755.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 16478
+# Number of entries: 16475
 #
-trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
 log.acces-btpanda.com
@@ -704,14 +703,12 @@ ger.zoibakii.com
 24med.net
 24slots-online.de
 24trading.co
-24usefultoolsstore.com
 269-versand-kleinanzeigen.de
 2bgreen.at
 2f-kanzlei.com
 2smart4me.de
 2wheelshero.com
 303e.com
-360reinigungsmittel.com
 365-pharm.com
 365-pharm.net
 365careprime.com
