@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jul 2026 07:13 UTC
-# Version: 2026.0721.0713.32
+# Last modified: 21 Jul 2026 17:57 UTC
+# Version: 2026.0721.1757.24
 # Syntax: Domains (without subdomains)
 # Number of entries: 17037
 #
@@ -12546,7 +12546,6 @@ punkcase.com
 punkrave.ch
 punkravestore.de
 punkteinflensburgabfragen.de
-punktestandflensburg.de
 puntoblancoshop.com
 puppenhauser.com
 puppenkleidungbillig.com
@@ -12603,6 +12602,7 @@ quantum-ai.at
 quantum-ai-be.com
 quantum-banc.world
 quantumai.fr
+quantumaiplatform.com
 quantumprimeprofit.io
 quantumtrade.co
 quantwise.ai
