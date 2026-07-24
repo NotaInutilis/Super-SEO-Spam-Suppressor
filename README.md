@@ -164,7 +164,8 @@ This list is not blocking its search results, which consistently appear on top o
 
 ## Recommended lists and projects
 
-- [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): A *very* exhaustive AI blocklist with a lot of entries that I'm not yet able to import in SSSS
+- [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): An unmaintained yet *very* exhaustive AI blocklist with a lot of entries that I'm not yet able to import in SSSS
+- [just_a_husk's image-search AI Blocklist](https://codeberg.org/just_a_husk/uBlockOrigin-AI-Blocklist): An *exhaustiver* fork of laylavish's AI blocklist, with even more entries that I can't import in SSSS
 - [Stevo's GenAI Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist): A blocklist to remove genAI "features" from most sites we still have to use
 - [Bad Website Blocklist](https://github.com/popcar2/BadWebsiteBlocklist): A well documented AI & SEO blocklist for uBlacklist that I'm also not yet able to import in SSSS
 - [ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest): I hate Pinterest.
