@@ -409810,6 +409810,9 @@
 ||jesuisavelo.com/*/blog^$document
 ||john-steel.com/*/blog^$document
 ||jpg.fr/centre-de-connaissances^$document
+||jrailpass.com/blog^$document
+||jrpass.com/*/blog^$document
+||jrpass.com/blog^$document
 ||jumpcloud.com/*/blog^$document
 ||jumpcloud.com/blog^$document
 ||kaspersky.co.in/blog^$document
@@ -409978,6 +409981,8 @@
 ||purevpn.com/blog^$document
 ||qare.fr/sante^$document
 ||quiesco.fr/pages^$document
+||rail.ninja/*/blog/^$document
+||rail.ninja/blog^$document
 ||rapidseedbox.com/*/blog^$document
 ||rapidseedbox.com/blog^$document
 ||recharged.com/articles^$document
@@ -410008,6 +410013,8 @@
 ||ronaldjamesgroup.com/blog^$document
 ||rueducommerce.fr/conseil^$document
 ||runcloud.io/blog^$document
+||saily.com/*/blog^$document
+||saily.com/blog^$document
 ||sakura.co/blog^$document
 ||salamuzik.com/*/blogs^$document
 ||santevet.com/articles^$document
@@ -410087,6 +410094,7 @@
 ||voyage-paisible.com/blogs^$document
 ||watsoft.com/blog-watsoft^$document
 ||wefy-group.com/blog^$document
+||weroad.fr/blog^$document
 ||windowo.fr/blog^$document
 ||wopilo.com/pages^$document
 ||xrite.com/*/blog^$document
