@@ -31725,6 +31725,7 @@ local-zone: "accountnumberinterview.biz" always_refuse
 local-zone: "accountpartfront.biz" always_refuse
 local-zone: "accountpass-securedsg.fr" always_refuse
 local-zone: "accountpaypal.fr" always_refuse
+local-zone: "accounts-electrodepot.fr" always_refuse
 local-zone: "accounts-google.fr" always_refuse
 local-zone: "accounts-logins.fr" always_refuse
 local-zone: "accounts-payment.fr" always_refuse
@@ -33655,6 +33656,7 @@ local-zone: "adolimcali.tk" always_refuse
 local-zone: "adolmigedari.cf" always_refuse
 local-zone: "adolscx.rest" always_refuse
 local-zone: "adoltsarasin.tk" always_refuse
+local-zone: "adomiassistance.fr" always_refuse
 local-zone: "adomonesra.tk" always_refuse
 local-zone: "adomusprow.tk" always_refuse
 local-zone: "adon.xyz" always_refuse
@@ -73907,6 +73909,7 @@ local-zone: "casino-dragonia.fr" always_refuse
 local-zone: "casino-duospin.fr" always_refuse
 local-zone: "casino-elysees-club.fr" always_refuse
 local-zone: "casino-en-ligne-argen-treel.fr" always_refuse
+local-zone: "casino-en-ligne-sans-verification.fr" always_refuse
 local-zone: "casino-enligne-argentreel.fr" always_refuse
 local-zone: "casino-enlignefiable.fr" always_refuse
 local-zone: "casino-estrella.fr" always_refuse
@@ -74245,6 +74248,7 @@ local-zone: "casinolevant-fr.fr" always_refuse
 local-zone: "casinolevant.fr" always_refuse
 local-zone: "casinolevant1.fr" always_refuse
 local-zone: "casinoliraspin.fr" always_refuse
+local-zone: "casinolizaroenligne.fr" always_refuse
 local-zone: "casinolo-casino.fr" always_refuse
 local-zone: "casinolo-enligne.fr" always_refuse
 local-zone: "casinolo-fr.fr" always_refuse
@@ -74446,6 +74450,7 @@ local-zone: "casinosupremefrancais.fr" always_refuse
 local-zone: "casinosvegasplus.fr" always_refuse
 local-zone: "casinotalismania.fr" always_refuse
 local-zone: "casinotemple.fr" always_refuse
+local-zone: "casinotikitakaenligne.fr" always_refuse
 local-zone: "casinotogether-fr.fr" always_refuse
 local-zone: "casinotogether-official.fr" always_refuse
 local-zone: "casinotogetheronline.fr" always_refuse
@@ -76370,9 +76375,13 @@ local-zone: "celsiuscasino777.fr" always_refuse
 local-zone: "celsiuscasinoapp.fr" always_refuse
 local-zone: "celsiuscasinobonus.fr" always_refuse
 local-zone: "celsiuscasinofr.fr" always_refuse
+local-zone: "celsiuscasinofra.fr" always_refuse
+local-zone: "celsiuscasinofrance.fr" always_refuse
 local-zone: "celsiuscasinologin.fr" always_refuse
 local-zone: "celsiuscasinopromo.fr" always_refuse
 local-zone: "celsiusfr.fr" always_refuse
+local-zone: "celsiusfrancecasino.fr" always_refuse
+local-zone: "celsiusfrcasino.fr" always_refuse
 local-zone: "celtanghantaiconspawn.cf" always_refuse
 local-zone: "celtetemplanwhi.ga" always_refuse
 local-zone: "celthiasacra.tk" always_refuse
@@ -79959,6 +79968,7 @@ local-zone: "chicattireus.com" always_refuse
 local-zone: "chicboho.com" always_refuse
 local-zone: "chicchaussures.fr" always_refuse
 local-zone: "chicco.com.de" always_refuse
+local-zone: "chiccofrance.fr" always_refuse
 local-zone: "chicdiefrizabacun.cf" always_refuse
 local-zone: "chicensolde.fr" always_refuse
 local-zone: "chicesigsanea.tk" always_refuse
@@ -86184,6 +86194,7 @@ local-zone: "coach-agency.com" always_refuse
 local-zone: "coach-florian.com" always_refuse
 local-zone: "coach-ksa.com" always_refuse
 local-zone: "coach-outlet-2011.info" always_refuse
+local-zone: "coach-outlet.fr" always_refuse
 local-zone: "coachartbatisicu.cf" always_refuse
 local-zone: "coachattentions.biz" always_refuse
 local-zone: "coachefikindchas.tk" always_refuse
@@ -89183,6 +89194,7 @@ local-zone: "confirmation-carte.fr" always_refuse
 local-zone: "confirmation-client-paypal.fr" always_refuse
 local-zone: "confirmation-credit-agri.fr" always_refuse
 local-zone: "confirmation-details-rdv-leboncoin.fr" always_refuse
+local-zone: "confirmation-devotre-rendez-vous-securise-leboncoin.fr" always_refuse
 local-zone: "confirmation-du-rendez-vous-securise-leboncoin.fr" always_refuse
 local-zone: "confirmation-free.fr" always_refuse
 local-zone: "confirmation-inc-paypal.fr" always_refuse
@@ -90444,12 +90456,14 @@ local-zone: "contactchronpost.fr" always_refuse
 local-zone: "contactclients.fr" always_refuse
 local-zone: "contactconseilclient.fr" always_refuse
 local-zone: "contactcostco-france.fr" always_refuse
+local-zone: "contactdiplogouv.fr" always_refuse
 local-zone: "contacte-service.fr" always_refuse
 local-zone: "contacte-sfr.fr" always_refuse
 local-zone: "contactedenred.fr" always_refuse
 local-zone: "contacteiffage.fr" always_refuse
 local-zone: "contacteznous-leboncoin.fr" always_refuse
 local-zone: "contactform.dev" always_refuse
+local-zone: "contactfree.fr" always_refuse
 local-zone: "contactgouv-info.fr" always_refuse
 local-zone: "contacthelp.co.uk" always_refuse
 local-zone: "contactinterpol.fr" always_refuse
@@ -119408,6 +119422,7 @@ local-zone: "electro-redeker.de" always_refuse
 local-zone: "electroconseil.fr" always_refuse
 local-zone: "electrodeport.fr" always_refuse
 local-zone: "electrodepot-account.fr" always_refuse
+local-zone: "electrodepot-accounts.fr" always_refuse
 local-zone: "electrodepot-france.fr" always_refuse
 local-zone: "electrodepot-groupe.fr" always_refuse
 local-zone: "electrodepot-lille.fr" always_refuse
@@ -119432,6 +119447,7 @@ local-zone: "electronique-prime.fr" always_refuse
 local-zone: "electrons-transistorization-silkness.xyz" always_refuse
 local-zone: "electronw.com" always_refuse
 local-zone: "electrophoridae.site" always_refuse
+local-zone: "electroprodestock.fr" always_refuse
 local-zone: "electroshop24.de" always_refuse
 local-zone: "electroshopp.fr" always_refuse
 local-zone: "electrosound.eu" always_refuse
@@ -139463,6 +139479,7 @@ local-zone: "fr-celsiuscasino.fr" always_refuse
 local-zone: "fr-ch-chinon.fr" always_refuse
 local-zone: "fr-charal.fr" always_refuse
 local-zone: "fr-chericasino.fr" always_refuse
+local-zone: "fr-chicken--road.fr" always_refuse
 local-zone: "fr-cimpa.fr" always_refuse
 local-zone: "fr-circet.fr" always_refuse
 local-zone: "fr-cisetp.fr" always_refuse
@@ -140297,6 +140314,7 @@ local-zone: "frcasino-cresus.fr" always_refuse
 local-zone: "frcasinozer.fr" always_refuse
 local-zone: "frccga.rest" always_refuse
 local-zone: "frcglgu.tokyo" always_refuse
+local-zone: "frchickenroad.fr" always_refuse
 local-zone: "frchronopost.fr" always_refuse
 local-zone: "frchs5v.tokyo" always_refuse
 local-zone: "frcomposants.com" always_refuse
@@ -155352,6 +155370,7 @@ local-zone: "groupe-franprix.fr" always_refuse
 local-zone: "groupe-generali.fr" always_refuse
 local-zone: "groupe-glsfrance.fr" always_refuse
 local-zone: "groupe-goursat.fr" always_refuse
+local-zone: "groupe-jean-floch.fr" always_refuse
 local-zone: "groupe-laposte.fr" always_refuse
 local-zone: "groupe-laredoute.fr" always_refuse
 local-zone: "groupe-lidl.fr" always_refuse
@@ -246813,6 +246832,7 @@ local-zone: "nousurabancaria.it" always_refuse
 local-zone: "noutbiowolfconsto.tk" always_refuse
 local-zone: "noutmolugeti.tk" always_refuse
 local-zone: "nouvalle-aquitaine.fr" always_refuse
+local-zone: "nouveau-casino-2026.fr" always_refuse
 local-zone: "nouveau-compte-prime.fr" always_refuse
 local-zone: "nouveau-prime.fr" always_refuse
 local-zone: "nouveau-service-bnpparibas.fr" always_refuse
@@ -261935,6 +261955,7 @@ local-zone: "paris2o24.fr" always_refuse
 local-zone: "parisbas.fr" always_refuse
 local-zone: "pariscybertek.fr" always_refuse
 local-zone: "parisdisneyland.fr" always_refuse
+local-zone: "parisen.fr" always_refuse
 local-zone: "pariseventicket.fr" always_refuse
 local-zone: "parisfcshop.fr" always_refuse
 local-zone: "parisfrancegov.fr" always_refuse
@@ -302238,6 +302259,8 @@ local-zone: "run5dd.cyou" always_refuse
 local-zone: "runacasino-fr.fr" always_refuse
 local-zone: "runacasino-france.fr" always_refuse
 local-zone: "runacasinoenligne.fr" always_refuse
+local-zone: "runacasinofr.fr" always_refuse
+local-zone: "runacasinoligne.fr" always_refuse
 local-zone: "runacasinoonline.fr" always_refuse
 local-zone: "runahoeve.nl" always_refuse
 local-zone: "runaivete.com" always_refuse
@@ -311372,6 +311395,7 @@ local-zone: "service-infractions.fr" always_refuse
 local-zone: "service-interpol.fr" always_refuse
 local-zone: "service-intrabancaire.fr" always_refuse
 local-zone: "service-klarna.fr" always_refuse
+local-zone: "service-la-macif.fr" always_refuse
 local-zone: "service-la-poste.fr" always_refuse
 local-zone: "service-laposte.fr" always_refuse
 local-zone: "service-lbc.fr" always_refuse
@@ -343283,6 +343307,7 @@ local-zone: "ticket-tour.fr" always_refuse
 local-zone: "ticketaster.fr" always_refuse
 local-zone: "ticketconcerts.fr" always_refuse
 local-zone: "ticketcorner.fr" always_refuse
+local-zone: "ticketdrop.fr" always_refuse
 local-zone: "ticketery.fr" always_refuse
 local-zone: "ticketfaster.fr" always_refuse
 local-zone: "ticketfestival.fr" always_refuse
@@ -343919,6 +343944,7 @@ local-zone: "tikitaka1.fr" always_refuse
 local-zone: "tikitaka7-casino.fr" always_refuse
 local-zone: "tikitakacasino-official.fr" always_refuse
 local-zone: "tikitakacasino1.fr" always_refuse
+local-zone: "tikitakacasinoenligne.fr" always_refuse
 local-zone: "tikitakacasinoonline.fr" always_refuse
 local-zone: "tikitakaslots.fr" always_refuse
 local-zone: "tikjvv.rest" always_refuse
@@ -349885,6 +349911,7 @@ local-zone: "tradequicker.com" always_refuse
 local-zone: "trader-ai.cc" always_refuse
 local-zone: "trader-invest.com" always_refuse
 local-zone: "tradereasy.com" always_refuse
+local-zone: "traderepublic-support.fr" always_refuse
 local-zone: "traderesgreeniz.ml" always_refuse
 local-zone: "traderhouse.com" always_refuse
 local-zone: "traderminds.com" always_refuse
@@ -355560,6 +355587,7 @@ local-zone: "u-psud-macss.fr" always_refuse
 local-zone: "u-rouen.fr" always_refuse
 local-zone: "u-upsud.fr" always_refuse
 local-zone: "u-watch.fr" always_refuse
+local-zone: "u003efree-mobile.fr" always_refuse
 local-zone: "u00x3.tokyo" always_refuse
 local-zone: "u01281z.shop" always_refuse
 local-zone: "u01rkj.shop" always_refuse
