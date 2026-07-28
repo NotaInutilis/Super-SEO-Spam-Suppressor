@@ -207982,6 +207982,7 @@ local-zone: "librarygooseintoxicate.com" always_refuse
 local-zone: "libraryonlj.web.app" always_refuse
 local-zone: "libratacpitylplog.gq" always_refuse
 local-zone: "libredd.it" always_refuse
+local-zone: "libreddit.org" always_refuse
 local-zone: "libreoffice-downloads.org" always_refuse
 local-zone: "libreriadelavapies.com" always_refuse
 local-zone: "libreriafan.com.ar" always_refuse
