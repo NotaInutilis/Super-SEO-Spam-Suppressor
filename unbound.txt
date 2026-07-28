@@ -43608,6 +43608,7 @@ local-zone: "apolen.xyz" always_refuse
 local-zone: "apolepp.xyz" always_refuse
 local-zone: "apollocoatingsinc.com" always_refuse
 local-zone: "apollodentalcentre.xyz" always_refuse
+local-zone: "apollogrouptvs.com" always_refuse
 local-zone: "apollona.ee" always_refuse
 local-zone: "apolloniosoluzioni.it" always_refuse
 local-zone: "apollus24.com" always_refuse
@@ -397954,6 +397955,7 @@ local-zone: "ying996.com" always_refuse
 local-zone: "ying997.com" always_refuse
 local-zone: "ying998.com" always_refuse
 local-zone: "ying999.com" always_refuse
+local-zone: "yinga-vital.de" always_refuse
 local-zone: "yingfeidi.com" always_refuse
 local-zone: "yinghuawang.com" always_refuse
 local-zone: "yingkehz.com" always_refuse
