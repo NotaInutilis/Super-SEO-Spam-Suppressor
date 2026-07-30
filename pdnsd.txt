@@ -61860,6 +61860,7 @@ neg {name=blog.kaspersky.co.jp; types=domain;}
 neg {name=blog.kaspersky.kz; types=domain;}
 neg {name=blog.lafermedesanimaux.com; types=domain;}
 neg {name=blog.lafourche.fr; types=domain;}
+neg {name=blog.lemarchejaponais.fr; types=domain;}
 neg {name=blog.lws-hosting.com; types=domain;}
 neg {name=blog.mailo.com; types=domain;}
 neg {name=blog.myheritage.de; types=domain;}

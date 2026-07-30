@@ -61860,6 +61860,7 @@ local-zone: "blog.kaspersky.co.jp" always_refuse
 local-zone: "blog.kaspersky.kz" always_refuse
 local-zone: "blog.lafermedesanimaux.com" always_refuse
 local-zone: "blog.lafourche.fr" always_refuse
+local-zone: "blog.lemarchejaponais.fr" always_refuse
 local-zone: "blog.lws-hosting.com" always_refuse
 local-zone: "blog.mailo.com" always_refuse
 local-zone: "blog.myheritage.de" always_refuse
