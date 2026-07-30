@@ -60378,6 +60378,7 @@ local-zone: "bitcodeprime.org" always_refuse
 local-zone: "bitcoin-everest-ai.fr" always_refuse
 local-zone: "bitcoin-miner.shop" always_refuse
 local-zone: "bitcoin-pharmacy.com" always_refuse
+local-zone: "bitcoin-revolution.org" always_refuse
 local-zone: "bitcoin-shop.ro" always_refuse
 local-zone: "bitcoin-trader.net" always_refuse
 local-zone: "bitcoin-xact.fr" always_refuse
@@ -60395,6 +60396,7 @@ local-zone: "bitcoinminingsecrets.pw" always_refuse
 local-zone: "bitcoinmotion.com" always_refuse
 local-zone: "bitcoinmotion.io" always_refuse
 local-zone: "bitcoinprime.fr" always_refuse
+local-zone: "bitcoinrevolution.org" always_refuse
 local-zone: "bitcoins-central.com" always_refuse
 local-zone: "bitcoinshop.fr" always_refuse
 local-zone: "bitcoinskn.com" always_refuse
@@ -218363,8 +218365,6 @@ local-zone: "magischesparfum.de" always_refuse
 local-zone: "magisk.download" always_refuse
 local-zone: "magisk.info" always_refuse
 local-zone: "magisk.me" always_refuse
-local-zone: "magisk.zip" always_refuse
-local-zone: "magiskapk.net" always_refuse
 local-zone: "magiskapp.com" always_refuse
 local-zone: "magiskcn.com" always_refuse
 local-zone: "magiskmanager.com" always_refuse
@@ -334665,7 +334665,6 @@ local-zone: "tanmykarnopusyn.gq" always_refuse
 local-zone: "tannaeblacnersta.gq" always_refuse
 local-zone: "tannalulalnati.tk" always_refuse
 local-zone: "tannaverseeta.cf" always_refuse
-local-zone: "tanner-shoes.com" always_refuse
 local-zone: "tannibabforktar.tk" always_refuse
 local-zone: "tannighcetbera.tk" always_refuse
 local-zone: "tannimurni.tk" always_refuse
@@ -340877,7 +340876,6 @@ local-zone: "thehealthyrituals.shop" always_refuse
 local-zone: "thehenryrange.co.uk" always_refuse
 local-zone: "thehepsttars.cf" always_refuse
 local-zone: "theheraldnewstoday.com" always_refuse
-local-zone: "thehickorygolfer.com" always_refuse
 local-zone: "thehiddenbay.com" always_refuse
 local-zone: "thehiddenlibrary.xyz" always_refuse
 local-zone: "thehikingshoe.com" always_refuse
@@ -352735,7 +352733,6 @@ local-zone: "trusted-online-generic.com" always_refuse
 local-zone: "trusted-sites.com" always_refuse
 local-zone: "trustedallcbd.com" always_refuse
 local-zone: "trustedallovertheworld.com" always_refuse
-local-zone: "trustedconsumerreview.online" always_refuse
 local-zone: "trustedgreencbd.com" always_refuse
 local-zone: "trustedkeys.es" always_refuse
 local-zone: "trustedmedstore24.com" always_refuse
@@ -360714,7 +360711,6 @@ local-zone: "upanexbema.ga" always_refuse
 local-zone: "upangioringsleev.tk" always_refuse
 local-zone: "upantanboonkdisc.tk" always_refuse
 local-zone: "upanymmen.ml" always_refuse
-local-zone: "upap-papu.post" always_refuse
 local-zone: "upaphaptimi.tk" always_refuse
 local-zone: "upapver.my.id" always_refuse
 local-zone: "upaq507.shop" always_refuse
@@ -376299,7 +376295,6 @@ local-zone: "vzzmwcc.tokyo" always_refuse
 local-zone: "vzzoms.tokyo" always_refuse
 local-zone: "vzzpg.rest" always_refuse
 local-zone: "vzzrwr.rest" always_refuse
-local-zone: "w" always_refuse
 local-zone: "w-prime.fr" always_refuse
 local-zone: "w.xdesisex.com" always_refuse
 local-zone: "w00h7b.shop" always_refuse
@@ -397707,7 +397702,6 @@ local-zone: "ying996.com" always_refuse
 local-zone: "ying997.com" always_refuse
 local-zone: "ying998.com" always_refuse
 local-zone: "ying999.com" always_refuse
-local-zone: "yinga-vital.de" always_refuse
 local-zone: "yingfeidi.com" always_refuse
 local-zone: "yinghuawang.com" always_refuse
 local-zone: "yingkehz.com" always_refuse
