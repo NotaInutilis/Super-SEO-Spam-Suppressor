@@ -126985,6 +126985,7 @@ local-zone: "euortovox.shop" always_refuse
 local-zone: "euouzikfthcb.itsaol.com" always_refuse
 local-zone: "eupatrid.best" always_refuse
 local-zone: "eupfhv.rest" always_refuse
+local-zone: "euphyra.fr" always_refuse
 local-zone: "eupills.com" always_refuse
 local-zone: "euplpjlf.xyz" always_refuse
 local-zone: "eupmpbu.bar" always_refuse
@@ -130540,6 +130541,8 @@ local-zone: "factureprime.fr" always_refuse
 local-zone: "factures-marches.fr" always_refuse
 local-zone: "factures-netflix.fr" always_refuse
 local-zone: "facturesfr.fr" always_refuse
+local-zone: "facturx.blog" always_refuse
+local-zone: "facturxapi.com" always_refuse
 local-zone: "factusol-woocommerce.es" always_refuse
 local-zone: "factwalkquestion.pw" always_refuse
 local-zone: "factwebfinssa.gq" always_refuse
@@ -313876,6 +313879,7 @@ local-zone: "shippills.com" always_refuse
 local-zone: "shipping-prime.fr" always_refuse
 local-zone: "shippingcollection.news" always_refuse
 local-zone: "shippingyellowpages.buzz" always_refuse
+local-zone: "shipwithai.xyz" always_refuse
 local-zone: "shiqyjg.tokyo" always_refuse
 local-zone: "shirahokamakura.jp" always_refuse
 local-zone: "shirasagi-ah1.web.app" always_refuse
