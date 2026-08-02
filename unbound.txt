@@ -45985,6 +45985,7 @@ local-zone: "aruba-bet-en-ligne.fr" always_refuse
 local-zone: "aruba-bet-france.fr" always_refuse
 local-zone: "aruba-fr.fr" always_refuse
 local-zone: "arubabet-casino.fr" always_refuse
+local-zone: "arubabet-france.fr" always_refuse
 local-zone: "arubabetcasino.fr" always_refuse
 local-zone: "arubafr.fr" always_refuse
 local-zone: "arubanoublu.tk" always_refuse
@@ -74587,6 +74588,7 @@ local-zone: "casinova-fra.fr" always_refuse
 local-zone: "casinova-france.fr" always_refuse
 local-zone: "casinova-officiel.fr" always_refuse
 local-zone: "casinovacasino.fr" always_refuse
+local-zone: "casinovacasinoonline.fr" always_refuse
 local-zone: "casinovale.fr" always_refuse
 local-zone: "casinovale1.fr" always_refuse
 local-zone: "casinovalyss.fr" always_refuse
@@ -91646,7 +91648,9 @@ local-zone: "corgedusresspar.cf" always_refuse
 local-zone: "corgemsleleci.ga" always_refuse
 local-zone: "corgerpkedenp.tk" always_refuse
 local-zone: "corgibe-t.fr" always_refuse
+local-zone: "corgibet-enligne.fr" always_refuse
 local-zone: "corgibet-fr.fr" always_refuse
+local-zone: "corgibet-france.fr" always_refuse
 local-zone: "corgibetcasino-fr.fr" always_refuse
 local-zone: "corgihomeplan.co.uk" always_refuse
 local-zone: "corgiticeabit.tk" always_refuse
@@ -153423,6 +153427,7 @@ local-zone: "gouv-paiement-antai.fr" always_refuse
 local-zone: "gouv-paiement-secure.fr" always_refuse
 local-zone: "gouv-paiement.fr" always_refuse
 local-zone: "gouv-panneau-solaire.fr" always_refuse
+local-zone: "gouv-parisjustice.fr" always_refuse
 local-zone: "gouv-particuliers-antai.fr" always_refuse
 local-zone: "gouv-particuliers.fr" always_refuse
 local-zone: "gouv-payement.fr" always_refuse
@@ -177401,6 +177406,7 @@ local-zone: "incarzunishand.ml" always_refuse
 local-zone: "incaspin-casino.fr" always_refuse
 local-zone: "incaspin-fr.fr" always_refuse
 local-zone: "incaspin-france.fr" always_refuse
+local-zone: "incaspin-online.fr" always_refuse
 local-zone: "incaspin.fr" always_refuse
 local-zone: "incaspins-fr.fr" always_refuse
 local-zone: "incaspins.fr" always_refuse
@@ -273990,6 +273996,7 @@ local-zone: "pqzn1q.cyou" always_refuse
 local-zone: "pqznby.bar" always_refuse
 local-zone: "pqzois.rest" always_refuse
 local-zone: "pr-prime.fr" always_refuse
+local-zone: "pr0fil-clientsv4.fr" always_refuse
 local-zone: "pr12p6.cyou" always_refuse
 local-zone: "pr1zyql.tokyo" always_refuse
 local-zone: "pr29vk.cyou" always_refuse
@@ -301235,6 +301242,7 @@ local-zone: "rowekenneth97.github.io" always_refuse
 local-zone: "rowelgiosourmi.gq" always_refuse
 local-zone: "rowenon.tk" always_refuse
 local-zone: "rowentaelektro.com" always_refuse
+local-zone: "rowentafrance.fr" always_refuse
 local-zone: "rowestipplingtil.cf" always_refuse
 local-zone: "rowexocuha.tk" always_refuse
 local-zone: "rowfivaldia.web.app" always_refuse
@@ -322882,6 +322890,7 @@ local-zone: "spinbara-casino-fr.fr" always_refuse
 local-zone: "spinbara-en-ligne.fr" always_refuse
 local-zone: "spinbara-enligne.fr" always_refuse
 local-zone: "spinbara-fr.fr" always_refuse
+local-zone: "spinbara-francais.fr" always_refuse
 local-zone: "spinbara-jouer.fr" always_refuse
 local-zone: "spinbara-officiel.fr" always_refuse
 local-zone: "spinbara-online.de" always_refuse
@@ -344825,6 +344834,8 @@ local-zone: "tindibamic.tk" always_refuse
 local-zone: "tindilabmeno.gq" always_refuse
 local-zone: "tinditizypege.ga" always_refuse
 local-zone: "tinduq.tokyo" always_refuse
+local-zone: "tineco-destock.fr" always_refuse
+local-zone: "tinecodestock.fr" always_refuse
 local-zone: "tinecyboundto.ga" always_refuse
 local-zone: "tinedaporboa.tk" always_refuse
 local-zone: "tineeticorhe.tk" always_refuse
@@ -380461,6 +380472,7 @@ local-zone: "wedecision.com" always_refuse
 local-zone: "wedextcelideal.ml" always_refuse
 local-zone: "wedghuckmegast.tk" always_refuse
 local-zone: "wedgseatlymar.gq" always_refuse
+local-zone: "wedgwoodfrance.fr" always_refuse
 local-zone: "weditareli.ml" always_refuse
 local-zone: "wedjasamofoxs.ga" always_refuse
 local-zone: "wedlasizacili.tk" always_refuse
