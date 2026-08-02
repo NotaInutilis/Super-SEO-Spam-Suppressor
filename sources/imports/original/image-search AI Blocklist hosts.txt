@@ -545,6 +545,7 @@
 0.0.0.0 deepfaker.app
 0.0.0.0 domoai.app
 0.0.0.0 eightify.app
+0.0.0.0 flowmusic.app
 0.0.0.0 gamma.app
 0.0.0.0 getnude.app
 0.0.0.0 giotto.streamlit.app
@@ -1048,6 +1049,7 @@
 0.0.0.0 mintmetricai.com
 0.0.0.0 mixcomfy.com
 0.0.0.0 mixologyai.com
+0.0.0.0 mizou.com
 0.0.0.0 mobile-eyes.com
 0.0.0.0 mobirise.com
 0.0.0.0 mockofun.com
@@ -1203,6 +1205,7 @@
 0.0.0.0 static.deepseek.com
 0.0.0.0 steelefortress.com
 0.0.0.0 stepofweb.com
+0.0.0.0 stitch.withgoogle.com
 0.0.0.0 stl24.com
 0.0.0.0 stlmax.com
 0.0.0.0 stockcake.com
@@ -1286,6 +1289,7 @@
 0.0.0.0 zazow.com
 0.0.0.0 zebrabi.com
 0.0.0.0 zhihu.com
+0.0.0.0 zonerai.com
 
 # Sites that have .io domain extension
 0.0.0.0 ai-art.latitude.io
@@ -1445,6 +1449,7 @@
 0.0.0.0 aiart.limited
 0.0.0.0 aiartgenerator.us
 0.0.0.0 aibooru.online
+0.0.0.0 aidetem.cz
 0.0.0.0 aiforsocialgood.ca
 0.0.0.0 aigirlfriend.sex
 0.0.0.0 aigirlfriend.wtf
@@ -1462,6 +1467,7 @@
 0.0.0.0 alliancy.fr
 0.0.0.0 animalia-life.club
 0.0.0.0 animeart.studio
+0.0.0.0 app.sciobot.cz
 0.0.0.0 artbreeder
 0.0.0.0 artpictures.club
 0.0.0.0 background.lol
@@ -1472,6 +1478,7 @@
 0.0.0.0 capidhouser.mobi
 0.0.0.0 carboncopy.pro
 0.0.0.0 chatgpt.fr
+0.0.0.0 chatveskole.cz
 0.0.0.0 cheatsheet.md
 0.0.0.0 chilloutai.xyz
 0.0.0.0 christophetd.fr
@@ -1521,14 +1528,17 @@
 0.0.0.0 igot.coffee
 0.0.0.0 image.computer
 0.0.0.0 imake.porn
+0.0.0.0 informatika.naucmese.eu
 0.0.0.0 ipv6.rs
 0.0.0.0 jeveuxetredatascientist.fr
 0.0.0.0 koala.sh
+0.0.0.0 kurikulum.aidetem.cz
 0.0.0.0 larevueia.fr
 0.0.0.0 linear.liftapp
 0.0.0.0 lovelines.xyz
 0.0.0.0 made.porn
 0.0.0.0 mage.space
+0.0.0.0 manena.info
 0.0.0.0 manuals.plus
 0.0.0.0 memo.tv
 0.0.0.0 midjourney.co.in
@@ -1569,7 +1579,9 @@
 0.0.0.0 quasi.market
 0.0.0.0 rabbit.tech
 0.0.0.0 renovables.blog
+0.0.0.0 sciobot-next.cz
 0.0.0.0 sciobot.cz
+0.0.0.0 sciobot.sk
 0.0.0.0 sexystars.online
 0.0.0.0 sharaku.us
 0.0.0.0 slai.tech
@@ -1599,6 +1611,7 @@
 0.0.0.0 unleash.so
 0.0.0.0 veritecachee.fr
 0.0.0.0 visla.us
+0.0.0.0 vzdelavame.aidetem.cz
 0.0.0.0 waifu.com.mx
 0.0.0.0 warp.dev
 0.0.0.0 wizishop.fr
@@ -2157,6 +2170,7 @@
 0.0.0.0 www.deepfaker.app
 0.0.0.0 www.domoai.app
 0.0.0.0 www.eightify.app
+0.0.0.0 www.flowmusic.app
 0.0.0.0 www.gamma.app
 0.0.0.0 www.getnude.app
 0.0.0.0 www.giotto.streamlit.app
@@ -2660,6 +2674,7 @@
 0.0.0.0 www.mintmetricai.com
 0.0.0.0 www.mixcomfy.com
 0.0.0.0 www.mixologyai.com
+0.0.0.0 www.mizou.com
 0.0.0.0 www.mobile-eyes.com
 0.0.0.0 www.mobirise.com
 0.0.0.0 www.mockofun.com
@@ -2815,6 +2830,7 @@
 0.0.0.0 www.static.deepseek.com
 0.0.0.0 www.steelefortress.com
 0.0.0.0 www.stepofweb.com
+0.0.0.0 www.stitch.withgoogle.com
 0.0.0.0 www.stl24.com
 0.0.0.0 www.stlmax.com
 0.0.0.0 www.stockcake.com
@@ -2898,6 +2914,7 @@
 0.0.0.0 www.zazow.com
 0.0.0.0 www.zebrabi.com
 0.0.0.0 www.zhihu.com
+0.0.0.0 www.zonerai.com
 
 # Sites that have .io domain extension
 0.0.0.0 www.ai-art.latitude.io
@@ -3057,6 +3074,7 @@
 0.0.0.0 www.aiart.limited
 0.0.0.0 www.aiartgenerator.us
 0.0.0.0 www.aibooru.online
+0.0.0.0 www.aidetem.cz
 0.0.0.0 www.aiforsocialgood.ca
 0.0.0.0 www.aigirlfriend.sex
 0.0.0.0 www.aigirlfriend.wtf
@@ -3074,6 +3092,7 @@
 0.0.0.0 www.alliancy.fr
 0.0.0.0 www.animalia-life.club
 0.0.0.0 www.animeart.studio
+0.0.0.0 www.app.sciobot.cz
 0.0.0.0 www.artbreeder
 0.0.0.0 www.artpictures.club
 0.0.0.0 www.background.lol
@@ -3084,6 +3103,7 @@
 0.0.0.0 www.capidhouser.mobi
 0.0.0.0 www.carboncopy.pro
 0.0.0.0 www.chatgpt.fr
+0.0.0.0 www.chatveskole.cz
 0.0.0.0 www.cheatsheet.md
 0.0.0.0 www.chilloutai.xyz
 0.0.0.0 www.christophetd.fr
@@ -3133,14 +3153,17 @@
 0.0.0.0 www.igot.coffee
 0.0.0.0 www.image.computer
 0.0.0.0 www.imake.porn
+0.0.0.0 www.informatika.naucmese.eu
 0.0.0.0 www.ipv6.rs
 0.0.0.0 www.jeveuxetredatascientist.fr
 0.0.0.0 www.koala.sh
+0.0.0.0 www.kurikulum.aidetem.cz
 0.0.0.0 www.larevueia.fr
 0.0.0.0 www.linear.liftapp
 0.0.0.0 www.lovelines.xyz
 0.0.0.0 www.made.porn
 0.0.0.0 www.mage.space
+0.0.0.0 www.manena.info
 0.0.0.0 www.manuals.plus
 0.0.0.0 www.memo.tv
 0.0.0.0 www.midjourney.co.in
@@ -3181,7 +3204,9 @@
 0.0.0.0 www.quasi.market
 0.0.0.0 www.rabbit.tech
 0.0.0.0 www.renovables.blog
+0.0.0.0 www.sciobot-next.cz
 0.0.0.0 www.sciobot.cz
+0.0.0.0 www.sciobot.sk
 0.0.0.0 www.sexystars.online
 0.0.0.0 www.sharaku.us
 0.0.0.0 www.slai.tech
@@ -3211,6 +3236,7 @@
 0.0.0.0 www.unleash.so
 0.0.0.0 www.veritecachee.fr
 0.0.0.0 www.visla.us
+0.0.0.0 www.vzdelavame.aidetem.cz
 0.0.0.0 www.waifu.com.mx
 0.0.0.0 www.warp.dev
 0.0.0.0 www.wizishop.fr
