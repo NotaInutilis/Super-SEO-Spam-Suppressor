@@ -112900,6 +112900,7 @@ local-zone: "dsmvowt.work" always_refuse
 local-zone: "dsmzj7w.tokyo" always_refuse
 local-zone: "dsncf.fr" always_refuse
 local-zone: "dsnct.com" always_refuse
+local-zone: "dsnet.it" always_refuse
 local-zone: "dsnews.co.uk" always_refuse
 local-zone: "dsney-plus.fr" always_refuse
 local-zone: "dsney-secure.fr" always_refuse
@@ -142839,6 +142840,7 @@ local-zone: "futuric.space" always_refuse
 local-zone: "futuristica.com" always_refuse
 local-zone: "futurmarket.com" always_refuse
 local-zone: "futurob.xyz" always_refuse
+local-zone: "futuroremoto2020.it" always_refuse
 local-zone: "futz94.cyou" always_refuse
 local-zone: "fuukuc.rest" always_refuse
 local-zone: "fuunci.rest" always_refuse
@@ -175637,6 +175639,7 @@ local-zone: "ilbascojuri.gq" always_refuse
 local-zone: "ilbayfmasparklink.ga" always_refuse
 local-zone: "ilbellavoro.it" always_refuse
 local-zone: "ilbharundeta.tk" always_refuse
+local-zone: "ilbisturi.it" always_refuse
 local-zone: "ilbitihobuchphi.cf" always_refuse
 local-zone: "ilblgmv.tokyo" always_refuse
 local-zone: "ilblocwhittbimes.gq" always_refuse
@@ -175870,6 +175873,7 @@ local-zone: "ilmuroba.gq" always_refuse
 local-zone: "ilmwe56.cyou" always_refuse
 local-zone: "ilnartohostde.gq" always_refuse
 local-zone: "ilneceli.gq" always_refuse
+local-zone: "ilnegoziante.it" always_refuse
 local-zone: "ilnelasdass.tk" always_refuse
 local-zone: "ilner.my.id" always_refuse
 local-zone: "ilnethenolo.tk" always_refuse
@@ -175897,6 +175901,7 @@ local-zone: "ilovefatty.com" always_refuse
 local-zone: "iloveimg.fr" always_refuse
 local-zone: "ilovekeywest.net" always_refuse
 local-zone: "ilovetakapuna.co.nz" always_refuse
+local-zone: "iloveterracina.it" always_refuse
 local-zone: "ilovkytlynadist.ga" always_refuse
 local-zone: "ilowuduwypeh.gq" always_refuse
 local-zone: "iloxms.tokyo" always_refuse
@@ -282646,6 +282651,7 @@ local-zone: "qfnifq.bar" always_refuse
 local-zone: "qfnifq.rest" always_refuse
 local-zone: "qfo44r.tokyo" always_refuse
 local-zone: "qforkids.org" always_refuse
+local-zone: "qforum.it" always_refuse
 local-zone: "qfos0a.cyou" always_refuse
 local-zone: "qfoydh.tokyo" always_refuse
 local-zone: "qfpeat.tokyo" always_refuse
@@ -291062,6 +291068,7 @@ local-zone: "rebootsystemsandroid.xyz" always_refuse
 local-zone: "rebora.net" always_refuse
 local-zone: "rebora.nl" always_refuse
 local-zone: "reborn-lukyanets.ru" always_refuse
+local-zone: "reborn.it" always_refuse
 local-zone: "rebornbabydeutschland.de" always_refuse
 local-zone: "reborntraumland.de" always_refuse
 local-zone: "rebosaftumark.ml" always_refuse
@@ -322128,6 +322135,7 @@ local-zone: "spaz6j.tokyo" always_refuse
 local-zone: "spazio-tempo.ch" always_refuse
 local-zone: "spazioarchitettura.ch" always_refuse
 local-zone: "spaziof1.it" always_refuse
+local-zone: "spaziogreen.it" always_refuse
 local-zone: "spaziolingue.it" always_refuse
 local-zone: "spaziosolosalute.it" always_refuse
 local-zone: "spbat.ru" always_refuse
@@ -351083,6 +351091,7 @@ local-zone: "traphephysleapfla.tk" always_refuse
 local-zone: "traphuatgeotrophron.ml" always_refuse
 local-zone: "traphuntleasel.gq" always_refuse
 local-zone: "traphxaparoviwhi.tk" always_refuse
+local-zone: "trapiantoturchia.it" always_refuse
 local-zone: "trapincalsanscomcent.ga" always_refuse
 local-zone: "trapinurenspal.tk" always_refuse
 local-zone: "trapisricaric.tk" always_refuse
