@@ -1,13 +1,11 @@
-# Sites made by "Duduledaron" <https://github.com/Duduledaron>
-# 
+# Duduledaron
+# https://github.com/Duduledaron
+# Legal notices use the name B. D.
+# SIRET : 94260527000027
+
 # The list was extracted from his public repos via GitHub's API
 # https://api.github.com/users/Duduledaron/repos?per_page=100?page=<1,2,3>
-# Then I filtered out everything that didn't end in "-web.git"
-#
-# 9 of the websites were checked, all of them being content farms.
-# Given that the others all have the same workflow, I believe it's safe to
-# blacklist them all.
-
+# Then filtering out everything that didn't end in "-web.git"
 ad-immo.fr
 alize-deco.fr
 auto-max.fr
@@ -39,7 +37,9 @@ votre-banque.fr
 web-city.fr
 web-sio.fr
 
-# Those two domains contain exclusively links to the articles of some of the
-# farms above.
+# Those two domains contain exclusively links to the articles of some of the farms above.
 r-14d3dfb6b4.pages.dev
 r-ce76877dc1.pages.dev
+
+# More sites
+https://lumiqare.fr/confidentialite/
