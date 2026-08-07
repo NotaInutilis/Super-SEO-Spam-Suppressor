@@ -32836,6 +32836,7 @@ neg {name=actuperspectives.fr; types=domain;}
 neg {name=acturmanttobdi.gq; types=domain;}
 neg {name=actus-independantes.fr; types=domain;}
 neg {name=actus-sanscensure.fr; types=domain;}
+neg {name=actus.sfr.fr; types=domain;}
 neg {name=actus24.fr; types=domain;}
 neg {name=actusetinfosdupays.fr; types=domain;}
 neg {name=actutipriphemo.tk; types=domain;}
@@ -407385,6 +407386,7 @@ neg {name=zone536epea510.biz; types=domain;}
 neg {name=zone53a539em7r.biz; types=domain;}
 neg {name=zone53a541enht.biz; types=domain;}
 neg {name=zone6turf.fr; types=domain;}
+neg {name=zoneadsl.com; types=domain;}
 neg {name=zoneautopro.com; types=domain;}
 neg {name=zonedummy.com; types=domain;}
 neg {name=zonefilm.ru; types=domain;}

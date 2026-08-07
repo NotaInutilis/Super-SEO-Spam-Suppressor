@@ -32836,6 +32836,7 @@ local-zone: "actuperspectives.fr" always_refuse
 local-zone: "acturmanttobdi.gq" always_refuse
 local-zone: "actus-independantes.fr" always_refuse
 local-zone: "actus-sanscensure.fr" always_refuse
+local-zone: "actus.sfr.fr" always_refuse
 local-zone: "actus24.fr" always_refuse
 local-zone: "actusetinfosdupays.fr" always_refuse
 local-zone: "actutipriphemo.tk" always_refuse
@@ -407385,6 +407386,7 @@ local-zone: "zone536epea510.biz" always_refuse
 local-zone: "zone53a539em7r.biz" always_refuse
 local-zone: "zone53a541enht.biz" always_refuse
 local-zone: "zone6turf.fr" always_refuse
+local-zone: "zoneadsl.com" always_refuse
 local-zone: "zoneautopro.com" always_refuse
 local-zone: "zonedummy.com" always_refuse
 local-zone: "zonefilm.ru" always_refuse
