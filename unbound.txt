@@ -147224,6 +147224,7 @@ local-zone: "gemvsq.rest" always_refuse
 local-zone: "gemwttxsn.xyz" always_refuse
 local-zone: "gemypihume.cf" always_refuse
 local-zone: "gen.ai" always_refuse
+local-zone: "gen1recomp.com" always_refuse
 local-zone: "gen9p1.cyou" always_refuse
 local-zone: "genadvice.es" always_refuse
 local-zone: "genagarhart.tk" always_refuse
