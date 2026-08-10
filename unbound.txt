@@ -388110,6 +388110,7 @@ local-zone: "wvytim.tokyo" always_refuse
 local-zone: "wvzdut.rest" always_refuse
 local-zone: "wvzhtl.tokyo" always_refuse
 local-zone: "wvzrui.tokyo" always_refuse
+local-zone: "ww" always_refuse
 local-zone: "ww-chrono-suivi.fr" always_refuse
 local-zone: "ww-colissimo.fr" always_refuse
 local-zone: "ww08lnc.cyou" always_refuse

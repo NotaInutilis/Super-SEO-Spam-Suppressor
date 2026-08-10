@@ -388110,6 +388110,7 @@ neg {name=wvytim.tokyo; types=domain;}
 neg {name=wvzdut.rest; types=domain;}
 neg {name=wvzhtl.tokyo; types=domain;}
 neg {name=wvzrui.tokyo; types=domain;}
+neg {name=ww; types=domain;}
 neg {name=ww-chrono-suivi.fr; types=domain;}
 neg {name=ww-colissimo.fr; types=domain;}
 neg {name=ww08lnc.cyou; types=domain;}
