@@ -47334,6 +47334,7 @@ neg {name=assurancemeli-renouvellement.fr; types=domain;}
 neg {name=assurancemeli.fr; types=domain;}
 neg {name=assurancenetflix.fr; types=domain;}
 neg {name=assuranceostensiblecompile.com; types=domain;}
+neg {name=assurancerenouvellement-statut.fr; types=domain;}
 neg {name=assurancerenouvellement.fr; types=domain;}
 neg {name=assuranceretraites.fr; types=domain;}
 neg {name=assuranceretraitre.fr; types=domain;}
@@ -50350,6 +50351,7 @@ neg {name=ayazigi.com; types=domain;}
 neg {name=ayb06a.cyou; types=domain;}
 neg {name=ayba9k.tokyo; types=domain;}
 neg {name=aybejv.tokyo; types=domain;}
+neg {name=aybl-soldes.fr; types=domain;}
 neg {name=aybl.pl; types=domain;}
 neg {name=ayblreg.bar; types=domain;}
 neg {name=ayblsuomi.com; types=domain;}
@@ -101506,6 +101508,7 @@ neg {name=decalosedes.tk; types=domain;}
 neg {name=decanessfighsu.ga; types=domain;}
 neg {name=decanetgui.ml; types=domain;}
 neg {name=decantersale.com; types=domain;}
+neg {name=decants.fr; types=domain;}
 neg {name=decapage-gommage.fr; types=domain;}
 neg {name=decarb.xyz; types=domain;}
 neg {name=decarba-mann.de; types=domain;}
@@ -155744,6 +155747,7 @@ neg {name=groupedirectenergie.fr; types=domain;}
 neg {name=groupeferroignis.com; types=domain;}
 neg {name=groupeimpactmedia.fr; types=domain;}
 neg {name=groupeldlc.fr; types=domain;}
+neg {name=groupeleroymerlin.fr; types=domain;}
 neg {name=groupemacif.fr; types=domain;}
 neg {name=groupement-lesmousquetaires.fr; types=domain;}
 neg {name=groupement-mousquetaires.fr; types=domain;}
@@ -262357,6 +262361,7 @@ neg {name=parfikoozagmacckatz.tk; types=domain;}
 neg {name=parfite.xyz; types=domain;}
 neg {name=parfolkcoramapha.tk; types=domain;}
 neg {name=parforastsbilko.ga; types=domain;}
+neg {name=parfuemerie-harbeck.fr; types=domain;}
 neg {name=parfum-luxe.fr; types=domain;}
 neg {name=parfume.xyz; types=domain;}
 neg {name=parfumly.com; types=domain;}
@@ -270448,6 +270453,7 @@ neg {name=playmakersnetmyez2v5w.biz; types=domain;}
 neg {name=playmaxcasino.fr; types=domain;}
 neg {name=playmkl.bar; types=domain;}
 neg {name=playmobilfr.fr; types=domain;}
+neg {name=playmobilfrance.fr; types=domain;}
 neg {name=playmobill.fr; types=domain;}
 neg {name=playmobilshop.be; types=domain;}
 neg {name=playmojo-casino.fr; types=domain;}
@@ -323269,6 +323275,7 @@ neg {name=spinlapameanta.tk; types=domain;}
 neg {name=spinline-casino-online.de; types=domain;}
 neg {name=spinlogic.fr; types=domain;}
 neg {name=spinlycasino.fr; types=domain;}
+neg {name=spinlynxcasino-fr.fr; types=domain;}
 neg {name=spinmacho-fr.fr; types=domain;}
 neg {name=spinmacho1.fr; types=domain;}
 neg {name=spinmacho2.fr; types=domain;}

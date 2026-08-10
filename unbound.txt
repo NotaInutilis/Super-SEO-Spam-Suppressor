@@ -47334,6 +47334,7 @@ local-zone: "assurancemeli-renouvellement.fr" always_refuse
 local-zone: "assurancemeli.fr" always_refuse
 local-zone: "assurancenetflix.fr" always_refuse
 local-zone: "assuranceostensiblecompile.com" always_refuse
+local-zone: "assurancerenouvellement-statut.fr" always_refuse
 local-zone: "assurancerenouvellement.fr" always_refuse
 local-zone: "assuranceretraites.fr" always_refuse
 local-zone: "assuranceretraitre.fr" always_refuse
@@ -50350,6 +50351,7 @@ local-zone: "ayazigi.com" always_refuse
 local-zone: "ayb06a.cyou" always_refuse
 local-zone: "ayba9k.tokyo" always_refuse
 local-zone: "aybejv.tokyo" always_refuse
+local-zone: "aybl-soldes.fr" always_refuse
 local-zone: "aybl.pl" always_refuse
 local-zone: "ayblreg.bar" always_refuse
 local-zone: "ayblsuomi.com" always_refuse
@@ -101506,6 +101508,7 @@ local-zone: "decalosedes.tk" always_refuse
 local-zone: "decanessfighsu.ga" always_refuse
 local-zone: "decanetgui.ml" always_refuse
 local-zone: "decantersale.com" always_refuse
+local-zone: "decants.fr" always_refuse
 local-zone: "decapage-gommage.fr" always_refuse
 local-zone: "decarb.xyz" always_refuse
 local-zone: "decarba-mann.de" always_refuse
@@ -155744,6 +155747,7 @@ local-zone: "groupedirectenergie.fr" always_refuse
 local-zone: "groupeferroignis.com" always_refuse
 local-zone: "groupeimpactmedia.fr" always_refuse
 local-zone: "groupeldlc.fr" always_refuse
+local-zone: "groupeleroymerlin.fr" always_refuse
 local-zone: "groupemacif.fr" always_refuse
 local-zone: "groupement-lesmousquetaires.fr" always_refuse
 local-zone: "groupement-mousquetaires.fr" always_refuse
@@ -262357,6 +262361,7 @@ local-zone: "parfikoozagmacckatz.tk" always_refuse
 local-zone: "parfite.xyz" always_refuse
 local-zone: "parfolkcoramapha.tk" always_refuse
 local-zone: "parforastsbilko.ga" always_refuse
+local-zone: "parfuemerie-harbeck.fr" always_refuse
 local-zone: "parfum-luxe.fr" always_refuse
 local-zone: "parfume.xyz" always_refuse
 local-zone: "parfumly.com" always_refuse
@@ -270448,6 +270453,7 @@ local-zone: "playmakersnetmyez2v5w.biz" always_refuse
 local-zone: "playmaxcasino.fr" always_refuse
 local-zone: "playmkl.bar" always_refuse
 local-zone: "playmobilfr.fr" always_refuse
+local-zone: "playmobilfrance.fr" always_refuse
 local-zone: "playmobill.fr" always_refuse
 local-zone: "playmobilshop.be" always_refuse
 local-zone: "playmojo-casino.fr" always_refuse
@@ -323269,6 +323275,7 @@ local-zone: "spinlapameanta.tk" always_refuse
 local-zone: "spinline-casino-online.de" always_refuse
 local-zone: "spinlogic.fr" always_refuse
 local-zone: "spinlycasino.fr" always_refuse
+local-zone: "spinlynxcasino-fr.fr" always_refuse
 local-zone: "spinmacho-fr.fr" always_refuse
 local-zone: "spinmacho1.fr" always_refuse
 local-zone: "spinmacho2.fr" always_refuse
