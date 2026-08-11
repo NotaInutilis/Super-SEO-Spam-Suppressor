@@ -15735,6 +15735,7 @@ local-zone: "4zyni7.cyou" always_refuse
 local-zone: "4zz3vk.agency" always_refuse
 local-zone: "4zz5rc.tokyo" always_refuse
 local-zone: "5-club.ru" always_refuse
+local-zone: "5-ee-mo.re" always_refuse
 local-zone: "5-gringo.fr" always_refuse
 local-zone: "5-gringos-casino.fr" always_refuse
 local-zone: "5-gringos.fr" always_refuse
@@ -32700,6 +32701,7 @@ local-zone: "activer-mon-abonnement.fr" always_refuse
 local-zone: "activer-mon-compte-cpf.fr" always_refuse
 local-zone: "activer-prime.fr" always_refuse
 local-zone: "activer-recharges.fr" always_refuse
+local-zone: "activerecharge.fr" always_refuse
 local-zone: "activespparticul.fr" always_refuse
 local-zone: "activestdiof22lcssf.biz" always_refuse
 local-zone: "activestdiozw1ck2fe.biz" always_refuse
@@ -35896,6 +35898,7 @@ local-zone: "aides-netflix.fr" always_refuse
 local-zone: "aides-renouvellement.fr" always_refuse
 local-zone: "aides-vitale.fr" always_refuse
 local-zone: "aidesante-ameli.fr" always_refuse
+local-zone: "aidesecourspopulaire.fr" always_refuse
 local-zone: "aidesuivi-laposte.fr" always_refuse
 local-zone: "aidetem.cz" always_refuse
 local-zone: "aidevitale.fr" always_refuse
@@ -66068,6 +66071,7 @@ local-zone: "brewlelohy.tk" always_refuse
 local-zone: "brewloyresdiepart.ga" always_refuse
 local-zone: "brewmacos.com" always_refuse
 local-zone: "brewmondtortrimangmo.cf" always_refuse
+local-zone: "brewmybeer.online" always_refuse
 local-zone: "brewpublik.com" always_refuse
 local-zone: "brewrefidylo.tk" always_refuse
 local-zone: "brewsh.bar" always_refuse
@@ -152457,6 +152461,7 @@ local-zone: "goldenbets.fr" always_refuse
 local-zone: "goldenbetscasino.fr" always_refuse
 local-zone: "goldenbett.fr" always_refuse
 local-zone: "goldencasino.fr" always_refuse
+local-zone: "goldenchance.fr" always_refuse
 local-zone: "goldencoastcasino.fr" always_refuse
 local-zone: "goldencrown-casino.fr" always_refuse
 local-zone: "goldencrowncasino.fr" always_refuse
@@ -258961,6 +258966,7 @@ local-zone: "owalafrancefr.fr" always_refuse
 local-zone: "owalafranceoutlet.fr" always_refuse
 local-zone: "owalafranceshop.fr" always_refuse
 local-zone: "owalaifrance.fr" always_refuse
+local-zone: "owalalife-fr.fr" always_refuse
 local-zone: "owalaofficialstore.com" always_refuse
 local-zone: "owalasale.de" always_refuse
 local-zone: "owalinaseal.tk" always_refuse
@@ -323145,6 +323151,7 @@ local-zone: "spinational1.fr" always_refuse
 local-zone: "spinatludcentbi.ml" always_refuse
 local-zone: "spinatneostamin.tk" always_refuse
 local-zone: "spinaura-avis.fr" always_refuse
+local-zone: "spinaura-casi.fr" always_refuse
 local-zone: "spinaura-casino.fr" always_refuse
 local-zone: "spinaura-en-ligne.fr" always_refuse
 local-zone: "spinaura-officiel.fr" always_refuse
@@ -323161,6 +323168,7 @@ local-zone: "spinavatalforpa.tk" always_refuse
 local-zone: "spinay.fr" always_refuse
 local-zone: "spinbara-1.fr" always_refuse
 local-zone: "spinbara-bet.fr" always_refuse
+local-zone: "spinbara-casi.fr" always_refuse
 local-zone: "spinbara-casino-fr.fr" always_refuse
 local-zone: "spinbara-en-ligne.fr" always_refuse
 local-zone: "spinbara-enligne.fr" always_refuse
@@ -388110,7 +388118,6 @@ local-zone: "wvytim.tokyo" always_refuse
 local-zone: "wvzdut.rest" always_refuse
 local-zone: "wvzhtl.tokyo" always_refuse
 local-zone: "wvzrui.tokyo" always_refuse
-local-zone: "ww" always_refuse
 local-zone: "ww-chrono-suivi.fr" always_refuse
 local-zone: "ww-colissimo.fr" always_refuse
 local-zone: "ww08lnc.cyou" always_refuse
@@ -404555,6 +404562,7 @@ local-zone: "zanevipshop.com" always_refuse
 local-zone: "zangasupsitare.tk" always_refuse
 local-zone: "zangezur.ee" always_refuse
 local-zone: "zangmysqmelighga.tk" always_refuse
+local-zone: "zangouv.fr" always_refuse
 local-zone: "zangtengkisurco.ml" always_refuse
 local-zone: "zangudertokowswi.cf" always_refuse
 local-zone: "zanhxx.tokyo" always_refuse
