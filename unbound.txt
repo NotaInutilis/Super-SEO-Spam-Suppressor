@@ -168149,6 +168149,7 @@ local-zone: "holponamara.tk" always_refuse
 local-zone: "holratenlinilad.tk" always_refuse
 local-zone: "holrequalokila.cf" always_refuse
 local-zone: "holresibpirih.ga" always_refuse
+local-zone: "holrmagazine.com" always_refuse
 local-zone: "holromochchildterre.cf" always_refuse
 local-zone: "holsbyror.buzz" always_refuse
 local-zone: "holsconhighcorne.ml" always_refuse
@@ -308818,6 +308819,10 @@ local-zone: "scqvuare.tk" always_refuse
 local-zone: "scrambledfair.com" always_refuse
 local-zone: "scramblerun.com" always_refuse
 local-zone: "scrapebust.com" always_refuse
+local-zone: "scrapeless.com" always_refuse
+local-zone: "scrapfly.io" always_refuse
+local-zone: "scrapingbee.com" always_refuse
+local-zone: "scrappey.com" always_refuse
 local-zone: "scrappy.xyz" always_refuse
 local-zone: "scratchmania-casino.fr" always_refuse
 local-zone: "scratchmania-fr.fr" always_refuse
@@ -311020,6 +311025,7 @@ local-zone: "sendro.tk" always_refuse
 local-zone: "sendros.de" always_refuse
 local-zone: "sendsmtp.com" always_refuse
 local-zone: "sendsstudyevery.bar" always_refuse
+local-zone: "sendwebrequest.com" always_refuse
 local-zone: "sendworldcasesstudent.buzz" always_refuse
 local-zone: "senedroid.net" always_refuse
 local-zone: "seneetuja.tk" always_refuse
@@ -362604,6 +362610,7 @@ local-zone: "usboaternetwork.com" always_refuse
 local-zone: "usbsmabrts.gq" always_refuse
 local-zone: "usbuildingmaterial.com" always_refuse
 local-zone: "usbumdu.tokyo" always_refuse
+local-zone: "usbview.com" always_refuse
 local-zone: "usc2014provostfacultyretreat.net" always_refuse
 local-zone: "uscagema.ml" always_refuse
 local-zone: "uscayrahanfei.cf" always_refuse
@@ -407568,6 +407575,7 @@ local-zone: "zoxuenl.cn" always_refuse
 local-zone: "zoxvci.tokyo" always_refuse
 local-zone: "zoxx0.tokyo" always_refuse
 local-zone: "zoy6jb.cyou" always_refuse
+local-zone: "zoylee.com" always_refuse
 local-zone: "zoylopderstoja.cf" always_refuse
 local-zone: "zoynocalicap.tk" always_refuse
 local-zone: "zoyq1e.tokyo" always_refuse

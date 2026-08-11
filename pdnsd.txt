@@ -168149,6 +168149,7 @@ neg {name=holponamara.tk; types=domain;}
 neg {name=holratenlinilad.tk; types=domain;}
 neg {name=holrequalokila.cf; types=domain;}
 neg {name=holresibpirih.ga; types=domain;}
+neg {name=holrmagazine.com; types=domain;}
 neg {name=holromochchildterre.cf; types=domain;}
 neg {name=holsbyror.buzz; types=domain;}
 neg {name=holsconhighcorne.ml; types=domain;}
@@ -308818,6 +308819,10 @@ neg {name=scqvuare.tk; types=domain;}
 neg {name=scrambledfair.com; types=domain;}
 neg {name=scramblerun.com; types=domain;}
 neg {name=scrapebust.com; types=domain;}
+neg {name=scrapeless.com; types=domain;}
+neg {name=scrapfly.io; types=domain;}
+neg {name=scrapingbee.com; types=domain;}
+neg {name=scrappey.com; types=domain;}
 neg {name=scrappy.xyz; types=domain;}
 neg {name=scratchmania-casino.fr; types=domain;}
 neg {name=scratchmania-fr.fr; types=domain;}
@@ -311020,6 +311025,7 @@ neg {name=sendro.tk; types=domain;}
 neg {name=sendros.de; types=domain;}
 neg {name=sendsmtp.com; types=domain;}
 neg {name=sendsstudyevery.bar; types=domain;}
+neg {name=sendwebrequest.com; types=domain;}
 neg {name=sendworldcasesstudent.buzz; types=domain;}
 neg {name=senedroid.net; types=domain;}
 neg {name=seneetuja.tk; types=domain;}
@@ -362604,6 +362610,7 @@ neg {name=usboaternetwork.com; types=domain;}
 neg {name=usbsmabrts.gq; types=domain;}
 neg {name=usbuildingmaterial.com; types=domain;}
 neg {name=usbumdu.tokyo; types=domain;}
+neg {name=usbview.com; types=domain;}
 neg {name=usc2014provostfacultyretreat.net; types=domain;}
 neg {name=uscagema.ml; types=domain;}
 neg {name=uscayrahanfei.cf; types=domain;}
@@ -407568,6 +407575,7 @@ neg {name=zoxuenl.cn; types=domain;}
 neg {name=zoxvci.tokyo; types=domain;}
 neg {name=zoxx0.tokyo; types=domain;}
 neg {name=zoy6jb.cyou; types=domain;}
+neg {name=zoylee.com; types=domain;}
 neg {name=zoylopderstoja.cf; types=domain;}
 neg {name=zoynocalicap.tk; types=domain;}
 neg {name=zoyq1e.tokyo; types=domain;}
