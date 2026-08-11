@@ -136340,6 +136340,7 @@ neg {name=flarcafereale.tk; types=domain;}
 neg {name=flardicthimapasa.gq; types=domain;}
 neg {name=flaremagazine.co.uk; types=domain;}
 neg {name=flaremagazines.co.uk; types=domain;}
+neg {name=flaresolverr.org; types=domain;}
 neg {name=flaretex.eu; types=domain;}
 neg {name=flarilenupam.cf; types=domain;}
 neg {name=flarinbeni.cf; types=domain;}
@@ -352676,6 +352677,10 @@ neg {name=trimsalondaapata.eu; types=domain;}
 neg {name=trimsubgriproapros.tk; types=domain;}
 neg {name=trimtaarazmatoolbneh.ml; types=domain;}
 neg {name=trimtitaltane.tk; types=domain;}
+neg {name=trimui.net; types=domain;}
+neg {name=trimui.pro; types=domain;}
+neg {name=trimuibrick.com; types=domain;}
+neg {name=trimuistore.com; types=domain;}
 neg {name=trimunerutta.cf; types=domain;}
 neg {name=trimvenotermi.tk; types=domain;}
 neg {name=trimzy.de; types=domain;}

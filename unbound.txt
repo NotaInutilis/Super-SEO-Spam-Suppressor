@@ -136340,6 +136340,7 @@ local-zone: "flarcafereale.tk" always_refuse
 local-zone: "flardicthimapasa.gq" always_refuse
 local-zone: "flaremagazine.co.uk" always_refuse
 local-zone: "flaremagazines.co.uk" always_refuse
+local-zone: "flaresolverr.org" always_refuse
 local-zone: "flaretex.eu" always_refuse
 local-zone: "flarilenupam.cf" always_refuse
 local-zone: "flarinbeni.cf" always_refuse
@@ -352676,6 +352677,10 @@ local-zone: "trimsalondaapata.eu" always_refuse
 local-zone: "trimsubgriproapros.tk" always_refuse
 local-zone: "trimtaarazmatoolbneh.ml" always_refuse
 local-zone: "trimtitaltane.tk" always_refuse
+local-zone: "trimui.net" always_refuse
+local-zone: "trimui.pro" always_refuse
+local-zone: "trimuibrick.com" always_refuse
+local-zone: "trimuistore.com" always_refuse
 local-zone: "trimunerutta.cf" always_refuse
 local-zone: "trimvenotermi.tk" always_refuse
 local-zone: "trimzy.de" always_refuse
