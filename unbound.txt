@@ -66074,6 +66074,7 @@ local-zone: "brewmondtortrimangmo.cf" always_refuse
 local-zone: "brewmybeer.online" always_refuse
 local-zone: "brewpublik.com" always_refuse
 local-zone: "brewrefidylo.tk" always_refuse
+local-zone: "brewresourceful.com" always_refuse
 local-zone: "brewsh.bar" always_refuse
 local-zone: "brewsterq9m1.web.app" always_refuse
 local-zone: "brewtalinorro.tk" always_refuse
