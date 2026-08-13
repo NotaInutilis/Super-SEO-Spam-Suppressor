@@ -51500,6 +51500,7 @@ local-zone: "babyshop-outlet.fr" always_refuse
 local-zone: "babyshopfrance.fr" always_refuse
 local-zone: "babysittinggates.com" always_refuse
 local-zone: "babysmoneyeyepeoples.bar" always_refuse
+local-zone: "babyspirit.fr" always_refuse
 local-zone: "babyssouthswait.biz" always_refuse
 local-zone: "babytoysangebote.de" always_refuse
 local-zone: "babywarepromo.com" always_refuse
@@ -132377,6 +132378,7 @@ local-zone: "fc9p1s.tokyo" always_refuse
 local-zone: "fc9zub.cyou" always_refuse
 local-zone: "fca-dellmotors.fr" always_refuse
 local-zone: "fca1zo.xyz" always_refuse
+local-zone: "fcacapital.fr" always_refuse
 local-zone: "fcachincibardper.cf" always_refuse
 local-zone: "fcal6c6.cyou" always_refuse
 local-zone: "fcamecabunlize.tk" always_refuse
@@ -189349,6 +189351,7 @@ local-zone: "journal-officiel-etat-org.fr" always_refuse
 local-zone: "journal-studies-write.bar" always_refuse
 local-zone: "journal79calculu.download" always_refuse
 local-zone: "journaldesfemmes.fr" always_refuse
+local-zone: "journaldesseniors.20minutes.fr" always_refuse
 local-zone: "journaldugeek.com" always_refuse
 local-zone: "journaldunet.com" always_refuse
 local-zone: "journaldunet.fr" always_refuse
@@ -201952,6 +201955,7 @@ local-zone: "lalinera.cf" always_refuse
 local-zone: "laliponlicots.ml" always_refuse
 local-zone: "lalirextmaro.cf" always_refuse
 local-zone: "laliroboha.gq" always_refuse
+local-zone: "laliste.net" always_refuse
 local-zone: "lalitirotle.gq" always_refuse
 local-zone: "lalitpuahearmi.tk" always_refuse
 local-zone: "lalitywealth.tk" always_refuse
@@ -205948,6 +205952,7 @@ local-zone: "lemonde-diplomatique.fr" always_refuse
 local-zone: "lemonde.ovh" always_refuse
 local-zone: "lemondeacademy.xyz" always_refuse
 local-zone: "lemondechange.fr" always_refuse
+local-zone: "lemondededemain.fr" always_refuse
 local-zone: "lemondededisney.fr" always_refuse
 local-zone: "lemondedelea.fr" always_refuse
 local-zone: "lemondee.fr" always_refuse
@@ -206640,6 +206645,7 @@ local-zone: "lescobillpay.pk" always_refuse
 local-zone: "lescoccinelles.fr" always_refuse
 local-zone: "lescocosecolos.com" always_refuse
 local-zone: "lescporimulgo.ga" always_refuse
+local-zone: "lescribouillard.fr" always_refuse
 local-zone: "lescrinieresduverdon.fr" always_refuse
 local-zone: "lesctofoburwasing.ga" always_refuse
 local-zone: "lesderniers.fr" always_refuse
