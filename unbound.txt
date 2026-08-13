@@ -303000,6 +303000,7 @@ local-zone: "runsralreazacheck.gq" always_refuse
 local-zone: "runta.xyz" always_refuse
 local-zone: "runteaby.ml" always_refuse
 local-zone: "runteebadca.gq" always_refuse
+local-zone: "runtimewire.com" always_refuse
 local-zone: "runtrainpro.com" always_refuse
 local-zone: "runtthursriramali.tk" always_refuse
 local-zone: "runwayml.com" always_refuse
