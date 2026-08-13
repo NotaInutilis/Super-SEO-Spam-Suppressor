@@ -32811,6 +32811,7 @@ neg {name=actualiser-mon-compte.fr; types=domain;}
 neg {name=actualiser-paiement.fr; types=domain;}
 neg {name=actualiser-vitale.fr; types=domain;}
 neg {name=actualison-service-ameli.fr; types=domain;}
+neg {name=actualite-bancaire.com; types=domain;}
 neg {name=actualite-cartevitale.fr; types=domain;}
 neg {name=actualite360.fr; types=domain;}
 neg {name=actualites-des-sports.com; types=domain;}
@@ -88768,6 +88769,7 @@ neg {name=compte-disneplus.fr; types=domain;}
 neg {name=compte-disney.fr; types=domain;}
 neg {name=compte-disneyplus.fr; types=domain;}
 neg {name=compte-edf.fr; types=domain;}
+neg {name=compte-en-banque.org; types=domain;}
 neg {name=compte-engie.fr; types=domain;}
 neg {name=compte-espace-client.fr; types=domain;}
 neg {name=compte-fr.fr; types=domain;}
@@ -99136,6 +99138,7 @@ neg {name=daily.uk.com; types=domain;}
 neg {name=dailybizhunt.com; types=domain;}
 neg {name=dailydeal.us; types=domain;}
 neg {name=dailydevsblog.com; types=domain;}
+neg {name=dailydigital.fr; types=domain;}
 neg {name=dailydishnews.com; types=domain;}
 neg {name=dailydroppedprice.com; types=domain;}
 neg {name=dailyexpressnewstoday.com; types=domain;}
@@ -335922,6 +335925,7 @@ neg {name=tariffartistpeal.com; types=domain;}
 neg {name=tariffprovisionalbitterness.com; types=domain;}
 neg {name=tariffsvoltic.pw; types=domain;}
 neg {name=tarification-prime.fr; types=domain;}
+neg {name=tarifs-bancaires.info; types=domain;}
 neg {name=tarifs-prime.fr; types=domain;}
 neg {name=tarikyasar.xyz; types=domain;}
 neg {name=tarilerragaso.ga; types=domain;}

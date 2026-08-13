@@ -32822,6 +32822,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.actualiser-paiement.fr/*
 *://*.actualiser-vitale.fr/*
 *://*.actualison-service-ameli.fr/*
+*://*.actualite-bancaire.com/*
 *://*.actualite-cartevitale.fr/*
 *://*.actualite360.fr/*
 *://*.actualites-des-sports.com/*
@@ -89009,6 +89010,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.compte-disney.fr/*
 *://*.compte-disneyplus.fr/*
 *://*.compte-edf.fr/*
+*://*.compte-en-banque.org/*
 *://*.compte-engie.fr/*
 *://*.compte-espace-client.fr/*
 *://*.compte-fr.fr/*
@@ -99404,6 +99406,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.dailybizhunt.com/*
 *://*.dailydeal.us/*
 *://*.dailydevsblog.com/*
+*://*.dailydigital.fr/*
 *://*.dailydishnews.com/*
 *://*.dailydroppedprice.com/*
 *://*.dailyexpressnewstoday.com/*
@@ -336878,6 +336881,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.tariffprovisionalbitterness.com/*
 *://*.tariffsvoltic.pw/*
 *://*.tarification-prime.fr/*
+*://*.tarifs-bancaires.info/*
 *://*.tarifs-prime.fr/*
 *://*.tarikyasar.xyz/*
 *://*.tarilerragaso.ga/*
@@ -410870,6 +410874,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.leparisien.fr/guide-shopping/*
 *://*.lepide.com/blog/*
 *://*.lespensionnaires.fr/blog/*
+*://*.lhotellerie-restauration.fr/ophelia/*
 *://*.lingedesfamilles.fr/blog/*
 *://*.lionbridge.com/*/blog/*
 *://*.lionbridge.com/blog/*
@@ -411141,5 +411146,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 host *= "magisk"
 title *= "AI-powered" i
 title *= "ecco un articolo" i
-title *= "ending explained" ititle *= "powered by AI" i
+title *= "ending explained" i
 title *= "here's an article about" i
+title *= "powered by AI" i

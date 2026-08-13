@@ -32811,6 +32811,7 @@ local-zone: "actualiser-mon-compte.fr" always_refuse
 local-zone: "actualiser-paiement.fr" always_refuse
 local-zone: "actualiser-vitale.fr" always_refuse
 local-zone: "actualison-service-ameli.fr" always_refuse
+local-zone: "actualite-bancaire.com" always_refuse
 local-zone: "actualite-cartevitale.fr" always_refuse
 local-zone: "actualite360.fr" always_refuse
 local-zone: "actualites-des-sports.com" always_refuse
@@ -88768,6 +88769,7 @@ local-zone: "compte-disneplus.fr" always_refuse
 local-zone: "compte-disney.fr" always_refuse
 local-zone: "compte-disneyplus.fr" always_refuse
 local-zone: "compte-edf.fr" always_refuse
+local-zone: "compte-en-banque.org" always_refuse
 local-zone: "compte-engie.fr" always_refuse
 local-zone: "compte-espace-client.fr" always_refuse
 local-zone: "compte-fr.fr" always_refuse
@@ -99136,6 +99138,7 @@ local-zone: "daily.uk.com" always_refuse
 local-zone: "dailybizhunt.com" always_refuse
 local-zone: "dailydeal.us" always_refuse
 local-zone: "dailydevsblog.com" always_refuse
+local-zone: "dailydigital.fr" always_refuse
 local-zone: "dailydishnews.com" always_refuse
 local-zone: "dailydroppedprice.com" always_refuse
 local-zone: "dailyexpressnewstoday.com" always_refuse
@@ -335922,6 +335925,7 @@ local-zone: "tariffartistpeal.com" always_refuse
 local-zone: "tariffprovisionalbitterness.com" always_refuse
 local-zone: "tariffsvoltic.pw" always_refuse
 local-zone: "tarification-prime.fr" always_refuse
+local-zone: "tarifs-bancaires.info" always_refuse
 local-zone: "tarifs-prime.fr" always_refuse
 local-zone: "tarikyasar.xyz" always_refuse
 local-zone: "tarilerragaso.ga" always_refuse
