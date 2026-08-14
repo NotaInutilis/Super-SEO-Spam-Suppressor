@@ -232101,6 +232101,7 @@ local-zone: "morospincasinoavis.fr" always_refuse
 local-zone: "morospincasinobonus.fr" always_refuse
 local-zone: "morospincasinologin.fr" always_refuse
 local-zone: "morospins-fr.fr" always_refuse
+local-zone: "morphemanager.com" always_refuse
 local-zone: "morpheribeca.ml" always_refuse
 local-zone: "morphmyhrioprevmidi.cf" always_refuse
 local-zone: "morpilotsales.shop" always_refuse
