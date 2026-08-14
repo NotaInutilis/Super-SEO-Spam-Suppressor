@@ -91740,6 +91740,7 @@ neg {name=coreflicestla.ml; types=domain;}
 neg {name=coreglp.at; types=domain;}
 neg {name=coreglpshop.fr; types=domain;}
 neg {name=coreilk.xyz; types=domain;}
+neg {name=corelab.tech; types=domain;}
 neg {name=coreldraw-windows-download.github.io; types=domain;}
 neg {name=corelimiglocer.ga; types=domain;}
 neg {name=coremotusus.tk; types=domain;}

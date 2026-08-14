@@ -91740,6 +91740,7 @@ local-zone: "coreflicestla.ml" always_refuse
 local-zone: "coreglp.at" always_refuse
 local-zone: "coreglpshop.fr" always_refuse
 local-zone: "coreilk.xyz" always_refuse
+local-zone: "corelab.tech" always_refuse
 local-zone: "coreldraw-windows-download.github.io" always_refuse
 local-zone: "corelimiglocer.ga" always_refuse
 local-zone: "coremotusus.tk" always_refuse
