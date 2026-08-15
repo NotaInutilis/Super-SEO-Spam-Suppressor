@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Aug 2026 07:12 UTC
-# Version: 2026.0814.0712.47
+# Last modified: 14 Aug 2026 14:17 UTC
+# Version: 2026.0814.1417.33
 # Syntax: Domains (without subdomains)
-# Number of entries: 16560
+# Number of entries: 16559
 #
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
@@ -7022,7 +7022,6 @@ heisen-handel.de
 heisen-handels.de
 heiseno.de
 heiser-handel.de
-heiz-fachmann.de
 heiz-oel24.com
 heiz-oil.de
 heiz-partner24.de
