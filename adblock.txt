@@ -411164,6 +411164,8 @@
 ||shopcoiffure.com/blog^$document
 ||silamp.fr/pages^$document
 ||siroko.com/blog^$document
+||sliplane.io/*/blog^$document
+||sliplane.io/blog^$document
 ||smartwindows.app/blog^$document
 ||son-video.com/guide^$document
 ||sonix.ai/resources^$document
