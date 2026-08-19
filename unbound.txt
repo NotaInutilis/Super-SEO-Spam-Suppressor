@@ -292762,6 +292762,7 @@ local-zone: "reference-antai-gouvs.fr" always_refuse
 local-zone: "reference-prime.fr" always_refuse
 local-zone: "referencement-actif.com" always_refuse
 local-zone: "referencement-garanti.eu" always_refuse
+local-zone: "references-aqueduc.ca" always_refuse
 local-zone: "referendum2005.fr" always_refuse
 local-zone: "referproject.eu" always_refuse
 local-zone: "referredtriumph.com" always_refuse
@@ -355711,6 +355712,7 @@ local-zone: "tutorialmeta.com" always_refuse
 local-zone: "tutorialmore.com" always_refuse
 local-zone: "tutorialnesia.xyz" always_refuse
 local-zone: "tutorialplayers.site" always_refuse
+local-zone: "tutoriaux-excalibur.com" always_refuse
 local-zone: "tutorocodi.tk" always_refuse
 local-zone: "tutorprime.xyz" always_refuse
 local-zone: "tutosdalige.tk" always_refuse

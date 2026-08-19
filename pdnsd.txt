@@ -292762,6 +292762,7 @@ neg {name=reference-antai-gouvs.fr; types=domain;}
 neg {name=reference-prime.fr; types=domain;}
 neg {name=referencement-actif.com; types=domain;}
 neg {name=referencement-garanti.eu; types=domain;}
+neg {name=references-aqueduc.ca; types=domain;}
 neg {name=referendum2005.fr; types=domain;}
 neg {name=referproject.eu; types=domain;}
 neg {name=referredtriumph.com; types=domain;}
@@ -355711,6 +355712,7 @@ neg {name=tutorialmeta.com; types=domain;}
 neg {name=tutorialmore.com; types=domain;}
 neg {name=tutorialnesia.xyz; types=domain;}
 neg {name=tutorialplayers.site; types=domain;}
+neg {name=tutoriaux-excalibur.com; types=domain;}
 neg {name=tutorocodi.tk; types=domain;}
 neg {name=tutorprime.xyz; types=domain;}
 neg {name=tutosdalige.tk; types=domain;}
