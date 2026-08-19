@@ -221585,6 +221585,7 @@ local-zone: "marpsaltgrunkitfie.tk" always_refuse
 local-zone: "marpure.shop" always_refuse
 local-zone: "marpverstingforca.gq" always_refuse
 local-zone: "marqfp.tokyo" always_refuse
+local-zone: "marqly.com" always_refuse
 local-zone: "marquesac.eu" always_refuse
 local-zone: "marquisprod.com" always_refuse
 local-zone: "marquisspas.dk" always_refuse
