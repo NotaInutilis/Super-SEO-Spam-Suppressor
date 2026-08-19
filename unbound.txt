@@ -48915,6 +48915,7 @@ local-zone: "auradeals.shop" always_refuse
 local-zone: "aurahous.com" always_refuse
 local-zone: "aurainfusions.com" always_refuse
 local-zone: "auralouf.xyz" always_refuse
+local-zone: "auraplusplus.com" always_refuse
 local-zone: "auraterraplaza.com" always_refuse
 local-zone: "auray-communaute.fr" always_refuse
 local-zone: "aurbiven.xyz" always_refuse
