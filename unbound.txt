@@ -104726,6 +104726,7 @@ local-zone: "devsdash.com" always_refuse
 local-zone: "devservimsmbw1f2holf.biz" always_refuse
 local-zone: "devsfeed.com" always_refuse
 local-zone: "devstore.info" always_refuse
+local-zone: "devsuite.co" always_refuse
 local-zone: "devtamislara.gq" always_refuse
 local-zone: "devtingmetersnuda.tk" always_refuse
 local-zone: "devtip.in" always_refuse
@@ -107808,6 +107809,7 @@ local-zone: "dirotenruptback.ml" always_refuse
 local-zone: "dirpress.eu" always_refuse
 local-zone: "dirrorestsourcboss.ml" always_refuse
 local-zone: "dirsh.xyz" always_refuse
+local-zone: "dirstarter.com" always_refuse
 local-zone: "dirtbacarchest.ga" always_refuse
 local-zone: "dirtbimenlungte.ml" always_refuse
 local-zone: "dirtcamyspa.tk" always_refuse
@@ -127370,6 +127372,7 @@ local-zone: "euro2020.xyz" always_refuse
 local-zone: "euro2024tickets.de" always_refuse
 local-zone: "euro26.ee" always_refuse
 local-zone: "euro928-2017.eu" always_refuse
+local-zone: "euroalternative.eu" always_refuse
 local-zone: "euroartfestival.eu" always_refuse
 local-zone: "euroasfalti.net" always_refuse
 local-zone: "eurobeatmusicreviews.xyz" always_refuse
@@ -199654,6 +199657,7 @@ local-zone: "kulmiwertconttic.ml" always_refuse
 local-zone: "kulontiolaislimen.gq" always_refuse
 local-zone: "kulonuzlet.news" always_refuse
 local-zone: "kulotte.fr" always_refuse
+local-zone: "kulpinski.pl" always_refuse
 local-zone: "kulpzm.shop" always_refuse
 local-zone: "kulsvierkoret.dk" always_refuse
 local-zone: "kulturhaj.dk" always_refuse
@@ -255905,6 +255909,7 @@ local-zone: "openaienglish.com" always_refuse
 local-zone: "openaijourney.com" always_refuse
 local-zone: "openairworthwhile.com" always_refuse
 local-zone: "openaisea.com" always_refuse
+local-zone: "openalternative.co" always_refuse
 local-zone: "openart.ai" always_refuse
 local-zone: "openask.fr" always_refuse
 local-zone: "openbancachatdisp.tk" always_refuse
@@ -296262,6 +296267,7 @@ local-zone: "reviews.kamagraoriginal.to" always_refuse
 local-zone: "reviewtrustedonline.com" always_refuse
 local-zone: "revifessiotrol.tk" always_refuse
 local-zone: "revilnineril.gq" always_refuse
+local-zone: "revinel.com" always_refuse
 local-zone: "revirbersman.tk" always_refuse
 local-zone: "revisorerne-skanderborg.dk" always_refuse
 local-zone: "revisorhuset-holstebro.dk" always_refuse
@@ -340063,6 +340069,7 @@ local-zone: "termihoworkmahseo.cf" always_refuse
 local-zone: "termililli.gq" always_refuse
 local-zone: "termilotab.tk" always_refuse
 local-zone: "termimprovesfilm.biz" always_refuse
+local-zone: "terminaldock.com" always_refuse
 local-zone: "terminatedefensive.com" always_refuse
 local-zone: "terminatei.com" always_refuse
 local-zone: "termink.com" always_refuse
