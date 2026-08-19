@@ -62087,6 +62087,7 @@ local-zone: "blog.browserscan.net" always_refuse
 local-zone: "blog.but.fr" always_refuse
 local-zone: "blog.decathlon.tw" always_refuse
 local-zone: "blog.desdelinux.net" always_refuse
+local-zone: "blog.domadoo.fr" always_refuse
 local-zone: "blog.elsaspeak.com" always_refuse
 local-zone: "blog.extremehacking.org" always_refuse
 local-zone: "blog.flashrouters.com" always_refuse

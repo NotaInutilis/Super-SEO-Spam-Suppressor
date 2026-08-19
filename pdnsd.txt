@@ -62087,6 +62087,7 @@ neg {name=blog.browserscan.net; types=domain;}
 neg {name=blog.but.fr; types=domain;}
 neg {name=blog.decathlon.tw; types=domain;}
 neg {name=blog.desdelinux.net; types=domain;}
+neg {name=blog.domadoo.fr; types=domain;}
 neg {name=blog.elsaspeak.com; types=domain;}
 neg {name=blog.extremehacking.org; types=domain;}
 neg {name=blog.flashrouters.com; types=domain;}
