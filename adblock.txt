@@ -411194,6 +411194,7 @@
 ||aliexpress.com/*/video-ssr^$document
 ||aliexpress.com/*/wiki^$document
 ||aliexpress.com/*/wiki-ssr^$document
+||alihelper.net/blog^$document
 ||allconnect.com/blog^$document
 ||allpneus.com/conseils-expertise^$document
 ||anwork.net/*/blog^$document
@@ -411393,6 +411394,8 @@
 ||impacto-conseil.com/actualites^$document
 ||in-residence.com/blog^$document
 ||in-residence.com/ressources^$document
+||industrialmonitordirect.com/*/blogs^$document
+||industrialmonitordirect.com/blogs^$document
 ||inmac-wstore.com/guides-achat-*^$document
 ||inmotionhosting.com/*/blog^$document
 ||inmotionhosting.com/blog^$document
