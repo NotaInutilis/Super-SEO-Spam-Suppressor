@@ -40298,6 +40298,7 @@ local-zone: "americanrepost.com" always_refuse
 local-zone: "americansforredistrictingreform.org" always_refuse
 local-zone: "americansportsoutlet.eu" always_refuse
 local-zone: "americansportsoutlet.fr" always_refuse
+local-zone: "americansupplements.eu" always_refuse
 local-zone: "americantestbakery.com" always_refuse
 local-zone: "americantouqrister.cf" always_refuse
 local-zone: "americantundrashepherd.com" always_refuse
@@ -72293,6 +72294,7 @@ local-zone: "canada2024-lnterac.fr" always_refuse
 local-zone: "canadabreakingnews.com" always_refuse
 local-zone: "canadacad.ca" always_refuse
 local-zone: "canadacrimeindex.com" always_refuse
+local-zone: "canadadrugstore.com" always_refuse
 local-zone: "canadagooseoutletfrance.fr" always_refuse
 local-zone: "canadagoosepaschere.fr" always_refuse
 local-zone: "canadanewsreport.com" always_refuse
@@ -106067,7 +106069,6 @@ local-zone: "diaroupelicymind.ml" always_refuse
 local-zone: "diarpovamderys.tk" always_refuse
 local-zone: "diaruptpumy.cf" always_refuse
 local-zone: "diarynidestningdec.gq" always_refuse
-local-zone: "diaryofafitmommy.com" always_refuse
 local-zone: "diarypuddle.com" always_refuse
 local-zone: "diasafihorakou.gq" always_refuse
 local-zone: "diasallnpowadexlo.cf" always_refuse
@@ -122760,7 +122761,6 @@ local-zone: "enriediludte.tk" always_refuse
 local-zone: "enrigogcadu.ml" always_refuse
 local-zone: "enriochrissimplboutex.tk" always_refuse
 local-zone: "enripe.tk" always_refuse
-local-zone: "enriquetomasshop.shop" always_refuse
 local-zone: "enriraresme.cf" always_refuse
 local-zone: "enriritle.ml" always_refuse
 local-zone: "enrisdieworl.ml" always_refuse
@@ -127271,6 +127271,7 @@ local-zone: "eu-meta.fr" always_refuse
 local-zone: "eu-new-media.eu" always_refuse
 local-zone: "eu-pharmacy-online.com" always_refuse
 local-zone: "eu-pharmacy.fr" always_refuse
+local-zone: "eu-pillstore.com" always_refuse
 local-zone: "eu-prime.fr" always_refuse
 local-zone: "eu-sezane.com" always_refuse
 local-zone: "eu-snapchat.fr" always_refuse
@@ -204524,7 +204525,6 @@ local-zone: "lbswwf.tokyo" always_refuse
 local-zone: "lbsx69.cyou" always_refuse
 local-zone: "lbszftg.cn" always_refuse
 local-zone: "lbszka.rest" always_refuse
-local-zone: "lbtinc.com" always_refuse
 local-zone: "lbtx8c.cyou" always_refuse
 local-zone: "lbu7yb.xyz" always_refuse
 local-zone: "lbumdomhcahefovu.tk" always_refuse
@@ -258929,7 +258929,6 @@ local-zone: "outletmiumiu.fr" always_refuse
 local-zone: "outletnewin.com" always_refuse
 local-zone: "outletnike.fr" always_refuse
 local-zone: "outletparis.fr" always_refuse
-local-zone: "outletpc.de" always_refuse
 local-zone: "outletpickleball.com" always_refuse
 local-zone: "outletpietramosaiciepiastrelle.it" always_refuse
 local-zone: "outletprive.fr" always_refuse
@@ -268199,6 +268198,7 @@ local-zone: "pharmaracapital.com" always_refuse
 local-zone: "pharmaright.vu" always_refuse
 local-zone: "pharmaris.net" always_refuse
 local-zone: "pharmas.xyz" always_refuse
+local-zone: "pharmaserve.com" always_refuse
 local-zone: "pharmatheke-europe.com" always_refuse
 local-zone: "pharmelobihar.tk" always_refuse
 local-zone: "pharmeraly.tk" always_refuse
@@ -348075,6 +348075,7 @@ local-zone: "tjzqfp.tokyo" always_refuse
 local-zone: "tjzscl.tokyo" always_refuse
 local-zone: "tjzzedu.com" always_refuse
 local-zone: "tk-deburncalories.shop" always_refuse
+local-zone: "tk-energiemanagement.de" always_refuse
 local-zone: "tk-kontor.de" always_refuse
 local-zone: "tk05k5.cyou" always_refuse
 local-zone: "tk0831.cyou" always_refuse
@@ -349104,6 +349105,7 @@ local-zone: "togedeleche.cf" always_refuse
 local-zone: "togederwinkdumppo.tk" always_refuse
 local-zone: "togee.xyz" always_refuse
 local-zone: "togel357.biz" always_refuse
+local-zone: "togelsydneypools.org" always_refuse
 local-zone: "togepukele.gq" always_refuse
 local-zone: "togerupnome.tk" always_refuse
 local-zone: "togesusmusar.gq" always_refuse
@@ -349644,6 +349646,7 @@ local-zone: "toolsforhumans.ai" always_refuse
 local-zone: "toolsforsuccess.website" always_refuse
 local-zone: "toolshafaschandkadib.tk" always_refuse
 local-zone: "toolshub360.com" always_refuse
+local-zone: "toolshype.com" always_refuse
 local-zone: "toolsmodern.com" always_refuse
 local-zone: "toolsmonster.com" always_refuse
 local-zone: "toolspedia.io" always_refuse
@@ -364020,7 +364023,6 @@ local-zone: "uttelywallutt.gq" always_refuse
 local-zone: "uttespisoto.tk" always_refuse
 local-zone: "uttlin.xyz" always_refuse
 local-zone: "uttorw.xyz" always_refuse
-local-zone: "uttpforum.st" always_refuse
 local-zone: "uttudecembgan.tk" always_refuse
 local-zone: "uttx40.shop" always_refuse
 local-zone: "utu1gi.cyou" always_refuse
@@ -399593,7 +399595,6 @@ local-zone: "ying996.com" always_refuse
 local-zone: "ying997.com" always_refuse
 local-zone: "ying998.com" always_refuse
 local-zone: "ying999.com" always_refuse
-local-zone: "yinga-vital.de" always_refuse
 local-zone: "yingfeidi.com" always_refuse
 local-zone: "yinghuawang.com" always_refuse
 local-zone: "yingkehz.com" always_refuse
