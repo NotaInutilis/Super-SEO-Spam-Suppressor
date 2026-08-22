@@ -76761,6 +76761,7 @@ local-zone: "celsikp.tokyo" always_refuse
 local-zone: "celsius-casino-fr.fr" always_refuse
 local-zone: "celsius-casino-france.fr" always_refuse
 local-zone: "celsius-casino.fr" always_refuse
+local-zone: "celsiuscasino-connexion.fr" always_refuse
 local-zone: "celsiuscasino-fr.fr" always_refuse
 local-zone: "celsiuscasino-france.fr" always_refuse
 local-zone: "celsiuscasino-officiel.fr" always_refuse
@@ -94233,6 +94234,7 @@ local-zone: "creditland.xyz" always_refuse
 local-zone: "creditlyonnaislcl.fr" always_refuse
 local-zone: "creditmaritime-atlantique.fr" always_refuse
 local-zone: "creditmitiel.fr" always_refuse
+local-zone: "creditmut-capital.fr" always_refuse
 local-zone: "creditmuteuel.fr" always_refuse
 local-zone: "creditmutual.fr" always_refuse
 local-zone: "creditmutuel-authentification.fr" always_refuse
@@ -100340,6 +100342,7 @@ local-zone: "date-love-now.com" always_refuse
 local-zone: "date-now-here1.com" always_refuse
 local-zone: "date-now-here2.com" always_refuse
 local-zone: "date-prime.fr" always_refuse
+local-zone: "date-sneaker.fr" always_refuse
 local-zone: "date-this-supergirl1.com" always_refuse
 local-zone: "date-this-supergirl2.com" always_refuse
 local-zone: "date-with-me5.com" always_refuse
@@ -123180,6 +123183,7 @@ local-zone: "environmentstocks.buzz" always_refuse
 local-zone: "environmentupon.biz" always_refuse
 local-zone: "enviroulemonde.fr" always_refuse
 local-zone: "envivotv.es" always_refuse
+local-zone: "envoi-24.fr" always_refuse
 local-zone: "envoi-ameli.fr" always_refuse
 local-zone: "envoi-chronopost.fr" always_refuse
 local-zone: "envoi-mondialrelay.fr" always_refuse
@@ -127054,6 +127058,7 @@ local-zone: "etibku.tokyo" always_refuse
 local-zone: "etic-managers.eu" always_refuse
 local-zone: "eticketshop.fr" always_refuse
 local-zone: "eticketswap.fr" always_refuse
+local-zone: "eticketsy.com" always_refuse
 local-zone: "eticticheckplan.ga" always_refuse
 local-zone: "etictitireb.ga" always_refuse
 local-zone: "etidev.bar" always_refuse
@@ -213220,6 +213225,7 @@ local-zone: "locotikid.cf" always_refuse
 local-zone: "locototonadgatt.ga" always_refuse
 local-zone: "locouncaymisboa.gq" always_refuse
 local-zone: "locourhathank.tk" always_refuse
+local-zone: "locowin-bet.fr" always_refuse
 local-zone: "locowin-casinoo.fr" always_refuse
 local-zone: "locowin-casinos.fr" always_refuse
 local-zone: "locowin-fr.fr" always_refuse
@@ -213656,6 +213662,7 @@ local-zone: "lolajack-official.fr" always_refuse
 local-zone: "lolajack-officiel.fr" always_refuse
 local-zone: "lolajack-online.fr" always_refuse
 local-zone: "lolajack-play.fr" always_refuse
+local-zone: "lolajackbonus.fr" always_refuse
 local-zone: "lolajackcasino-fr.fr" always_refuse
 local-zone: "lolajackcasino.fr" always_refuse
 local-zone: "lolajackenligne.fr" always_refuse
@@ -215979,8 +215986,11 @@ local-zone: "lucky8e.fr" always_refuse
 local-zone: "lucky8en-ligne.fr" always_refuse
 local-zone: "lucky8enligne.fr" always_refuse
 local-zone: "lucky8fr.fr" always_refuse
+local-zone: "lucky8fr8.fr" always_refuse
 local-zone: "lucky8france.fr" always_refuse
+local-zone: "lucky8licence.fr" always_refuse
 local-zone: "lucky8official.fr" always_refuse
+local-zone: "lucky8officiel.fr" always_refuse
 local-zone: "lucky8online.fr" always_refuse
 local-zone: "lucky8s.fr" always_refuse
 local-zone: "lucky8vip.com" always_refuse
@@ -237064,6 +237074,7 @@ local-zone: "mystificus.pl" always_refuse
 local-zone: "mystische-wesen.de" always_refuse
 local-zone: "mystiv.xyz" always_refuse
 local-zone: "mystk-fr.fr" always_refuse
+local-zone: "mystoreonline.fr" always_refuse
 local-zone: "mystripesocks.com" always_refuse
 local-zone: "mystudy.blog" always_refuse
 local-zone: "mysubsribigo.tk" always_refuse
@@ -241815,6 +241826,7 @@ local-zone: "netflix-nopaiement.fr" always_refuse
 local-zone: "netflix-nopaye.fr" always_refuse
 local-zone: "netflix-nopayement.fr" always_refuse
 local-zone: "netflix-notification.fr" always_refuse
+local-zone: "netflix-online.fr" always_refuse
 local-zone: "netflix-paiement-authentification.fr" always_refuse
 local-zone: "netflix-paiement-client.fr" always_refuse
 local-zone: "netflix-paiement-info.fr" always_refuse
@@ -258966,6 +258978,7 @@ local-zone: "outlet-network.com" always_refuse
 local-zone: "outlet-newbalance.fr" always_refuse
 local-zone: "outlet-nike.fr" always_refuse
 local-zone: "outlet-nutrition.com" always_refuse
+local-zone: "outlet-paris.fr" always_refuse
 local-zone: "outlet-polene-paris.fr" always_refuse
 local-zone: "outlet-pro.com" always_refuse
 local-zone: "outlet-promos-2024.fr" always_refuse
@@ -290889,10 +290902,12 @@ local-zone: "ray-banfrance.fr" always_refuse
 local-zone: "ray17r.cyou" always_refuse
 local-zone: "rayanpixel.xyz" always_refuse
 local-zone: "rayanserver.info" always_refuse
+local-zone: "rayban-meta.fr" always_refuse
 local-zone: "rayban-pascher.fr" always_refuse
 local-zone: "raybanboutique.fr" always_refuse
 local-zone: "raybanfrance.fr" always_refuse
 local-zone: "raybanlunettespascher.fr" always_refuse
+local-zone: "raybanmeta.fr" always_refuse
 local-zone: "raybanpascher.fr" always_refuse
 local-zone: "raybedsrosfoundtab.ga" always_refuse
 local-zone: "raycampafermota.ga" always_refuse
@@ -310500,6 +310515,7 @@ local-zone: "secuespapersoaj.fr" always_refuse
 local-zone: "secufactuenerg.fr" always_refuse
 local-zone: "secuinfo-ameli.fr" always_refuse
 local-zone: "secuinfovitale.fr" always_refuse
+local-zone: "seculeboncoin.fr" always_refuse
 local-zone: "secuma.dk" always_refuse
 local-zone: "secumajpay.fr" always_refuse
 local-zone: "secundilla.de" always_refuse

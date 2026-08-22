@@ -76761,6 +76761,7 @@ neg {name=celsikp.tokyo; types=domain;}
 neg {name=celsius-casino-fr.fr; types=domain;}
 neg {name=celsius-casino-france.fr; types=domain;}
 neg {name=celsius-casino.fr; types=domain;}
+neg {name=celsiuscasino-connexion.fr; types=domain;}
 neg {name=celsiuscasino-fr.fr; types=domain;}
 neg {name=celsiuscasino-france.fr; types=domain;}
 neg {name=celsiuscasino-officiel.fr; types=domain;}
@@ -94233,6 +94234,7 @@ neg {name=creditland.xyz; types=domain;}
 neg {name=creditlyonnaislcl.fr; types=domain;}
 neg {name=creditmaritime-atlantique.fr; types=domain;}
 neg {name=creditmitiel.fr; types=domain;}
+neg {name=creditmut-capital.fr; types=domain;}
 neg {name=creditmuteuel.fr; types=domain;}
 neg {name=creditmutual.fr; types=domain;}
 neg {name=creditmutuel-authentification.fr; types=domain;}
@@ -100340,6 +100342,7 @@ neg {name=date-love-now.com; types=domain;}
 neg {name=date-now-here1.com; types=domain;}
 neg {name=date-now-here2.com; types=domain;}
 neg {name=date-prime.fr; types=domain;}
+neg {name=date-sneaker.fr; types=domain;}
 neg {name=date-this-supergirl1.com; types=domain;}
 neg {name=date-this-supergirl2.com; types=domain;}
 neg {name=date-with-me5.com; types=domain;}
@@ -123180,6 +123183,7 @@ neg {name=environmentstocks.buzz; types=domain;}
 neg {name=environmentupon.biz; types=domain;}
 neg {name=enviroulemonde.fr; types=domain;}
 neg {name=envivotv.es; types=domain;}
+neg {name=envoi-24.fr; types=domain;}
 neg {name=envoi-ameli.fr; types=domain;}
 neg {name=envoi-chronopost.fr; types=domain;}
 neg {name=envoi-mondialrelay.fr; types=domain;}
@@ -127054,6 +127058,7 @@ neg {name=etibku.tokyo; types=domain;}
 neg {name=etic-managers.eu; types=domain;}
 neg {name=eticketshop.fr; types=domain;}
 neg {name=eticketswap.fr; types=domain;}
+neg {name=eticketsy.com; types=domain;}
 neg {name=eticticheckplan.ga; types=domain;}
 neg {name=etictitireb.ga; types=domain;}
 neg {name=etidev.bar; types=domain;}
@@ -213220,6 +213225,7 @@ neg {name=locotikid.cf; types=domain;}
 neg {name=locototonadgatt.ga; types=domain;}
 neg {name=locouncaymisboa.gq; types=domain;}
 neg {name=locourhathank.tk; types=domain;}
+neg {name=locowin-bet.fr; types=domain;}
 neg {name=locowin-casinoo.fr; types=domain;}
 neg {name=locowin-casinos.fr; types=domain;}
 neg {name=locowin-fr.fr; types=domain;}
@@ -213656,6 +213662,7 @@ neg {name=lolajack-official.fr; types=domain;}
 neg {name=lolajack-officiel.fr; types=domain;}
 neg {name=lolajack-online.fr; types=domain;}
 neg {name=lolajack-play.fr; types=domain;}
+neg {name=lolajackbonus.fr; types=domain;}
 neg {name=lolajackcasino-fr.fr; types=domain;}
 neg {name=lolajackcasino.fr; types=domain;}
 neg {name=lolajackenligne.fr; types=domain;}
@@ -215979,8 +215986,11 @@ neg {name=lucky8e.fr; types=domain;}
 neg {name=lucky8en-ligne.fr; types=domain;}
 neg {name=lucky8enligne.fr; types=domain;}
 neg {name=lucky8fr.fr; types=domain;}
+neg {name=lucky8fr8.fr; types=domain;}
 neg {name=lucky8france.fr; types=domain;}
+neg {name=lucky8licence.fr; types=domain;}
 neg {name=lucky8official.fr; types=domain;}
+neg {name=lucky8officiel.fr; types=domain;}
 neg {name=lucky8online.fr; types=domain;}
 neg {name=lucky8s.fr; types=domain;}
 neg {name=lucky8vip.com; types=domain;}
@@ -237064,6 +237074,7 @@ neg {name=mystificus.pl; types=domain;}
 neg {name=mystische-wesen.de; types=domain;}
 neg {name=mystiv.xyz; types=domain;}
 neg {name=mystk-fr.fr; types=domain;}
+neg {name=mystoreonline.fr; types=domain;}
 neg {name=mystripesocks.com; types=domain;}
 neg {name=mystudy.blog; types=domain;}
 neg {name=mysubsribigo.tk; types=domain;}
@@ -241815,6 +241826,7 @@ neg {name=netflix-nopaiement.fr; types=domain;}
 neg {name=netflix-nopaye.fr; types=domain;}
 neg {name=netflix-nopayement.fr; types=domain;}
 neg {name=netflix-notification.fr; types=domain;}
+neg {name=netflix-online.fr; types=domain;}
 neg {name=netflix-paiement-authentification.fr; types=domain;}
 neg {name=netflix-paiement-client.fr; types=domain;}
 neg {name=netflix-paiement-info.fr; types=domain;}
@@ -258966,6 +258978,7 @@ neg {name=outlet-network.com; types=domain;}
 neg {name=outlet-newbalance.fr; types=domain;}
 neg {name=outlet-nike.fr; types=domain;}
 neg {name=outlet-nutrition.com; types=domain;}
+neg {name=outlet-paris.fr; types=domain;}
 neg {name=outlet-polene-paris.fr; types=domain;}
 neg {name=outlet-pro.com; types=domain;}
 neg {name=outlet-promos-2024.fr; types=domain;}
@@ -290889,10 +290902,12 @@ neg {name=ray-banfrance.fr; types=domain;}
 neg {name=ray17r.cyou; types=domain;}
 neg {name=rayanpixel.xyz; types=domain;}
 neg {name=rayanserver.info; types=domain;}
+neg {name=rayban-meta.fr; types=domain;}
 neg {name=rayban-pascher.fr; types=domain;}
 neg {name=raybanboutique.fr; types=domain;}
 neg {name=raybanfrance.fr; types=domain;}
 neg {name=raybanlunettespascher.fr; types=domain;}
+neg {name=raybanmeta.fr; types=domain;}
 neg {name=raybanpascher.fr; types=domain;}
 neg {name=raybedsrosfoundtab.ga; types=domain;}
 neg {name=raycampafermota.ga; types=domain;}
@@ -310500,6 +310515,7 @@ neg {name=secuespapersoaj.fr; types=domain;}
 neg {name=secufactuenerg.fr; types=domain;}
 neg {name=secuinfo-ameli.fr; types=domain;}
 neg {name=secuinfovitale.fr; types=domain;}
+neg {name=seculeboncoin.fr; types=domain;}
 neg {name=secuma.dk; types=domain;}
 neg {name=secumajpay.fr; types=domain;}
 neg {name=secundilla.de; types=domain;}
