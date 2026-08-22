@@ -242359,6 +242359,7 @@ local-zone: "netlutopgistferi.gq" always_refuse
 local-zone: "netlx-accunt.fr" always_refuse
 local-zone: "netmahadore.gq" always_refuse
 local-zone: "netmaiparbesch.ml" always_refuse
+local-zone: "netmaker.io" always_refuse
 local-zone: "netmart.store" always_refuse
 local-zone: "netmienonrewe.ga" always_refuse
 local-zone: "netmirojobquea.ml" always_refuse
@@ -280064,6 +280065,7 @@ local-zone: "proxelsmolertio.ga" always_refuse
 local-zone: "proxferladeverthind.tk" always_refuse
 local-zone: "proxi-discount.fr" always_refuse
 local-zone: "proxiesapi.com" always_refuse
+local-zone: "proxify.io" always_refuse
 local-zone: "proxigrathecti.cf" always_refuse
 local-zone: "proximabnq.fr" always_refuse
 local-zone: "proximinder.ga" always_refuse
