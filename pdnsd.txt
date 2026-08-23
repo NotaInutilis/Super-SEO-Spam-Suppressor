@@ -39024,6 +39024,7 @@ neg {name=amazon-log.fr; types=domain;}
 neg {name=amazon-login-php.fr; types=domain;}
 neg {name=amazon-login-secure.fr; types=domain;}
 neg {name=amazon-login.fr; types=domain;}
+neg {name=amazon-mauritius.fr; types=domain;}
 neg {name=amazon-online.fr; types=domain;}
 neg {name=amazon-payement-remboursement.fr; types=domain;}
 neg {name=amazon-payment.fr; types=domain;}
@@ -50768,6 +50769,7 @@ neg {name=azurcasinoo.fr; types=domain;}
 neg {name=azurcasinoofficiel.fr; types=domain;}
 neg {name=azurcasinoonline.fr; types=domain;}
 neg {name=azure-casino.fr; types=domain;}
+neg {name=azure-secure-web.fr; types=domain;}
 neg {name=azurecasino-fr.fr; types=domain;}
 neg {name=azuredevt.com; types=domain;}
 neg {name=azuremodule.com; types=domain;}
@@ -93919,6 +93921,8 @@ neg {name=crazyslotscasino.fr; types=domain;}
 neg {name=crazystar.fr; types=domain;}
 neg {name=crazytime-fr.fr; types=domain;}
 neg {name=crazytower-casino.fr; types=domain;}
+neg {name=crazytower-casinoo.fr; types=domain;}
+neg {name=crazytower-casinos.fr; types=domain;}
 neg {name=crazytower.fr; types=domain;}
 neg {name=crazyunbelieavablefunnel.com; types=domain;}
 neg {name=crazywsuckindwalkznam.tk; types=domain;}
@@ -116616,6 +116620,7 @@ neg {name=eastonhotel.cn; types=domain;}
 neg {name=eastonline.info; types=domain;}
 neg {name=eastor.io; types=domain;}
 neg {name=eastpak-france.fr; types=domain;}
+neg {name=eastpakfrance.fr; types=domain;}
 neg {name=eastpoint.xyz; types=domain;}
 neg {name=eastseasoftanma.club; types=domain;}
 neg {name=eastselsefactstudent.bar; types=domain;}
@@ -140742,6 +140747,7 @@ neg {name=france-connexion-support.fr; types=domain;}
 neg {name=france-contrav.fr; types=domain;}
 neg {name=france-cooperative-u.fr; types=domain;}
 neg {name=france-costco.fr; types=domain;}
+neg {name=france-cresus.fr; types=domain;}
 neg {name=france-critair.fr; types=domain;}
 neg {name=france-cybertek.fr; types=domain;}
 neg {name=france-diplomatie.fr; types=domain;}
@@ -145966,6 +145972,7 @@ neg {name=gangrodecomarti.gq; types=domain;}
 neg {name=gangsecwatiro.ml; types=domain;}
 neg {name=gangsingdecdo.ga; types=domain;}
 neg {name=gangspathsionaduka.gq; types=domain;}
+neg {name=gangsta-sino.fr; types=domain;}
 neg {name=gangsterbrightest.com; types=domain;}
 neg {name=gangsterswar.eu; types=domain;}
 neg {name=gangsutusuci.cf; types=domain;}
@@ -212574,6 +212581,7 @@ neg {name=llhibg.rest; types=domain;}
 neg {name=llhjws.bar; types=domain;}
 neg {name=llhotmail.fr; types=domain;}
 neg {name=llhrgs.tokyo; types=domain;}
+neg {name=lliad-free.fr; types=domain;}
 neg {name=lliafz.tokyo; types=domain;}
 neg {name=llibertatidemocracia.buzz; types=domain;}
 neg {name=llibounucbaiti.tk; types=domain;}
@@ -232329,6 +232337,7 @@ neg {name=monrdvdanesthsie.fr; types=domain;}
 neg {name=monrec.my.id; types=domain;}
 neg {name=monreglement-antai.fr; types=domain;}
 neg {name=monrehargatoti.tk; types=domain;}
+neg {name=monrelais-aide.fr; types=domain;}
 neg {name=monrelaischronopost.fr; types=domain;}
 neg {name=monrelay-colis.fr; types=domain;}
 neg {name=monrelay-express.fr; types=domain;}
@@ -244570,6 +244579,7 @@ neg {name=nickel-espace-clients.fr; types=domain;}
 neg {name=nickel-one-app.fr; types=domain;}
 neg {name=nickel-service-appli.fr; types=domain;}
 neg {name=nickel-service.fr; types=domain;}
+neg {name=nickelcom.fr; types=domain;}
 neg {name=nickelcompte.fr; types=domain;}
 neg {name=nickelcomptes.fr; types=domain;}
 neg {name=nickelfrance.fr; types=domain;}
@@ -245611,6 +245621,7 @@ neg {name=ninippalbmac.ga; types=domain;}
 neg {name=ninistrurpoyneck.ga; types=domain;}
 neg {name=niniszinebi.tk; types=domain;}
 neg {name=ninite.re; types=domain;}
+neg {name=ninja-france.fr; types=domain;}
 neg {name=ninjaakasaka.xyz; types=domain;}
 neg {name=ninjabet.cloud; types=domain;}
 neg {name=ninjachat.ai; types=domain;}
@@ -259208,6 +259219,7 @@ neg {name=outlet-nike.fr; types=domain;}
 neg {name=outlet-nutrition.com; types=domain;}
 neg {name=outlet-paris.fr; types=domain;}
 neg {name=outlet-polene-paris.fr; types=domain;}
+neg {name=outlet-poleneparis.fr; types=domain;}
 neg {name=outlet-pro.com; types=domain;}
 neg {name=outlet-promos-2024.fr; types=domain;}
 neg {name=outlet-retail.cyou; types=domain;}
@@ -316995,6 +317007,7 @@ neg {name=simsinoscasinobonus.fr; types=domain;}
 neg {name=simsinoscasinofrance.fr; types=domain;}
 neg {name=simsinoscasinologin.fr; types=domain;}
 neg {name=simsinosfrance.fr; types=domain;}
+neg {name=simsinosofficiel.fr; types=domain;}
 neg {name=simsinosonline.fr; types=domain;}
 neg {name=simsresource.ru; types=domain;}
 neg {name=simsterest.xyz; types=domain;}
@@ -318453,6 +318466,7 @@ neg {name=skdnsserver.com; types=domain;}
 neg {name=ske.org.pl; types=domain;}
 neg {name=ske660.cyou; types=domain;}
 neg {name=skechers-at.at; types=domain;}
+neg {name=skechers-outlet.fr; types=domain;}
 neg {name=skechers-soldes.fr; types=domain;}
 neg {name=skechers-south-africa.co.za; types=domain;}
 neg {name=skechersaustria.at; types=domain;}
@@ -334887,6 +334901,7 @@ neg {name=tabac-authentification.fr; types=domain;}
 neg {name=tabac-confirme.fr; types=domain;}
 neg {name=tabac-coupon.fr; types=domain;}
 neg {name=tabac-shop.fr; types=domain;}
+neg {name=tabac-superu.fr; types=domain;}
 neg {name=tabac-verificationpcs.fr; types=domain;}
 neg {name=tabacenligne.fr; types=domain;}
 neg {name=tabacicinghap.tk; types=domain;}
@@ -383121,6 +383136,7 @@ neg {name=westnacole.tk; types=domain;}
 neg {name=westnasilulejec.tk; types=domain;}
 neg {name=westnetfperpalbde.tk; types=domain;}
 neg {name=westniticcuca.ga; types=domain;}
+neg {name=westormed-paris-official.fr; types=domain;}
 neg {name=westoutlet.fr; types=domain;}
 neg {name=westparihua.ga; types=domain;}
 neg {name=westpersserthodi.cf; types=domain;}
@@ -384691,6 +384707,7 @@ neg {name=wilsappfreetcinceuse.ga; types=domain;}
 neg {name=wilsenspensionat.dk; types=domain;}
 neg {name=wilsereappza.web.app; types=domain;}
 neg {name=wilserg.xyz; types=domain;}
+neg {name=wilson-france.fr; types=domain;}
 neg {name=wilson.best; types=domain;}
 neg {name=wilson.co.at; types=domain;}
 neg {name=wilsonir.xyz; types=domain;}

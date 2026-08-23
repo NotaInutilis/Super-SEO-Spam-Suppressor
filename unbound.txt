@@ -39024,6 +39024,7 @@ local-zone: "amazon-log.fr" always_refuse
 local-zone: "amazon-login-php.fr" always_refuse
 local-zone: "amazon-login-secure.fr" always_refuse
 local-zone: "amazon-login.fr" always_refuse
+local-zone: "amazon-mauritius.fr" always_refuse
 local-zone: "amazon-online.fr" always_refuse
 local-zone: "amazon-payement-remboursement.fr" always_refuse
 local-zone: "amazon-payment.fr" always_refuse
@@ -50768,6 +50769,7 @@ local-zone: "azurcasinoo.fr" always_refuse
 local-zone: "azurcasinoofficiel.fr" always_refuse
 local-zone: "azurcasinoonline.fr" always_refuse
 local-zone: "azure-casino.fr" always_refuse
+local-zone: "azure-secure-web.fr" always_refuse
 local-zone: "azurecasino-fr.fr" always_refuse
 local-zone: "azuredevt.com" always_refuse
 local-zone: "azuremodule.com" always_refuse
@@ -93919,6 +93921,8 @@ local-zone: "crazyslotscasino.fr" always_refuse
 local-zone: "crazystar.fr" always_refuse
 local-zone: "crazytime-fr.fr" always_refuse
 local-zone: "crazytower-casino.fr" always_refuse
+local-zone: "crazytower-casinoo.fr" always_refuse
+local-zone: "crazytower-casinos.fr" always_refuse
 local-zone: "crazytower.fr" always_refuse
 local-zone: "crazyunbelieavablefunnel.com" always_refuse
 local-zone: "crazywsuckindwalkznam.tk" always_refuse
@@ -116616,6 +116620,7 @@ local-zone: "eastonhotel.cn" always_refuse
 local-zone: "eastonline.info" always_refuse
 local-zone: "eastor.io" always_refuse
 local-zone: "eastpak-france.fr" always_refuse
+local-zone: "eastpakfrance.fr" always_refuse
 local-zone: "eastpoint.xyz" always_refuse
 local-zone: "eastseasoftanma.club" always_refuse
 local-zone: "eastselsefactstudent.bar" always_refuse
@@ -140742,6 +140747,7 @@ local-zone: "france-connexion-support.fr" always_refuse
 local-zone: "france-contrav.fr" always_refuse
 local-zone: "france-cooperative-u.fr" always_refuse
 local-zone: "france-costco.fr" always_refuse
+local-zone: "france-cresus.fr" always_refuse
 local-zone: "france-critair.fr" always_refuse
 local-zone: "france-cybertek.fr" always_refuse
 local-zone: "france-diplomatie.fr" always_refuse
@@ -145966,6 +145972,7 @@ local-zone: "gangrodecomarti.gq" always_refuse
 local-zone: "gangsecwatiro.ml" always_refuse
 local-zone: "gangsingdecdo.ga" always_refuse
 local-zone: "gangspathsionaduka.gq" always_refuse
+local-zone: "gangsta-sino.fr" always_refuse
 local-zone: "gangsterbrightest.com" always_refuse
 local-zone: "gangsterswar.eu" always_refuse
 local-zone: "gangsutusuci.cf" always_refuse
@@ -212574,6 +212581,7 @@ local-zone: "llhibg.rest" always_refuse
 local-zone: "llhjws.bar" always_refuse
 local-zone: "llhotmail.fr" always_refuse
 local-zone: "llhrgs.tokyo" always_refuse
+local-zone: "lliad-free.fr" always_refuse
 local-zone: "lliafz.tokyo" always_refuse
 local-zone: "llibertatidemocracia.buzz" always_refuse
 local-zone: "llibounucbaiti.tk" always_refuse
@@ -232329,6 +232337,7 @@ local-zone: "monrdvdanesthsie.fr" always_refuse
 local-zone: "monrec.my.id" always_refuse
 local-zone: "monreglement-antai.fr" always_refuse
 local-zone: "monrehargatoti.tk" always_refuse
+local-zone: "monrelais-aide.fr" always_refuse
 local-zone: "monrelaischronopost.fr" always_refuse
 local-zone: "monrelay-colis.fr" always_refuse
 local-zone: "monrelay-express.fr" always_refuse
@@ -244570,6 +244579,7 @@ local-zone: "nickel-espace-clients.fr" always_refuse
 local-zone: "nickel-one-app.fr" always_refuse
 local-zone: "nickel-service-appli.fr" always_refuse
 local-zone: "nickel-service.fr" always_refuse
+local-zone: "nickelcom.fr" always_refuse
 local-zone: "nickelcompte.fr" always_refuse
 local-zone: "nickelcomptes.fr" always_refuse
 local-zone: "nickelfrance.fr" always_refuse
@@ -245611,6 +245621,7 @@ local-zone: "ninippalbmac.ga" always_refuse
 local-zone: "ninistrurpoyneck.ga" always_refuse
 local-zone: "niniszinebi.tk" always_refuse
 local-zone: "ninite.re" always_refuse
+local-zone: "ninja-france.fr" always_refuse
 local-zone: "ninjaakasaka.xyz" always_refuse
 local-zone: "ninjabet.cloud" always_refuse
 local-zone: "ninjachat.ai" always_refuse
@@ -259208,6 +259219,7 @@ local-zone: "outlet-nike.fr" always_refuse
 local-zone: "outlet-nutrition.com" always_refuse
 local-zone: "outlet-paris.fr" always_refuse
 local-zone: "outlet-polene-paris.fr" always_refuse
+local-zone: "outlet-poleneparis.fr" always_refuse
 local-zone: "outlet-pro.com" always_refuse
 local-zone: "outlet-promos-2024.fr" always_refuse
 local-zone: "outlet-retail.cyou" always_refuse
@@ -316995,6 +317007,7 @@ local-zone: "simsinoscasinobonus.fr" always_refuse
 local-zone: "simsinoscasinofrance.fr" always_refuse
 local-zone: "simsinoscasinologin.fr" always_refuse
 local-zone: "simsinosfrance.fr" always_refuse
+local-zone: "simsinosofficiel.fr" always_refuse
 local-zone: "simsinosonline.fr" always_refuse
 local-zone: "simsresource.ru" always_refuse
 local-zone: "simsterest.xyz" always_refuse
@@ -318453,6 +318466,7 @@ local-zone: "skdnsserver.com" always_refuse
 local-zone: "ske.org.pl" always_refuse
 local-zone: "ske660.cyou" always_refuse
 local-zone: "skechers-at.at" always_refuse
+local-zone: "skechers-outlet.fr" always_refuse
 local-zone: "skechers-soldes.fr" always_refuse
 local-zone: "skechers-south-africa.co.za" always_refuse
 local-zone: "skechersaustria.at" always_refuse
@@ -334887,6 +334901,7 @@ local-zone: "tabac-authentification.fr" always_refuse
 local-zone: "tabac-confirme.fr" always_refuse
 local-zone: "tabac-coupon.fr" always_refuse
 local-zone: "tabac-shop.fr" always_refuse
+local-zone: "tabac-superu.fr" always_refuse
 local-zone: "tabac-verificationpcs.fr" always_refuse
 local-zone: "tabacenligne.fr" always_refuse
 local-zone: "tabacicinghap.tk" always_refuse
@@ -383121,6 +383136,7 @@ local-zone: "westnacole.tk" always_refuse
 local-zone: "westnasilulejec.tk" always_refuse
 local-zone: "westnetfperpalbde.tk" always_refuse
 local-zone: "westniticcuca.ga" always_refuse
+local-zone: "westormed-paris-official.fr" always_refuse
 local-zone: "westoutlet.fr" always_refuse
 local-zone: "westparihua.ga" always_refuse
 local-zone: "westpersserthodi.cf" always_refuse
@@ -384691,6 +384707,7 @@ local-zone: "wilsappfreetcinceuse.ga" always_refuse
 local-zone: "wilsenspensionat.dk" always_refuse
 local-zone: "wilsereappza.web.app" always_refuse
 local-zone: "wilserg.xyz" always_refuse
+local-zone: "wilson-france.fr" always_refuse
 local-zone: "wilson.best" always_refuse
 local-zone: "wilson.co.at" always_refuse
 local-zone: "wilsonir.xyz" always_refuse
