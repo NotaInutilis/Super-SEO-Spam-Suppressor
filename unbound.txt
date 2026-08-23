@@ -221081,6 +221081,7 @@ local-zone: "mangacasino-official.fr" always_refuse
 local-zone: "mangacasino2.fr" always_refuse
 local-zone: "mangacasinofrance.fr" always_refuse
 local-zone: "mangacasinos-fr.fr" always_refuse
+local-zone: "mangakanime.fr" always_refuse
 local-zone: "mangaku.live" always_refuse
 local-zone: "mangaldeep.biz" always_refuse
 local-zone: "mangamedia.xyz" always_refuse
