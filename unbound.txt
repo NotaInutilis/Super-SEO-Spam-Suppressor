@@ -10396,7 +10396,6 @@ local-zone: "2wedj8l.tokyo" always_refuse
 local-zone: "2wgpeuh.cyou" always_refuse
 local-zone: "2wh25g.tokyo" always_refuse
 local-zone: "2wh9i2.cyou" always_refuse
-local-zone: "2wheelshero.com" always_refuse
 local-zone: "2whjai.tokyo" always_refuse
 local-zone: "2whu35q.tokyo" always_refuse
 local-zone: "2whvye.cyou" always_refuse
@@ -36745,7 +36744,6 @@ local-zone: "akupunkturklinikken-hammel.dk" always_refuse
 local-zone: "akura.xyz" always_refuse
 local-zone: "akurl.xyz" always_refuse
 local-zone: "akurmiwiven.ml" always_refuse
-local-zone: "akusoli.com" always_refuse
 local-zone: "akustik-box.de" always_refuse
 local-zone: "akustika1.ru" always_refuse
 local-zone: "akustikholz.shop" always_refuse
@@ -43712,7 +43710,6 @@ local-zone: "aporunexrebi.gq" always_refuse
 local-zone: "aposdebmisurca.tk" always_refuse
 local-zone: "apossinenmopgdit.ml" always_refuse
 local-zone: "apostrophesubdued.com" always_refuse
-local-zone: "apotek-no24.com" always_refuse
 local-zone: "apotek-norge24.com" always_refuse
 local-zone: "apotekb213.com" always_refuse
 local-zone: "apoteket.to" always_refuse
@@ -54776,6 +54773,7 @@ local-zone: "beachshow.cf" always_refuse
 local-zone: "beachsideboatrentals.com" always_refuse
 local-zone: "beachtennislugano.ch" always_refuse
 local-zone: "beachtioconta.tk" always_refuse
+local-zone: "beachwalkbali.com" always_refuse
 local-zone: "beacleaner.com" always_refuse
 local-zone: "beaconzero.net" always_refuse
 local-zone: "beacuc.shop" always_refuse
@@ -56966,6 +56964,7 @@ local-zone: "bestelektronicshop.de" always_refuse
 local-zone: "bestellen-ciao-ciao-pf.de" always_refuse
 local-zone: "bestelnuar.click" always_refuse
 local-zone: "bestemailmarketingservices.xyz" always_refuse
+local-zone: "bestemed.com" always_refuse
 local-zone: "bestemedikamente.com" always_refuse
 local-zone: "bestenkaufen.com" always_refuse
 local-zone: "bestenwahl.de" always_refuse
@@ -72334,7 +72333,6 @@ local-zone: "canada2024-lnterac.fr" always_refuse
 local-zone: "canadabreakingnews.com" always_refuse
 local-zone: "canadacad.ca" always_refuse
 local-zone: "canadacrimeindex.com" always_refuse
-local-zone: "canadadrugstore.com" always_refuse
 local-zone: "canadagooseoutletfrance.fr" always_refuse
 local-zone: "canadagoosepaschere.fr" always_refuse
 local-zone: "canadanewsreport.com" always_refuse
@@ -120153,6 +120151,7 @@ local-zone: "elektrohandel-schmidt.com" always_refuse
 local-zone: "elektrohandelplus.de" always_refuse
 local-zone: "elektroheld24.de" always_refuse
 local-zone: "elektrokaufen.com" always_refuse
+local-zone: "elektrokaz.com" always_refuse
 local-zone: "elektrokessmarkt.de" always_refuse
 local-zone: "elektrokomfort24.ru" always_refuse
 local-zone: "elektrokueche.de" always_refuse
@@ -153057,7 +153056,6 @@ local-zone: "goldenplay.fr" always_refuse
 local-zone: "goldenplaycasino.fr" always_refuse
 local-zone: "goldenplaycasinofr.fr" always_refuse
 local-zone: "goldenplayonline.fr" always_refuse
-local-zone: "goldenpump.de" always_refuse
 local-zone: "goldenr.fr" always_refuse
 local-zone: "goldenretrievervompfarrgarten.de" always_refuse
 local-zone: "goldenshoes.fr" always_refuse
@@ -167632,6 +167630,7 @@ local-zone: "hjyebyd.tokyo" always_refuse
 local-zone: "hjykmy.shop" always_refuse
 local-zone: "hjyops.bar" always_refuse
 local-zone: "hjyr.com.cn" always_refuse
+local-zone: "hjz-handel.de" always_refuse
 local-zone: "hjzamz.rest" always_refuse
 local-zone: "hjzgmwl.cyou" always_refuse
 local-zone: "hjzino.rest" always_refuse
@@ -204670,6 +204669,7 @@ local-zone: "lbswwf.tokyo" always_refuse
 local-zone: "lbsx69.cyou" always_refuse
 local-zone: "lbszftg.cn" always_refuse
 local-zone: "lbszka.rest" always_refuse
+local-zone: "lbtinc.com" always_refuse
 local-zone: "lbtx8c.cyou" always_refuse
 local-zone: "lbu7yb.xyz" always_refuse
 local-zone: "lbumdomhcahefovu.tk" always_refuse
@@ -205379,6 +205379,7 @@ local-zone: "leben-tanzt-dortmund.de" always_refuse
 local-zone: "lebens-traum.at" always_refuse
 local-zone: "lebensartikel.com" always_refuse
 local-zone: "lebensfreude-musik.eu" always_refuse
+local-zone: "lebenskernde.com" always_refuse
 local-zone: "lebensmittelgeschaft.com" always_refuse
 local-zone: "lebensmittelgeschafte.com" always_refuse
 local-zone: "lebenswelle.eu" always_refuse
@@ -232553,6 +232554,7 @@ local-zone: "montrelle.ro" always_refuse
 local-zone: "montreparis.fr" always_refuse
 local-zone: "montrepas-cher.fr" always_refuse
 local-zone: "montreremarli.ml" always_refuse
+local-zone: "montrereplique.to" always_refuse
 local-zone: "montres-intelligentes.com" always_refuse
 local-zone: "montresfrance.fr" always_refuse
 local-zone: "montreslip.fr" always_refuse
@@ -257517,6 +257519,7 @@ local-zone: "oritscaltelfau.ga" always_refuse
 local-zone: "orittivallia.ga" always_refuse
 local-zone: "oritunjo.ga" always_refuse
 local-zone: "oriumfrance.com" always_refuse
+local-zone: "orivelle-official.com" always_refuse
 local-zone: "orivlyachilafilt.cf" always_refuse
 local-zone: "oriwdl.bar" always_refuse
 local-zone: "oriz3lm.tokyo" always_refuse
@@ -258078,6 +258081,7 @@ local-zone: "oshicasino.fr" always_refuse
 local-zone: "oshicasino1.fr" always_refuse
 local-zone: "oshinmiaperca.tk" always_refuse
 local-zone: "oshismicomnehost.ga" always_refuse
+local-zone: "oshoplive.com" always_refuse
 local-zone: "oshoselcude.cf" always_refuse
 local-zone: "oshydtocelthe.cf" always_refuse
 local-zone: "osi3jq.cyou" always_refuse
@@ -308729,6 +308733,7 @@ local-zone: "scanlitodo.tk" always_refuse
 local-zone: "scanmicricotota.ga" always_refuse
 local-zone: "scanmountadaburle.tk" always_refuse
 local-zone: "scannegbiospin.tk" always_refuse
+local-zone: "scannero.io" always_refuse
 local-zone: "scannetbutik.dk" always_refuse
 local-zone: "scanoctobolt.ml" always_refuse
 local-zone: "scanomjabvidi.ml" always_refuse
@@ -315027,6 +315032,7 @@ local-zone: "shedevrum.ai" always_refuse
 local-zone: "shedweb.org" always_refuse
 local-zone: "shedwinnipeg.com" always_refuse
 local-zone: "sheely.org" always_refuse
+local-zone: "sheenplace.com" always_refuse
 local-zone: "sheeny.org" always_refuse
 local-zone: "sheepdogs.dk" always_refuse
 local-zone: "sheetkladde.de" always_refuse
@@ -338036,7 +338042,6 @@ local-zone: "tdzjin.cyou" always_refuse
 local-zone: "tdzjvne.bar" always_refuse
 local-zone: "tdzkplp.tokyo" always_refuse
 local-zone: "tdzoyy.bar" always_refuse
-local-zone: "te.de" always_refuse
 local-zone: "te00cg.cyou" always_refuse
 local-zone: "te0dpnn.cyou" always_refuse
 local-zone: "te0fa97.cyou" always_refuse
@@ -354707,7 +354712,6 @@ local-zone: "trustedallovertheworld.com" always_refuse
 local-zone: "trustedconsumerreview.online" always_refuse
 local-zone: "trustedgreencbd.com" always_refuse
 local-zone: "trustedkeys.es" always_refuse
-local-zone: "trustedmedstore24.com" always_refuse
 local-zone: "trustednorx.com" always_refuse
 local-zone: "trustedparents.com" always_refuse
 local-zone: "trustedrxsolutions.com" always_refuse
@@ -360360,6 +360364,7 @@ local-zone: "umgwmu.rest" always_refuse
 local-zone: "umhatk.bar" always_refuse
 local-zone: "umhostesi.cf" always_refuse
 local-zone: "umhunt.asia" always_refuse
+local-zone: "umiaholz.com" always_refuse
 local-zone: "umieg-waren.de" always_refuse
 local-zone: "umii3o.cyou" always_refuse
 local-zone: "umikebypuqox.cf" always_refuse
@@ -381681,6 +381686,7 @@ local-zone: "webecoute-vocale-sfr.fr" always_refuse
 local-zone: "webedia-group.com" always_refuse
 local-zone: "webeex.fr" always_refuse
 local-zone: "webeqq.tokyo" always_refuse
+local-zone: "weber-baumarkt.com" always_refuse
 local-zone: "weber-fr.fr" always_refuse
 local-zone: "weber-france.fr" always_refuse
 local-zone: "weber-motorrad.com" always_refuse
@@ -383517,7 +383523,6 @@ local-zone: "wheresthemusic.com" always_refuse
 local-zone: "whereswomanplayer.buzz" always_refuse
 local-zone: "whereter.my.id" always_refuse
 local-zone: "whereube.com" always_refuse
-local-zone: "whereverk.com" always_refuse
 local-zone: "wherewasit.com" always_refuse
 local-zone: "whesacosodop.gq" always_refuse
 local-zone: "whetcagetico.tk" always_refuse
