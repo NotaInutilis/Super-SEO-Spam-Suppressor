@@ -338338,6 +338338,7 @@ local-zone: "techkpetomuhydno.gq" always_refuse
 local-zone: "techktime.co.uk" always_refuse
 local-zone: "techktimes.co.uk" always_refuse
 local-zone: "techktimes.net" always_refuse
+local-zone: "techlasi.com" always_refuse
 local-zone: "techlearner.co.uk" always_refuse
 local-zone: "techleez.net" always_refuse
 local-zone: "techlevelbusiness.com" always_refuse
