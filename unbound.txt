@@ -55224,6 +55224,8 @@ local-zone: "beehome.xyz" always_refuse
 local-zone: "beejindownnewte.gq" always_refuse
 local-zone: "beekaa.com" always_refuse
 local-zone: "beekeepercorner.com" always_refuse
+local-zone: "beekeepersrealm.com" always_refuse
+local-zone: "beekeeping-101.com" always_refuse
 local-zone: "beelara.de" always_refuse
 local-zone: "beeldagent.nl" always_refuse
 local-zone: "beelingtricnonssandbin.tk" always_refuse
@@ -76784,6 +76786,7 @@ local-zone: "celsikp.tokyo" always_refuse
 local-zone: "celsius-casino-fr.fr" always_refuse
 local-zone: "celsius-casino-france.fr" always_refuse
 local-zone: "celsius-casino.fr" always_refuse
+local-zone: "celsius-casinos.fr" always_refuse
 local-zone: "celsiuscasino-connexion.fr" always_refuse
 local-zone: "celsiuscasino-fr.fr" always_refuse
 local-zone: "celsiuscasino-france.fr" always_refuse
@@ -119119,6 +119122,7 @@ local-zone: "ehfwfw.rest" always_refuse
 local-zone: "ehfzhepg.shop" always_refuse
 local-zone: "ehg.xyz" always_refuse
 local-zone: "ehgenamore.ml" always_refuse
+local-zone: "ehgouv.fr" always_refuse
 local-zone: "ehgr.cn" always_refuse
 local-zone: "ehgranpanu.tk" always_refuse
 local-zone: "ehgum.xyz" always_refuse
@@ -125735,6 +125739,7 @@ local-zone: "esgibj.rest" always_refuse
 local-zone: "esgibteinwir.de" always_refuse
 local-zone: "esgidoubtlesi.ga" always_refuse
 local-zone: "esgiua.cyou" always_refuse
+local-zone: "esgouv.fr" always_refuse
 local-zone: "esgranocochtua.ml" always_refuse
 local-zone: "esgroupoten.gq" always_refuse
 local-zone: "esgrtu.tokyo" always_refuse
@@ -127030,6 +127035,7 @@ local-zone: "etgenquiflocsofitz.tk" always_refuse
 local-zone: "etgh3sj.tokyo" always_refuse
 local-zone: "etgmzp.tokyo" always_refuse
 local-zone: "etgnmf.rest" always_refuse
+local-zone: "etgouv.fr" always_refuse
 local-zone: "etguzm.tokyo" always_refuse
 local-zone: "etgzuh.tokyo" always_refuse
 local-zone: "eth" always_refuse
@@ -179624,6 +179630,7 @@ local-zone: "infos-sante-renouvellement.fr" always_refuse
 local-zone: "infos-sante.fr" always_refuse
 local-zone: "infos-secure-vitale.fr" always_refuse
 local-zone: "infos-service-relay.fr" always_refuse
+local-zone: "infos-servicemondialrelay.fr" always_refuse
 local-zone: "infos-sfr.fr" always_refuse
 local-zone: "infos-stationnement.fr" always_refuse
 local-zone: "infos-suivi-redistrubution.fr" always_refuse
@@ -197964,6 +197971,7 @@ local-zone: "knifutopatcom.tk" always_refuse
 local-zone: "knigdaponbo.tk" always_refuse
 local-zone: "knigguiviki.ga" always_refuse
 local-zone: "knight96heave.company" always_refuse
+local-zone: "knightstemplar.co" always_refuse
 local-zone: "kniginfacderwli.ml" always_refuse
 local-zone: "knigresbioconsloursdac.tk" always_refuse
 local-zone: "knigtownlogfobo.tk" always_refuse
@@ -224067,6 +224075,7 @@ local-zone: "medicower.online" always_refuse
 local-zone: "medicubefr.fr" always_refuse
 local-zone: "medicusraciborz.pl" always_refuse
 local-zone: "mediebladet.dk" always_refuse
+local-zone: "medievalchronicles.com" always_refuse
 local-zone: "medigoru.xyz" always_refuse
 local-zone: "medigov.com" always_refuse
 local-zone: "mediigass.cf" always_refuse
@@ -225788,6 +225797,7 @@ local-zone: "mes-services-mabanquebnpparibas.fr" always_refuse
 local-zone: "mes-services-netfiix.fr" always_refuse
 local-zone: "mes-services-prime.fr" always_refuse
 local-zone: "mes-services-sante.fr" always_refuse
+local-zone: "mes-transactions-prime.fr" always_refuse
 local-zone: "mes-virements-payliib.fr" always_refuse
 local-zone: "mes6mk.xyz" always_refuse
 local-zone: "mesa-solar.com" always_refuse
@@ -262578,6 +262588,7 @@ local-zone: "paizymihydtio.tk" always_refuse
 local-zone: "pajamsofin.ga" always_refuse
 local-zone: "pajbtb.tokyo" always_refuse
 local-zone: "pajcejv.tokyo" always_refuse
+local-zone: "paje-interieurgouv.fr" always_refuse
 local-zone: "pajmmu.bar" always_refuse
 local-zone: "pajrvc.bar" always_refuse
 local-zone: "pajskkpm.my" always_refuse
@@ -313430,6 +313441,7 @@ local-zone: "services-vitale.fr" always_refuse
 local-zone: "services-vitales.fr" always_refuse
 local-zone: "servicesabonnement.fr" always_refuse
 local-zone: "servicesaccount.fr" always_refuse
+local-zone: "servicesachatsventeslbc.fr" always_refuse
 local-zone: "servicesamandes.fr" always_refuse
 local-zone: "servicesamendes.fr" always_refuse
 local-zone: "servicesante-ameli.fr" always_refuse
@@ -350143,6 +350155,7 @@ local-zone: "top978xxxcams.xyz" always_refuse
 local-zone: "top9840mag.xyz" always_refuse
 local-zone: "top9897xnxx.xyz" always_refuse
 local-zone: "topaap.bar" always_refuse
+local-zone: "topachatss.fr" always_refuse
 local-zone: "topactafince.tk" always_refuse
 local-zone: "topadperf.com" always_refuse
 local-zone: "topaff.bet" always_refuse
@@ -361728,6 +361741,7 @@ local-zone: "univbrest.fr" always_refuse
 local-zone: "univcatholyon.fr" always_refuse
 local-zone: "univcorse.fr" always_refuse
 local-zone: "univdacemidd.cf" always_refuse
+local-zone: "unive-catholille.fr" always_refuse
 local-zone: "unive-cotedazur.fr" always_refuse
 local-zone: "unive-lille.fr" always_refuse
 local-zone: "unive-montp3.fr" always_refuse
@@ -394055,7 +394069,9 @@ local-zone: "xn--scuritest-b4a.fr" always_refuse
 local-zone: "xn--scuritsocial-bebf.fr" always_refuse
 local-zone: "xn--scuritsociale-bhbf.fr" always_refuse
 local-zone: "xn--scuritsocialeameli-bwbf.fr" always_refuse
+local-zone: "xn--se-mo-4ra.re" always_refuse
 local-zone: "xn--se-mo-bsa.re" always_refuse
+local-zone: "xn--se-mo-csa.re" always_refuse
 local-zone: "xn--secures-imptsgouv-accs-v8b7w.fr" always_refuse
 local-zone: "xn--securit-ameli-hhb.fr" always_refuse
 local-zone: "xn--securit-assurance-maladie-hic.fr" always_refuse
@@ -394064,6 +394080,7 @@ local-zone: "xn--securit-netflix-hnb.fr" always_refuse
 local-zone: "xn--securit-sociale-hnb.fr" always_refuse
 local-zone: "xn--securitsocit-gnrale-lzbbcb.fr" always_refuse
 local-zone: "xn--see-m-4ta.re" always_refuse
+local-zone: "xn--see-m-nua.re" always_refuse
 local-zone: "xn--see-m-yta.re" always_refuse
 local-zone: "xn--seem-oqa.re" always_refuse
 local-zone: "xn--seem-tqa.re" always_refuse
@@ -394093,6 +394110,7 @@ local-zone: "xn--sgssant-hya.fr" always_refuse
 local-zone: "xn--shei-l3a.com" always_refuse
 local-zone: "xn--sidesant-i1a.fr" always_refuse
 local-zone: "xn--sidessant-j4a.fr" always_refuse
+local-zone: "xn--smo-jmaa.re" always_refuse
 local-zone: "xn--snapcht-bxa.fr" always_refuse
 local-zone: "xn--socgnrale-clients-etbb.fr" always_refuse
 local-zone: "xn--societ-genarale-gnb.fr" always_refuse
