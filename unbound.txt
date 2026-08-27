@@ -118214,6 +118214,7 @@ local-zone: "edqc6ws.tokyo" always_refuse
 local-zone: "edqetiformre.cf" always_refuse
 local-zone: "edr6va.xyz" always_refuse
 local-zone: "edrafsahpmeafca.ml" always_refuse
+local-zone: "edrawsoft.com" always_refuse
 local-zone: "edreamtrips.com" always_refuse
 local-zone: "edrebouco.tk" always_refuse
 local-zone: "edreclancmaber.gq" always_refuse
@@ -387298,6 +387299,7 @@ local-zone: "wondershare.fr" always_refuse
 local-zone: "wondershare.it" always_refuse
 local-zone: "wondershare.jp" always_refuse
 local-zone: "wondershare.kr" always_refuse
+local-zone: "wondershare.net" always_refuse
 local-zone: "wondershare.tw" always_refuse
 local-zone: "wonderskin.at" always_refuse
 local-zone: "wonderskin.fr" always_refuse
