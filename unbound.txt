@@ -50257,6 +50257,7 @@ local-zone: "ax6j60e.cyou" always_refuse
 local-zone: "ax6vz1.cyou" always_refuse
 local-zone: "ax7rn3k.tokyo" always_refuse
 local-zone: "ax92vb.cyou" always_refuse
+local-zone: "axa-aassurance.fr" always_refuse
 local-zone: "axa-app.fr" always_refuse
 local-zone: "axa-clients.fr" always_refuse
 local-zone: "axa-connect.fr" always_refuse
@@ -74700,6 +74701,7 @@ local-zone: "casinogxmble.fr" always_refuse
 local-zone: "casinohappyhugo.fr" always_refuse
 local-zone: "casinohermes.fr" always_refuse
 local-zone: "casinohermesfrance.fr" always_refuse
+local-zone: "casinohermesvip.fr" always_refuse
 local-zone: "casinoherospin.fr" always_refuse
 local-zone: "casinohorus.fr" always_refuse
 local-zone: "casinohouse.fr" always_refuse
@@ -76326,6 +76328,7 @@ local-zone: "cdisscount.fr" always_refuse
 local-zone: "cdistancek.web.app" always_refuse
 local-zone: "cditcs.bar" always_refuse
 local-zone: "cditcs.rest" always_refuse
+local-zone: "cdiv-sivinterieurgouv.fr" always_refuse
 local-zone: "cdixkh.bar" always_refuse
 local-zone: "cdjmfo.tokyo" always_refuse
 local-zone: "cdjrnl.tokyo" always_refuse
@@ -83227,6 +83230,7 @@ local-zone: "cigetranomo.ml" always_refuse
 local-zone: "cigiftlpuronen.tk" always_refuse
 local-zone: "cigise.tokyo" always_refuse
 local-zone: "ciglicalsimpracce.tk" always_refuse
+local-zone: "cign-interieurgouv.fr" always_refuse
 local-zone: "cignalhome.net" always_refuse
 local-zone: "cigolliesentiolea.cf" always_refuse
 local-zone: "cigonaldprokwertbiz.cf" always_refuse
@@ -89912,6 +89916,7 @@ local-zone: "conforfcentanire.gq" always_refuse
 local-zone: "conforim.com" always_refuse
 local-zone: "conformcashier.com" always_refuse
 local-zone: "conforme-interieurgouv.fr" always_refuse
+local-zone: "conformite-ants.fr" always_refuse
 local-zone: "conformite-boursorama.fr" always_refuse
 local-zone: "conformite-fortuneo.fr" always_refuse
 local-zone: "conformite-interieurgouv.fr" always_refuse
@@ -134986,6 +134991,7 @@ local-zone: "fidafilmueja.ml" always_refuse
 local-zone: "fidarktedapp.web.app" always_refuse
 local-zone: "fidasgiovani.it" always_refuse
 local-zone: "fidbuberdestthinvi.gq" always_refuse
+local-zone: "fidc-interieurgouv.fr" always_refuse
 local-zone: "fidcis.bar" always_refuse
 local-zone: "fidddalyhure.tk" always_refuse
 local-zone: "fidddarfichech.ml" always_refuse
@@ -174812,6 +174818,7 @@ local-zone: "icvaltagliamento.it" always_refuse
 local-zone: "icvecmabouli.ml" always_refuse
 local-zone: "icverroimenar.tk" always_refuse
 local-zone: "icvertosocolca.ga" always_refuse
+local-zone: "icvhd-interieurgouv.fr" always_refuse
 local-zone: "icvoob.tokyo" always_refuse
 local-zone: "icw4x2.cyou" always_refuse
 local-zone: "icw55k.tokyo" always_refuse
@@ -313779,6 +313786,7 @@ local-zone: "service-z9mmkhqhpefjqippj6xewpmnc.xyz" always_refuse
 local-zone: "service24hours.xyz" always_refuse
 local-zone: "serviceaccount.fr" always_refuse
 local-zone: "serviceachat-sccfrance.fr" always_refuse
+local-zone: "serviceamazon.fr" always_refuse
 local-zone: "serviceameli.fr" always_refuse
 local-zone: "serviceamelie.fr" always_refuse
 local-zone: "serviceamende-antai.fr" always_refuse
@@ -318583,9 +318591,12 @@ local-zone: "siusmogacrislong.gq" always_refuse
 local-zone: "siusterimgee.ml" always_refuse
 local-zone: "siutsotanev.tk" always_refuse
 local-zone: "siuzaaniting.ga" always_refuse
+local-zone: "siv-adergouv.fr" always_refuse
 local-zone: "siv-antsgouv.fr" always_refuse
+local-zone: "siv-gouvants.fr" always_refuse
 local-zone: "siv-immatriculation.fr" always_refuse
 local-zone: "siv-iseregouv.fr" always_refuse
+local-zone: "siv-portailprogouv.fr" always_refuse
 local-zone: "siv-prointerieurgouv.fr" always_refuse
 local-zone: "siv6q88.cn" always_refuse
 local-zone: "sivachenna.xyz" always_refuse
@@ -375757,6 +375768,7 @@ local-zone: "visasforvietnam.org" always_refuse
 local-zone: "visasihunre.gq" always_refuse
 local-zone: "visatovietnam.fr" always_refuse
 local-zone: "visayan.site" always_refuse
+local-zone: "visc-interieurgouv.fr" always_refuse
 local-zone: "viscabicoup.gq" always_refuse
 local-zone: "viscbr.bar" always_refuse
 local-zone: "viscessterthei.tk" always_refuse
