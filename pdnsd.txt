@@ -91227,6 +91227,8 @@ neg {name=contemybviela.cf; types=domain;}
 neg {name=contendfunds.com; types=domain;}
 neg {name=content4less.com; types=domain;}
 neg {name=contentatscale.ai; types=domain;}
+neg {name=contentbase.ai; types=domain;}
+neg {name=contentbase.com; types=domain;}
 neg {name=contentdns.info; types=domain;}
 neg {name=contentduchessarcadia.com; types=domain;}
 neg {name=contentedpimplesordid.com; types=domain;}
@@ -149230,6 +149232,7 @@ neg {name=getclairu.nomshopper.com; types=domain;}
 neg {name=getcleanasf.com; types=domain;}
 neg {name=getconsserobhou.gq; types=domain;}
 neg {name=getcontent24.com; types=domain;}
+neg {name=getcontentbase.com; types=domain;}
 neg {name=getcyq.tokyo; types=domain;}
 neg {name=getdavikalte.tk; types=domain;}
 neg {name=getdaygravin.tk; types=domain;}
@@ -180108,6 +180111,7 @@ neg {name=infovitale-secuameli.fr; types=domain;}
 neg {name=infoweb-secupass-sg-assurances.fr; types=domain;}
 neg {name=infoworld.com; types=domain;}
 neg {name=infox24.de; types=domain;}
+neg {name=infozaem.com; types=domain;}
 neg {name=infra-antai.fr; types=domain;}
 neg {name=infra-disneylandparis.fr; types=domain;}
 neg {name=infra-laposte.fr; types=domain;}
@@ -358805,6 +358809,7 @@ neg {name=uackjyv.tokyo; types=domain;}
 neg {name=uackttd.tokyo; types=domain;}
 neg {name=uacplacmerfikeci.tk; types=domain;}
 neg {name=uacq.xyz; types=domain;}
+neg {name=uacred.com; types=domain;}
 neg {name=uadejea.bar; types=domain;}
 neg {name=uadfrastasrocit.ga; types=domain;}
 neg {name=uadizw.bar; types=domain;}
@@ -384403,6 +384408,7 @@ neg {name=whislplurpomirep.tk; types=domain;}
 neg {name=whislthemangejek.tk; types=domain;}
 neg {name=whismepadico.tk; types=domain;}
 neg {name=whisorpatermchee.tk; types=domain;}
+neg {name=whisparr.org; types=domain;}
 neg {name=whisper.sh; types=domain;}
 neg {name=whisperer.xyz; types=domain;}
 neg {name=whisperkeeping.com; types=domain;}

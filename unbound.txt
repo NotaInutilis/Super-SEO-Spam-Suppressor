@@ -91227,6 +91227,8 @@ local-zone: "contemybviela.cf" always_refuse
 local-zone: "contendfunds.com" always_refuse
 local-zone: "content4less.com" always_refuse
 local-zone: "contentatscale.ai" always_refuse
+local-zone: "contentbase.ai" always_refuse
+local-zone: "contentbase.com" always_refuse
 local-zone: "contentdns.info" always_refuse
 local-zone: "contentduchessarcadia.com" always_refuse
 local-zone: "contentedpimplesordid.com" always_refuse
@@ -149230,6 +149232,7 @@ local-zone: "getclairu.nomshopper.com" always_refuse
 local-zone: "getcleanasf.com" always_refuse
 local-zone: "getconsserobhou.gq" always_refuse
 local-zone: "getcontent24.com" always_refuse
+local-zone: "getcontentbase.com" always_refuse
 local-zone: "getcyq.tokyo" always_refuse
 local-zone: "getdavikalte.tk" always_refuse
 local-zone: "getdaygravin.tk" always_refuse
@@ -180108,6 +180111,7 @@ local-zone: "infovitale-secuameli.fr" always_refuse
 local-zone: "infoweb-secupass-sg-assurances.fr" always_refuse
 local-zone: "infoworld.com" always_refuse
 local-zone: "infox24.de" always_refuse
+local-zone: "infozaem.com" always_refuse
 local-zone: "infra-antai.fr" always_refuse
 local-zone: "infra-disneylandparis.fr" always_refuse
 local-zone: "infra-laposte.fr" always_refuse
@@ -358805,6 +358809,7 @@ local-zone: "uackjyv.tokyo" always_refuse
 local-zone: "uackttd.tokyo" always_refuse
 local-zone: "uacplacmerfikeci.tk" always_refuse
 local-zone: "uacq.xyz" always_refuse
+local-zone: "uacred.com" always_refuse
 local-zone: "uadejea.bar" always_refuse
 local-zone: "uadfrastasrocit.ga" always_refuse
 local-zone: "uadizw.bar" always_refuse
@@ -384403,6 +384408,7 @@ local-zone: "whislplurpomirep.tk" always_refuse
 local-zone: "whislthemangejek.tk" always_refuse
 local-zone: "whismepadico.tk" always_refuse
 local-zone: "whisorpatermchee.tk" always_refuse
+local-zone: "whisparr.org" always_refuse
 local-zone: "whisper.sh" always_refuse
 local-zone: "whisperer.xyz" always_refuse
 local-zone: "whisperkeeping.com" always_refuse
