@@ -709,6 +709,7 @@
 
 # Sites that have .com domain extension
 0.0.0.0 .udio.com
+0.0.0.0 1mideas.com
 0.0.0.0 2523ai.com
 0.0.0.0 2moonsai.com
 0.0.0.0 7mmblog.com
@@ -789,6 +790,7 @@
 0.0.0.0 aquariumfishsource.com
 0.0.0.0 araminta-k.com
 0.0.0.0 arikouts.com
+0.0.0.0 art.tranduythuan.com
 0.0.0.0 artaigallery.com
 0.0.0.0 artbreeder.com
 0.0.0.0 artificialpaintings.com
@@ -855,6 +857,8 @@
 0.0.0.0 cre8tiveai.com
 0.0.0.0 createimg.com
 0.0.0.0 createporn.com
+0.0.0.0 creative.hudistore.com
+0.0.0.0 creative.rapthoitrang.com
 0.0.0.0 creativefabrica.com
 0.0.0.0 creatixai.com
 0.0.0.0 cubismartwork.com
@@ -885,6 +889,8 @@
 0.0.0.0 deloris-ai.com
 0.0.0.0 descript.com
 0.0.0.0 desifakes.com
+0.0.0.0 design.sabankientruc.com
+0.0.0.0 designingdreamscapes.com
 0.0.0.0 designzscrapaishop.com
 0.0.0.0 desklib.com
 0.0.0.0 dev59.com
@@ -902,6 +908,7 @@
 0.0.0.0 drawever.com
 0.0.0.0 dreamboothr.com
 0.0.0.0 dreamina.capcut.com
+0.0.0.0 dreamingartsus.com
 0.0.0.0 dreamphillic.com
 0.0.0.0 dreamsofbooks.com
 0.0.0.0 dreamstime.com
@@ -945,6 +952,7 @@
 0.0.0.0 funinformatique.com
 0.0.0.0 future-pedia.com
 0.0.0.0 futureen.com
+0.0.0.0 futuristicdecors.com
 0.0.0.0 fxhome.com
 0.0.0.0 fykoo.com
 0.0.0.0 gaigify.com
@@ -990,6 +998,7 @@
 0.0.0.0 imwechsel.com
 0.0.0.0 imyfone.com
 0.0.0.0 insertface.com
+0.0.0.0 inspiredcourt.com
 0.0.0.0 inspiredpencil.com
 0.0.0.0 instantaiprompt.com
 0.0.0.0 interiorai.com
@@ -1234,6 +1243,7 @@
 0.0.0.0 the-cuties.com
 0.0.0.0 theaipromptshop.com
 0.0.0.0 thebiblechat.com
+0.0.0.0 theconceptfurniture.com
 0.0.0.0 thecookingfacts.com
 0.0.0.0 thegamingmecca.com
 0.0.0.0 theinsaneapp.com
@@ -1264,12 +1274,15 @@
 0.0.0.0 undressai.com
 0.0.0.0 undressninja.com
 0.0.0.0 universalclipart.com
+0.0.0.0 updatebirthday.com
 0.0.0.0 vana.com
 0.0.0.0 vanceai.com
+0.0.0.0 vehiclefuturistic.com
 0.0.0.0 verbaledgeai.com
 0.0.0.0 vetexplainspets.com
 0.0.0.0 vibelf.com
 0.0.0.0 violetforest.com
+0.0.0.0 viralnewsflare.com
 0.0.0.0 virtulook.wondershare.com
 0.0.0.0 viseo.com
 0.0.0.0 vondy.com
@@ -1393,7 +1406,9 @@
 0.0.0.0 fullbloomclub.net
 0.0.0.0 heatware.net
 0.0.0.0 heyeditor.net
+0.0.0.0 ideaarts.net
 0.0.0.0 illusiondiffusion.net
+0.0.0.0 inspiring-designs.net
 0.0.0.0 inspiringdesigns.net
 0.0.0.0 jeddahairport.net
 0.0.0.0 kreaai.net
@@ -1413,8 +1428,10 @@
 0.0.0.0 speedpaint.net
 0.0.0.0 stable-diffusion-online.net
 0.0.0.0 stable-diffusion.net
+0.0.0.0 stylishhomeidea.net
 0.0.0.0 towardsai.net
 0.0.0.0 trycatchdebug.net
+0.0.0.0 uniqarch.net
 0.0.0.0 urbantinyhouse.net
 0.0.0.0 vitalentum.net
 
@@ -1480,6 +1497,7 @@
 0.0.0.0 app.sciobot.cz
 0.0.0.0 artbreeder
 0.0.0.0 artpictures.club
+0.0.0.0 aviary.pl
 0.0.0.0 background.lol
 0.0.0.0 barcode.so
 0.0.0.0 bare.club
@@ -1503,6 +1521,7 @@
 0.0.0.0 deepanime.software
 0.0.0.0 deepnude.ca
 0.0.0.0 deepnude.cc
+0.0.0.0 design.lenhisafety.com.vn
 0.0.0.0 dev.to
 0.0.0.0 diffus.me
 0.0.0.0 diffusion.land
@@ -2344,6 +2363,7 @@
 
 # Sites that have .com domain extension
 0.0.0.0 www..udio.com
+0.0.0.0 www.1mideas.com
 0.0.0.0 www.2523ai.com
 0.0.0.0 www.2moonsai.com
 0.0.0.0 www.7mmblog.com
@@ -2424,6 +2444,7 @@
 0.0.0.0 www.aquariumfishsource.com
 0.0.0.0 www.araminta-k.com
 0.0.0.0 www.arikouts.com
+0.0.0.0 www.art.tranduythuan.com
 0.0.0.0 www.artaigallery.com
 0.0.0.0 www.artbreeder.com
 0.0.0.0 www.artificialpaintings.com
@@ -2490,6 +2511,8 @@
 0.0.0.0 www.cre8tiveai.com
 0.0.0.0 www.createimg.com
 0.0.0.0 www.createporn.com
+0.0.0.0 www.creative.hudistore.com
+0.0.0.0 www.creative.rapthoitrang.com
 0.0.0.0 www.creativefabrica.com
 0.0.0.0 www.creatixai.com
 0.0.0.0 www.cubismartwork.com
@@ -2520,6 +2543,8 @@
 0.0.0.0 www.deloris-ai.com
 0.0.0.0 www.descript.com
 0.0.0.0 www.desifakes.com
+0.0.0.0 www.design.sabankientruc.com
+0.0.0.0 www.designingdreamscapes.com
 0.0.0.0 www.designzscrapaishop.com
 0.0.0.0 www.desklib.com
 0.0.0.0 www.dev59.com
@@ -2537,6 +2562,7 @@
 0.0.0.0 www.drawever.com
 0.0.0.0 www.dreamboothr.com
 0.0.0.0 www.dreamina.capcut.com
+0.0.0.0 www.dreamingartsus.com
 0.0.0.0 www.dreamphillic.com
 0.0.0.0 www.dreamsofbooks.com
 0.0.0.0 www.dreamstime.com
@@ -2580,6 +2606,7 @@
 0.0.0.0 www.funinformatique.com
 0.0.0.0 www.future-pedia.com
 0.0.0.0 www.futureen.com
+0.0.0.0 www.futuristicdecors.com
 0.0.0.0 www.fxhome.com
 0.0.0.0 www.fykoo.com
 0.0.0.0 www.gaigify.com
@@ -2625,6 +2652,7 @@
 0.0.0.0 www.imwechsel.com
 0.0.0.0 www.imyfone.com
 0.0.0.0 www.insertface.com
+0.0.0.0 www.inspiredcourt.com
 0.0.0.0 www.inspiredpencil.com
 0.0.0.0 www.instantaiprompt.com
 0.0.0.0 www.interiorai.com
@@ -2869,6 +2897,7 @@
 0.0.0.0 www.the-cuties.com
 0.0.0.0 www.theaipromptshop.com
 0.0.0.0 www.thebiblechat.com
+0.0.0.0 www.theconceptfurniture.com
 0.0.0.0 www.thecookingfacts.com
 0.0.0.0 www.thegamingmecca.com
 0.0.0.0 www.theinsaneapp.com
@@ -2899,12 +2928,15 @@
 0.0.0.0 www.undressai.com
 0.0.0.0 www.undressninja.com
 0.0.0.0 www.universalclipart.com
+0.0.0.0 www.updatebirthday.com
 0.0.0.0 www.vana.com
 0.0.0.0 www.vanceai.com
+0.0.0.0 www.vehiclefuturistic.com
 0.0.0.0 www.verbaledgeai.com
 0.0.0.0 www.vetexplainspets.com
 0.0.0.0 www.vibelf.com
 0.0.0.0 www.violetforest.com
+0.0.0.0 www.viralnewsflare.com
 0.0.0.0 www.virtulook.wondershare.com
 0.0.0.0 www.viseo.com
 0.0.0.0 www.vondy.com
@@ -3028,7 +3060,9 @@
 0.0.0.0 www.fullbloomclub.net
 0.0.0.0 www.heatware.net
 0.0.0.0 www.heyeditor.net
+0.0.0.0 www.ideaarts.net
 0.0.0.0 www.illusiondiffusion.net
+0.0.0.0 www.inspiring-designs.net
 0.0.0.0 www.inspiringdesigns.net
 0.0.0.0 www.jeddahairport.net
 0.0.0.0 www.kreaai.net
@@ -3048,8 +3082,10 @@
 0.0.0.0 www.speedpaint.net
 0.0.0.0 www.stable-diffusion-online.net
 0.0.0.0 www.stable-diffusion.net
+0.0.0.0 www.stylishhomeidea.net
 0.0.0.0 www.towardsai.net
 0.0.0.0 www.trycatchdebug.net
+0.0.0.0 www.uniqarch.net
 0.0.0.0 www.urbantinyhouse.net
 0.0.0.0 www.vitalentum.net
 
@@ -3115,6 +3151,7 @@
 0.0.0.0 www.app.sciobot.cz
 0.0.0.0 www.artbreeder
 0.0.0.0 www.artpictures.club
+0.0.0.0 www.aviary.pl
 0.0.0.0 www.background.lol
 0.0.0.0 www.barcode.so
 0.0.0.0 www.bare.club
@@ -3138,6 +3175,7 @@
 0.0.0.0 www.deepanime.software
 0.0.0.0 www.deepnude.ca
 0.0.0.0 www.deepnude.cc
+0.0.0.0 www.design.lenhisafety.com.vn
 0.0.0.0 www.dev.to
 0.0.0.0 www.diffus.me
 0.0.0.0 www.diffusion.land
