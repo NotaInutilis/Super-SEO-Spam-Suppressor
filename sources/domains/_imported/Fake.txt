@@ -4,11 +4,11 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 30 Aug 2026 07:10 UTC
-# Version: 2026.0830.0710.53
+# Expires: 8 hours
+# Last modified: 31 Aug 2026 07:17 UTC
+# Version: 2026.0831.0717.27
 # Syntax: Domains (without subdomains)
-# Number of entries: 17284
+# Number of entries: 17283
 #
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
@@ -765,6 +765,7 @@ ger.zoibakii.com
 2bgreen.at
 2f-kanzlei.com
 2smart4me.de
+2wheelshero.com
 303e.com
 360reinigungsmittel.com
 365-pharm.com
@@ -780,7 +781,6 @@ ger.zoibakii.com
 3sixteenonline.org
 4-pfoten-freizeit.de
 47215.world
-4bike.net
 4dmarkt.de
 4rxofficial.com
 5-pocketjeans.com
@@ -2321,7 +2321,6 @@ bestekreditvergabe.ltd
 bestelektronicshop.de
 bestellen-ciao-ciao-pf.de
 bestelnuar.click
-bestemed.com
 bestemedikamente.com
 bestenkaufen.com
 bestenwahl.de
@@ -2365,6 +2364,7 @@ bestprogift.com
 bestreliableremedies.com
 bestrelocate.com
 bestsaunakits.com
+bestselectionforyou.com
 bestslshop.com
 bestsoluvs.click
 bestsoundclub.com
@@ -3094,6 +3094,7 @@ campingzubehorhub.com
 camptool-shop.com
 camuya.shop
 canada-pharmacy-24h.com
+canadadrugstore.com
 canadanewsreport.com
 canadapharmacypro.com
 canadapharmacytrust.net
@@ -3223,6 +3224,7 @@ casualstore77.de
 casualstreet.de
 cat2fip.co
 catalia.de
+catalunyafarm.com
 catatic.de
 cateringvogue.com
 caterpillar-finland.com
@@ -4142,6 +4144,7 @@ deinemoebelpacker24.at
 deinenergieplan.de
 deinetierliebe.de
 deinhandwerkershop.de
+deini.com
 deinliebesmensch.de
 deinlieblingstier.co
 deinmodetrends.com
@@ -4461,7 +4464,6 @@ docgbeauty.de
 docjohnson-schritte.com
 dockersosterreich.at
 docmatthews.com
-doctorsolve.com
 doctriney.com
 documentarp.com
 doehlers.com
@@ -6401,7 +6403,6 @@ gelbente.de
 geldermans.com
 geldpro.ai
 geldvision.com
-gelmalls.com
 gelschuhe.de
 gelvibe.de
 gemeinderosengarten.de
@@ -7628,6 +7629,7 @@ hokadeutschland.de
 hokarunnershungary.com
 hokastyle.com
 hokaus.shop
+holapick.com
 holda-konigsallee.de
 holdinggb.com
 holdirwerkzeug.de
@@ -7999,6 +8001,7 @@ immediate-connect.com
 immediate-coraldex.com
 immediate-dash.de
 immediate-direct.com
+immediate-edge2.com
 immediate-flik.com
 immediate-growth.com
 immediate-momentum.com
@@ -10203,7 +10206,6 @@ medilifescience.com
 medimaxstore.de
 medinelle.com
 mediplus-berlin.de
-medirao.com
 medirezept.net
 meditatem.com
 medivita-de.com
@@ -13592,7 +13594,6 @@ sbikeparts.com
 sbk-hoffmeyer.de
 sbnaf.shop
 sboxcontainers.com
-scannero.io
 scarpaosterreich.at
 scarpejoya.com
 scarpiereingresso.com
@@ -14529,7 +14530,6 @@ spsfurntiure.com
 spuelenprofide.com
 spybulbcamera.de
 spydersale.de
-spydiscount24.com
 spyshop.at
 spyxe.com
 squarexchange.com
@@ -15737,13 +15737,11 @@ trumerholzliving.shop
 trupharmacbd.com
 trust-immo.com
 trusted-help.com
-trusted-online-generic.com
 trustedallovertheworld.com
 trustedconsumerreview.online
 trustedcroatian.com
 trustedmedstore24.com
 trustednorx.com
-trustedrxsolutions.com
 trustedshops.store
 trustedtablets.online
 trustedxshop.com
@@ -16349,6 +16347,7 @@ vivabikes.de
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
+vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
