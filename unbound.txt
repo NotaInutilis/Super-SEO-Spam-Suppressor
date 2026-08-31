@@ -39012,6 +39012,7 @@ local-zone: "amazingcasinosonline.fr" always_refuse
 local-zone: "amazingcasinostop.fr" always_refuse
 local-zone: "amazingcelldeals.com" always_refuse
 local-zone: "amazingengweelectricbikes.shop" always_refuse
+local-zone: "amazingfoodanddrink.com" always_refuse
 local-zone: "amazinglyperception.com" always_refuse
 local-zone: "amazingmusicbonus.click" always_refuse
 local-zone: "amazingplacebook.com" always_refuse
@@ -97425,6 +97426,7 @@ local-zone: "cvsipn.shop" always_refuse
 local-zone: "cvsiue.tokyo" always_refuse
 local-zone: "cvslos.rest" always_refuse
 local-zone: "cvspci.tokyo" always_refuse
+local-zone: "cvsq-interieurgouv.fr" always_refuse
 local-zone: "cvsv.xyz" always_refuse
 local-zone: "cvt-prime.fr" always_refuse
 local-zone: "cvt8688.cyou" always_refuse
@@ -110654,6 +110656,7 @@ local-zone: "dofonmingterkei.gq" always_refuse
 local-zone: "dofsbackportwitu.tk" always_refuse
 local-zone: "dofslarankapostmost.gq" always_refuse
 local-zone: "dofumaxdustci.tk" always_refuse
+local-zone: "dofus-store.fr" always_refuse
 local-zone: "dofuss.fr" always_refuse
 local-zone: "dofxeveko.gq" always_refuse
 local-zone: "dofxhbu.rest" always_refuse
@@ -177832,6 +177835,7 @@ local-zone: "impotgouvernement.fr" always_refuse
 local-zone: "impots-authentification.fr" always_refuse
 local-zone: "impots-cryptomonnaies.fr" always_refuse
 local-zone: "impots-declaration.fr" always_refuse
+local-zone: "impots-espace-particuliers.fr" always_refuse
 local-zone: "impots-espace.fr" always_refuse
 local-zone: "impots-gou.fr" always_refuse
 local-zone: "impots-gouv-assistance.fr" always_refuse
@@ -233114,6 +233118,7 @@ local-zone: "moolesleidowhand.cf" always_refuse
 local-zone: "moon-bet.fr" always_refuse
 local-zone: "moon-kielce.pl" always_refuse
 local-zone: "moon10.com.co" always_refuse
+local-zone: "moonagedaydream.film" always_refuse
 local-zone: "moonbeetakone.tk" always_refuse
 local-zone: "moonbet-casino.fr" always_refuse
 local-zone: "moonbetcasino.fr" always_refuse
@@ -242095,6 +242100,7 @@ local-zone: "net-clip-wap.buzz" always_refuse
 local-zone: "net-deos.com" always_refuse
 local-zone: "net-fast-cams.buzz" always_refuse
 local-zone: "net-fli.fr" always_refuse
+local-zone: "net-flix-paiement.fr" always_refuse
 local-zone: "net-flix.fr" always_refuse
 local-zone: "net-hardcore-cum.buzz" always_refuse
 local-zone: "net-helps-gat.com" always_refuse
@@ -257681,6 +257687,7 @@ local-zone: "oranje-huiskamer.nl" always_refuse
 local-zone: "oranlamer.ga" always_refuse
 local-zone: "oranogprinenen.tk" always_refuse
 local-zone: "oranqe.fr" always_refuse
+local-zone: "oranqee.fr" always_refuse
 local-zone: "oranve.fr" always_refuse
 local-zone: "oraphalofkulti.gq" always_refuse
 local-zone: "oraporvacas.tk" always_refuse
@@ -262998,6 +263005,7 @@ local-zone: "paintingscountry.biz" always_refuse
 local-zone: "paintingsmoneymanys.bar" always_refuse
 local-zone: "paintingsmother.biz" always_refuse
 local-zone: "paintingstimeands.buzz" always_refuse
+local-zone: "paintit.ai" always_refuse
 local-zone: "paintnet.es" always_refuse
 local-zone: "paintnet.fr" always_refuse
 local-zone: "paintnet.it" always_refuse
@@ -281288,6 +281296,7 @@ local-zone: "pubgaretertiken.ga" always_refuse
 local-zone: "pubgclaim-event.com" always_refuse
 local-zone: "pubgkurdistan.com" always_refuse
 local-zone: "pubgm1.xyz" always_refuse
+local-zone: "pubgoer.co.uk" always_refuse
 local-zone: "pubic.fr" always_refuse
 local-zone: "pubilllafapicha.cf" always_refuse
 local-zone: "pubisehelpresca.tk" always_refuse
@@ -302854,6 +302863,7 @@ local-zone: "rotstesafpules.tk" always_refuse
 local-zone: "rotsy.xyz" always_refuse
 local-zone: "rottadeifenici.eu" always_refuse
 local-zone: "rottcreenenotuptrim.tk" always_refuse
+local-zone: "rottenwifi.com" always_refuse
 local-zone: "rotteodicomro.cf" always_refuse
 local-zone: "rotterdam-oost.nl" always_refuse
 local-zone: "rotterdamsunny.com" always_refuse
@@ -322129,6 +322139,7 @@ local-zone: "societegeneralesainfo.fr" always_refuse
 local-zone: "societegeneralesecured.fr" always_refuse
 local-zone: "societegeneralesecurepass.fr" always_refuse
 local-zone: "societegeneraleservice.fr" always_refuse
+local-zone: "societegeneraleservicevirement.fr" always_refuse
 local-zone: "societegeneralesinfo.fr" always_refuse
 local-zone: "societegeneralesparticulier.fr" always_refuse
 local-zone: "societegeneralesparticuliers.fr" always_refuse
@@ -343591,6 +343602,7 @@ local-zone: "thejapanesearts.it" always_refuse
 local-zone: "thejbweld.com" always_refuse
 local-zone: "thejerusalemheartbeat.com" always_refuse
 local-zone: "thejesusai.com" always_refuse
+local-zone: "thejimbosliceworkshop.com" always_refuse
 local-zone: "thejoai.com" always_refuse
 local-zone: "thejobsitetool.com" always_refuse
 local-zone: "thejujutsukaisenread.com" always_refuse
@@ -383235,6 +383247,8 @@ local-zone: "welcomingcasklive.com" always_refuse
 local-zone: "welcukalebrans.tk" always_refuse
 local-zone: "weldciresfapa.tk" always_refuse
 local-zone: "weldconsconnighprot.gq" always_refuse
+local-zone: "welders-supply.com" always_refuse
+local-zone: "weldingproperty.com" always_refuse
 local-zone: "weldiolosynchpercess.cf" always_refuse
 local-zone: "weldma.tokyo" always_refuse
 local-zone: "weldome.fr" always_refuse
