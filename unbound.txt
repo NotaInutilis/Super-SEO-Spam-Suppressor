@@ -62258,6 +62258,7 @@ local-zone: "blog.myheritage.de" always_refuse
 local-zone: "blog.netim.com" always_refuse
 local-zone: "blog.onelitefeather.net" always_refuse
 local-zone: "blog.osmova.com" always_refuse
+local-zone: "blog.qnap.com" always_refuse
 local-zone: "blog.rbauction.com" always_refuse
 local-zone: "blog.rmgoe.org" always_refuse
 local-zone: "blog.scalefusion.com" always_refuse
@@ -86879,6 +86880,7 @@ local-zone: "coalisatafi.tk" always_refuse
 local-zone: "coalitblaptali.gq" always_refuse
 local-zone: "coalitellubi.ml" always_refuse
 local-zone: "coalitionbrewing.com" always_refuse
+local-zone: "coalitionforsecureai.org" always_refuse
 local-zone: "coalitionfoul.com" always_refuse
 local-zone: "coalizione-sociale.it" always_refuse
 local-zone: "coallitencofpau.tk" always_refuse

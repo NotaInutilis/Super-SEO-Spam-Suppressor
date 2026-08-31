@@ -62258,6 +62258,7 @@ neg {name=blog.myheritage.de; types=domain;}
 neg {name=blog.netim.com; types=domain;}
 neg {name=blog.onelitefeather.net; types=domain;}
 neg {name=blog.osmova.com; types=domain;}
+neg {name=blog.qnap.com; types=domain;}
 neg {name=blog.rbauction.com; types=domain;}
 neg {name=blog.rmgoe.org; types=domain;}
 neg {name=blog.scalefusion.com; types=domain;}
@@ -86879,6 +86880,7 @@ neg {name=coalisatafi.tk; types=domain;}
 neg {name=coalitblaptali.gq; types=domain;}
 neg {name=coalitellubi.ml; types=domain;}
 neg {name=coalitionbrewing.com; types=domain;}
+neg {name=coalitionforsecureai.org; types=domain;}
 neg {name=coalitionfoul.com; types=domain;}
 neg {name=coalizione-sociale.it; types=domain;}
 neg {name=coallitencofpau.tk; types=domain;}
