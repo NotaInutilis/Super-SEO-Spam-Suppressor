@@ -1,5 +1,6 @@
 host *= "magisk"
 title *= "AI-powered" i
 title *= "ecco un articolo" i
-title *= "ending explained" ititle *= "powered by AI" i
+title *= "ending explained" i
 title *= "here's an article about" i
+title *= "powered by AI" i
