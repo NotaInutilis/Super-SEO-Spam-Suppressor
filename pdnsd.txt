@@ -37746,6 +37746,7 @@ neg {name=alladerbturti.cf; types=domain;}
 neg {name=alladultproducts.com; types=domain;}
 neg {name=allageperpi.ml; types=domain;}
 neg {name=allainz.fr; types=domain;}
+neg {name=allaiprompthub.in; types=domain;}
 neg {name=allaith.ly; types=domain;}
 neg {name=allalta.buzz; types=domain;}
 neg {name=allametli.tk; types=domain;}
@@ -230497,6 +230498,7 @@ neg {name=mobirewardstar.xyz; types=domain;}
 neg {name=mobirewardworld.xyz; types=domain;}
 neg {name=mobirise.com; types=domain;}
 neg {name=mobischule.com; types=domain;}
+neg {name=mobiskill.fr; types=domain;}
 neg {name=mobislotplay.xyz; types=domain;}
 neg {name=mobislotsite.xyz; types=domain;}
 neg {name=mobislotspin.xyz; types=domain;}
@@ -279413,6 +279415,15 @@ neg {name=promptden.com; types=domain;}
 neg {name=promptforum.com; types=domain;}
 neg {name=prompthero.ai; types=domain;}
 neg {name=prompthero.com; types=domain;}
+neg {name=prompthub.click; types=domain;}
+neg {name=prompthub.codes; types=domain;}
+neg {name=prompthub.com; types=domain;}
+neg {name=prompthub.hu; types=domain;}
+neg {name=prompthub.jp; types=domain;}
+neg {name=prompthub.ovh; types=domain;}
+neg {name=prompthub.us; types=domain;}
+neg {name=prompthub.xin; types=domain;}
+neg {name=prompthubhq.com; types=domain;}
 neg {name=prompthunt.com; types=domain;}
 neg {name=prompti.ai; types=domain;}
 neg {name=promptle.art; types=domain;}
@@ -279420,6 +279431,8 @@ neg {name=promptlibrary.org; types=domain;}
 neg {name=promptomania.com; types=domain;}
 neg {name=prompton.io; types=domain;}
 neg {name=promptpal.net; types=domain;}
+neg {name=promptscoach.org; types=domain;}
+neg {name=promptshub.shop; types=domain;}
 neg {name=promptsideas.com; types=domain;}
 neg {name=promptstock.photos; types=domain;}
 neg {name=promptsvilla.com; types=domain;}
@@ -279431,6 +279444,7 @@ neg {name=promtacorsarera.ga; types=domain;}
 neg {name=promtecelpeoclusem.gq; types=domain;}
 neg {name=promtercobum.cf; types=domain;}
 neg {name=promthekreallsubdia.tk; types=domain;}
+neg {name=promthub.org; types=domain;}
 neg {name=promtimanewsvi.cf; types=domain;}
 neg {name=promtoroucerli.tk; types=domain;}
 neg {name=promtoughclanunfither.ml; types=domain;}

@@ -37746,6 +37746,7 @@ local-zone: "alladerbturti.cf" always_refuse
 local-zone: "alladultproducts.com" always_refuse
 local-zone: "allageperpi.ml" always_refuse
 local-zone: "allainz.fr" always_refuse
+local-zone: "allaiprompthub.in" always_refuse
 local-zone: "allaith.ly" always_refuse
 local-zone: "allalta.buzz" always_refuse
 local-zone: "allametli.tk" always_refuse
@@ -230497,6 +230498,7 @@ local-zone: "mobirewardstar.xyz" always_refuse
 local-zone: "mobirewardworld.xyz" always_refuse
 local-zone: "mobirise.com" always_refuse
 local-zone: "mobischule.com" always_refuse
+local-zone: "mobiskill.fr" always_refuse
 local-zone: "mobislotplay.xyz" always_refuse
 local-zone: "mobislotsite.xyz" always_refuse
 local-zone: "mobislotspin.xyz" always_refuse
@@ -279413,6 +279415,15 @@ local-zone: "promptden.com" always_refuse
 local-zone: "promptforum.com" always_refuse
 local-zone: "prompthero.ai" always_refuse
 local-zone: "prompthero.com" always_refuse
+local-zone: "prompthub.click" always_refuse
+local-zone: "prompthub.codes" always_refuse
+local-zone: "prompthub.com" always_refuse
+local-zone: "prompthub.hu" always_refuse
+local-zone: "prompthub.jp" always_refuse
+local-zone: "prompthub.ovh" always_refuse
+local-zone: "prompthub.us" always_refuse
+local-zone: "prompthub.xin" always_refuse
+local-zone: "prompthubhq.com" always_refuse
 local-zone: "prompthunt.com" always_refuse
 local-zone: "prompti.ai" always_refuse
 local-zone: "promptle.art" always_refuse
@@ -279420,6 +279431,8 @@ local-zone: "promptlibrary.org" always_refuse
 local-zone: "promptomania.com" always_refuse
 local-zone: "prompton.io" always_refuse
 local-zone: "promptpal.net" always_refuse
+local-zone: "promptscoach.org" always_refuse
+local-zone: "promptshub.shop" always_refuse
 local-zone: "promptsideas.com" always_refuse
 local-zone: "promptstock.photos" always_refuse
 local-zone: "promptsvilla.com" always_refuse
@@ -279431,6 +279444,7 @@ local-zone: "promtacorsarera.ga" always_refuse
 local-zone: "promtecelpeoclusem.gq" always_refuse
 local-zone: "promtercobum.cf" always_refuse
 local-zone: "promthekreallsubdia.tk" always_refuse
+local-zone: "promthub.org" always_refuse
 local-zone: "promtimanewsvi.cf" always_refuse
 local-zone: "promtoroucerli.tk" always_refuse
 local-zone: "promtoughclanunfither.ml" always_refuse
