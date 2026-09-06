@@ -57617,6 +57617,7 @@ neg {name=betify-apk.fr; types=domain;}
 neg {name=betify-app.fr; types=domain;}
 neg {name=betify-applicationbonus.fr; types=domain;}
 neg {name=betify-applicationconnexion.fr; types=domain;}
+neg {name=betify-apps.fr; types=domain;}
 neg {name=betify-bonus-code.fr; types=domain;}
 neg {name=betify-bonus.fr; types=domain;}
 neg {name=betify-bonusconnexion.fr; types=domain;}
@@ -57660,6 +57661,8 @@ neg {name=betify-enligne.fr; types=domain;}
 neg {name=betify-fr-casino.fr; types=domain;}
 neg {name=betify-fra.fr; types=domain;}
 neg {name=betify-france.fr; types=domain;}
+neg {name=betify-game.fr; types=domain;}
+neg {name=betify-games.fr; types=domain;}
 neg {name=betify-ios.fr; types=domain;}
 neg {name=betify-jeu.fr; types=domain;}
 neg {name=betify-jouer.fr; types=domain;}
@@ -57705,6 +57708,7 @@ neg {name=betifycasinos-fr.fr; types=domain;}
 neg {name=betifycasinos.fr; types=domain;}
 neg {name=betifycasinos1.fr; types=domain;}
 neg {name=betifyfr.fr; types=domain;}
+neg {name=betifygame.fr; types=domain;}
 neg {name=betifyjeu.fr; types=domain;}
 neg {name=betifyjeux.fr; types=domain;}
 neg {name=betifylogin.fr; types=domain;}
@@ -74271,6 +74275,7 @@ neg {name=casino-amon.fr; types=domain;}
 neg {name=casino-amonbet.fr; types=domain;}
 neg {name=casino-amunra.fr; types=domain;}
 neg {name=casino-aquawin.fr; types=domain;}
+neg {name=casino-argent-reel.fr; types=domain;}
 neg {name=casino-banque.fr; types=domain;}
 neg {name=casino-banzai.fr; types=domain;}
 neg {name=casino-bdmbet.fr; types=domain;}
@@ -77977,6 +77982,7 @@ neg {name=cetatizuschle.tk; types=domain;}
 neg {name=cetechlachanc.tk; types=domain;}
 neg {name=cetegchockdisro.ml; types=domain;}
 neg {name=cetelel.fr; types=domain;}
+neg {name=cetelem-bnpparibas.fr; types=domain;}
 neg {name=cetelem-connecte.fr; types=domain;}
 neg {name=cetelem-financement.fr; types=domain;}
 neg {name=cetelem-particulier-notifications.fr; types=domain;}
@@ -89853,6 +89859,7 @@ neg {name=conformite-boursorama.fr; types=domain;}
 neg {name=conformite-fortuneo.fr; types=domain;}
 neg {name=conformite-interieurgouv.fr; types=domain;}
 neg {name=conformite-lbp.fr; types=domain;}
+neg {name=conformiteants.fr; types=domain;}
 neg {name=confortbancwestro.tk; types=domain;}
 neg {name=confortbebe.ro; types=domain;}
 neg {name=confortefvie.fr; types=domain;}
@@ -125900,6 +125907,7 @@ neg {name=esimcard.fr; types=domain;}
 neg {name=esimecak.gq; types=domain;}
 neg {name=esimgelo.tk; types=domain;}
 neg {name=esimolbala.tk; types=domain;}
+neg {name=esimrapide.fr; types=domain;}
 neg {name=esimsfr.fr; types=domain;}
 neg {name=esimsoestam.ga; types=domain;}
 neg {name=esimurinilma.tk; types=domain;}
@@ -181200,6 +181208,7 @@ neg {name=inssababdige.ml; types=domain;}
 neg {name=insse.fr; types=domain;}
 neg {name=inssee.fr; types=domain;}
 neg {name=insseriousdropstudy.biz; types=domain;}
+neg {name=insta-cams.fr; types=domain;}
 neg {name=insta-flirt-books2.com; types=domain;}
 neg {name=insta-flirt-books3.com; types=domain;}
 neg {name=insta-localhookup4.com; types=domain;}
@@ -205877,6 +205886,7 @@ neg {name=leclerc-bon.fr; types=domain;}
 neg {name=leclerc-dev.fr; types=domain;}
 neg {name=leclerc-socamaine.fr; types=domain;}
 neg {name=leclerc-socamil.fr; types=domain;}
+neg {name=leclerc-sodexco.fr; types=domain;}
 neg {name=leclercpharma.fr; types=domain;}
 neg {name=leclercrive.fr; types=domain;}
 neg {name=leclitamlind.tk; types=domain;}
@@ -224534,6 +224544,7 @@ neg {name=megadice-casino.fr; types=domain;}
 neg {name=megadicecasino.fr; types=domain;}
 neg {name=megadiscount-shop.fr; types=domain;}
 neg {name=megadjzu.web.app; types=domain;}
+neg {name=megafishwins-online.fr; types=domain;}
 neg {name=megafishwinscasino.fr; types=domain;}
 neg {name=megafliesen24.de; types=domain;}
 neg {name=megaflirtbook2.com; types=domain;}
@@ -322035,9 +322046,12 @@ neg {name=sodersfenne.ga; types=domain;}
 neg {name=sodervernmullynid.cf; types=domain;}
 neg {name=sodetedawor.ml; types=domain;}
 neg {name=sodex-da.fr; types=domain;}
+neg {name=sodexco-leclerc.fr; types=domain;}
+neg {name=sodexco-lelerc.fr; types=domain;}
 neg {name=sodexo-groupe.fr; types=domain;}
 neg {name=sodexo-groupes.fr; types=domain;}
 neg {name=sodexo-groups.fr; types=domain;}
+neg {name=sodexo-lelerc.fr; types=domain;}
 neg {name=sodexo-pass-france-sa.fr; types=domain;}
 neg {name=sodexo-sas.fr; types=domain;}
 neg {name=sodexogroupe.fr; types=domain;}
@@ -329179,6 +329193,7 @@ neg {name=stqvie.bar; types=domain;}
 neg {name=stqvjw.bar; types=domain;}
 neg {name=strabenmotorrad.com; types=domain;}
 neg {name=stradellanostra.it; types=domain;}
+neg {name=stradivarius-fr.fr; types=domain;}
 neg {name=stradivariusfr.fr; types=domain;}
 neg {name=stradivariusfrance.fr; types=domain;}
 neg {name=stradivariusoutlet.fr; types=domain;}
@@ -375673,6 +375688,7 @@ neg {name=vistadu.xyz; types=domain;}
 neg {name=vistamagazine.com; types=domain;}
 neg {name=vistanabaringlo.tk; types=domain;}
 neg {name=vistaporirenlink.ga; types=domain;}
+neg {name=vistaprint.tf; types=domain;}
 neg {name=vistaprinte.fr; types=domain;}
 neg {name=vistarprint.com; types=domain;}
 neg {name=vistatifenliga.gq; types=domain;}
@@ -384847,8 +384863,12 @@ neg {name=wild-robin-france.fr; types=domain;}
 neg {name=wild-robin-official.fr; types=domain;}
 neg {name=wild-robinofficiel.fr; types=domain;}
 neg {name=wild-sino.fr; types=domain;}
+neg {name=wild-sultan-app.fr; types=domain;}
 neg {name=wild-sultan-casino.fr; types=domain;}
 neg {name=wild-sultan-fr.fr; types=domain;}
+neg {name=wild-sultan-game.fr; types=domain;}
+neg {name=wild-sultan-online.fr; types=domain;}
+neg {name=wild-sultan-slots.fr; types=domain;}
 neg {name=wild-sultan1.fr; types=domain;}
 neg {name=wild-sultanfr.fr; types=domain;}
 neg {name=wild-sultanfr1.fr; types=domain;}
