@@ -87187,6 +87187,7 @@ local-zone: "codersatellite.com" always_refuse
 local-zone: "coderscratchpad.com" always_refuse
 local-zone: "codertcildumbrevi.tk" always_refuse
 local-zone: "codesaloliri.ga" always_refuse
+local-zone: "codesmash.dev" always_refuse
 local-zone: "codesmeichooce.tk" always_refuse
 local-zone: "codesoftware.xyz" always_refuse
 local-zone: "codespots.com" always_refuse
@@ -122040,6 +122041,7 @@ local-zone: "enconsohastbi.ga" always_refuse
 local-zone: "encor-termotecnica.it" always_refuse
 local-zone: "encorbuddri.gq" always_refuse
 local-zone: "encore-niigata.com" always_refuse
+local-zone: "encore.dev" always_refuse
 local-zone: "encork.eu" always_refuse
 local-zone: "encornorthpola.tk" always_refuse
 local-zone: "encourageburns.com" always_refuse
@@ -206987,6 +206989,7 @@ local-zone: "lensdandawa.tk" always_refuse
 local-zone: "lensdoorklabosiron.tk" always_refuse
 local-zone: "lenseoceolaichrisev.tk" always_refuse
 local-zone: "lensfacditijusgea.gq" always_refuse
+local-zone: "lenshq.io" always_refuse
 local-zone: "lensiguto.tk" always_refuse
 local-zone: "lensilova.tk" always_refuse
 local-zone: "lenslacenphymac.ml" always_refuse
@@ -213789,6 +213792,7 @@ local-zone: "loginclients-prime.fr" always_refuse
 local-zone: "loginfaster.co" always_refuse
 local-zone: "logingoogle.xyz" always_refuse
 local-zone: "loginleboncoin.fr" always_refuse
+local-zone: "loginline.com" always_refuse
 local-zone: "loginlive.fr" always_refuse
 local-zone: "loginmicrosoft-live.fr" always_refuse
 local-zone: "loginmicrosoft-online.fr" always_refuse
@@ -216512,6 +216516,7 @@ local-zone: "ludo.ai" always_refuse
 local-zone: "ludoeducatif.fr" always_refuse
 local-zone: "ludoking.com.in" always_refuse
 local-zone: "ludomatique.com" always_refuse
+local-zone: "ludoscience.com" always_refuse
 local-zone: "ludovicblancsocietegenralefr.fr" always_refuse
 local-zone: "ludramp.xyz" always_refuse
 local-zone: "ludsch.xyz" always_refuse
@@ -314674,6 +314679,7 @@ local-zone: "sfdkwl.cyou" always_refuse
 local-zone: "sfdmwl.cyou" always_refuse
 local-zone: "sfduww.rest" always_refuse
 local-zone: "sfeexv.bar" always_refuse
+local-zone: "sfeir.com" always_refuse
 local-zone: "sfejm.yt" always_refuse
 local-zone: "sfen.cc" always_refuse
 local-zone: "sfephj.tokyo" always_refuse
