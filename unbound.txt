@@ -43784,6 +43784,7 @@ local-zone: "app-amex-france.fr" always_refuse
 local-zone: "app-analyse.de" always_refuse
 local-zone: "app-antai.fr" always_refuse
 local-zone: "app-associates.com" always_refuse
+local-zone: "app-bankera.fr" always_refuse
 local-zone: "app-banquepostale.fr" always_refuse
 local-zone: "app-blablacar.fr" always_refuse
 local-zone: "app-bnpparibas.fr" always_refuse
@@ -46104,6 +46105,7 @@ local-zone: "arubabet-casino.fr" always_refuse
 local-zone: "arubabet-enligne.fr" always_refuse
 local-zone: "arubabet-france.fr" always_refuse
 local-zone: "arubabetcasino.fr" always_refuse
+local-zone: "arubabetfr.fr" always_refuse
 local-zone: "arubafr.fr" always_refuse
 local-zone: "arubanoublu.tk" always_refuse
 local-zone: "arujihupid.gq" always_refuse
@@ -59632,6 +59634,7 @@ local-zone: "billionairesp1n.fr" always_refuse
 local-zone: "billionairespin-casino.fr" always_refuse
 local-zone: "billionairespin-france.fr" always_refuse
 local-zone: "billionairespin-online.fr" always_refuse
+local-zone: "billionairespin2.fr" always_refuse
 local-zone: "billionairespincasino.fr" always_refuse
 local-zone: "billionairetissu.fr" always_refuse
 local-zone: "billioner-spin-casino.fr" always_refuse
@@ -172685,6 +172688,7 @@ local-zone: "hypdunilasmei.tk" always_refuse
 local-zone: "hype-casino.fr" always_refuse
 local-zone: "hype-hoodies.com" always_refuse
 local-zone: "hype-kasino.fr" always_refuse
+local-zone: "hype-sneakers.fr" always_refuse
 local-zone: "hypecasino.fr" always_refuse
 local-zone: "hypecasino1.fr" always_refuse
 local-zone: "hypedrip.top" always_refuse
@@ -263669,6 +263673,7 @@ local-zone: "paris-g7.fr" always_refuse
 local-zone: "paris-g7taxi.fr" always_refuse
 local-zone: "paris-g7taxis.fr" always_refuse
 local-zone: "paris-live-tickets.fr" always_refuse
+local-zone: "paris-outlet.fr" always_refuse
 local-zone: "paris-sportif-retrait-rapide.fr" always_refuse
 local-zone: "paris-taxig7.fr" always_refuse
 local-zone: "paris-univ8.fr" always_refuse
@@ -273890,6 +273895,7 @@ local-zone: "popthecampaign.nl" always_refuse
 local-zone: "poptoll.com" always_refuse
 local-zone: "poptv.xyz" always_refuse
 local-zone: "popub9.cyou" always_refuse
+local-zone: "populaire-mon-compte.fr" always_refuse
 local-zone: "popular-camping.com" always_refuse
 local-zone: "popularaitools.ai" always_refuse
 local-zone: "popularforex.pw" always_refuse
@@ -363373,6 +363379,7 @@ local-zone: "uphtrusatiner.gq" always_refuse
 local-zone: "uphvp.bar" always_refuse
 local-zone: "uphvsm.rest" always_refuse
 local-zone: "uphxmwt.tokyo" always_refuse
+local-zone: "upi-universite.fr" always_refuse
 local-zone: "upi1an.tokyo" always_refuse
 local-zone: "upibotetuseg.tk" always_refuse
 local-zone: "upifex.com" always_refuse

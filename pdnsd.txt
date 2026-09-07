@@ -43784,6 +43784,7 @@ neg {name=app-amex-france.fr; types=domain;}
 neg {name=app-analyse.de; types=domain;}
 neg {name=app-antai.fr; types=domain;}
 neg {name=app-associates.com; types=domain;}
+neg {name=app-bankera.fr; types=domain;}
 neg {name=app-banquepostale.fr; types=domain;}
 neg {name=app-blablacar.fr; types=domain;}
 neg {name=app-bnpparibas.fr; types=domain;}
@@ -46104,6 +46105,7 @@ neg {name=arubabet-casino.fr; types=domain;}
 neg {name=arubabet-enligne.fr; types=domain;}
 neg {name=arubabet-france.fr; types=domain;}
 neg {name=arubabetcasino.fr; types=domain;}
+neg {name=arubabetfr.fr; types=domain;}
 neg {name=arubafr.fr; types=domain;}
 neg {name=arubanoublu.tk; types=domain;}
 neg {name=arujihupid.gq; types=domain;}
@@ -59632,6 +59634,7 @@ neg {name=billionairesp1n.fr; types=domain;}
 neg {name=billionairespin-casino.fr; types=domain;}
 neg {name=billionairespin-france.fr; types=domain;}
 neg {name=billionairespin-online.fr; types=domain;}
+neg {name=billionairespin2.fr; types=domain;}
 neg {name=billionairespincasino.fr; types=domain;}
 neg {name=billionairetissu.fr; types=domain;}
 neg {name=billioner-spin-casino.fr; types=domain;}
@@ -172685,6 +172688,7 @@ neg {name=hypdunilasmei.tk; types=domain;}
 neg {name=hype-casino.fr; types=domain;}
 neg {name=hype-hoodies.com; types=domain;}
 neg {name=hype-kasino.fr; types=domain;}
+neg {name=hype-sneakers.fr; types=domain;}
 neg {name=hypecasino.fr; types=domain;}
 neg {name=hypecasino1.fr; types=domain;}
 neg {name=hypedrip.top; types=domain;}
@@ -263669,6 +263673,7 @@ neg {name=paris-g7.fr; types=domain;}
 neg {name=paris-g7taxi.fr; types=domain;}
 neg {name=paris-g7taxis.fr; types=domain;}
 neg {name=paris-live-tickets.fr; types=domain;}
+neg {name=paris-outlet.fr; types=domain;}
 neg {name=paris-sportif-retrait-rapide.fr; types=domain;}
 neg {name=paris-taxig7.fr; types=domain;}
 neg {name=paris-univ8.fr; types=domain;}
@@ -273890,6 +273895,7 @@ neg {name=popthecampaign.nl; types=domain;}
 neg {name=poptoll.com; types=domain;}
 neg {name=poptv.xyz; types=domain;}
 neg {name=popub9.cyou; types=domain;}
+neg {name=populaire-mon-compte.fr; types=domain;}
 neg {name=popular-camping.com; types=domain;}
 neg {name=popularaitools.ai; types=domain;}
 neg {name=popularforex.pw; types=domain;}
@@ -363373,6 +363379,7 @@ neg {name=uphtrusatiner.gq; types=domain;}
 neg {name=uphvp.bar; types=domain;}
 neg {name=uphvsm.rest; types=domain;}
 neg {name=uphxmwt.tokyo; types=domain;}
+neg {name=upi-universite.fr; types=domain;}
 neg {name=upi1an.tokyo; types=domain;}
 neg {name=upibotetuseg.tk; types=domain;}
 neg {name=upifex.com; types=domain;}
