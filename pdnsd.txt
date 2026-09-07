@@ -37294,6 +37294,7 @@ neg {name=alerte-prime.fr; types=domain;}
 neg {name=alerte-regularisation.fr; types=domain;}
 neg {name=alerteboncoin.fr; types=domain;}
 neg {name=alertecelebrites.fr; types=domain;}
+neg {name=alertedvf.fr; types=domain;}
 neg {name=alertes-amendes.fr; types=domain;}
 neg {name=alertes-contraventions.fr; types=domain;}
 neg {name=alertes-infos.fr; types=domain;}

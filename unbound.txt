@@ -37294,6 +37294,7 @@ local-zone: "alerte-prime.fr" always_refuse
 local-zone: "alerte-regularisation.fr" always_refuse
 local-zone: "alerteboncoin.fr" always_refuse
 local-zone: "alertecelebrites.fr" always_refuse
+local-zone: "alertedvf.fr" always_refuse
 local-zone: "alertes-amendes.fr" always_refuse
 local-zone: "alertes-contraventions.fr" always_refuse
 local-zone: "alertes-infos.fr" always_refuse
