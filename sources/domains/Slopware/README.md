@@ -1,0 +1,1 @@
+It's vibe coded. Either they proudly toot it, either it's too verbose to be human-made, either it's that one UI all LLMs use.
