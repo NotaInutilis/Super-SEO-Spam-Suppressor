@@ -173519,6 +173519,7 @@ local-zone: "i58k5l1.shop" always_refuse
 local-zone: "i5983q.cyou" always_refuse
 local-zone: "i59gd2.cyou" always_refuse
 local-zone: "i59h0p3.shop" always_refuse
+local-zone: "i5apps.com" always_refuse
 local-zone: "i5cx6sg.tokyo" always_refuse
 local-zone: "i5ei5z.tokyo" always_refuse
 local-zone: "i5eja.cyou" always_refuse
@@ -212093,6 +212094,7 @@ local-zone: "live-prime.fr" always_refuse
 local-zone: "live-vidoes.club" always_refuse
 local-zone: "live0.fr" always_refuse
 local-zone: "live24bdnews.xyz" always_refuse
+local-zone: "live2tech.com" always_refuse
 local-zone: "live3d.io" always_refuse
 local-zone: "liveablecity.dk" always_refuse
 local-zone: "liveaccess.fr" always_refuse
@@ -222786,6 +222788,7 @@ local-zone: "mastertickets.fr" always_refuse
 local-zone: "mastertoools.com" always_refuse
 local-zone: "masterwebvalencia.es" always_refuse
 local-zone: "mastery-ticket.fr" always_refuse
+local-zone: "masteryourtech.com" always_refuse
 local-zone: "masteryticket.fr" always_refuse
 local-zone: "mastewerklichess.tk" always_refuse
 local-zone: "mastewindpenvi.tk" always_refuse
@@ -224608,6 +224611,7 @@ local-zone: "mefizx.bar" always_refuse
 local-zone: "mefizzbackroll.ml" always_refuse
 local-zone: "mefmab.bar" always_refuse
 local-zone: "mefmab.rest" always_refuse
+local-zone: "mefmobile.org" always_refuse
 local-zone: "mefo2bo.work" always_refuse
 local-zone: "mefoderpnacssing.tk" always_refuse
 local-zone: "meforgenurjeotio.tk" always_refuse
@@ -322883,6 +322887,7 @@ local-zone: "solventcan.xyz" always_refuse
 local-zone: "solventus-shop.de" always_refuse
 local-zone: "solverde-casino.fr" always_refuse
 local-zone: "solveyofficiel.fr" always_refuse
+local-zone: "solveyourtech.com" always_refuse
 local-zone: "solvigorlickphols.gq" always_refuse
 local-zone: "solvivalmarb.ga" always_refuse
 local-zone: "solvusoft.com" always_refuse
