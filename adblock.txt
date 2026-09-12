@@ -413272,6 +413272,8 @@
 ||wifirst.com/*/blog^$document
 ||windowo.fr/blog^$document
 ||wopilo.com/pages^$document
+||wpconnect.co/*/blog/^$document
+||wpconnect.co/blog/^$document
 ||xrite.com/*/blog^$document
 ||younited-credit.com/projets^$document
 ||yupeek.com/blog^$document
