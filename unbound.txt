@@ -145995,6 +145995,7 @@ local-zone: "galduirhosasanep.tk" always_refuse
 local-zone: "galechildbirth.com" always_refuse
 local-zone: "galefordali.cf" always_refuse
 local-zone: "galeme.com" always_refuse
+local-zone: "galemodmanager.com" always_refuse
 local-zone: "galenusstrasse.de" always_refuse
 local-zone: "galera-markt.com" always_refuse
 local-zone: "galeradonon.tk" always_refuse
