@@ -53998,6 +53998,7 @@ local-zone: "battcel.ml" always_refuse
 local-zone: "battcontufahrare.ga" always_refuse
 local-zone: "battem.pp.ua" always_refuse
 local-zone: "battepovamul.tk" always_refuse
+local-zone: "batteriedrone.fr" always_refuse
 local-zone: "batterieprofessionnel.fr" always_refuse
 local-zone: "battersboxsf.com" always_refuse
 local-zone: "batterybereniceatmospheric.com" always_refuse
@@ -184209,6 +184210,7 @@ local-zone: "itaratgladmi.ga" always_refuse
 local-zone: "itarclovalew.tk" always_refuse
 local-zone: "itareldeti.ga" always_refuse
 local-zone: "itarexpadconttwen.tk" always_refuse
+local-zone: "itarian.com" always_refuse
 local-zone: "itarlenmi.ga" always_refuse
 local-zone: "itarmeforouze.tk" always_refuse
 local-zone: "itasgosbankworge.tk" always_refuse
