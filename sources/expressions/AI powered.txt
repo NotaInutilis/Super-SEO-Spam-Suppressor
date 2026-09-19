@@ -1,2 +1,1 @@
-title *= "powered by AI" i
-title *= "AI-powered" i
+title *= "powered" i & title *= "AI"
