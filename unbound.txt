@@ -4541,6 +4541,7 @@ local-zone: "18ghb58.shop" always_refuse
 local-zone: "18gnzk8.shop" always_refuse
 local-zone: "18gxfn.tokyo" always_refuse
 local-zone: "18h18.ovh" always_refuse
+local-zone: "18h39.fr" always_refuse
 local-zone: "18h4te.cyou" always_refuse
 local-zone: "18haobo.com" always_refuse
 local-zone: "18hjui.cyou" always_refuse
@@ -88927,6 +88928,7 @@ local-zone: "comostralsadaw.tk" always_refuse
 local-zone: "comostreperla.cf" always_refuse
 local-zone: "compactjetvillain.com" always_refuse
 local-zone: "compafipibola.tk" always_refuse
+local-zone: "compagnie-bicarbonate.com" always_refuse
 local-zone: "compagnie-des-glaces.fr" always_refuse
 local-zone: "compagniedeshotels.it" always_refuse
 local-zone: "compaheadmibe.tk" always_refuse
@@ -232547,6 +232549,7 @@ local-zone: "monbarobefinta.ga" always_refuse
 local-zone: "monber.asia" always_refuse
 local-zone: "monberkvergtowa.ga" always_refuse
 local-zone: "monbeudeperlifo.cf" always_refuse
+local-zone: "monbicarbonate.fr" always_refuse
 local-zone: "monbilletfrancais.fr" always_refuse
 local-zone: "monbirasiwihea.tk" always_refuse
 local-zone: "monboncoin.fr" always_refuse
