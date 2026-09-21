@@ -53830,6 +53830,7 @@ neg {name=basepicramo.cf; types=domain;}
 neg {name=basepointsroomhome.buzz; types=domain;}
 neg {name=basesorlojum.cf; types=domain;}
 neg {name=basetilighlisna.tk; types=domain;}
+neg {name=baseus-store.fr; types=domain;}
 neg {name=baseusfr.fr; types=domain;}
 neg {name=basfebimidsa.tk; types=domain;}
 neg {name=basfederdera.cf; types=domain;}
@@ -66284,6 +66285,7 @@ neg {name=brecquigamasra.tk; types=domain;}
 neg {name=brecthunsutapago.ga; types=domain;}
 neg {name=brecuttpagun.tk; types=domain;}
 neg {name=bred-france.fr; types=domain;}
+neg {name=bred-informatique.fr; types=domain;}
 neg {name=bred-paris.fr; types=domain;}
 neg {name=bredabarthalwall.tk; types=domain;}
 neg {name=bredabinexsov.cf; types=domain;}
@@ -89492,6 +89494,7 @@ neg {name=compte-la-banque-postale.fr; types=domain;}
 neg {name=compte-libertex.fr; types=domain;}
 neg {name=compte-livraison.fr; types=domain;}
 neg {name=compte-maladie.fr; types=domain;}
+neg {name=compte-merchant-center-suspendu.fr; types=domain;}
 neg {name=compte-nelflix.fr; types=domain;}
 neg {name=compte-netflix.fr; types=domain;}
 neg {name=compte-nickel-france.fr; types=domain;}
@@ -256599,6 +256602,7 @@ neg {name=oneoneshoes.fr; types=domain;}
 neg {name=onepager.fr; types=domain;}
 neg {name=onepiecefr.fr; types=domain;}
 neg {name=onepiecenetflix.fr; types=domain;}
+neg {name=onepieceshopparis2024.fr; types=domain;}
 neg {name=onepmeesynzeiket.tk; types=domain;}
 neg {name=oner-activefrance.fr; types=domain;}
 neg {name=oner.my.id; types=domain;}
@@ -267665,6 +267669,7 @@ neg {name=penlongthirsserze.gq; types=domain;}
 neg {name=penludafecvoi.ga; types=domain;}
 neg {name=penlunahisqui.gq; types=domain;}
 neg {name=penlurabe.ml; types=domain;}
+neg {name=penly-edf.fr; types=domain;}
 neg {name=penly.ai; types=domain;}
 neg {name=penmacomprict.ga; types=domain;}
 neg {name=penmahoman.web.app; types=domain;}
@@ -293176,6 +293181,7 @@ neg {name=reactivation-compte.fr; types=domain;}
 neg {name=reactivation-espace-lbp.fr; types=domain;}
 neg {name=reactivation-espaces.fr; types=domain;}
 neg {name=reactivation-info.fr; types=domain;}
+neg {name=reactivation-merchant-center.fr; types=domain;}
 neg {name=reactivation-netflix.fr; types=domain;}
 neg {name=reactivation-nflx.fr; types=domain;}
 neg {name=reactivation-pl.fr; types=domain;}
@@ -312972,6 +312978,7 @@ neg {name=seemoo.re; types=domain;}
 neg {name=seemoree.re; types=domain;}
 neg {name=seemoreon.de; types=domain;}
 neg {name=seemorre.re; types=domain;}
+neg {name=seemro.re; types=domain;}
 neg {name=seemsallcurrent.rest; types=domain;}
 neg {name=seemsworkteamstops.biz; types=domain;}
 neg {name=seemucanta.tk; types=domain;}
@@ -356021,6 +356028,7 @@ neg {name=troi9r.xyz; types=domain;}
 neg {name=troianimoto.it; types=domain;}
 neg {name=troiealtelefono899.com; types=domain;}
 neg {name=troiphveilla.de; types=domain;}
+neg {name=trois-suisses.fr; types=domain;}
 neg {name=trojalesadeshyd.tk; types=domain;}
 neg {name=trojanonsolbot.com; types=domain;}
 neg {name=trojbedibutmi.tk; types=domain;}
@@ -395763,6 +395771,7 @@ neg {name=xn--fct840ey3c.wang; types=domain;}
 neg {name=xn--fed.com; types=domain;}
 neg {name=xn--ferienwohnung-krnten-pzb.eu; types=domain;}
 neg {name=xn--ferienwohnung-sterreich-llc.eu; types=domain;}
+neg {name=xn--ffrandonne-j7a.fr; types=domain;}
 neg {name=xn--fiq02ep7wukd.wang; types=domain;}
 neg {name=xn--fiq22lfzcku7b.wang; types=domain;}
 neg {name=xn--fiq50lfulivco1h1x0d.com; types=domain;}

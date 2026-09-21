@@ -53830,6 +53830,7 @@ local-zone: "basepicramo.cf" always_refuse
 local-zone: "basepointsroomhome.buzz" always_refuse
 local-zone: "basesorlojum.cf" always_refuse
 local-zone: "basetilighlisna.tk" always_refuse
+local-zone: "baseus-store.fr" always_refuse
 local-zone: "baseusfr.fr" always_refuse
 local-zone: "basfebimidsa.tk" always_refuse
 local-zone: "basfederdera.cf" always_refuse
@@ -66284,6 +66285,7 @@ local-zone: "brecquigamasra.tk" always_refuse
 local-zone: "brecthunsutapago.ga" always_refuse
 local-zone: "brecuttpagun.tk" always_refuse
 local-zone: "bred-france.fr" always_refuse
+local-zone: "bred-informatique.fr" always_refuse
 local-zone: "bred-paris.fr" always_refuse
 local-zone: "bredabarthalwall.tk" always_refuse
 local-zone: "bredabinexsov.cf" always_refuse
@@ -89492,6 +89494,7 @@ local-zone: "compte-la-banque-postale.fr" always_refuse
 local-zone: "compte-libertex.fr" always_refuse
 local-zone: "compte-livraison.fr" always_refuse
 local-zone: "compte-maladie.fr" always_refuse
+local-zone: "compte-merchant-center-suspendu.fr" always_refuse
 local-zone: "compte-nelflix.fr" always_refuse
 local-zone: "compte-netflix.fr" always_refuse
 local-zone: "compte-nickel-france.fr" always_refuse
@@ -256599,6 +256602,7 @@ local-zone: "oneoneshoes.fr" always_refuse
 local-zone: "onepager.fr" always_refuse
 local-zone: "onepiecefr.fr" always_refuse
 local-zone: "onepiecenetflix.fr" always_refuse
+local-zone: "onepieceshopparis2024.fr" always_refuse
 local-zone: "onepmeesynzeiket.tk" always_refuse
 local-zone: "oner-activefrance.fr" always_refuse
 local-zone: "oner.my.id" always_refuse
@@ -267665,6 +267669,7 @@ local-zone: "penlongthirsserze.gq" always_refuse
 local-zone: "penludafecvoi.ga" always_refuse
 local-zone: "penlunahisqui.gq" always_refuse
 local-zone: "penlurabe.ml" always_refuse
+local-zone: "penly-edf.fr" always_refuse
 local-zone: "penly.ai" always_refuse
 local-zone: "penmacomprict.ga" always_refuse
 local-zone: "penmahoman.web.app" always_refuse
@@ -293176,6 +293181,7 @@ local-zone: "reactivation-compte.fr" always_refuse
 local-zone: "reactivation-espace-lbp.fr" always_refuse
 local-zone: "reactivation-espaces.fr" always_refuse
 local-zone: "reactivation-info.fr" always_refuse
+local-zone: "reactivation-merchant-center.fr" always_refuse
 local-zone: "reactivation-netflix.fr" always_refuse
 local-zone: "reactivation-nflx.fr" always_refuse
 local-zone: "reactivation-pl.fr" always_refuse
@@ -312972,6 +312978,7 @@ local-zone: "seemoo.re" always_refuse
 local-zone: "seemoree.re" always_refuse
 local-zone: "seemoreon.de" always_refuse
 local-zone: "seemorre.re" always_refuse
+local-zone: "seemro.re" always_refuse
 local-zone: "seemsallcurrent.rest" always_refuse
 local-zone: "seemsworkteamstops.biz" always_refuse
 local-zone: "seemucanta.tk" always_refuse
@@ -356021,6 +356028,7 @@ local-zone: "troi9r.xyz" always_refuse
 local-zone: "troianimoto.it" always_refuse
 local-zone: "troiealtelefono899.com" always_refuse
 local-zone: "troiphveilla.de" always_refuse
+local-zone: "trois-suisses.fr" always_refuse
 local-zone: "trojalesadeshyd.tk" always_refuse
 local-zone: "trojanonsolbot.com" always_refuse
 local-zone: "trojbedibutmi.tk" always_refuse
@@ -395763,6 +395771,7 @@ local-zone: "xn--fct840ey3c.wang" always_refuse
 local-zone: "xn--fed.com" always_refuse
 local-zone: "xn--ferienwohnung-krnten-pzb.eu" always_refuse
 local-zone: "xn--ferienwohnung-sterreich-llc.eu" always_refuse
+local-zone: "xn--ffrandonne-j7a.fr" always_refuse
 local-zone: "xn--fiq02ep7wukd.wang" always_refuse
 local-zone: "xn--fiq22lfzcku7b.wang" always_refuse
 local-zone: "xn--fiq50lfulivco1h1x0d.com" always_refuse
