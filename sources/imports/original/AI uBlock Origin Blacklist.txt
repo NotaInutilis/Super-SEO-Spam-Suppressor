@@ -198,6 +198,9 @@ name: alvi-se/ai-ublock-blacklist
 *://electronics.alibaba.com/*
 *://hanoverinstitute.com/*
 *://lidarr.org/*
+*://linuxsecurity.com/*
+*://aviary.pl/*
+*://bougetafrance.fr/*
 
 # Reading file ./src/sheets/0.json
 *://techsslaash.com/*
@@ -2503,6 +2506,37 @@ name: alvi-se/ai-ublock-blacklist
 *://techprowourld.com/*
 *://usatimemag.com/*
 *://fordwave.com/*
+
+# Reading file ./src/grouped/brownbrothersmedia.json
+*://artfulparent.com/*
+*://baselinemag.com/*
+*://blogherald.com/*
+*://dmnews.com/*
+*://drwolfmedia.com/*
+*://energy-daily.com/*
+*://experteditor.com.au/*
+*://geediting.com/*
+*://hackspirit.com/*
+*://jeanettebrown.net/*
+*://killerstartups.com/*
+*://maketecheasier.com/*
+*://marsdaily.com/*
+*://newsreports.com/*
+*://scandinaviastandard.com/*
+*://scienceblog.com/*
+*://siliconcanals.com/*
+*://smallbiztechnology.com/*
+*://smallbusinessbonfire.com/*
+*://space-travel.com/*
+*://spacedaily.com/*
+*://spacewar.com/*
+*://terradaily.com/*
+*://theartfulage.com/*
+*://thelawdictionary.org/*
+*://thevessel.io/*
+*://tweakyourbiz.com/*
+*://vegoutmag.com/*
+*://eluxemagazine.com/*
 
 # Reading file ./src/grouped/argentinian.json
 *://9geishas.com.ar/*
