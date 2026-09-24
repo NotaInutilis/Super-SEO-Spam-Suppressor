@@ -415485,26 +415485,27 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.btonline.co.nz/redirect.asp?Link=*
 *://*.clubic.com/telecharger*
 *://*.continentalshelf.org/ecs-shapefiles2.aspx?src=*
+*://*.dealabs.com/groupe/outils-ia*
 *://*.demingrealty.com/idx?idx_url=*
+*://*.f-droid.org*categories/ai-chat*
 *://*.filmzitate.info/index-link1.php?link=*
 *://*.go.rclens.club/iframe?src=*
-*://*.https://f-droid.org/*/categories/ai-chat*
-*://*.https://f-droid.org/categories/ai-chat*
-*://*.https://www.dealabs.com/groupe/outils-ia*
-*://*.https://www.hotukdeals.com/tag/ai-tools*
-*://*.https://www.mydealz.de/gruppe/ki-tools*
-*://*.https://www.promodescuentos.com/grupo/herramientas-de-ia*
+*://*.hotukdeals.com/tag/ai-tools*
 *://*.kyocera-avx.com/download/interconnect/avx-interconnect-models.php?link=*
 *://*.lib.neu.ac.th/ULIB/dublin.linkout.php?url=*
 *://*.maritim-touristik.schmetterling-select.de/offers.php?case=kreuzfahrten_offers&url=*
 *://*.maryenckrealestate.com/view_mls.aspx?area&go=*
+*://*.mydealz.de/gruppe/ki-tools*
 *://*.numerama.com/telecharger*
 *://*.odelice.eber.co/external-link?url=*
+*://*.pepper.com/groep/ai-tools*
+*://*.pepper.pl/grupa/narzedzia-ai*
+*://*.preisjaeger.at/gruppe/ki-tools*
+*://*.promodescuentos.com/grupo/herramientas-de-ia*
 *://*.ptp.pensoft.eu/externalLink.php?taxon_name=&url=*
 *://*.toon-saiki.com/link.php?url=*
 *://*.unicom.mx/micrositios.aspx?i=*
 host *= "magisk"
 title *= "ecco un articolo" i
-title *= "ending explained" i
+title *= "ending explained" ititle *= "powered" i & title *= "AI"
 title *= "here's an article about" i
-title *= "powered" i & title *= "AI"
