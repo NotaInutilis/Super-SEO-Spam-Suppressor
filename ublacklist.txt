@@ -415498,6 +415498,5 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.unicom.mx/micrositios.aspx?i=*
 host *= "magisk"
 title *= "ecco un articolo" i
-title *= "ending explained" i
+title *= "ending explained" ititle *= "powered" i & title *= "AI"
 title *= "here's an article about" i
-title *= "powered" i & title *= "AI"
