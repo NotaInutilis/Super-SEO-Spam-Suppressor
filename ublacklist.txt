@@ -415488,6 +415488,9 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.demingrealty.com/idx?idx_url=*
 *://*.filmzitate.info/index-link1.php?link=*
 *://*.go.rclens.club/iframe?src=*
+*://*.https://f-droid.org/*/categories/ai-chat*
+*://*.https://f-droid.org/categories/ai-chat*
+*://*.https://www.dealabs.com/groupe/outils-ia*
 *://*.kyocera-avx.com/download/interconnect/avx-interconnect-models.php?link=*
 *://*.lib.neu.ac.th/ULIB/dublin.linkout.php?url=*
 *://*.maritim-touristik.schmetterling-select.de/offers.php?case=kreuzfahrten_offers&url=*
@@ -415498,5 +415501,6 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.unicom.mx/micrositios.aspx?i=*
 host *= "magisk"
 title *= "ecco un articolo" i
-title *= "ending explained" ititle *= "powered" i & title *= "AI"
+title *= "ending explained" i
 title *= "here's an article about" i
+title *= "powered" i & title *= "AI"
