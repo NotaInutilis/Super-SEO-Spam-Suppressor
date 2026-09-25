@@ -36387,6 +36387,7 @@ local-zone: "aisecurityusa.com" always_refuse
 local-zone: "aiseo.ai" always_refuse
 local-zone: "aishumin.top" always_refuse
 local-zone: "aisixteen.com" always_refuse
+local-zone: "aiskill.market" always_refuse
 local-zone: "aisleovershoe.com" always_refuse
 local-zone: "aislmb.bar" always_refuse
 local-zone: "aislop.app" always_refuse
@@ -41997,7 +41998,9 @@ local-zone: "ankeskreativevielfalt.de" always_refuse
 local-zone: "ankeytidicete.tk" always_refuse
 local-zone: "ankfan.rest" always_refuse
 local-zone: "ankhadatnutko.gq" always_refuse
+local-zone: "anki-decks.com" always_refuse
 local-zone: "ankidipazana.cf" always_refuse
+local-zone: "ankihub.net" always_refuse
 local-zone: "ankimcaujesnalou.ga" always_refuse
 local-zone: "ankipanchtingneflogg.tk" always_refuse
 local-zone: "ankithindishayari.in" always_refuse
@@ -64382,6 +64385,7 @@ local-zone: "bonimbrihot.co.il" always_refuse
 local-zone: "bonjav.tokyo" always_refuse
 local-zone: "bonjour-prime.fr" always_refuse
 local-zone: "bonjourgamer.fr" always_refuse
+local-zone: "bonjouria.fr" always_refuse
 local-zone: "bonjourlesroux.fr" always_refuse
 local-zone: "bonjourpanda.fr" always_refuse
 local-zone: "bonlakekingwoo.tk" always_refuse
@@ -87437,6 +87441,7 @@ local-zone: "coalandjohnbarsbor.gq" always_refuse
 local-zone: "coalegacewal.tk" always_refuse
 local-zone: "coaleluntaytic.cf" always_refuse
 local-zone: "coalepesili.ga" always_refuse
+local-zone: "coalescenceai.com" always_refuse
 local-zone: "coalisatafi.tk" always_refuse
 local-zone: "coalitblaptali.gq" always_refuse
 local-zone: "coalitellubi.ml" always_refuse
@@ -88148,6 +88153,7 @@ local-zone: "coinfund.xyz" always_refuse
 local-zone: "coingape.com" always_refuse
 local-zone: "coingecko.com" always_refuse
 local-zone: "coinglobal.xyz" always_refuse
+local-zone: "coinhouse.com" always_refuse
 local-zone: "coinidabamys.ga" always_refuse
 local-zone: "coinidx.com" always_refuse
 local-zone: "coinllectibles.art" always_refuse
@@ -96361,6 +96367,7 @@ local-zone: "crypto-major.com" always_refuse
 local-zone: "crypto-mercury.xyz" always_refuse
 local-zone: "crypto-mining.pw" always_refuse
 local-zone: "crypto-next.com" always_refuse
+local-zone: "crypto.com" always_refuse
 local-zone: "crypto.news" always_refuse
 local-zone: "crypto.ro" always_refuse
 local-zone: "crypto2.bnd-group.com" always_refuse
@@ -96369,6 +96376,7 @@ local-zone: "cryptoadventure.com" always_refuse
 local-zone: "cryptoart.io" always_refuse
 local-zone: "cryptoassetrecover.net" always_refuse
 local-zone: "cryptoassetscontrol.com" always_refuse
+local-zone: "cryptoast.fr" always_refuse
 local-zone: "cryptobinaryoption.info" always_refuse
 local-zone: "cryptobooks.xyz" always_refuse
 local-zone: "cryptobosscasino.fr" always_refuse
@@ -110989,6 +110997,7 @@ local-zone: "dnsmarker2kjhr2va.biz" always_refuse
 local-zone: "dnsmarkerice1d2jj.biz" always_refuse
 local-zone: "dnsprecise.xyz" always_refuse
 local-zone: "dnsreport.info" always_refuse
+local-zone: "dnsrobot.net" always_refuse
 local-zone: "dnssinkhole.org" always_refuse
 local-zone: "dnssistemi.com" always_refuse
 local-zone: "dnstock.it" always_refuse
@@ -142458,6 +142467,7 @@ local-zone: "freeacy.com" always_refuse
 local-zone: "freeadluterotico.com" always_refuse
 local-zone: "freeadvertise.site" always_refuse
 local-zone: "freeaiavatargenerator.pro" always_refuse
+local-zone: "freeaitools.net" always_refuse
 local-zone: "freearticlesubmission.xyz" always_refuse
 local-zone: "freeassistance.fr" always_refuse
 local-zone: "freeaudiobooks.eu" always_refuse
@@ -150283,6 +150293,7 @@ local-zone: "getnotorinist.gq" always_refuse
 local-zone: "getnude.app" always_refuse
 local-zone: "getnuubu.com" always_refuse
 local-zone: "getobelmogym.ml" always_refuse
+local-zone: "getomni.co" always_refuse
 local-zone: "getonlinetool.com" always_refuse
 local-zone: "getonudrapac.ga" always_refuse
 local-zone: "getopddepgufaltii.gq" always_refuse
@@ -167078,6 +167089,7 @@ local-zone: "henstemkamuphilgio.tk" always_refuse
 local-zone: "hensubtresil.cf" always_refuse
 local-zone: "hentai-streaming.top" always_refuse
 local-zone: "hentai.kitchen" always_refuse
+local-zone: "hentai6900.com" always_refuse
 local-zone: "hentaipanda.games" always_refuse
 local-zone: "hentavost.fr" always_refuse
 local-zone: "hentencnecxchootuto.ga" always_refuse
@@ -172827,6 +172839,7 @@ local-zone: "humanstudentyourself.rest" always_refuse
 local-zone: "humantecarworld.ch" always_refuse
 local-zone: "humantek.it" always_refuse
 local-zone: "humantest.org" always_refuse
+local-zone: "humantestsai.net" always_refuse
 local-zone: "humanverification.online" always_refuse
 local-zone: "humanverification.pages.dev" always_refuse
 local-zone: "humanwordmother.rest" always_refuse
@@ -199716,6 +199729,7 @@ local-zone: "knowsandfofoothyva.tk" always_refuse
 local-zone: "knowsdevelopdegree.biz" always_refuse
 local-zone: "knowsenoughweeks.rest" always_refuse
 local-zone: "knowspositionthing.biz" always_refuse
+local-zone: "knowt.com" always_refuse
 local-zone: "knowterseoperre.gq" always_refuse
 local-zone: "knowturmoumelita.ml" always_refuse
 local-zone: "knowucconkarot.ml" always_refuse
@@ -234573,6 +234587,7 @@ local-zone: "mool.xyz" always_refuse
 local-zone: "moolaraliccall.cf" always_refuse
 local-zone: "moolesleidowhand.cf" always_refuse
 local-zone: "moon-bet.fr" always_refuse
+local-zone: "moon-ia.fr" always_refuse
 local-zone: "moon-kielce.pl" always_refuse
 local-zone: "moon10.com.co" always_refuse
 local-zone: "moonagedaydream.film" always_refuse
@@ -250033,6 +250048,8 @@ local-zone: "notcva.tokyo" always_refuse
 local-zone: "notdaughtersenergy.biz" always_refuse
 local-zone: "note-u3l.com" always_refuse
 local-zone: "noteazure-music.de" always_refuse
+local-zone: "notebook-lm.fr" always_refuse
+local-zone: "notebooklm.google" always_refuse
 local-zone: "notebooknetzteileshop.de" always_refuse
 local-zone: "notecoughdysu.tk" always_refuse
 local-zone: "notecountrymoney.bar" always_refuse
@@ -260191,6 +260208,7 @@ local-zone: "osfootdopena.tk" always_refuse
 local-zone: "osformyasturnavpchip.ml" always_refuse
 local-zone: "osfqout.tokyo" always_refuse
 local-zone: "osfranpatdaweb.ml" always_refuse
+local-zone: "osfria.fr" always_refuse
 local-zone: "osg6c5.cyou" always_refuse
 local-zone: "osg6zx.cyou" always_refuse
 local-zone: "osgahersgepi.ml" always_refuse
@@ -272319,6 +272337,7 @@ local-zone: "pipidesopcu.tk" always_refuse
 local-zone: "pipihekypu.cf" always_refuse
 local-zone: "pipio.ai" always_refuse
 local-zone: "pipireati.tk" always_refuse
+local-zone: "pipnex-ai.com" always_refuse
 local-zone: "pipnutormaringnist.ga" always_refuse
 local-zone: "pipokipime.ml" always_refuse
 local-zone: "pippilotta-shop.de" always_refuse
@@ -296900,6 +296919,7 @@ local-zone: "remizihou.tk" always_refuse
 local-zone: "remmidisain.ee" always_refuse
 local-zone: "remmstiralka.ru" always_refuse
 local-zone: "remnantdispense.com" always_refuse
+local-zone: "remnote.com" always_refuse
 local-zone: "remo-france.fr" always_refuse
 local-zone: "remocameser.tk" always_refuse
 local-zone: "remocedeira.es" always_refuse
@@ -297827,6 +297847,7 @@ local-zone: "repliquepolene.fr" always_refuse
 local-zone: "repliquerolexluxe.fr" always_refuse
 local-zone: "repliqueskechers.fr" always_refuse
 local-zone: "repliquetrapstar.fr" always_refuse
+local-zone: "replit.com" always_refuse
 local-zone: "replrepelisu.gq" always_refuse
 local-zone: "reply-colissimo.fr" always_refuse
 local-zone: "reply-prime.fr" always_refuse
@@ -324740,6 +324761,7 @@ local-zone: "solofa.de" always_refuse
 local-zone: "sololaan.dk" always_refuse
 local-zone: "sololutech.ga" always_refuse
 local-zone: "solomamma.it" always_refuse
+local-zone: "solomd.app" always_refuse
 local-zone: "solomoncoder.com" always_refuse
 local-zone: "solomonic.best" always_refuse
 local-zone: "solonaya.com" always_refuse
