@@ -40270,6 +40270,7 @@ local-zone: "amendes-gouv-help.fr" always_refuse
 local-zone: "amendes-gouv-info.fr" always_refuse
 local-zone: "amendes-gouv-majoration.fr" always_refuse
 local-zone: "amendes-gouv-paiement.fr" always_refuse
+local-zone: "amendes-gouv-pay.fr" always_refuse
 local-zone: "amendes-gouv-portail.fr" always_refuse
 local-zone: "amendes-gouv-regularisation.fr" always_refuse
 local-zone: "amendes-gouv-regularisations.fr" always_refuse
@@ -65341,6 +65342,7 @@ local-zone: "bouygues-esim.fr" always_refuse
 local-zone: "bouygues-groupes.fr" always_refuse
 local-zone: "bouygues-info.fr" always_refuse
 local-zone: "bouygues-moncompte-a-jour.fr" always_refuse
+local-zone: "bouygues-remboursement.fr" always_refuse
 local-zone: "bouygues-renouvellement.fr" always_refuse
 local-zone: "bouygues-sa.fr" always_refuse
 local-zone: "bouygues-tel.fr" always_refuse
@@ -143465,6 +143467,7 @@ local-zone: "frumziapp.fr" always_refuse
 local-zone: "frumzibet.fr" always_refuse
 local-zone: "frumzicasina.fr" always_refuse
 local-zone: "frumzicasino-fr.fr" always_refuse
+local-zone: "frumzicasino-france.fr" always_refuse
 local-zone: "frumzicasino-official.fr" always_refuse
 local-zone: "frumzicasino1.fr" always_refuse
 local-zone: "frumzicasinofr.fr" always_refuse
@@ -328815,6 +328818,7 @@ local-zone: "stadangemyra.tk" always_refuse
 local-zone: "stadcaracon.tk" always_refuse
 local-zone: "stadebrestois29.fr" always_refuse
 local-zone: "stadedefrance-billetterie.fr" always_refuse
+local-zone: "stadedefrance-kaaris.fr" always_refuse
 local-zone: "stadedefrance-niska.fr" always_refuse
 local-zone: "stadedefrance-sch.fr" always_refuse
 local-zone: "staderendime.tk" always_refuse

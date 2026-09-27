@@ -40270,6 +40270,7 @@ neg {name=amendes-gouv-help.fr; types=domain;}
 neg {name=amendes-gouv-info.fr; types=domain;}
 neg {name=amendes-gouv-majoration.fr; types=domain;}
 neg {name=amendes-gouv-paiement.fr; types=domain;}
+neg {name=amendes-gouv-pay.fr; types=domain;}
 neg {name=amendes-gouv-portail.fr; types=domain;}
 neg {name=amendes-gouv-regularisation.fr; types=domain;}
 neg {name=amendes-gouv-regularisations.fr; types=domain;}
@@ -65341,6 +65342,7 @@ neg {name=bouygues-esim.fr; types=domain;}
 neg {name=bouygues-groupes.fr; types=domain;}
 neg {name=bouygues-info.fr; types=domain;}
 neg {name=bouygues-moncompte-a-jour.fr; types=domain;}
+neg {name=bouygues-remboursement.fr; types=domain;}
 neg {name=bouygues-renouvellement.fr; types=domain;}
 neg {name=bouygues-sa.fr; types=domain;}
 neg {name=bouygues-tel.fr; types=domain;}
@@ -143465,6 +143467,7 @@ neg {name=frumziapp.fr; types=domain;}
 neg {name=frumzibet.fr; types=domain;}
 neg {name=frumzicasina.fr; types=domain;}
 neg {name=frumzicasino-fr.fr; types=domain;}
+neg {name=frumzicasino-france.fr; types=domain;}
 neg {name=frumzicasino-official.fr; types=domain;}
 neg {name=frumzicasino1.fr; types=domain;}
 neg {name=frumzicasinofr.fr; types=domain;}
@@ -328815,6 +328818,7 @@ neg {name=stadangemyra.tk; types=domain;}
 neg {name=stadcaracon.tk; types=domain;}
 neg {name=stadebrestois29.fr; types=domain;}
 neg {name=stadedefrance-billetterie.fr; types=domain;}
+neg {name=stadedefrance-kaaris.fr; types=domain;}
 neg {name=stadedefrance-niska.fr; types=domain;}
 neg {name=stadedefrance-sch.fr; types=domain;}
 neg {name=staderendime.tk; types=domain;}
