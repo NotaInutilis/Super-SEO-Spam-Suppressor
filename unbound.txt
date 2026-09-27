@@ -2759,7 +2759,6 @@ local-zone: "1-2-3-webportal.de" always_refuse
 local-zone: "1-class-sexshop.dk" always_refuse
 local-zone: "1-coolzino.fr" always_refuse
 local-zone: "1-jj.xyz" always_refuse
-local-zone: "1-rx-shop.com" always_refuse
 local-zone: "1-speaking.com" always_refuse
 local-zone: "1-wins.fr" always_refuse
 local-zone: "1.0.218.230" always_refuse
@@ -2806,6 +2805,7 @@ local-zone: "1010host.buzz" always_refuse
 local-zone: "1018272.cn" always_refuse
 local-zone: "1018s5.cyou" always_refuse
 local-zone: "1019110.com" always_refuse
+local-zone: "101apotheek.com" always_refuse
 local-zone: "101carreviews.online" always_refuse
 local-zone: "101defvideos.pw" always_refuse
 local-zone: "101dh.com" always_refuse
@@ -30316,7 +30316,6 @@ local-zone: "aa8jh8.tokyo" always_refuse
 local-zone: "aaa-nan.info" always_refuse
 local-zone: "aaa-telegram.com" always_refuse
 local-zone: "aaaaua.top" always_refuse
-local-zone: "aaaclothing.ru" always_refuse
 local-zone: "aaadddd.com" always_refuse
 local-zone: "aaahrh.net" always_refuse
 local-zone: "aaaikg.tokyo" always_refuse
@@ -57412,7 +57411,6 @@ local-zone: "bestpertconlenxmer.ml" always_refuse
 local-zone: "bestpharm-eu.com" always_refuse
 local-zone: "bestpickshub.com" always_refuse
 local-zone: "bestpillpharmacy.com" always_refuse
-local-zone: "bestpillsnetwork.com" always_refuse
 local-zone: "bestpods.fr" always_refuse
 local-zone: "bestpometlupe.cf" always_refuse
 local-zone: "bestprepaidcards.xyz" always_refuse
@@ -68306,6 +68304,7 @@ local-zone: "buddcaveregsblatmus.gq" always_refuse
 local-zone: "buddcavo.gq" always_refuse
 local-zone: "buddchantgucomfoe.cf" always_refuse
 local-zone: "buddforcouditu.tk" always_refuse
+local-zone: "buddhapowerstore.com" always_refuse
 local-zone: "buddhaweekly.com" always_refuse
 local-zone: "buddhismo8x1000.it" always_refuse
 local-zone: "buddholbconbergres.ml" always_refuse
@@ -80081,7 +80080,6 @@ local-zone: "chculfitriahan.ga" always_refuse
 local-zone: "chdacr.rest" always_refuse
 local-zone: "chdman.com" always_refuse
 local-zone: "chduly.tokyo" always_refuse
-local-zone: "che.com" always_refuse
 local-zone: "che5xc.cyou" always_refuse
 local-zone: "cheabustscopud.tk" always_refuse
 local-zone: "cheangh.xyz" always_refuse
@@ -168120,7 +168118,6 @@ local-zone: "hichamouzen.tk" always_refuse
 local-zone: "hichcsh.tokyo" always_refuse
 local-zone: "hichegeschmocmohol.tk" always_refuse
 local-zone: "hichonostvopen.tk" always_refuse
-local-zone: "hicity.de" always_refuse
 local-zone: "hicknartitexvia.tk" always_refuse
 local-zone: "hicknorthmolxibonme.cf" always_refuse
 local-zone: "hickory-spicy-frog.glitch.me" always_refuse
@@ -170067,7 +170064,6 @@ local-zone: "hoklpmi.tokyo" always_refuse
 local-zone: "hokratedisphel.ml" always_refuse
 local-zone: "hola-chicas.pro" always_refuse
 local-zone: "holabet.fr" always_refuse
-local-zone: "holapick.com" always_refuse
 local-zone: "holapywlent.tk" always_refuse
 local-zone: "holara.ai" always_refuse
 local-zone: "holatickets.fr" always_refuse
@@ -171271,6 +171267,7 @@ local-zone: "hotelsappho.eu" always_refuse
 local-zone: "hotelsclick.fr" always_refuse
 local-zone: "hotelsilvanasanmarino.it" always_refuse
 local-zone: "hotelsinperm.ru" always_refuse
+local-zone: "hotelsinvienna.org" always_refuse
 local-zone: "hotelsit.com" always_refuse
 local-zone: "hotelsofmenorca.com" always_refuse
 local-zone: "hotelspydns.com" always_refuse
@@ -228502,6 +228499,7 @@ local-zone: "mg5zu2.cyou" always_refuse
 local-zone: "mg6eqap.cyou" always_refuse
 local-zone: "mg7lzf.tokyo" always_refuse
 local-zone: "mg7ofa.tokyo" always_refuse
+local-zone: "mgaffaires.com" always_refuse
 local-zone: "mgaibt.cyou" always_refuse
 local-zone: "mgaj0fy.tokyo" always_refuse
 local-zone: "mgajfk.tokyo" always_refuse
@@ -250103,6 +250101,7 @@ local-zone: "notdaughtersenergy.biz" always_refuse
 local-zone: "note-u3l.com" always_refuse
 local-zone: "noteazure-music.de" always_refuse
 local-zone: "notebook-lm.fr" always_refuse
+local-zone: "notebookakku.at" always_refuse
 local-zone: "notebooklm.google" always_refuse
 local-zone: "notebooknetzteileshop.de" always_refuse
 local-zone: "notecoughdysu.tk" always_refuse
@@ -255139,7 +255138,6 @@ local-zone: "offscaletraffic.com" always_refuse
 local-zone: "offsetcaterpillartacky.com" always_refuse
 local-zone: "offsetgracefulbehaved.com" always_refuse
 local-zone: "offshore-entreprise.fr" always_refuse
-local-zone: "offshorecheapmeds.com" always_refuse
 local-zone: "offsidegiugliano.shop" always_refuse
 local-zone: "offsneakz.fr" always_refuse
 local-zone: "offspringwilliamimportantly.com" always_refuse
@@ -257735,6 +257733,7 @@ local-zone: "onlineindiespiele.de" always_refuse
 local-zone: "onlineinfoes.com" always_refuse
 local-zone: "onlineinterviewsoftware.buzz" always_refuse
 local-zone: "onlinejizzbang.agency" always_refuse
+local-zone: "onlinekamagra.com" always_refuse
 local-zone: "onlinekamagrastore.org" always_refuse
 local-zone: "onlinekohler.com" always_refuse
 local-zone: "onlinel.fr" always_refuse
@@ -261345,6 +261344,7 @@ local-zone: "outletmiumiu.fr" always_refuse
 local-zone: "outletnewin.com" always_refuse
 local-zone: "outletnike.fr" always_refuse
 local-zone: "outletparis.fr" always_refuse
+local-zone: "outletpc.de" always_refuse
 local-zone: "outletpickleball.com" always_refuse
 local-zone: "outletpietramosaiciepiastrelle.it" always_refuse
 local-zone: "outletprive.fr" always_refuse
@@ -270678,7 +270678,6 @@ local-zone: "pharmapillen.de" always_refuse
 local-zone: "pharmaplax.com" always_refuse
 local-zone: "pharmaracapital.com" always_refuse
 local-zone: "pharmaright.vu" always_refuse
-local-zone: "pharmaris.net" always_refuse
 local-zone: "pharmas.xyz" always_refuse
 local-zone: "pharmaserve.com" always_refuse
 local-zone: "pharmatheke-europe.com" always_refuse
@@ -378456,6 +378455,7 @@ local-zone: "vivaharmoni.com" always_refuse
 local-zone: "vivahost.host" always_refuse
 local-zone: "vivaia-schuhe.de" always_refuse
 local-zone: "vivaiaboutiques.fr" always_refuse
+local-zone: "vivaiacollection.com" always_refuse
 local-zone: "vivaiaparis.fr" always_refuse
 local-zone: "vivaiaschaussures.fr" always_refuse
 local-zone: "vivaiaschuhe.at" always_refuse
