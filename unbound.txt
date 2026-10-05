@@ -146974,6 +146974,7 @@ local-zone: "gamesimc.re" always_refuse
 local-zone: "gamesinitaly.it" always_refuse
 local-zone: "gameskinny.com" always_refuse
 local-zone: "gameslearningsociety.org" always_refuse
+local-zone: "gameslikefinder.com" always_refuse
 local-zone: "gamesloft.com" always_refuse
 local-zone: "gamesloot.fr" always_refuse
 local-zone: "gamesloots.fr" always_refuse

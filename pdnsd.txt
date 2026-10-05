@@ -146974,6 +146974,7 @@ neg {name=gamesimc.re; types=domain;}
 neg {name=gamesinitaly.it; types=domain;}
 neg {name=gameskinny.com; types=domain;}
 neg {name=gameslearningsociety.org; types=domain;}
+neg {name=gameslikefinder.com; types=domain;}
 neg {name=gamesloft.com; types=domain;}
 neg {name=gamesloot.fr; types=domain;}
 neg {name=gamesloots.fr; types=domain;}
