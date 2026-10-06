@@ -128587,6 +128587,7 @@ local-zone: "eurekanameserver9eba594e.biz" always_refuse
 local-zone: "eurenerhof.de" always_refuse
 local-zone: "eurenzo.com" always_refuse
 local-zone: "eurgyk.tokyo" always_refuse
+local-zone: "euria.infomaniak.com" always_refuse
 local-zone: "euribor-intress.ee" always_refuse
 local-zone: "euriosport.fr" always_refuse
 local-zone: "eurl-container.com" always_refuse

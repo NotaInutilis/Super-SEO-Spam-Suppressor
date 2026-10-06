@@ -128956,6 +128956,7 @@
 ||eurenerhof.de^$document
 ||eurenzo.com^$document
 ||eurgyk.tokyo^$document
+||euria.infomaniak.com^$document
 ||euribor-intress.ee^$document
 ||euriosport.fr^$document
 ||eurl-container.com^$document
@@ -415483,6 +415484,7 @@
 ||gitkraken.com/blog^$document
 ||gleamr.io/blog^$document
 ||goodordering.com/*/blog/^$document
+||grafana.com/grot^$document
 ||greatmail.com/blog^$document
 ||green-shop.ch/*/blog^$document
 ||greenwebpage.com/community^$document
@@ -415522,6 +415524,7 @@
 ||in-residence.com/ressources^$document
 ||industrialmonitordirect.com/*/blogs^$document
 ||industrialmonitordirect.com/blogs^$document
+||infomaniak.com*euria^$document
 ||inmac-wstore.com/guides-achat-*^$document
 ||inmotionhosting.com/*/blog^$document
 ||inmotionhosting.com/blog^$document
