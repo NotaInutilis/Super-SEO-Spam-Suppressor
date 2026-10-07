@@ -318416,6 +318416,7 @@ local-zone: "shujuwang.de" always_refuse
 local-zone: "shukufuku.my.id" always_refuse
 local-zone: "shull2agb.web.app" always_refuse
 local-zone: "shunanjy.com" always_refuse
+local-zone: "shunauto.com" always_refuse
 local-zone: "shunboures.xyz" always_refuse
 local-zone: "shungrill.com" always_refuse
 local-zone: "shunlixidi.com" always_refuse
