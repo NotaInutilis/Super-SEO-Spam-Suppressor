@@ -141,8 +141,9 @@ Sites to report malicious URLs:
 
 ## Aggregated lists
 
-This blocklist borrows from the following projects:
-- the blocklist generation code and readme that I co-wrote for rimu's [No-QAnon](https://github.com/rimu/no-qanon) ([anti-fascist licence](https://github.com/rimu/no-qanon/blob/master/LICENSE.txt)).
+This blocklist is distributed in a lot of formats, but a lot of other lists are not.
+They are thus aggregated and redistributed in this project.
+We are standing on the shoulders of the following giants:
 - the [full blocklist](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/dist/other_format/domains/all.txt) from quenhus's [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) ([The Unlicense, public domain](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE)).
 - the [full blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist/blob/master/blocklist.txt) from no-cmyk's [Search Engine Spam Blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist) (no licence).
 - the [full blocklist](https://github.com/franga2000/aliexpress-fake-sites/blob/main/domains.txt) from franga2000's [AliExpress fake site blocker](https://github.com/franga2000/aliexpress-fake-sites) (no licence).
@@ -164,6 +165,7 @@ This blocklist borrows from the following projects:
 - the [Anti-Malware Domains blocklist](https://github.com/DandelionSprout/adfilt/blob/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt) from DandelionSprout's [adfilt](https://github.com/DandelionSprout/adfilt) ([Dandelicence](https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md)).
 - the [full plus domains blocklist](https://github.com/fmhy/FMHYFilterlist/blob/main/filterlist-domains.txt) from fmhy's [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) ([GNU General Public License v3.0](https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE))
 - the [full blocklist](https://github.com/alvi-se/ai-ublock-blacklist/blob/master/ublacklist.txt) from alvi-se's [AI uBlock Origin Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) ([GNU General Public License v3.0](https://github.com/alvi-se/ai-ublock-blacklist/blob/master/LICENSE))
+- the [hosts blocklist](https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/hosts.txt) from hoshsadiq's [NoCoin adblock list](https://github.com/hoshsadiq/adblock-nocoin-list) ([MIT License](https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/LICENSE))
 
 ## Fandom (formerly known as Wikia)
 
