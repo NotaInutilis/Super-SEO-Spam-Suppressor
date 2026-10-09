@@ -385442,6 +385442,7 @@ local-zone: "webespaceclient.fr" always_refuse
 local-zone: "webesponjosa.com" always_refuse
 local-zone: "webesx.com" always_refuse
 local-zone: "webet.xyz" always_refuse
+local-zone: "webflow.com" always_refuse
 local-zone: "webfootmedia.buzz" always_refuse
 local-zone: "webforcecart.com" always_refuse
 local-zone: "webfoundnapkuru.tk" always_refuse
