@@ -309614,6 +309614,7 @@ local-zone: "salisgagelatis.tk" always_refuse
 local-zone: "salisleanispote.tk" always_refuse
 local-zone: "salissvahos.gq" always_refuse
 local-zone: "salitopape.ga" always_refuse
+local-zone: "salivity.github.io" always_refuse
 local-zone: "saliwindxajare.tk" always_refuse
 local-zone: "saljabatozur.gq" always_refuse
 local-zone: "saljusimconssypm.ga" always_refuse
@@ -341700,6 +341701,7 @@ local-zone: "techktimes.net" always_refuse
 local-zone: "techlasi.com" always_refuse
 local-zone: "techlearner.co.uk" always_refuse
 local-zone: "techleez.net" always_refuse
+local-zone: "techlekh.com" always_refuse
 local-zone: "techlevelbusiness.com" always_refuse
 local-zone: "techlivo.com" always_refuse
 local-zone: "techlokesh.org" always_refuse
