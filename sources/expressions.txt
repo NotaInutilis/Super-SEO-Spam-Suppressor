@@ -1,4 +1,13 @@
-host *= "magisk"
+host *= "btc"
+host *= "dusklight" 
+host *= "magisk" 
+host *= "nft"
+host *= "optiscaler" 
+host ^= "ai." i
 title *= "ecco un articolo" i
-title *= "ending explained" ititle *= "powered" i & title *= "AI"
+title *= "ending explained" i
 title *= "here's an article about" i
+title *= "powered" i & title *= "AI"
+title *= "prompthub" i
+title *= "voici un article" i
+url *= "prompthub" i
