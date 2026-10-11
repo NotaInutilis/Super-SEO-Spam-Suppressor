@@ -1,0 +1,9 @@
+# AI powered, powered by AI and derivatives
+title *= "powered" i & title *= "AI"
+
+# They have one (1) joke
+title *= "prompthub" i
+url *= "prompthub" i
+
+# AI subdomains
+host ^= "ai." i

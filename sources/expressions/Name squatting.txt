@@ -1,0 +1,3 @@
+host *= "dusklight" # https://github.com/TwilitRealm/dusklight#overview
+host *= "magisk" # https://github.com/topjohnwu/Magisk?tab=readme-ov-file#downloads
+host *= "optiscaler" # https://github.com/optiscaler/OptiScaler#about
