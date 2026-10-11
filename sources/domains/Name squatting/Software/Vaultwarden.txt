@@ -2,6 +2,6 @@
 # Several unofficial instances that state that they are community driven but still use the Vaultwarden name as their domain.
 # Passwords are too sensitive to allow this kind of tomfoolery.
 
-https://vaultwarden.com/ # an opaque contact form, no legal info, completely generated text
-https://www.vaultwarden.net/index.html # the only one that looks legit with actual contact and legal info
-https://vaultwarden.uk/ # donation popup on first visit, no contact info, no legal info, sloppy looking site
+vaultwarden.com # an opaque contact form, no legal info, completely generated text
+vaultwarden.net # the only one that looks legit with actual contact and legal info
+vaultwarden.uk # donation popup on first visit, no contact info, no legal info, sloppy looking site
