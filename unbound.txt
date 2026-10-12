@@ -274166,6 +274166,7 @@ local-zone: "playtools.dk" always_refuse
 local-zone: "playtronia.com" always_refuse
 local-zone: "playtube.cc" always_refuse
 local-zone: "playtv.es" always_refuse
+local-zone: "playtyr.com" always_refuse
 local-zone: "playuzu-casino.fr" always_refuse
 local-zone: "playuzucasino.fr" always_refuse
 local-zone: "playvenix.de" always_refuse
@@ -360780,6 +360781,7 @@ local-zone: "tyrecover.com" always_refuse
 local-zone: "tyrepanofortuald.tk" always_refuse
 local-zone: "tyreschwalbe.com" always_refuse
 local-zone: "tyrgps.tokyo" always_refuse
+local-zone: "tyrhq.com" always_refuse
 local-zone: "tyrhtq.tokyo" always_refuse
 local-zone: "tyrhvc.tokyo" always_refuse
 local-zone: "tyridewhojec.tk" always_refuse

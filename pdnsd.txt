@@ -274166,6 +274166,7 @@ neg {name=playtools.dk; types=domain;}
 neg {name=playtronia.com; types=domain;}
 neg {name=playtube.cc; types=domain;}
 neg {name=playtv.es; types=domain;}
+neg {name=playtyr.com; types=domain;}
 neg {name=playuzu-casino.fr; types=domain;}
 neg {name=playuzucasino.fr; types=domain;}
 neg {name=playvenix.de; types=domain;}
@@ -360780,6 +360781,7 @@ neg {name=tyrecover.com; types=domain;}
 neg {name=tyrepanofortuald.tk; types=domain;}
 neg {name=tyreschwalbe.com; types=domain;}
 neg {name=tyrgps.tokyo; types=domain;}
+neg {name=tyrhq.com; types=domain;}
 neg {name=tyrhtq.tokyo; types=domain;}
 neg {name=tyrhvc.tokyo; types=domain;}
 neg {name=tyridewhojec.tk; types=domain;}
