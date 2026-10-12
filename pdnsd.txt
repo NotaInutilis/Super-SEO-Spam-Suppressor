@@ -71421,6 +71421,7 @@ neg {name=ca-centrst.fr; types=domain;}
 neg {name=ca-centtreloire.fr; types=domain;}
 neg {name=ca-cerntreloire.fr; types=domain;}
 neg {name=ca-coatesdarmor.fr; types=domain;}
+neg {name=ca-coeurdelille.fr; types=domain;}
 neg {name=ca-connexion-clients.fr; types=domain;}
 neg {name=ca-cybertek.fr; types=domain;}
 neg {name=ca-czntrefrance.fr; types=domain;}
@@ -142273,6 +142274,7 @@ neg {name=francetelecomcable.fr; types=domain;}
 neg {name=francetelee.fr; types=domain;}
 neg {name=francetelevisons.fr; types=domain;}
 neg {name=franceterredelait.fr; types=domain;}
+neg {name=francetinfo.fr; types=domain;}
 neg {name=francetitres-ants.fr; types=domain;}
 neg {name=francetonet.fr; types=domain;}
 neg {name=francetonner.fr; types=domain;}
@@ -323959,6 +323961,7 @@ neg {name=sneakoutlet.fr; types=domain;}
 neg {name=sneakr.fr; types=domain;}
 neg {name=sneakrworld.fr; types=domain;}
 neg {name=sneakrz.fr; types=domain;}
+neg {name=sneakstore.fr; types=domain;}
 neg {name=sneakuclaslareadders.ml; types=domain;}
 neg {name=sneakwelt.com; types=domain;}
 neg {name=sneakymz.web.app; types=domain;}

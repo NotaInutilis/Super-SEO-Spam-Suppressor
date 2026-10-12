@@ -71421,6 +71421,7 @@ local-zone: "ca-centrst.fr" always_refuse
 local-zone: "ca-centtreloire.fr" always_refuse
 local-zone: "ca-cerntreloire.fr" always_refuse
 local-zone: "ca-coatesdarmor.fr" always_refuse
+local-zone: "ca-coeurdelille.fr" always_refuse
 local-zone: "ca-connexion-clients.fr" always_refuse
 local-zone: "ca-cybertek.fr" always_refuse
 local-zone: "ca-czntrefrance.fr" always_refuse
@@ -142273,6 +142274,7 @@ local-zone: "francetelecomcable.fr" always_refuse
 local-zone: "francetelee.fr" always_refuse
 local-zone: "francetelevisons.fr" always_refuse
 local-zone: "franceterredelait.fr" always_refuse
+local-zone: "francetinfo.fr" always_refuse
 local-zone: "francetitres-ants.fr" always_refuse
 local-zone: "francetonet.fr" always_refuse
 local-zone: "francetonner.fr" always_refuse
@@ -323959,6 +323961,7 @@ local-zone: "sneakoutlet.fr" always_refuse
 local-zone: "sneakr.fr" always_refuse
 local-zone: "sneakrworld.fr" always_refuse
 local-zone: "sneakrz.fr" always_refuse
+local-zone: "sneakstore.fr" always_refuse
 local-zone: "sneakuclaslareadders.ml" always_refuse
 local-zone: "sneakwelt.com" always_refuse
 local-zone: "sneakymz.web.app" always_refuse
