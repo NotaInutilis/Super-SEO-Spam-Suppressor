@@ -2761,6 +2761,7 @@ local-zone: "1-coolzino.fr" always_refuse
 local-zone: "1-jj.xyz" always_refuse
 local-zone: "1-rx-shop.com" always_refuse
 local-zone: "1-speaking.com" always_refuse
+local-zone: "1-win.fr" always_refuse
 local-zone: "1-wins.fr" always_refuse
 local-zone: "1.0.218.230" always_refuse
 local-zone: "100.20.104.229" always_refuse
@@ -53374,6 +53375,7 @@ local-zone: "banquecaissedepargne.fr" always_refuse
 local-zone: "banqueccic.fr" always_refuse
 local-zone: "banquecentraleeuropeene.fr" always_refuse
 local-zone: "banquecentraleeuropeenne.fr" always_refuse
+local-zone: "banquechalus.fr" always_refuse
 local-zone: "banquede-france.fr" always_refuse
 local-zone: "banquedebourse.fr" always_refuse
 local-zone: "banquedefr-assistance.fr" always_refuse
@@ -56566,6 +56568,7 @@ local-zone: "berggistdevalchond.tk" always_refuse
 local-zone: "berggrat.com" always_refuse
 local-zone: "berggreenaril.tk" always_refuse
 local-zone: "berghandgranen.tk" always_refuse
+local-zone: "berghausfrance.fr" always_refuse
 local-zone: "berghoffshop.fr" always_refuse
 local-zone: "berghofftools.fr" always_refuse
 local-zone: "berghotel-marlstein.de" always_refuse
@@ -57989,6 +57992,7 @@ local-zone: "beticcasino.fr" always_refuse
 local-zone: "beticesgainous.ga" always_refuse
 local-zone: "betico.fr" always_refuse
 local-zone: "betided.com" always_refuse
+local-zone: "betify--fr.fr" always_refuse
 local-zone: "betify-1.fr" always_refuse
 local-zone: "betify-android.fr" always_refuse
 local-zone: "betify-apk.fr" always_refuse
@@ -64891,6 +64895,7 @@ local-zone: "bordeauxlac-cybertek.fr" always_refuse
 local-zone: "bordereau-leboncoin.fr" always_refuse
 local-zone: "bordereau-paysecurise.fr" always_refuse
 local-zone: "bordereaudedepotsecurise.fr" always_refuse
+local-zone: "bordereaudepotsecuriser.fr" always_refuse
 local-zone: "borderhosts.co.uk" always_refuse
 local-zone: "bordifudadi.ga" always_refuse
 local-zone: "bordigheraltra.it" always_refuse
@@ -75590,6 +75595,7 @@ local-zone: "casinos-ra.fr" always_refuse
 local-zone: "casinos-simsinos.fr" always_refuse
 local-zone: "casinos-spinanga.fr" always_refuse
 local-zone: "casinos-spinmama.fr" always_refuse
+local-zone: "casinos-stake.fr" always_refuse
 local-zone: "casinos-vegasplus.fr" always_refuse
 local-zone: "casinos1.fr" always_refuse
 local-zone: "casinos247.fr" always_refuse
@@ -87496,6 +87502,7 @@ local-zone: "cnocli.shop" always_refuse
 local-zone: "cnoq7m.cyou" always_refuse
 local-zone: "cnow7a.xyz" always_refuse
 local-zone: "cnozgk.tokyo" always_refuse
+local-zone: "cnp--assurance.fr" always_refuse
 local-zone: "cnp0nt.cyou" always_refuse
 local-zone: "cnp1zgz.tokyo" always_refuse
 local-zone: "cnpentair.cn" always_refuse
@@ -98423,6 +98430,7 @@ local-zone: "cwrvh.bar" always_refuse
 local-zone: "cwrwv.bar" always_refuse
 local-zone: "cwrwv.rest" always_refuse
 local-zone: "cws-arch.buzz" always_refuse
+local-zone: "cws-bnpparibas.fr" always_refuse
 local-zone: "cws407.cyou" always_refuse
 local-zone: "cwscri.tokyo" always_refuse
 local-zone: "cwsfek.bar" always_refuse
@@ -142136,6 +142144,7 @@ local-zone: "france-cresus.fr" always_refuse
 local-zone: "france-critair.fr" always_refuse
 local-zone: "france-cybertek.fr" always_refuse
 local-zone: "france-diplomatie.fr" always_refuse
+local-zone: "france-discowin.fr" always_refuse
 local-zone: "france-dragonia.fr" always_refuse
 local-zone: "france-droite.fr" always_refuse
 local-zone: "france-electrodepot.fr" always_refuse
@@ -204297,6 +204306,7 @@ local-zone: "lagcalettusu.cf" always_refuse
 local-zone: "lagcampbepartjalink.tk" always_refuse
 local-zone: "lagebedpostdato.tk" always_refuse
 local-zone: "lageexbeso.ml" always_refuse
+local-zone: "lagendarmerie.fr" always_refuse
 local-zone: "lagendtime.com" always_refuse
 local-zone: "lagenreakccoci.ml" always_refuse
 local-zone: "lager-produkte.cyou" always_refuse
@@ -230154,6 +230164,7 @@ local-zone: "millioner-casino-france.fr" always_refuse
 local-zone: "millioner-casinos.fr" always_refuse
 local-zone: "millioner-cassino.fr" always_refuse
 local-zone: "millioner-play.fr" always_refuse
+local-zone: "millioner1-casino.fr" always_refuse
 local-zone: "millionerbonus.fr" always_refuse
 local-zone: "millionercasino-bonus.fr" always_refuse
 local-zone: "millionercasino-fr.fr" always_refuse
@@ -236963,12 +236974,14 @@ local-zone: "msnanty.com" always_refuse
 local-zone: "msnblogs.co.uk" always_refuse
 local-zone: "msnbusiness.co.uk" always_refuse
 local-zone: "msnc-interieurgouv.fr" always_refuse
+local-zone: "msnfr.fr" always_refuse
 local-zone: "msnhotmail.fr" always_refuse
 local-zone: "msnivp.cyou" always_refuse
 local-zone: "msnjafci.cyou" always_refuse
 local-zone: "msnmessenger.fr" always_refuse
 local-zone: "msnmhi.tokyo" always_refuse
 local-zone: "msnn.fr" always_refuse
+local-zone: "msnnews.fr" always_refuse
 local-zone: "msnnewz.com" always_refuse
 local-zone: "msnow-place.xyz" always_refuse
 local-zone: "msnow-plane.xyz" always_refuse
@@ -240433,6 +240446,7 @@ local-zone: "n6xk17.cyou" always_refuse
 local-zone: "n6xx1w.cyou" always_refuse
 local-zone: "n6z2tl.cyou" always_refuse
 local-zone: "n6zr37.cyou" always_refuse
+local-zone: "n7-neo-france.fr" always_refuse
 local-zone: "n706uoi.tokyo" always_refuse
 local-zone: "n70absn.cyou" always_refuse
 local-zone: "n712ci.shop" always_refuse
@@ -314188,6 +314202,7 @@ local-zone: "securitesocialamilie.fr" always_refuse
 local-zone: "securitesocialeamelie.fr" always_refuse
 local-zone: "securitesocietegenerale.fr" always_refuse
 local-zone: "securitevitale.fr" always_refuse
+local-zone: "security-creditagricoles.fr" always_refuse
 local-zone: "security-deliveroo.fr" always_refuse
 local-zone: "security-instagram.fr" always_refuse
 local-zone: "security-lebonc.fr" always_refuse
@@ -322840,6 +322855,7 @@ local-zone: "sluttubesblog.agency" always_refuse
 local-zone: "slutxcamsvid.agency" always_refuse
 local-zone: "slutxxxnet.agency" always_refuse
 local-zone: "sluyfe.bar" always_refuse
+local-zone: "slv-ants.fr" always_refuse
 local-zone: "slvakb.bar" always_refuse
 local-zone: "slvmwf.rest" always_refuse
 local-zone: "slvyel.bar" always_refuse
@@ -358196,6 +358212,8 @@ local-zone: "trueglow.de" always_refuse
 local-zone: "truegradedigital.com" always_refuse
 local-zone: "truehd.fr" always_refuse
 local-zone: "truelovefinder.club" always_refuse
+local-zone: "trueluck-casino-fr.fr" always_refuse
+local-zone: "trueluck-casino-france.fr" always_refuse
 local-zone: "trueluck-casino.fr" always_refuse
 local-zone: "trueluck-fr.fr" always_refuse
 local-zone: "trueluck-france.fr" always_refuse
@@ -393891,6 +393909,7 @@ local-zone: "wwwfranprix.fr" always_refuse
 local-zone: "wwwfreebox.fr" always_refuse
 local-zone: "wwwgemo.fr" always_refuse
 local-zone: "wwwgeneration.fr" always_refuse
+local-zone: "wwwgmail.fr" always_refuse
 local-zone: "wwwgmf.fr" always_refuse
 local-zone: "wwwgmx.fr" always_refuse
 local-zone: "wwwgouv.fr" always_refuse
@@ -393969,6 +393988,7 @@ local-zone: "wwwshoesforcrews.com" always_refuse
 local-zone: "wwwsimonmed.com" always_refuse
 local-zone: "wwwsmc.fr" always_refuse
 local-zone: "wwwsofinco.fr" always_refuse
+local-zone: "wwwsosh.fr" always_refuse
 local-zone: "wwwtelemarketing.buzz" always_refuse
 local-zone: "wwwtempsl.fr" always_refuse
 local-zone: "wwwthechive.com" always_refuse
@@ -412625,6 +412645,7 @@ local-zone: "zolvim.shop" always_refuse
 local-zone: "zomapificadisruptcarsignrextporbu.xyz" always_refuse
 local-zone: "zomasaju.tk" always_refuse
 local-zone: "zombeemanager.info" always_refuse
+local-zone: "zombillion-casino.fr" always_refuse
 local-zone: "zombillioncasino.fr" always_refuse
 local-zone: "zombooru.com" always_refuse
 local-zone: "zomerschoolutrecht.nl" always_refuse
