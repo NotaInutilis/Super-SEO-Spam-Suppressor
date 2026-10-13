@@ -64928,6 +64928,7 @@ local-zone: "borgvicolde.gq" always_refuse
 local-zone: "borhlansvirrficarsa.cf" always_refuse
 local-zone: "borhymarriope.gq" always_refuse
 local-zone: "boridashop.de" always_refuse
+local-zone: "boringcompany.com" always_refuse
 local-zone: "boringodyli.tk" always_refuse
 local-zone: "borirowingss.gq" always_refuse
 local-zone: "borizade.xyz" always_refuse
@@ -111624,6 +111625,7 @@ local-zone: "dogbreedadvice.com" always_refuse
 local-zone: "dogcollarfavourbluff.com" always_refuse
 local-zone: "dogdaysulcontco.ml" always_refuse
 local-zone: "dogdotytendre.gq" always_refuse
+local-zone: "doge.gov" always_refuse
 local-zone: "dogeadtawasurpdis.gq" always_refuse
 local-zone: "dogebi.tokyo" always_refuse
 local-zone: "dogechain.info" always_refuse
@@ -142840,6 +142842,7 @@ local-zone: "freedlaremoncni.ga" always_refuse
 local-zone: "freedmorowrostskun.tk" always_refuse
 local-zone: "freedodo.xyz" always_refuse
 local-zone: "freedom-beauty.be" always_refuse
+local-zone: "freedom250.org" always_refuse
 local-zone: "freedomdatashield.com" always_refuse
 local-zone: "freedomguardsystem.com" always_refuse
 local-zone: "freedomhats.shop" always_refuse
@@ -237938,6 +237941,7 @@ local-zone: "muskangaming.com" always_refuse
 local-zone: "muskanonline.com" always_refuse
 local-zone: "muskasther.cf" always_refuse
 local-zone: "muskdasyritu.ml" always_refuse
+local-zone: "muskfoundation.org" always_refuse
 local-zone: "muskittlearcimu.gq" always_refuse
 local-zone: "muskketmitaco.ml" always_refuse
 local-zone: "muskogeeautofinance.com" always_refuse
@@ -245128,6 +245132,7 @@ local-zone: "neurainorthmatsivi.ga" always_refuse
 local-zone: "neural.love" always_refuse
 local-zone: "neuralframes.com" always_refuse
 local-zone: "neuralilimi.cf" always_refuse
+local-zone: "neuralink.com" always_refuse
 local-zone: "neuralstyle.art" always_refuse
 local-zone: "neurath.net" always_refuse
 local-zone: "neurattavaloke.gq" always_refuse
@@ -298437,6 +298442,7 @@ local-zone: "reportsjoblifebar.mom" always_refuse
 local-zone: "reportvewhoovil.tk" always_refuse
 local-zone: "reposarilade.ga" always_refuse
 local-zone: "reposhub.com" always_refuse
+local-zone: "repoterre.net" always_refuse
 local-zone: "repotharetans.tk" always_refuse
 local-zone: "reppaydistsende.ml" always_refuse
 local-zone: "reppercsasime.tk" always_refuse
@@ -326454,6 +326460,7 @@ local-zone: "spacewar.com" always_refuse
 local-zone: "spaceweb.xyz" always_refuse
 local-zone: "spacewellwaysproblems.bar" always_refuse
 local-zone: "spacewordwaypeople.biz" always_refuse
+local-zone: "spacex.com" always_refuse
 local-zone: "spacex.yt" always_refuse
 local-zone: "spacexfy.ai" always_refuse
 local-zone: "spacfiltcolsipe.tk" always_refuse
@@ -330003,6 +330010,7 @@ local-zone: "starlighteventi.it" always_refuse
 local-zone: "starlikarveval.cf" always_refuse
 local-zone: "starlink-fr.fr" always_refuse
 local-zone: "starlink-france.fr" always_refuse
+local-zone: "starlink.com" always_refuse
 local-zone: "starlitcasino.fr" always_refuse
 local-zone: "starlodgipadoub.tk" always_refuse
 local-zone: "starlubpirane.gq" always_refuse
@@ -344628,6 +344636,7 @@ local-zone: "tesla-digitale.fr" always_refuse
 local-zone: "tesla-france.fr" always_refuse
 local-zone: "tesla-shop.fr" always_refuse
 local-zone: "tesla-store.fr" always_refuse
+local-zone: "tesla.com" always_refuse
 local-zone: "tesla.watch" always_refuse
 local-zone: "tesla.yt" always_refuse
 local-zone: "teslabatterie.fr" always_refuse
@@ -347960,6 +347969,7 @@ local-zone: "thtxmlh.tokyo" always_refuse
 local-zone: "thuan3tuoikey.xyz" always_refuse
 local-zone: "thubewintey.tk" always_refuse
 local-zone: "thucenrotasaze.cf" always_refuse
+local-zone: "thud.com" always_refuse
 local-zone: "thud1e.cyou" always_refuse
 local-zone: "thudrenansubs.tk" always_refuse
 local-zone: "thugdioristerpcloth.tk" always_refuse
@@ -360309,6 +360319,7 @@ local-zone: "twitpalmrelre.tk" always_refuse
 local-zone: "twitpic.fr" always_refuse
 local-zone: "twitsasulepsi.tk" always_refuse
 local-zone: "twitter-x.fr" always_refuse
+local-zone: "twitter.com" always_refuse
 local-zone: "twitter.now" always_refuse
 local-zone: "twitter.re" always_refuse
 local-zone: "twitter.tf" always_refuse
@@ -387532,6 +387543,7 @@ local-zone: "whiteelephantgiftideas.xyz" always_refuse
 local-zone: "whiteenamel.fr" always_refuse
 local-zone: "whitehome.es" always_refuse
 local-zone: "whitehost.website" always_refuse
+local-zone: "whitehouse.gov" always_refuse
 local-zone: "whitehouseproperties.es" always_refuse
 local-zone: "whitehurstclark.buzz" always_refuse
 local-zone: "whitehurstguesthouse.com" always_refuse
@@ -394465,6 +394477,7 @@ local-zone: "x-videos-porn.com" always_refuse
 local-zone: "x-wallart.com" always_refuse
 local-zone: "x-watches.co" always_refuse
 local-zone: "x.ai" always_refuse
+local-zone: "x.com" always_refuse
 local-zone: "x00f4l6.shop" always_refuse
 local-zone: "x00fori.work" always_refuse
 local-zone: "x00h6.rest" always_refuse
