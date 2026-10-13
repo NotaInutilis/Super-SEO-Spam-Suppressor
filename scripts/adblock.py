@@ -25,6 +25,6 @@ for line in linesheader:
 	print(line.strip())
 print()
 for line in blocklist:
-	print('||' + line.strip() + '^$document')
+	print('||' + line.strip() + '^$doc')
 for line in linesregex:
 	print(line.strip())
