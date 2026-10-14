@@ -318725,6 +318725,7 @@ local-zone: "shqenm.tokyo" always_refuse
 local-zone: "shqgew.bar" always_refuse
 local-zone: "shquyfj.tokyo" always_refuse
 local-zone: "shredlab-bike-academy-sauerland.de" always_refuse
+local-zone: "shredos.org" always_refuse
 local-zone: "shreedhaonlineparts.com" always_refuse
 local-zone: "shrhtl.bar" always_refuse
 local-zone: "shrinklather.com" always_refuse
