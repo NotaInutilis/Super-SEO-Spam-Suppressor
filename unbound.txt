@@ -29715,6 +29715,7 @@ local-zone: "a-x-a.fr" always_refuse
 local-zone: "a.mizuthread.com" always_refuse
 local-zone: "a.seven-st.com" always_refuse
 local-zone: "a.zip" always_refuse
+local-zone: "a0.dev" always_refuse
 local-zone: "a00hlr.shop" always_refuse
 local-zone: "a00kedl.cyou" always_refuse
 local-zone: "a013xvf.tokyo" always_refuse
@@ -35928,6 +35929,7 @@ local-zone: "aibase.com" always_refuse
 local-zone: "aibit.im" always_refuse
 local-zone: "aibkdy.cyou" always_refuse
 local-zone: "aibl6p.cyou" always_refuse
+local-zone: "aiblockblastsolver.com" always_refuse
 local-zone: "aibnwp.rest" always_refuse
 local-zone: "aibooru.online" always_refuse
 local-zone: "aibusf.tokyo" always_refuse
@@ -62607,6 +62609,9 @@ local-zone: "blochedgingmagphepe.cf" always_refuse
 local-zone: "blocilbipo.tk" always_refuse
 local-zone: "blocimirsodafi.gq" always_refuse
 local-zone: "blocinvopadfece.tk" always_refuse
+local-zone: "block-blast.com" always_refuse
+local-zone: "block-blast.fr" always_refuse
+local-zone: "block-blast.io" always_refuse
 local-zone: "block-porn.com" always_refuse
 local-zone: "block-versand-gmbh.myshopify.com" always_refuse
 local-zone: "blockadepotent.com" always_refuse
@@ -62614,6 +62619,24 @@ local-zone: "blockbar.com" always_refuse
 local-zone: "blockbet-casino.fr" always_refuse
 local-zone: "blockbet.fr" always_refuse
 local-zone: "blockbetcasino.fr" always_refuse
+local-zone: "blockblast-2.io" always_refuse
+local-zone: "blockblast-fr.com" always_refuse
+local-zone: "blockblast-free.io" always_refuse
+local-zone: "blockblast-game.fr" always_refuse
+local-zone: "blockblast-game.io" always_refuse
+local-zone: "blockblast.com" always_refuse
+local-zone: "blockblast.dev" always_refuse
+local-zone: "blockblast.es" always_refuse
+local-zone: "blockblast.fr" always_refuse
+local-zone: "blockblast.free" always_refuse
+local-zone: "blockblast.org" always_refuse
+local-zone: "blockblast.vip" always_refuse
+local-zone: "blockblast2.io" always_refuse
+local-zone: "blockblastgratuit.fr" always_refuse
+local-zone: "blockblastjeu.fr" always_refuse
+local-zone: "blockblastonline.com" always_refuse
+local-zone: "blockblastpuzzle.io" always_refuse
+local-zone: "blockblasts.io" always_refuse
 local-zone: "blockchain-casino.fr" always_refuse
 local-zone: "blockchain-support.fr" always_refuse
 local-zone: "blockchain1.fr" always_refuse
@@ -62630,6 +62653,7 @@ local-zone: "blockecon.xyz" always_refuse
 local-zone: "blockeddeluge.com" always_refuse
 local-zone: "blockfer.com" always_refuse
 local-zone: "blockfilter.info" always_refuse
+local-zone: "blockkblastapk.com" always_refuse
 local-zone: "blocklist.site" always_refuse
 local-zone: "blocknetwork.xyz" always_refuse
 local-zone: "blockporn.gumroad.com" always_refuse
@@ -173388,6 +173412,7 @@ local-zone: "hungrybp.web.app" always_refuse
 local-zone: "hungrydays.fr" always_refuse
 local-zone: "hungrykm.web.app" always_refuse
 local-zone: "hungryproductionsmalnutrition.com" always_refuse
+local-zone: "hungrystudio.com" always_refuse
 local-zone: "hungtendworkschefsib.cf" always_refuse
 local-zone: "hungtesttrakgacype.tk" always_refuse
 local-zone: "hungzardsincasixci.tk" always_refuse
@@ -175698,6 +175723,7 @@ local-zone: "ibleacheter.site" always_refuse
 local-zone: "ibler-elektronik.de" always_refuse
 local-zone: "ibleridi.cf" always_refuse
 local-zone: "iblimindedi.gq" always_refuse
+local-zone: "iblockblast.com" always_refuse
 local-zone: "iblog2020lvr.web.app" always_refuse
 local-zone: "iblogger.org" always_refuse
 local-zone: "iblogogama.tk" always_refuse

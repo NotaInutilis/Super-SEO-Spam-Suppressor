@@ -29715,6 +29715,7 @@ neg {name=a-x-a.fr; types=domain;}
 neg {name=a.mizuthread.com; types=domain;}
 neg {name=a.seven-st.com; types=domain;}
 neg {name=a.zip; types=domain;}
+neg {name=a0.dev; types=domain;}
 neg {name=a00hlr.shop; types=domain;}
 neg {name=a00kedl.cyou; types=domain;}
 neg {name=a013xvf.tokyo; types=domain;}
@@ -35928,6 +35929,7 @@ neg {name=aibase.com; types=domain;}
 neg {name=aibit.im; types=domain;}
 neg {name=aibkdy.cyou; types=domain;}
 neg {name=aibl6p.cyou; types=domain;}
+neg {name=aiblockblastsolver.com; types=domain;}
 neg {name=aibnwp.rest; types=domain;}
 neg {name=aibooru.online; types=domain;}
 neg {name=aibusf.tokyo; types=domain;}
@@ -62607,6 +62609,9 @@ neg {name=blochedgingmagphepe.cf; types=domain;}
 neg {name=blocilbipo.tk; types=domain;}
 neg {name=blocimirsodafi.gq; types=domain;}
 neg {name=blocinvopadfece.tk; types=domain;}
+neg {name=block-blast.com; types=domain;}
+neg {name=block-blast.fr; types=domain;}
+neg {name=block-blast.io; types=domain;}
 neg {name=block-porn.com; types=domain;}
 neg {name=block-versand-gmbh.myshopify.com; types=domain;}
 neg {name=blockadepotent.com; types=domain;}
@@ -62614,6 +62619,24 @@ neg {name=blockbar.com; types=domain;}
 neg {name=blockbet-casino.fr; types=domain;}
 neg {name=blockbet.fr; types=domain;}
 neg {name=blockbetcasino.fr; types=domain;}
+neg {name=blockblast-2.io; types=domain;}
+neg {name=blockblast-fr.com; types=domain;}
+neg {name=blockblast-free.io; types=domain;}
+neg {name=blockblast-game.fr; types=domain;}
+neg {name=blockblast-game.io; types=domain;}
+neg {name=blockblast.com; types=domain;}
+neg {name=blockblast.dev; types=domain;}
+neg {name=blockblast.es; types=domain;}
+neg {name=blockblast.fr; types=domain;}
+neg {name=blockblast.free; types=domain;}
+neg {name=blockblast.org; types=domain;}
+neg {name=blockblast.vip; types=domain;}
+neg {name=blockblast2.io; types=domain;}
+neg {name=blockblastgratuit.fr; types=domain;}
+neg {name=blockblastjeu.fr; types=domain;}
+neg {name=blockblastonline.com; types=domain;}
+neg {name=blockblastpuzzle.io; types=domain;}
+neg {name=blockblasts.io; types=domain;}
 neg {name=blockchain-casino.fr; types=domain;}
 neg {name=blockchain-support.fr; types=domain;}
 neg {name=blockchain1.fr; types=domain;}
@@ -62630,6 +62653,7 @@ neg {name=blockecon.xyz; types=domain;}
 neg {name=blockeddeluge.com; types=domain;}
 neg {name=blockfer.com; types=domain;}
 neg {name=blockfilter.info; types=domain;}
+neg {name=blockkblastapk.com; types=domain;}
 neg {name=blocklist.site; types=domain;}
 neg {name=blocknetwork.xyz; types=domain;}
 neg {name=blockporn.gumroad.com; types=domain;}
@@ -173388,6 +173412,7 @@ neg {name=hungrybp.web.app; types=domain;}
 neg {name=hungrydays.fr; types=domain;}
 neg {name=hungrykm.web.app; types=domain;}
 neg {name=hungryproductionsmalnutrition.com; types=domain;}
+neg {name=hungrystudio.com; types=domain;}
 neg {name=hungtendworkschefsib.cf; types=domain;}
 neg {name=hungtesttrakgacype.tk; types=domain;}
 neg {name=hungzardsincasixci.tk; types=domain;}
@@ -175698,6 +175723,7 @@ neg {name=ibleacheter.site; types=domain;}
 neg {name=ibler-elektronik.de; types=domain;}
 neg {name=ibleridi.cf; types=domain;}
 neg {name=iblimindedi.gq; types=domain;}
+neg {name=iblockblast.com; types=domain;}
 neg {name=iblog2020lvr.web.app; types=domain;}
 neg {name=iblogger.org; types=domain;}
 neg {name=iblogogama.tk; types=domain;}
