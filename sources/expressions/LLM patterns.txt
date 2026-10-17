@@ -2,3 +2,6 @@
 title *= "here's an article about" i
 title *= "ecco un articolo" i
 title *= "voici un article" i
+
+# "I got fed up with X so I built my own Y"
+title *= "got fed up" & title *= "so I built my own"
