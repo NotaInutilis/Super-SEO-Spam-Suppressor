@@ -37931,6 +37931,7 @@ local-zone: "allenedmondsfrance.fr" always_refuse
 local-zone: "allerabla.ml" always_refuse
 local-zone: "alleresedsa.cf" always_refuse
 local-zone: "allergiker-urlaub.buzz" always_refuse
+local-zone: "allergocover.care" always_refuse
 local-zone: "allergy-relief-guide.info" always_refuse
 local-zone: "allerhand-md.de" always_refuse
 local-zone: "allerleitrendshop.de" always_refuse
@@ -39315,6 +39316,7 @@ local-zone: "ambiguityhalfmoon.com" always_refuse
 local-zone: "ambiguityneighbourhood.com" always_refuse
 local-zone: "ambiguityornamenttell.com" always_refuse
 local-zone: "ambitbio.com" always_refuse
+local-zone: "ambitspot.de" always_refuse
 local-zone: "ambjl01.com" always_refuse
 local-zone: "ambjl02.com" always_refuse
 local-zone: "ambjl03.com" always_refuse
@@ -66849,6 +66851,7 @@ local-zone: "brennholzwerner.de" always_refuse
 local-zone: "brennholzwidmann.de" always_refuse
 local-zone: "brennkiste.de" always_refuse
 local-zone: "brennstoffemokstat.shop" always_refuse
+local-zone: "brennstoffhandel-behnke.de" always_refuse
 local-zone: "brenntag.ee" always_refuse
 local-zone: "brennuischif.ml" always_refuse
 local-zone: "brenomimflexazun.ga" always_refuse
@@ -68437,6 +68440,7 @@ local-zone: "buchbinderei-klaus-mayer.de" always_refuse
 local-zone: "bucher.xyz" always_refuse
 local-zone: "buchhaltungbayern.de" always_refuse
 local-zone: "buchiptidepsi.gq" always_refuse
+local-zone: "buchlaterne.de" always_refuse
 local-zone: "buchluzip.ga" always_refuse
 local-zone: "buchmessles.ga" always_refuse
 local-zone: "buchnergmbh.com" always_refuse
@@ -82004,6 +82008,7 @@ local-zone: "chockstonafevfor.tk" always_refuse
 local-zone: "chocmedowmtenipho.tk" always_refuse
 local-zone: "chocnoupaniggnet.tk" always_refuse
 local-zone: "chocolatehigherpicked.com" always_refuse
+local-zone: "chocoolat.fr" always_refuse
 local-zone: "choctantsingcelaheck.tk" always_refuse
 local-zone: "choctawms.org" always_refuse
 local-zone: "choctawwildlife.com" always_refuse
@@ -99533,6 +99538,7 @@ local-zone: "d-maple.cfd" always_refuse
 local-zone: "d-martensfrance-r.fr" always_refuse
 local-zone: "d-mo.re" always_refuse
 local-zone: "d-ortelle.eu" always_refuse
+local-zone: "d-sarron.com" always_refuse
 local-zone: "d-way.nl" always_refuse
 local-zone: "d.cpufan.club" always_refuse
 local-zone: "d.zymrg.com" always_refuse
@@ -129517,6 +129523,7 @@ local-zone: "evidenceperformances.biz" always_refuse
 local-zone: "evidencepersonal.de" always_refuse
 local-zone: "evidentia.eu" always_refuse
 local-zone: "eviebot.fr" always_refuse
+local-zone: "evier-cuisine.net" always_refuse
 local-zone: "evihmo.tokyo" always_refuse
 local-zone: "evikbl0.work" always_refuse
 local-zone: "evil-unveiled.com" always_refuse
@@ -135795,6 +135802,7 @@ local-zone: "fflegx.tokyo" always_refuse
 local-zone: "fflgwkl.cyou" always_refuse
 local-zone: "fflvme.rest" always_refuse
 local-zone: "fflwuo.shop" always_refuse
+local-zone: "ffmpeg-api.com" always_refuse
 local-zone: "ffnfnlb.rest" always_refuse
 local-zone: "ffnnbz.tokyo" always_refuse
 local-zone: "ffntmos.tokyo" always_refuse
@@ -140198,6 +140206,7 @@ local-zone: "food-machines.eu" always_refuse
 local-zone: "food-port.eu" always_refuse
 local-zone: "food-stamps-apply.com" always_refuse
 local-zone: "food4u.ee" always_refuse
+local-zone: "foodandcuisine.com" always_refuse
 local-zone: "foodbank.org.uk" always_refuse
 local-zone: "foodbenefit.eu" always_refuse
 local-zone: "foodcellvacesslu.gq" always_refuse
@@ -156562,6 +156571,7 @@ local-zone: "grail.ng" always_refuse
 local-zone: "grail.org.ng" always_refuse
 local-zone: "grailmessage.com.ng" always_refuse
 local-zone: "grailmessage.org.ng" always_refuse
+local-zone: "grainedegateau.com" always_refuse
 local-zone: "grainesatouts.fr" always_refuse
 local-zone: "grainesdelin.fr" always_refuse
 local-zone: "gralbechshealthsufe.tk" always_refuse
@@ -209426,6 +209436,7 @@ local-zone: "leponde.fr" always_refuse
 local-zone: "leporictipe.cf" always_refuse
 local-zone: "leporminole.ml" always_refuse
 local-zone: "lepostdelucie.com" always_refuse
+local-zone: "lepourquoiducomment.fr" always_refuse
 local-zone: "leppint.fr" always_refuse
 local-zone: "leppotikefpertsi.tk" always_refuse
 local-zone: "leppsuaphyconfmo.gq" always_refuse
@@ -295699,6 +295710,7 @@ local-zone: "recetin.com" always_refuse
 local-zone: "recette-tajine.fr" always_refuse
 local-zone: "recetteo.fr" always_refuse
 local-zone: "recettes-confiture.fr" always_refuse
+local-zone: "recettes-de-cake.fr" always_refuse
 local-zone: "recettes-dessert.fr" always_refuse
 local-zone: "recettes-gateau.fr" always_refuse
 local-zone: "recettes-macaron.fr" always_refuse
@@ -304141,6 +304153,7 @@ local-zone: "roborocks.de" always_refuse
 local-zone: "roborockshop.de.com" always_refuse
 local-zone: "robosparkinvestor.de" always_refuse
 local-zone: "robosriegreenan.tk" always_refuse
+local-zone: "robot-tonde-aspir.com" always_refuse
 local-zone: "robotcdewdpocre.cf" always_refuse
 local-zone: "roboter-freunde.de" always_refuse
 local-zone: "robotikstore.com" always_refuse
@@ -341617,6 +341630,7 @@ local-zone: "tbzzlk.bar" always_refuse
 local-zone: "tbzzsn.tokyo" always_refuse
 local-zone: "tc-bnk.xyz" always_refuse
 local-zone: "tc-clicks.com" always_refuse
+local-zone: "tc-germany.com" always_refuse
 local-zone: "tc-link.net" always_refuse
 local-zone: "tc-offers.org" always_refuse
 local-zone: "tc-premium.net" always_refuse
