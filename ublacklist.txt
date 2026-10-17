@@ -417032,6 +417032,7 @@ host *= "optiscaler"
 host ^= "ai." i
 title *= "ecco un articolo" i
 title *= "ending explained" i
+title *= "got fed up" & title *= "so I built my own"
 title *= "here's an article about" i
 title *= "powered" i & title *= "AI"
 title *= "prompthub" i
