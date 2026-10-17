@@ -319338,6 +319338,7 @@ neg {name=si-eros53elcsv2.biz; types=domain;}
 neg {name=si-eros8c06ex.biz; types=domain;}
 neg {name=si-ja.si; types=domain;}
 neg {name=si-sv1580ksffm5.biz; types=domain;}
+neg {name=si.gov; types=domain;}
 neg {name=si0d92x.tokyo; types=domain;}
 neg {name=si0i4v1.shop; types=domain;}
 neg {name=si1wn1.cyou; types=domain;}

@@ -319338,6 +319338,7 @@ local-zone: "si-eros53elcsv2.biz" always_refuse
 local-zone: "si-eros8c06ex.biz" always_refuse
 local-zone: "si-ja.si" always_refuse
 local-zone: "si-sv1580ksffm5.biz" always_refuse
+local-zone: "si.gov" always_refuse
 local-zone: "si0d92x.tokyo" always_refuse
 local-zone: "si0i4v1.shop" always_refuse
 local-zone: "si1wn1.cyou" always_refuse
