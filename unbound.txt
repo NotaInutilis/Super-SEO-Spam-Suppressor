@@ -92133,6 +92133,7 @@ local-zone: "containerschiffsreedereigmbh.de" always_refuse
 local-zone: "containerslager.com" always_refuse
 local-zone: "containersolutionscs.de" always_refuse
 local-zone: "containersparks.com" always_refuse
+local-zone: "containerstahlhaus.com" always_refuse
 local-zone: "containerwelt24.com" always_refuse
 local-zone: "containerworldllc.store" always_refuse
 local-zone: "containgroupdark.buzz" always_refuse
@@ -141615,6 +141616,7 @@ local-zone: "fpjyr5.shop" always_refuse
 local-zone: "fpkbhq.cyou" always_refuse
 local-zone: "fpktji.bar" always_refuse
 local-zone: "fplaction.org" always_refuse
+local-zone: "fplgchauffage.com" always_refuse
 local-zone: "fplhzr.tokyo" always_refuse
 local-zone: "fpli51.tokyo" always_refuse
 local-zone: "fpljub.tokyo" always_refuse
@@ -222243,6 +222245,7 @@ local-zone: "magicwins-casino.fr" always_refuse
 local-zone: "magicwinscasino.fr" always_refuse
 local-zone: "magicworld.xyz" always_refuse
 local-zone: "magikdepotfrance.fr" always_refuse
+local-zone: "magiluxe-store.com" always_refuse
 local-zone: "maginp.com" always_refuse
 local-zone: "magirachaploa.ml" always_refuse
 local-zone: "magisamziped.tk" always_refuse
