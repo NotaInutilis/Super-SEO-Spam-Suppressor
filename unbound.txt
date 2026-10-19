@@ -178955,6 +178955,7 @@ local-zone: "imadinacel.cf" always_refuse
 local-zone: "imadwimdecon.tk" always_refuse
 local-zone: "imafahesyv.tk" always_refuse
 local-zone: "imafinystu.ml" always_refuse
+local-zone: "image-generator.com" always_refuse
 local-zone: "image.computer" always_refuse
 local-zone: "imageai.app" always_refuse
 local-zone: "imageandservice.com" always_refuse
@@ -183135,6 +183136,7 @@ local-zone: "insjnt.bar" always_refuse
 local-zone: "inskyjirvewilch.gq" always_refuse
 local-zone: "inslagram.fr" always_refuse
 local-zone: "insmelnibbwima.tk" always_refuse
+local-zone: "insmind.com" always_refuse
 local-zone: "insmoglehaboomul.tk" always_refuse
 local-zone: "insmoneyrightmother.bar" always_refuse
 local-zone: "insnaklimul.web.app" always_refuse
@@ -379452,6 +379454,7 @@ local-zone: "vislakeconc.ml" always_refuse
 local-zone: "visle.fr" always_refuse
 local-zone: "vislizagvingrenci.tk" always_refuse
 local-zone: "vismadapojase.gq" always_refuse
+local-zone: "visme.co" always_refuse
 local-zone: "visnasabika.tk" always_refuse
 local-zone: "visnetwork.eu" always_refuse
 local-zone: "visolimi.ga" always_refuse
