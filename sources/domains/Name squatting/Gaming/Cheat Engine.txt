@@ -6,9 +6,9 @@
 # https://forums.nexusmods.com/topic/13486413-mod-engine-should-be-banned-from-hosting-their-software-on-nexusmods/
 # https://www.reddit.com/r/cheatengine/comments/1p3n7h5/psa_mod_engine_a_cheat_engine_plague/
 # https://opencheattables.com/viewtopic.php?t=1242
-https://fearlessrevolution.com/
-https://cheatengine.net/
-https://opencheattables.org/
-*://*.modengine.net/*
-*://*.modengine.app/*
-*://*.modengine.me/* # empty but shows up in research
+fearlessrevolution.com
+cheatengine.net
+opencheattables.org
+modengine.net
+modengine.app
+modengine.me # empty but shows up in research

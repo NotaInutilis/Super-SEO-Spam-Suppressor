@@ -36452,6 +36452,7 @@ local-zone: "aisozai.com" always_refuse
 local-zone: "aispy.xyz" always_refuse
 local-zone: "aissamomentscoach.fr" always_refuse
 local-zone: "aistickr.com" always_refuse
+local-zone: "aistudio.google.com" always_refuse
 local-zone: "aistudios.com" always_refuse
 local-zone: "aistyle.art" always_refuse
 local-zone: "aisujg.tokyo" always_refuse
@@ -62827,6 +62828,7 @@ local-zone: "blog.funbooker.com" always_refuse
 local-zone: "blog.gearchase.com" always_refuse
 local-zone: "blog.geekinstitute.org" always_refuse
 local-zone: "blog.gigamon.com" always_refuse
+local-zone: "blog.google" always_refuse
 local-zone: "blog.guitaristnextdoor.com" always_refuse
 local-zone: "blog.hypnia.fr" always_refuse
 local-zone: "blog.ig-conseils.com" always_refuse
@@ -80473,6 +80475,7 @@ local-zone: "cheapwebname.xyz" always_refuse
 local-zone: "cheapwholesalenflfootballjerseys.com" always_refuse
 local-zone: "cheasanowattring.tk" always_refuse
 local-zone: "cheat.xyz" always_refuse
+local-zone: "cheatengine.net" always_refuse
 local-zone: "cheaters-dating-place1.com" always_refuse
 local-zone: "cheaters-dating-place2.com" always_refuse
 local-zone: "cheaters-dating-place3.com" always_refuse
@@ -103464,6 +103467,7 @@ local-zone: "deeplfrance.fr" always_refuse
 local-zone: "deeplink.me" always_refuse
 local-zone: "deeplydemented.com" always_refuse
 local-zone: "deeplykeychest.com" always_refuse
+local-zone: "deepmind.google" always_refuse
 local-zone: "deepmode.ai" always_refuse
 local-zone: "deepnude-ai.com" always_refuse
 local-zone: "deepnude.ca" always_refuse
@@ -134732,6 +134736,7 @@ local-zone: "feamullihoca.cf" always_refuse
 local-zone: "feaphonatigti.gq" always_refuse
 local-zone: "fearcompanydescribe.biz" always_refuse
 local-zone: "feariphete.ml" always_refuse
+local-zone: "fearlessrevolution.com" always_refuse
 local-zone: "fearobasipoo.tk" always_refuse
 local-zone: "fearocentbu.tk" always_refuse
 local-zone: "fearpexyzhadest.cf" always_refuse
@@ -233384,6 +233389,9 @@ local-zone: "modemist.de" always_refuse
 local-zone: "modemuller.de" always_refuse
 local-zone: "modena-findloveonline.space" always_refuse
 local-zone: "modenaklubben.dk" always_refuse
+local-zone: "modengine.app" always_refuse
+local-zone: "modengine.me" always_refuse
+local-zone: "modengine.net" always_refuse
 local-zone: "modenmann.de" always_refuse
 local-zone: "modeoutfit.com" always_refuse
 local-zone: "modepascher.fr" always_refuse
@@ -259550,6 +259558,7 @@ local-zone: "openart.ai" always_refuse
 local-zone: "openask.fr" always_refuse
 local-zone: "openbancachatdisp.tk" always_refuse
 local-zone: "openbao.ch" always_refuse
+local-zone: "opencheattables.org" always_refuse
 local-zone: "openclaw.ai" always_refuse
 local-zone: "openclaw.army" always_refuse
 local-zone: "openclawai.fr" always_refuse

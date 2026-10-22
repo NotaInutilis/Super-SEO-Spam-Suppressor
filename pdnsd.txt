@@ -36452,6 +36452,7 @@ neg {name=aisozai.com; types=domain;}
 neg {name=aispy.xyz; types=domain;}
 neg {name=aissamomentscoach.fr; types=domain;}
 neg {name=aistickr.com; types=domain;}
+neg {name=aistudio.google.com; types=domain;}
 neg {name=aistudios.com; types=domain;}
 neg {name=aistyle.art; types=domain;}
 neg {name=aisujg.tokyo; types=domain;}
@@ -62827,6 +62828,7 @@ neg {name=blog.funbooker.com; types=domain;}
 neg {name=blog.gearchase.com; types=domain;}
 neg {name=blog.geekinstitute.org; types=domain;}
 neg {name=blog.gigamon.com; types=domain;}
+neg {name=blog.google; types=domain;}
 neg {name=blog.guitaristnextdoor.com; types=domain;}
 neg {name=blog.hypnia.fr; types=domain;}
 neg {name=blog.ig-conseils.com; types=domain;}
@@ -80473,6 +80475,7 @@ neg {name=cheapwebname.xyz; types=domain;}
 neg {name=cheapwholesalenflfootballjerseys.com; types=domain;}
 neg {name=cheasanowattring.tk; types=domain;}
 neg {name=cheat.xyz; types=domain;}
+neg {name=cheatengine.net; types=domain;}
 neg {name=cheaters-dating-place1.com; types=domain;}
 neg {name=cheaters-dating-place2.com; types=domain;}
 neg {name=cheaters-dating-place3.com; types=domain;}
@@ -103464,6 +103467,7 @@ neg {name=deeplfrance.fr; types=domain;}
 neg {name=deeplink.me; types=domain;}
 neg {name=deeplydemented.com; types=domain;}
 neg {name=deeplykeychest.com; types=domain;}
+neg {name=deepmind.google; types=domain;}
 neg {name=deepmode.ai; types=domain;}
 neg {name=deepnude-ai.com; types=domain;}
 neg {name=deepnude.ca; types=domain;}
@@ -134732,6 +134736,7 @@ neg {name=feamullihoca.cf; types=domain;}
 neg {name=feaphonatigti.gq; types=domain;}
 neg {name=fearcompanydescribe.biz; types=domain;}
 neg {name=feariphete.ml; types=domain;}
+neg {name=fearlessrevolution.com; types=domain;}
 neg {name=fearobasipoo.tk; types=domain;}
 neg {name=fearocentbu.tk; types=domain;}
 neg {name=fearpexyzhadest.cf; types=domain;}
@@ -233384,6 +233389,9 @@ neg {name=modemist.de; types=domain;}
 neg {name=modemuller.de; types=domain;}
 neg {name=modena-findloveonline.space; types=domain;}
 neg {name=modenaklubben.dk; types=domain;}
+neg {name=modengine.app; types=domain;}
+neg {name=modengine.me; types=domain;}
+neg {name=modengine.net; types=domain;}
 neg {name=modenmann.de; types=domain;}
 neg {name=modeoutfit.com; types=domain;}
 neg {name=modepascher.fr; types=domain;}
@@ -259550,6 +259558,7 @@ neg {name=openart.ai; types=domain;}
 neg {name=openask.fr; types=domain;}
 neg {name=openbancachatdisp.tk; types=domain;}
 neg {name=openbao.ch; types=domain;}
+neg {name=opencheattables.org; types=domain;}
 neg {name=openclaw.ai; types=domain;}
 neg {name=openclaw.army; types=domain;}
 neg {name=openclawai.fr; types=domain;}
