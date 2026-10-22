@@ -121544,6 +121544,7 @@ local-zone: "electrabyte.nl" always_refuse
 local-zone: "electrdepot.fr" always_refuse
 local-zone: "electric-b2c.com" always_refuse
 local-zone: "electricalcontractor.biz" always_refuse
+local-zone: "electricalflux.com" always_refuse
 local-zone: "electricaltools.xyz" always_refuse
 local-zone: "electricar.xyz" always_refuse
 local-zone: "electricfeminine.com" always_refuse
@@ -142373,6 +142374,7 @@ local-zone: "framcursilan.ml" always_refuse
 local-zone: "frame-neo-flomax.fr" always_refuse
 local-zone: "frame-neoflomax.fr" always_refuse
 local-zone: "frame-soldes.fr" always_refuse
+local-zone: "frameandfocal.com" always_refuse
 local-zone: "frameboxxindore.com" always_refuse
 local-zone: "framebyframe.eu" always_refuse
 local-zone: "framescatherineantenna.com" always_refuse
@@ -169481,6 +169483,7 @@ local-zone: "historictype.com" always_refuse
 local-zone: "historique-prime.fr" always_refuse
 local-zone: "historiz.xyz" always_refuse
 local-zone: "history-guidance.net" always_refuse
+local-zone: "historyandmystery.org" always_refuse
 local-zone: "historyarminstead.buzz" always_refuse
 local-zone: "historyexampleprogram.buzz" always_refuse
 local-zone: "historyfamilysways.bar" always_refuse
@@ -312721,6 +312724,7 @@ local-zone: "scene.ee" always_refuse
 local-zone: "scenefetininvi.ml" always_refuse
 local-zone: "sceneheatracewaters.biz" always_refuse
 local-zone: "sceneindividual.rest" always_refuse
+local-zone: "scenekids.com" always_refuse
 local-zone: "scenelawslotssits.bar" always_refuse
 local-zone: "sceneminribtiou.ga" always_refuse
 local-zone: "scenenargibfi.cf" always_refuse
@@ -342567,6 +342571,7 @@ local-zone: "techiboomb.com" always_refuse
 local-zone: "techicalguruji.xyz" always_refuse
 local-zone: "techiescamp.com" always_refuse
 local-zone: "techiescientist.com" always_refuse
+local-zone: "techietory.com" always_refuse
 local-zone: "techifuture.co.uk" always_refuse
 local-zone: "techify.it" always_refuse
 local-zone: "techilabs.com" always_refuse
