@@ -141,8 +141,9 @@ Sites to report malicious URLs:
 
 ## Aggregated lists
 
-This blocklist is distributed in a lot of formats, but a lot of other lists are not.
-They are thus aggregated and redistributed in this project.
+SSSS is a search-focused blocklist, with uBlacklist and Adblock as its main formats and many more added since then.
+Most domains blocklists are not, however, distributed in formats compatible with those browser extensions, which is why SSSS aggregates and redistributes them.
+
 We are standing on the shoulders of the following giants:
 - the [full blocklist](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/dist/other_format/domains/all.txt) from quenhus's [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) ([The Unlicense, public domain](https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE)).
 - the [full blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist/blob/master/blocklist.txt) from no-cmyk's [Search Engine Spam Blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist) (no licence).
