@@ -148,7 +148,6 @@ mylikeled.com
 hyperclapper.com
 amateurphotographerguide.com
 magiskzip.com
-linuxvox.com
 cyberpost.co
 gameslearningsociety.org
 psicologiainsiemelivorno.it
@@ -157,7 +156,6 @@ clrn.org
 rankingcoach.com
 latex-tutorial.com
 snowboardinghelp.com
-codegenes.net
 outofbit.it
 comepulire.net
 qualcherisposta.it
@@ -166,10 +164,8 @@ visualnovels.com
 biggo.com
 gizmocleaning.com
 weerg.com
-w3tutorials.net
 printara3d.com
 coderscratchpad.com
-javaspring.net
 funwithlinux.net
 itsfoss.gitlab.io
 hdauto.it
@@ -2486,6 +2482,15 @@ myemailsamples.com
 
 # Reading file ./src/grouped/facebook.json
 lookwhatmomfound.org
+
+# Reading file ./src/grouped/linuxvox.json
+linuxvox.com
+w3tutorials.net
+javaspring.net
+xjavascript.com
+codestudy.net
+codegenes.net
+codelessgenie.com
 
 # Reading file ./src/grouped/rankwc.json
 rankwc.com

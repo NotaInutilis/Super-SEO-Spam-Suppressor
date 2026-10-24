@@ -88208,6 +88208,7 @@ local-zone: "codejzy.com" always_refuse
 local-zone: "codekithub.com" always_refuse
 local-zone: "codelaroute.fr" always_refuse
 local-zone: "codelebkotab.tk" always_refuse
+local-zone: "codelessgenie.com" always_refuse
 local-zone: "codelimegamet.tk" always_refuse
 local-zone: "codelogic.fr" always_refuse
 local-zone: "codelucky.com" always_refuse
