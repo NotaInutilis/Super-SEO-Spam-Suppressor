@@ -416965,7 +416965,7 @@
 ||dynamicbikecare.com/blogs^$doc
 ||dynveo.fr/blogs^$doc
 ||e-surfshop.com/blog^$doc
-||ebay.fr/ebaylive^$doc
+||ebay.*/ebaylive^$doc
 ||ecoflow.com/*/blog^$doc
 ||ecoleauto.com/blog^$doc
 ||eizo.fr/*/blog^$doc
