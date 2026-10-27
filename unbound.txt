@@ -62864,6 +62864,7 @@ local-zone: "blog.nameshield.com" always_refuse
 local-zone: "blog.netim.com" always_refuse
 local-zone: "blog.onelitefeather.net" always_refuse
 local-zone: "blog.osmova.com" always_refuse
+local-zone: "blog.piecesetpneus.com" always_refuse
 local-zone: "blog.qnap.com" always_refuse
 local-zone: "blog.rbauction.com" always_refuse
 local-zone: "blog.rmgoe.org" always_refuse
