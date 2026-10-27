@@ -392755,6 +392755,7 @@ local-zone: "world-order.cam" always_refuse
 local-zone: "world-prime.fr" always_refuse
 local-zone: "world-product.cam" always_refuse
 local-zone: "world-war-z-2013-movie.glitch.me" always_refuse
+local-zone: "world.taobao.com" always_refuse
 local-zone: "worldachieva.com" always_refuse
 local-zone: "worldaffectwhiles.biz" always_refuse
 local-zone: "worldageperhaps.xyz" always_refuse
