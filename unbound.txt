@@ -260263,6 +260263,7 @@ local-zone: "optiscaler.org" always_refuse
 local-zone: "optitarif.de" always_refuse
 local-zone: "optitouch.be" always_refuse
 local-zone: "optko7.tokyo" always_refuse
+local-zone: "optnode.com" always_refuse
 local-zone: "optookoapsoampythu.bar" always_refuse
 local-zone: "optotersxelsce.tk" always_refuse
 local-zone: "optoviki.buzz" always_refuse
