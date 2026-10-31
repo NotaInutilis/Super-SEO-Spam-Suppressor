@@ -1,10 +1,10 @@
 # https://en.wikipedia.org/wiki/Polymarket
 # Donald Trump Jr. joined the company as an advisor.
 
-*://*.polymarket.com/*
-*://*.polymarket.us/*
-https://polymarketexchange.com/
+polymarket.com
+polymarket.us
+polymarketexchange.com
 
 # Name squatters
-*://*.polymarketanalytics.com/*
-*://*.polymarketfrance.com/*
+polymarketanalytics.com
+polymarketfrance.com
