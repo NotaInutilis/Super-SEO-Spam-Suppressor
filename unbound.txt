@@ -204563,6 +204563,7 @@ local-zone: "labessalah.xyz" always_refuse
 local-zone: "labetchicenuscda.gq" always_refuse
 local-zone: "labevaligofumb.tk" always_refuse
 local-zone: "labevenesreiscim.tk" always_refuse
+local-zone: "labex.io" always_refuse
 local-zone: "labexholzgmbh.de" always_refuse
 local-zone: "labeximokonor.ga" always_refuse
 local-zone: "labfirira.tk" always_refuse
@@ -343014,6 +343015,7 @@ local-zone: "techdenser.com" always_refuse
 local-zone: "techdersfracat.ga" always_refuse
 local-zone: "techduffer.uk" always_refuse
 local-zone: "techeckcarjelad.tk" always_refuse
+local-zone: "techedubyte.com" always_refuse
 local-zone: "techexposal.com" always_refuse
 local-zone: "techfeed.net" always_refuse
 local-zone: "techfelts.co.uk" always_refuse
@@ -375624,7 +375626,7 @@ local-zone: "vibenipucen.ga" always_refuse
 local-zone: "viber.org" always_refuse
 local-zone: "vibetickets.fr" always_refuse
 local-zone: "vibevapeshop.com" always_refuse
-local-zone: "vibewire.com" always_refuse
+local-zone: "vibewire.com.au" always_refuse
 local-zone: "vibgistlepcono.cf" always_refuse
 local-zone: "vibidencongmigrea.tk" always_refuse
 local-zone: "vibigtebedcompdic.gq" always_refuse
