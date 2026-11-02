@@ -36316,6 +36316,7 @@ local-zone: "airbrush-brno.cz" always_refuse
 local-zone: "airbrush.ai" always_refuse
 local-zone: "airbuds.fr" always_refuse
 local-zone: "airbus-france.fr" always_refuse
+local-zone: "airbus-helicopter.fr" always_refuse
 local-zone: "airbuscorp.xyz" always_refuse
 local-zone: "airbusds.fr" always_refuse
 local-zone: "airbusfr.fr" always_refuse
@@ -42294,6 +42295,7 @@ local-zone: "annonce-ameli.fr" always_refuse
 local-zone: "annonce-lbc.fr" always_refuse
 local-zone: "annonce-leboncoin.fr" always_refuse
 local-zone: "annonce28775-bon-coin.fr" always_refuse
+local-zone: "annonceautoboncoin-packserenite.fr" always_refuse
 local-zone: "annoncelight.xyz" always_refuse
 local-zone: "annonces-offre-lbc-25480256.fr" always_refuse
 local-zone: "annonces-offres-lbc8798789678267298.fr" always_refuse
@@ -43702,6 +43704,7 @@ local-zone: "apexboate.tk" always_refuse
 local-zone: "apexcucumber.com" always_refuse
 local-zone: "apexdealeros.com" always_refuse
 local-zone: "apexflora.com" always_refuse
+local-zone: "apexgear.blog" always_refuse
 local-zone: "apexhosting.us" always_refuse
 local-zone: "apeximevrec.ga" always_refuse
 local-zone: "apexintel2olw83iw.biz" always_refuse
@@ -55708,6 +55711,8 @@ local-zone: "beetblast-fr.fr" always_refuse
 local-zone: "beeteam.net" always_refuse
 local-zone: "beetinworkbibosly.gq" always_refuse
 local-zone: "beetlechairmanran.com" always_refuse
+local-zone: "beetospin-fr.fr" always_refuse
+local-zone: "beetospin.fr" always_refuse
 local-zone: "beetsio.fr" always_refuse
 local-zone: "beetty.xyz" always_refuse
 local-zone: "beetzino-play.fr" always_refuse
@@ -75041,6 +75046,7 @@ local-zone: "cash-casino.fr" always_refuse
 local-zone: "cash-converters.fr" always_refuse
 local-zone: "cash-hebdo.com" always_refuse
 local-zone: "cash-lounge.fr" always_refuse
+local-zone: "cash-voiture.fr" always_refuse
 local-zone: "cash-win-casino.fr" always_refuse
 local-zone: "cash-wincasino.fr" always_refuse
 local-zone: "cash93.com" always_refuse
@@ -75242,6 +75248,7 @@ local-zone: "casino-elysees-club.fr" always_refuse
 local-zone: "casino-en-ligne-argen-treel.fr" always_refuse
 local-zone: "casino-en-ligne-betify.fr" always_refuse
 local-zone: "casino-en-ligne-sans-verification.fr" always_refuse
+local-zone: "casino-en-lignes-france.fr" always_refuse
 local-zone: "casino-enligne-argentreel.fr" always_refuse
 local-zone: "casino-enlignefiable.fr" always_refuse
 local-zone: "casino-estrella.fr" always_refuse
@@ -79556,6 +79563,7 @@ local-zone: "ch-saintemenehould.fr" always_refuse
 local-zone: "ch-sedan.fr" always_refuse
 local-zone: "ch-selestat.fr" always_refuse
 local-zone: "ch-sjm.fr" always_refuse
+local-zone: "ch-valence-pro.fr" always_refuse
 local-zone: "ch-valvert-marseille.fr" always_refuse
 local-zone: "ch-vexin.fr" always_refuse
 local-zone: "ch.gluconv.com" always_refuse
@@ -87681,6 +87689,7 @@ local-zone: "cnam-assistance.fr" always_refuse
 local-zone: "cnam-assurances.com" always_refuse
 local-zone: "cnam-basse-normandie.fr" always_refuse
 local-zone: "cnam-france.fr" always_refuse
+local-zone: "cnam-lr.fr" always_refuse
 local-zone: "cnam-marseille.fr" always_refuse
 local-zone: "cnam-portail.fr" always_refuse
 local-zone: "cnam-prestation.fr" always_refuse
@@ -88799,6 +88808,7 @@ local-zone: "colandermeasured.com" always_refuse
 local-zone: "colas-digital-solutions.fr" always_refuse
 local-zone: "colas-france-construction.fr" always_refuse
 local-zone: "colas-france-construtions.fr" always_refuse
+local-zone: "colas-group.fr" always_refuse
 local-zone: "colasgroup.fr" always_refuse
 local-zone: "colaslistmanismi.ga" always_refuse
 local-zone: "colavillips.tk" always_refuse
@@ -147266,6 +147276,7 @@ local-zone: "gadgets-mania.dk" always_refuse
 local-zone: "gadgets.agency" always_refuse
 local-zone: "gadgetsfarms.com" always_refuse
 local-zone: "gadgetshopofficiel.fr" always_refuse
+local-zone: "gadgetsnurture.com" always_refuse
 local-zone: "gadgetstwist.com" always_refuse
 local-zone: "gadhortly.store" always_refuse
 local-zone: "gadicalga.tk" always_refuse
@@ -165049,6 +165060,7 @@ local-zone: "hawpeaceablesenate.com" always_refuse
 local-zone: "hawracafeelburo.tk" always_refuse
 local-zone: "hawtremendousnautical.com" always_refuse
 local-zone: "hawuxocog.rest" always_refuse
+local-zone: "hawxtech.net" always_refuse
 local-zone: "haxacathsteo.gq" always_refuse
 local-zone: "haxejulatiry.ga" always_refuse
 local-zone: "haxituan.com" always_refuse
@@ -267946,6 +267958,7 @@ local-zone: "patantayrige.gq" always_refuse
 local-zone: "patartmerabtymo.tk" always_refuse
 local-zone: "patasroryshe.tk" always_refuse
 local-zone: "patasysveti.tk" always_refuse
+local-zone: "pataugasfrance.fr" always_refuse
 local-zone: "pataugasofficial.fr" always_refuse
 local-zone: "patavabo.tk" always_refuse
 local-zone: "pataverexa.rest" always_refuse

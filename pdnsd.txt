@@ -36316,6 +36316,7 @@ neg {name=airbrush-brno.cz; types=domain;}
 neg {name=airbrush.ai; types=domain;}
 neg {name=airbuds.fr; types=domain;}
 neg {name=airbus-france.fr; types=domain;}
+neg {name=airbus-helicopter.fr; types=domain;}
 neg {name=airbuscorp.xyz; types=domain;}
 neg {name=airbusds.fr; types=domain;}
 neg {name=airbusfr.fr; types=domain;}
@@ -42294,6 +42295,7 @@ neg {name=annonce-ameli.fr; types=domain;}
 neg {name=annonce-lbc.fr; types=domain;}
 neg {name=annonce-leboncoin.fr; types=domain;}
 neg {name=annonce28775-bon-coin.fr; types=domain;}
+neg {name=annonceautoboncoin-packserenite.fr; types=domain;}
 neg {name=annoncelight.xyz; types=domain;}
 neg {name=annonces-offre-lbc-25480256.fr; types=domain;}
 neg {name=annonces-offres-lbc8798789678267298.fr; types=domain;}
@@ -43702,6 +43704,7 @@ neg {name=apexboate.tk; types=domain;}
 neg {name=apexcucumber.com; types=domain;}
 neg {name=apexdealeros.com; types=domain;}
 neg {name=apexflora.com; types=domain;}
+neg {name=apexgear.blog; types=domain;}
 neg {name=apexhosting.us; types=domain;}
 neg {name=apeximevrec.ga; types=domain;}
 neg {name=apexintel2olw83iw.biz; types=domain;}
@@ -55708,6 +55711,8 @@ neg {name=beetblast-fr.fr; types=domain;}
 neg {name=beeteam.net; types=domain;}
 neg {name=beetinworkbibosly.gq; types=domain;}
 neg {name=beetlechairmanran.com; types=domain;}
+neg {name=beetospin-fr.fr; types=domain;}
+neg {name=beetospin.fr; types=domain;}
 neg {name=beetsio.fr; types=domain;}
 neg {name=beetty.xyz; types=domain;}
 neg {name=beetzino-play.fr; types=domain;}
@@ -75041,6 +75046,7 @@ neg {name=cash-casino.fr; types=domain;}
 neg {name=cash-converters.fr; types=domain;}
 neg {name=cash-hebdo.com; types=domain;}
 neg {name=cash-lounge.fr; types=domain;}
+neg {name=cash-voiture.fr; types=domain;}
 neg {name=cash-win-casino.fr; types=domain;}
 neg {name=cash-wincasino.fr; types=domain;}
 neg {name=cash93.com; types=domain;}
@@ -75242,6 +75248,7 @@ neg {name=casino-elysees-club.fr; types=domain;}
 neg {name=casino-en-ligne-argen-treel.fr; types=domain;}
 neg {name=casino-en-ligne-betify.fr; types=domain;}
 neg {name=casino-en-ligne-sans-verification.fr; types=domain;}
+neg {name=casino-en-lignes-france.fr; types=domain;}
 neg {name=casino-enligne-argentreel.fr; types=domain;}
 neg {name=casino-enlignefiable.fr; types=domain;}
 neg {name=casino-estrella.fr; types=domain;}
@@ -79556,6 +79563,7 @@ neg {name=ch-saintemenehould.fr; types=domain;}
 neg {name=ch-sedan.fr; types=domain;}
 neg {name=ch-selestat.fr; types=domain;}
 neg {name=ch-sjm.fr; types=domain;}
+neg {name=ch-valence-pro.fr; types=domain;}
 neg {name=ch-valvert-marseille.fr; types=domain;}
 neg {name=ch-vexin.fr; types=domain;}
 neg {name=ch.gluconv.com; types=domain;}
@@ -87681,6 +87689,7 @@ neg {name=cnam-assistance.fr; types=domain;}
 neg {name=cnam-assurances.com; types=domain;}
 neg {name=cnam-basse-normandie.fr; types=domain;}
 neg {name=cnam-france.fr; types=domain;}
+neg {name=cnam-lr.fr; types=domain;}
 neg {name=cnam-marseille.fr; types=domain;}
 neg {name=cnam-portail.fr; types=domain;}
 neg {name=cnam-prestation.fr; types=domain;}
@@ -88799,6 +88808,7 @@ neg {name=colandermeasured.com; types=domain;}
 neg {name=colas-digital-solutions.fr; types=domain;}
 neg {name=colas-france-construction.fr; types=domain;}
 neg {name=colas-france-construtions.fr; types=domain;}
+neg {name=colas-group.fr; types=domain;}
 neg {name=colasgroup.fr; types=domain;}
 neg {name=colaslistmanismi.ga; types=domain;}
 neg {name=colavillips.tk; types=domain;}
@@ -147266,6 +147276,7 @@ neg {name=gadgets-mania.dk; types=domain;}
 neg {name=gadgets.agency; types=domain;}
 neg {name=gadgetsfarms.com; types=domain;}
 neg {name=gadgetshopofficiel.fr; types=domain;}
+neg {name=gadgetsnurture.com; types=domain;}
 neg {name=gadgetstwist.com; types=domain;}
 neg {name=gadhortly.store; types=domain;}
 neg {name=gadicalga.tk; types=domain;}
@@ -165049,6 +165060,7 @@ neg {name=hawpeaceablesenate.com; types=domain;}
 neg {name=hawracafeelburo.tk; types=domain;}
 neg {name=hawtremendousnautical.com; types=domain;}
 neg {name=hawuxocog.rest; types=domain;}
+neg {name=hawxtech.net; types=domain;}
 neg {name=haxacathsteo.gq; types=domain;}
 neg {name=haxejulatiry.ga; types=domain;}
 neg {name=haxituan.com; types=domain;}
@@ -267946,6 +267958,7 @@ neg {name=patantayrige.gq; types=domain;}
 neg {name=patartmerabtymo.tk; types=domain;}
 neg {name=patasroryshe.tk; types=domain;}
 neg {name=patasysveti.tk; types=domain;}
+neg {name=pataugasfrance.fr; types=domain;}
 neg {name=pataugasofficial.fr; types=domain;}
 neg {name=patavabo.tk; types=domain;}
 neg {name=pataverexa.rest; types=domain;}
