@@ -9368,6 +9368,7 @@ local-zone: "2f8jlt.cyou" always_refuse
 local-zone: "2f8wgl0.tokyo" always_refuse
 local-zone: "2f9hp2.cyou" always_refuse
 local-zone: "2f9x4a.cyou" always_refuse
+local-zone: "2fa-mailjetapp.fr" always_refuse
 local-zone: "2fa-sgpass.fr" always_refuse
 local-zone: "2fb6d.rest" always_refuse
 local-zone: "2fbijj.cyou" always_refuse
@@ -37427,6 +37428,7 @@ local-zone: "aleralpochili.gq" always_refuse
 local-zone: "alerdetede.ml" always_refuse
 local-zone: "alerexrea.ga" always_refuse
 local-zone: "alergassandmasheart.tk" always_refuse
+local-zone: "alerions-notaires.fr" always_refuse
 local-zone: "alerisocec.ga" always_refuse
 local-zone: "alerlicor.ml" always_refuse
 local-zone: "alerlisesco.cf" always_refuse
@@ -65530,6 +65532,7 @@ local-zone: "boursebinaire.fr" always_refuse
 local-zone: "boursebitcoin.com" always_refuse
 local-zone: "boursecapital.net" always_refuse
 local-zone: "boursecar.cf" always_refuse
+local-zone: "boursedesparis.fr" always_refuse
 local-zone: "bourseramabanque.fr" always_refuse
 local-zone: "boursidirect.fr" always_refuse
 local-zone: "boursingsargwins.tk" always_refuse
@@ -73689,6 +73692,7 @@ local-zone: "capeverbdrawback.com" always_refuse
 local-zone: "capexgo.com" always_refuse
 local-zone: "capexnu.asia" always_refuse
 local-zone: "capfomillbure.tk" always_refuse
+local-zone: "capformationsgouv.fr" always_refuse
 local-zone: "capgatawhicum.tk" always_refuse
 local-zone: "capgemini-engineering.fr" always_refuse
 local-zone: "capgemini-technology-services.fr" always_refuse
@@ -115840,6 +115844,7 @@ local-zone: "durableconfrontcircuit.com" always_refuse
 local-zone: "durabledatabases.com" always_refuse
 local-zone: "duracoreforman.xyz" always_refuse
 local-zone: "duracrajum.tk" always_refuse
+local-zone: "duralexfrance.fr" always_refuse
 local-zone: "duranlp4t.web.app" always_refuse
 local-zone: "durapaint.com" always_refuse
 local-zone: "durapen.shop" always_refuse
@@ -121680,6 +121685,7 @@ local-zone: "eleclerc-ps5.fr" always_refuse
 local-zone: "eleclerc-shop.fr" always_refuse
 local-zone: "eleclerc-soldes.fr" always_refuse
 local-zone: "eleclercgroupe.fr" always_refuse
+local-zone: "eleclercmarket.fr" always_refuse
 local-zone: "elecmassage.fr" always_refuse
 local-zone: "elecmore.co.uk" always_refuse
 local-zone: "elecmore.com" always_refuse
@@ -125697,6 +125703,7 @@ local-zone: "equinesportmassage.eu" always_refuse
 local-zone: "equip2019.eu" always_refuse
 local-zone: "equipamentoscasarejos.com.br" always_refuse
 local-zone: "equipdiscount24.com" always_refuse
+local-zone: "equipe-logipro.fr" always_refuse
 local-zone: "equipe-netflix.fr" always_refuse
 local-zone: "equipements-environnement.fr" always_refuse
 local-zone: "equipmentrailway.com" always_refuse
@@ -128169,6 +128176,7 @@ local-zone: "espacepersonnel-netflix.fr" always_refuse
 local-zone: "espacepersonnel-securite.fr" always_refuse
 local-zone: "espacepersonnelameli.fr" always_refuse
 local-zone: "espacepersowisesecur.fr" always_refuse
+local-zone: "espaceprelevement.fr" always_refuse
 local-zone: "espaceprimevideo.fr" always_refuse
 local-zone: "espacepro-lcl.fr" always_refuse
 local-zone: "espaceprolclsecure.fr" always_refuse
@@ -134118,6 +134126,7 @@ local-zone: "fatboss-casinoofficiel.fr" always_refuse
 local-zone: "fatboss-casinos.fr" always_refuse
 local-zone: "fatboss-fr.fr" always_refuse
 local-zone: "fatboss-france.fr" always_refuse
+local-zone: "fatboss-jeux.fr" always_refuse
 local-zone: "fatboss-officiel.fr" always_refuse
 local-zone: "fatboss-online.fr" always_refuse
 local-zone: "fatbossbonus.fr" always_refuse
@@ -137164,6 +137173,7 @@ local-zone: "finalwars.eu" always_refuse
 local-zone: "finance-alertefraude.fr" always_refuse
 local-zone: "finance-antifraudes.fr" always_refuse
 local-zone: "finance-arkea.fr" always_refuse
+local-zone: "finance-cfs-part.fr" always_refuse
 local-zone: "finance-message-incoming.com" always_refuse
 local-zone: "finance-prime.fr" always_refuse
 local-zone: "finance-publique-secu.fr" always_refuse
@@ -137176,6 +137186,7 @@ local-zone: "financeanalyzer.net" always_refuse
 local-zone: "financearkea.fr" always_refuse
 local-zone: "financebuzz.com" always_refuse
 local-zone: "financecareerfoundry.com" always_refuse
+local-zone: "financecfspart.fr" always_refuse
 local-zone: "financeconsult.pl" always_refuse
 local-zone: "financefixer7.com" always_refuse
 local-zone: "financeflowanalytics.co.uk" always_refuse
@@ -141412,6 +141423,7 @@ local-zone: "fortuneplay.fr" always_refuse
 local-zone: "fortunica-casiino.fr" always_refuse
 local-zone: "fortunica-casino.fr" always_refuse
 local-zone: "fortunica-fr.fr" always_refuse
+local-zone: "fortunica-frrance.fr" always_refuse
 local-zone: "fortunica1.fr" always_refuse
 local-zone: "fortunicacasino.fr" always_refuse
 local-zone: "fortuniica-casino.fr" always_refuse
@@ -186773,6 +186785,7 @@ local-zone: "iusmn.yt" always_refuse
 local-zone: "iustitia.ro" always_refuse
 local-zone: "iut-lille.fr" always_refuse
 local-zone: "iut1wz.xyz" always_refuse
+local-zone: "iut45-orleans.fr" always_refuse
 local-zone: "iutesh.cyou" always_refuse
 local-zone: "iuttvb.bar" always_refuse
 local-zone: "iutulg.tokyo" always_refuse
@@ -193746,6 +193759,7 @@ local-zone: "juliuscasinofrance.fr" always_refuse
 local-zone: "juliuscasinologin.fr" always_refuse
 local-zone: "juliuscasinomobile.fr" always_refuse
 local-zone: "juliuscasinos.fr" always_refuse
+local-zone: "juliusfr1.fr" always_refuse
 local-zone: "juliusfrance-fr.fr" always_refuse
 local-zone: "juliusfrance.fr" always_refuse
 local-zone: "juliusofficial.fr" always_refuse
@@ -204568,6 +204582,7 @@ local-zone: "labosudresultats.fr" always_refuse
 local-zone: "labotarotumer.ml" always_refuse
 local-zone: "labougriere.fr" always_refuse
 local-zone: "laboureruniversity.com" always_refuse
+local-zone: "laboursedesparis.fr" always_refuse
 local-zone: "laboususimyr.gq" always_refuse
 local-zone: "laboutique-sfr.fr" always_refuse
 local-zone: "laboutiquedepaul.fr" always_refuse
@@ -206563,6 +206578,7 @@ local-zone: "lassurancerteraite.fr" always_refuse
 local-zone: "lassurances-maladie.fr" always_refuse
 local-zone: "lassurancesretraite.fr" always_refuse
 local-zone: "last-choice.com" always_refuse
+local-zone: "last-minutes.fr" always_refuse
 local-zone: "lastab.ch" always_refuse
 local-zone: "lastagepellikka.monster" always_refuse
 local-zone: "lastanotelve.tk" always_refuse
@@ -267026,10 +267042,13 @@ local-zone: "paris-sportif-retrait-rapide.fr" always_refuse
 local-zone: "paris-taxig7.fr" always_refuse
 local-zone: "paris-univ8.fr" always_refuse
 local-zone: "paris-vip-casino.fr" always_refuse
+local-zone: "paris14e.fr" always_refuse
+local-zone: "paris15e.fr" always_refuse
 local-zone: "paris2-cybertek.fr" always_refuse
 local-zone: "paris2024.pl" always_refuse
 local-zone: "paris2024.re" always_refuse
 local-zone: "paris2o24.fr" always_refuse
+local-zone: "paris6e.fr" always_refuse
 local-zone: "parisbas.fr" always_refuse
 local-zone: "pariscasino-fr.fr" always_refuse
 local-zone: "pariscybertek.fr" always_refuse
@@ -319574,6 +319593,7 @@ local-zone: "shootseatwhites.biz" always_refuse
 local-zone: "shootsitissuestudent.xyz" always_refuse
 local-zone: "shoowroomprive.fr" always_refuse
 local-zone: "shop-alarmsystem.com" always_refuse
+local-zone: "shop-aldi.fr" always_refuse
 local-zone: "shop-apotheke.fr" always_refuse
 local-zone: "shop-as-monaco.fr" always_refuse
 local-zone: "shop-darty.com" always_refuse
@@ -322282,6 +322302,7 @@ local-zone: "siv-adergouv.fr" always_refuse
 local-zone: "siv-ants.fr" always_refuse
 local-zone: "siv-antsgouv.fr" always_refuse
 local-zone: "siv-gouvants.fr" always_refuse
+local-zone: "siv-immat.fr" always_refuse
 local-zone: "siv-immatriculation.fr" always_refuse
 local-zone: "siv-iseregouv.fr" always_refuse
 local-zone: "siv-portailprogouv.fr" always_refuse
@@ -402851,6 +402872,7 @@ local-zone: "yahoo-news.co" always_refuse
 local-zone: "yahoo-support.fr" always_refuse
 local-zone: "yahoo.tf" always_refuse
 local-zone: "yahoo.wf" always_refuse
+local-zone: "yahoo01.fr" always_refuse
 local-zone: "yahooc.com" always_refuse
 local-zone: "yahooc.om" always_refuse
 local-zone: "yahoofrance.fr" always_refuse
