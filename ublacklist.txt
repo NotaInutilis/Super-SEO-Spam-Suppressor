@@ -153092,6 +153092,7 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.giqs.eu/*
 *://*.giqwiao.tokyo/*
 *://*.girabreoliatilu.cf/*
+*://*.giraffic.com/*
 *://*.giranvipanee.tk/*
 *://*.girararattmite.tk/*
 *://*.girard-lakecity.buzz/*
@@ -417770,12 +417771,12 @@ homepage: https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor
 *://*.toon-saiki.com/link.php?url=*
 *://*.unicom.mx/micrositios.aspx?i=*
 host *= "btc"
-host *= "dusklight"
 host *= "magisk"
+host *= "nft"
 host *= "optiscaler"
 host ^= "ai." i
 title *= "ecco un articolo" i
-title *= "ending explained" ihost *= "nft"
+title *= "ending explained" ihost *= "dusklight"
 title *= "got fed up" & title *= "so I built my own"
 title *= "here's an article about" i
 title *= "powered" i & title *= "AI"
