@@ -97331,6 +97331,7 @@ local-zone: "crysselvamusurd.ml" always_refuse
 local-zone: "crystalbet.fr" always_refuse
 local-zone: "crystaldiskinfo.com" always_refuse
 local-zone: "crystaldiskmark.org" always_refuse
+local-zone: "crystalli.de" always_refuse
 local-zone: "crystallinks.com" always_refuse
 local-zone: "crystalsvista.net" always_refuse
 local-zone: "crysterolong.cf" always_refuse
@@ -109987,6 +109988,7 @@ local-zone: "discount-and-co.com" always_refuse
 local-zone: "discount-audio-equipment.com" always_refuse
 local-zone: "discount-autosport.fr" always_refuse
 local-zone: "discount-baustoff.de" always_refuse
+local-zone: "discount-cigarettes-store.net" always_refuse
 local-zone: "discount-distributors.buzz" always_refuse
 local-zone: "discount-kobalt.com" always_refuse
 local-zone: "discount-lightingshop.com" always_refuse
@@ -129887,6 +129889,7 @@ local-zone: "euzfan.tokyo" always_refuse
 local-zone: "euzpded.tokyo" always_refuse
 local-zone: "euzrxx.shop" always_refuse
 local-zone: "euzxlk4.cyou" always_refuse
+local-zone: "ev-farm.com" always_refuse
 local-zone: "ev0frdz.tokyo" always_refuse
 local-zone: "ev26dm-societegenerale.fr" always_refuse
 local-zone: "ev2to4n.work" always_refuse
@@ -148766,7 +148769,6 @@ local-zone: "gartenfuchskreation.de" always_refuse
 local-zone: "gartenfuhrer.de" always_refuse
 local-zone: "gartenfurdu.de" always_refuse
 local-zone: "gartengenussde.com" always_refuse
-local-zone: "gartengeraete-shop.de" always_refuse
 local-zone: "gartengluecklich.de" always_refuse
 local-zone: "gartenguenter.de" always_refuse
 local-zone: "gartenhandel-poltermann.de" always_refuse
@@ -167809,6 +167811,7 @@ local-zone: "heidel-heizoel.de" always_refuse
 local-zone: "heidelbergfrancesas.fr" always_refuse
 local-zone: "heidertivites.tk" always_refuse
 local-zone: "heidetirimalcei.tk" always_refuse
+local-zone: "heidi-mode.de" always_refuse
 local-zone: "heididur.tk" always_refuse
 local-zone: "heidingskinelecog.ml" always_refuse
 local-zone: "heidrogincoti.tk" always_refuse
@@ -233209,6 +233212,7 @@ local-zone: "mivirive.ml" always_refuse
 local-zone: "mivossgvps.xyz" always_refuse
 local-zone: "mivoxa.de" always_refuse
 local-zone: "mivoyvl.tokyo" always_refuse
+local-zone: "mivoza.de" always_refuse
 local-zone: "mivrex.com" always_refuse
 local-zone: "mivtgy.cyou" always_refuse
 local-zone: "mivutuqejese.tk" always_refuse
@@ -234445,6 +234449,7 @@ local-zone: "modeboutiqueweber.de" always_refuse
 local-zone: "modedeu.com" always_refuse
 local-zone: "modedisne.de" always_refuse
 local-zone: "modeditor.org" always_refuse
+local-zone: "modefest.de" always_refuse
 local-zone: "modegocifa.ga" always_refuse
 local-zone: "modegonessrcaf.ga" always_refuse
 local-zone: "modegrandetaille.info" always_refuse
@@ -296471,6 +296476,7 @@ local-zone: "rdncnfcs.tokyo" always_refuse
 local-zone: "rdnffh.cyou" always_refuse
 local-zone: "rdnkvqp.tokyo" always_refuse
 local-zone: "rdoctolib.fr" always_refuse
+local-zone: "rdoering.de" always_refuse
 local-zone: "rdolqm.tokyo" always_refuse
 local-zone: "rdpas38.tokyo" always_refuse
 local-zone: "rdpc4u3.tokyo" always_refuse
@@ -308694,7 +308700,6 @@ local-zone: "ruchichavanec.tk" always_refuse
 local-zone: "ruchilnimattgun.tk" always_refuse
 local-zone: "rucipinagi.tk" always_refuse
 local-zone: "rucircbeencdeaddown.tk" always_refuse
-local-zone: "ruckgabe.heidi-mode.de" always_refuse
 local-zone: "ruckgadoukohor.tk" always_refuse
 local-zone: "rucklighgeforsemb.gq" always_refuse
 local-zone: "rucknithelirocro.tk" always_refuse
@@ -407735,6 +407740,7 @@ local-zone: "yonye5n.cyou" always_refuse
 local-zone: "yonzdy.rest" always_refuse
 local-zone: "yoo4c3.cyou" always_refuse
 local-zone: "yoocaa.com" always_refuse
+local-zone: "yoohal.com" always_refuse
 local-zone: "yoohoo.cards" always_refuse
 local-zone: "yoolle.com" always_refuse
 local-zone: "yoomeeru.xyz" always_refuse
@@ -412753,6 +412759,7 @@ local-zone: "zautenbackhudd.cf" always_refuse
 local-zone: "zauxisesourli.tk" always_refuse
 local-zone: "zavabgutina.ga" always_refuse
 local-zone: "zavadewabloby.tk" always_refuse
+local-zone: "zavando.de" always_refuse
 local-zone: "zavant.ai" always_refuse
 local-zone: "zaveae.tokyo" always_refuse
 local-zone: "zavetticanadafemme.fr" always_refuse
