@@ -45621,6 +45621,7 @@ neg {name=arithmetictow.com; types=domain;}
 neg {name=aritntinchang.ml; types=domain;}
 neg {name=aritziafr.fr; types=domain;}
 neg {name=aritziafrance.fr; types=domain;}
+neg {name=aritziaoutlet.fr; types=domain;}
 neg {name=arivalunti.ml; types=domain;}
 neg {name=arivlofeford.tk; types=domain;}
 neg {name=ariwicwatme.ml; types=domain;}
@@ -75296,6 +75297,7 @@ neg {name=cashedcasinoonline.fr; types=domain;}
 neg {name=cashedcasinos.fr; types=domain;}
 neg {name=cashedd.fr; types=domain;}
 neg {name=cashedenligne.fr; types=domain;}
+neg {name=cashedfr.fr; types=domain;}
 neg {name=cashedfrance.fr; types=domain;}
 neg {name=casheds.fr; types=domain;}
 neg {name=cashexpres.fr; types=domain;}
@@ -76167,6 +76169,7 @@ neg {name=casinostgilles.fr; types=domain;}
 neg {name=casinostonevegas.fr; types=domain;}
 neg {name=casinosupremefrancais.fr; types=domain;}
 neg {name=casinosvegasplus.fr; types=domain;}
+neg {name=casinosvirtuels.fr; types=domain;}
 neg {name=casinotalismania.fr; types=domain;}
 neg {name=casinotemple.fr; types=domain;}
 neg {name=casinotikitakaenligne.fr; types=domain;}
@@ -96177,10 +96180,15 @@ neg {name=cresus-com.fr; types=domain;}
 neg {name=cresus-enligne-fr.fr; types=domain;}
 neg {name=cresus-enligne-france.fr; types=domain;}
 neg {name=cresus-enligne.fr; types=domain;}
+neg {name=cresus-fr-online.fr; types=domain;}
 neg {name=cresus-fr.fr; types=domain;}
 neg {name=cresus-game.fr; types=domain;}
+neg {name=cresus-login.fr; types=domain;}
 neg {name=cresus-mobile.fr; types=domain;}
 neg {name=cresus-officiel.fr; types=domain;}
+neg {name=cresus-online-fr.fr; types=domain;}
+neg {name=cresus-online.fr; types=domain;}
+neg {name=cresus-play-fr.fr; types=domain;}
 neg {name=cresus-promo.fr; types=domain;}
 neg {name=cresus-vip-france.fr; types=domain;}
 neg {name=cresus2.fr; types=domain;}
@@ -107051,6 +107059,7 @@ neg {name=dgfip-info.fr; types=domain;}
 neg {name=dgfip-lyon.fr; types=domain;}
 neg {name=dgfip-portail.fr; types=domain;}
 neg {name=dgfip-service.fr; types=domain;}
+neg {name=dgfip-tva.fr; types=domain;}
 neg {name=dgfip-var.fr; types=domain;}
 neg {name=dgfip94.fr; types=domain;}
 neg {name=dgfipay.fr; types=domain;}
@@ -129234,7 +129243,6 @@ neg {name=etibku.tokyo; types=domain;}
 neg {name=etic-managers.eu; types=domain;}
 neg {name=eticketshop.fr; types=domain;}
 neg {name=eticketswap.fr; types=domain;}
-neg {name=eticketsy.com; types=domain;}
 neg {name=eticticheckplan.ga; types=domain;}
 neg {name=etictitireb.ga; types=domain;}
 neg {name=etidev.bar; types=domain;}
@@ -156237,6 +156245,7 @@ neg {name=googleenalytics.com; types=domain;}
 neg {name=googleesercontent.com; types=domain;}
 neg {name=googlef.fr; types=domain;}
 neg {name=googlefish.com; types=domain;}
+neg {name=googlefrance.fr; types=domain;}
 neg {name=googlegoogle.fr; types=domain;}
 neg {name=googleia.fr; types=domain;}
 neg {name=googleidle.de; types=domain;}
@@ -165154,6 +165163,7 @@ neg {name=hasafreegiftfromdanandsherman.com; types=domain;}
 neg {name=hasalzpytnamahle.ml; types=domain;}
 neg {name=hasaprivatemessage.com; types=domain;}
 neg {name=hasatervela.tk; types=domain;}
+neg {name=hasbrofrance.fr; types=domain;}
 neg {name=hasbtantnessnehlu.gq; types=domain;}
 neg {name=hasco.fr; types=domain;}
 neg {name=hasdogihd.me; types=domain;}
@@ -170513,7 +170523,6 @@ neg {name=hjyebyd.tokyo; types=domain;}
 neg {name=hjykmy.shop; types=domain;}
 neg {name=hjyops.bar; types=domain;}
 neg {name=hjyr.com.cn; types=domain;}
-neg {name=hjz-handel.de; types=domain;}
 neg {name=hjzamz.rest; types=domain;}
 neg {name=hjzgmwl.cyou; types=domain;}
 neg {name=hjzino.rest; types=domain;}
@@ -190767,6 +190776,7 @@ neg {name=jetlosangeles.com; types=domain;}
 neg {name=jetnat.tokyo; types=domain;}
 neg {name=jetnolinomis.tk; types=domain;}
 neg {name=jetnxubrl.xyz; types=domain;}
+neg {name=jeton-fortnite.fr; types=domain;}
 neg {name=jeton-rouge-casino.fr; types=domain;}
 neg {name=jeton-rouge-fr.fr; types=domain;}
 neg {name=jeton-rouge-france.fr; types=domain;}
@@ -213939,6 +213949,7 @@ neg {name=lindramrigipa.cf; types=domain;}
 neg {name=lindresfiereregot.tk; types=domain;}
 neg {name=lindseyshoots.com; types=domain;}
 neg {name=lindteccamoletca.tk; types=domain;}
+neg {name=lindtfrance.fr; types=domain;}
 neg {name=lindtihighcomcantca.tk; types=domain;}
 neg {name=lindtowntoolole.tk; types=domain;}
 neg {name=lindvedknallertcenter.dk; types=domain;}
@@ -234005,7 +234016,6 @@ neg {name=mnruny.shop; types=domain;}
 neg {name=mnrxznt.bar; types=domain;}
 neg {name=mnserver1.com; types=domain;}
 neg {name=mnsf.net; types=domain;}
-neg {name=mnsnyavp.shop; types=domain;}
 neg {name=mnsx7t.tokyo; types=domain;}
 neg {name=mntadf.rest; types=domain;}
 neg {name=mntasest.lol; types=domain;}
@@ -240769,6 +240779,7 @@ neg {name=myesefworlstet.tk; types=domain;}
 neg {name=myesiggumul.tk; types=domain;}
 neg {name=myesim.fr; types=domain;}
 neg {name=myespitinlade.tk; types=domain;}
+neg {name=myespressolab.com; types=domain;}
 neg {name=myestate.xyz; types=domain;}
 neg {name=myetemptu.gq; types=domain;}
 neg {name=myetigmilane.tk; types=domain;}
@@ -256248,7 +256259,6 @@ neg {name=obobettermann.de; types=domain;}
 neg {name=obockecudddi.gq; types=domain;}
 neg {name=oboczcr.tokyo; types=domain;}
 neg {name=oboena-selection.de; types=domain;}
-neg {name=obolapvw.shop; types=domain;}
 neg {name=obolbiokanterchyd.ga; types=domain;}
 neg {name=obominmon.tk; types=domain;}
 neg {name=obomtabdesensou.tk; types=domain;}
@@ -298619,6 +298629,7 @@ neg {name=regularisation-ameli.fr; types=domain;}
 neg {name=regularisation-amende-antai.fr; types=domain;}
 neg {name=regularisation-amende.fr; types=domain;}
 neg {name=regularisation-amendes.fr; types=domain;}
+neg {name=regularisation-amiens.fr; types=domain;}
 neg {name=regularisation-antai.fr; types=domain;}
 neg {name=regularisation-antail.fr; types=domain;}
 neg {name=regularisation-banquefrance.fr; types=domain;}
@@ -326424,7 +326435,6 @@ neg {name=snivuncomvitab.tk; types=domain;}
 neg {name=snizox.cyou; types=domain;}
 neg {name=snj5fi.xyz; types=domain;}
 neg {name=snjaii.tokyo; types=domain;}
-neg {name=snjdueu.shop; types=domain;}
 neg {name=snjhzazu.tokyo; types=domain;}
 neg {name=snjiaoyu.com; types=domain;}
 neg {name=snjmxws.rest; types=domain;}
@@ -329642,6 +329652,7 @@ neg {name=spiilispezi.com; types=domain;}
 neg {name=spiinbara.fr; types=domain;}
 neg {name=spiinboss.fr; types=domain;}
 neg {name=spiingranny.fr; types=domain;}
+neg {name=spiinogambino.fr; types=domain;}
 neg {name=spikalezlabosi.gq; types=domain;}
 neg {name=spikanderane.ml; types=domain;}
 neg {name=spikanknescasbirth.ml; types=domain;}
@@ -329715,6 +329726,7 @@ neg {name=spin-mama-casino.fr; types=domain;}
 neg {name=spin-mama-casinoapp.fr; types=domain;}
 neg {name=spin-mama-casinoenligne.fr; types=domain;}
 neg {name=spin-mama-fr.fr; types=domain;}
+neg {name=spin-mama-france.fr; types=domain;}
 neg {name=spin-mama-login.fr; types=domain;}
 neg {name=spin-mamabet.fr; types=domain;}
 neg {name=spin-mamabonus-app.fr; types=domain;}
@@ -330031,7 +330043,9 @@ neg {name=spinmamagratuit.fr; types=domain;}
 neg {name=spinmamalogin.fr; types=domain;}
 neg {name=spinmamaofficial.fr; types=domain;}
 neg {name=spinmamaonline.fr; types=domain;}
+neg {name=spinmamas-fr.fr; types=domain;}
 neg {name=spinmamascasino.fr; types=domain;}
+neg {name=spinmamasfr.fr; types=domain;}
 neg {name=spinmania-casino.fr; types=domain;}
 neg {name=spinmaniacasino.fr; types=domain;}
 neg {name=spinmayacasino.fr; types=domain;}
@@ -331884,6 +331898,7 @@ neg {name=stake7casinodeposit.fr; types=domain;}
 neg {name=stake7casinologin.fr; types=domain;}
 neg {name=stake7online.fr; types=domain;}
 neg {name=stakebetvip.com; types=domain;}
+neg {name=stakebonus.fr; types=domain;}
 neg {name=stakeca.com; types=domain;}
 neg {name=stakecas1no.fr; types=domain;}
 neg {name=stakecasino-app.fr; types=domain;}
@@ -331897,10 +331912,12 @@ neg {name=stakecasinoinfo.fr; types=domain;}
 neg {name=stakecasinonl.fr; types=domain;}
 neg {name=stakecasinoo.fr; types=domain;}
 neg {name=stakecasinosocial.fr; types=domain;}
+neg {name=stakecode.fr; types=domain;}
 neg {name=stakecode.site; types=domain;}
 neg {name=staked-casino.fr; types=domain;}
 neg {name=staked.fr; types=domain;}
 neg {name=stakedcasino.fr; types=domain;}
+neg {name=stakederetour.fr; types=domain;}
 neg {name=stakefr.fr; types=domain;}
 neg {name=stakefrance.fr; types=domain;}
 neg {name=stakegratuit.fr; types=domain;}
@@ -334202,7 +334219,6 @@ neg {name=store.aktuellerezensionen.de; types=domain;}
 neg {name=store.app-valley.vip; types=domain;}
 neg {name=store.elmleigha.com; types=domain;}
 neg {name=store.kestrelby.com; types=domain;}
-neg {name=store.kingslora.com; types=domain;}
 neg {name=store.pavridora.com; types=domain;}
 neg {name=store.promomesh.com; types=domain;}
 neg {name=store.useum.org; types=domain;}
@@ -340217,7 +340233,6 @@ neg {name=t4rqb9s.cyou; types=domain;}
 neg {name=t4s0so.cyou; types=domain;}
 neg {name=t4sfac.tokyo; types=domain;}
 neg {name=t4szis.cyou; types=domain;}
-neg {name=t4trade.com; types=domain;}
 neg {name=t4ul10.shop; types=domain;}
 neg {name=t4xocmc.shop; types=domain;}
 neg {name=t4xss7.cyou; types=domain;}
@@ -357197,6 +357212,7 @@ neg {name=toyspacinamaf.tk; types=domain;}
 neg {name=toyspenchardogschond.ga; types=domain;}
 neg {name=toysrus-fr.fr; types=domain;}
 neg {name=toysrus-france.fr; types=domain;}
+neg {name=toysrusfr.fr; types=domain;}
 neg {name=toysrutumbrella.com; types=domain;}
 neg {name=toysstorojapan.shop; types=domain;}
 neg {name=toystars.pl; types=domain;}
@@ -383828,7 +383844,6 @@ neg {name=vsfspx.rest; types=domain;}
 neg {name=vsftjm.tokyo; types=domain;}
 neg {name=vsftpp.tokyo; types=domain;}
 neg {name=vsftuot.tokyo; types=domain;}
-neg {name=vsgdew.shop; types=domain;}
 neg {name=vsgdly.tokyo; types=domain;}
 neg {name=vsgse.bar; types=domain;}
 neg {name=vsgwz.rest; types=domain;}
@@ -384530,7 +384545,6 @@ neg {name=vxigrjm.tokyo; types=domain;}
 neg {name=vxirtq.bar; types=domain;}
 neg {name=vxjctw.tokyo; types=domain;}
 neg {name=vxjifx.bar; types=domain;}
-neg {name=vxjskiy.shop; types=domain;}
 neg {name=vxjzgr.tokyo; types=domain;}
 neg {name=vxk03ti.cyou; types=domain;}
 neg {name=vxk2kse.cyou; types=domain;}
@@ -399651,7 +399665,6 @@ neg {name=xjxy60.cyou; types=domain;}
 neg {name=xjxyxh.cyou; types=domain;}
 neg {name=xjy41fr.tokyo; types=domain;}
 neg {name=xjyaxing.ru; types=domain;}
-neg {name=xjyehli.shop; types=domain;}
 neg {name=xjyirmn.bar; types=domain;}
 neg {name=xjyjiy.rest; types=domain;}
 neg {name=xjyjzq.com; types=domain;}
