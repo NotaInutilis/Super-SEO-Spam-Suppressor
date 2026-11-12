@@ -12074,6 +12074,7 @@ neg {name=3dpapso.shop; types=domain;}
 neg {name=3dpaysecurefacturation.fr; types=domain;}
 neg {name=3dpolska.pl; types=domain;}
 neg {name=3dprintbrothers.xyz; types=domain;}
+neg {name=3dprlnt.fr; types=domain;}
 neg {name=3dptb63h.tokyo; types=domain;}
 neg {name=3dpu05.shop; types=domain;}
 neg {name=3dqqhk.cyou; types=domain;}
@@ -64947,6 +64948,7 @@ neg {name=bonus-point7.life; types=domain;}
 neg {name=bonus-point8.life; types=domain;}
 neg {name=bonus-point9.life; types=domain;}
 neg {name=bonus-stake.fr; types=domain;}
+neg {name=bonus4casino.fr; types=domain;}
 neg {name=bonusbetcasinoapp.fr; types=domain;}
 neg {name=bonusbetcasinobonus.fr; types=domain;}
 neg {name=bonusbetcasinobonus777.fr; types=domain;}
@@ -73681,6 +73683,7 @@ neg {name=canidoc.eu; types=domain;}
 neg {name=canillogermany.com; types=domain;}
 neg {name=caninglighlbizap.tk; types=domain;}
 neg {name=canipesag.tk; types=domain;}
+neg {name=caniplayonlinux.com; types=domain;}
 neg {name=caniresighbrum.ml; types=domain;}
 neg {name=canis.ee; types=domain;}
 neg {name=canisjewelry.dk; types=domain;}
@@ -88937,6 +88940,7 @@ neg {name=coinbase.re; types=domain;}
 neg {name=coinbasen.vip; types=domain;}
 neg {name=coinbasepro.fr; types=domain;}
 neg {name=coinbases.org; types=domain;}
+neg {name=coinbasesupport.fr; types=domain;}
 neg {name=coinbit.xyz; types=domain;}
 neg {name=coinblind.com; types=domain;}
 neg {name=coinboxtradeoption.com; types=domain;}
@@ -107074,6 +107078,7 @@ neg {name=dgfipfrance.fr; types=domain;}
 neg {name=dgfipgouvfinances.fr; types=domain;}
 neg {name=dgfipgroupe.fr; types=domain;}
 neg {name=dgfipimpot.fr; types=domain;}
+neg {name=dgfipvisio.fr; types=domain;}
 neg {name=dgfkj.tokyo; types=domain;}
 neg {name=dgflip-finance.fr; types=domain;}
 neg {name=dgfoqt.tokyo; types=domain;}
@@ -128094,6 +128099,7 @@ neg {name=espace-acquittement.fr; types=domain;}
 neg {name=espace-activations.fr; types=domain;}
 neg {name=espace-actualisation-assure-enligne.fr; types=domain;}
 neg {name=espace-actualisation.fr; types=domain;}
+neg {name=espace-adherent-ffst.fr; types=domain;}
 neg {name=espace-agricol.fr; types=domain;}
 neg {name=espace-aidesante.fr; types=domain;}
 neg {name=espace-amande.fr; types=domain;}
@@ -184608,6 +184614,7 @@ neg {name=internetforbusiness.buzz; types=domain;}
 neg {name=internetguardianpro.com; types=domain;}
 neg {name=internetmarketingaffiliatesclub.com; types=domain;}
 neg {name=internetparkingauthority.com; types=domain;}
+neg {name=internetpasoapaso.com; types=domain;}
 neg {name=internetpoint-adria.it; types=domain;}
 neg {name=internetprovidersinc.biz; types=domain;}
 neg {name=internetrhetorician.com; types=domain;}
@@ -214431,6 +214438,7 @@ neg {name=linuxfreakz.info; types=domain;}
 neg {name=linuxhandbook.com; types=domain;}
 neg {name=linuxiac.com; types=domain;}
 neg {name=linuxize.com; types=domain;}
+neg {name=linuxjournal.com; types=domain;}
 neg {name=linuxjunkies.org; types=domain;}
 neg {name=linuxkernal.com; types=domain;}
 neg {name=linuxlap.com; types=domain;}
@@ -221436,6 +221444,7 @@ neg {name=lyqbit.tokyo; types=domain;}
 neg {name=lyqm6k0.cyou; types=domain;}
 neg {name=lyqus.info; types=domain;}
 neg {name=lyr4sz.cyou; types=domain;}
+neg {name=lyra-france.fr; types=domain;}
 neg {name=lyrabetcasino.fr; types=domain;}
 neg {name=lyracasino.fr; types=domain;}
 neg {name=lyravsp.tokyo; types=domain;}
@@ -226913,6 +226922,7 @@ neg {name=mayang.xyz; types=domain;}
 neg {name=maybank2u.mom; types=domain;}
 neg {name=maybank2u.web.id; types=domain;}
 neg {name=maybeadmejuxe.gq; types=domain;}
+neg {name=maybelee-n.fr; types=domain;}
 neg {name=maybelessrichsknowledge.biz; types=domain;}
 neg {name=maybellinefrance.fr; types=domain;}
 neg {name=maybemotherwoman.biz; types=domain;}
@@ -229552,7 +229562,9 @@ neg {name=merknalarecsi.cf; types=domain;}
 neg {name=merksoncha.tk; types=domain;}
 neg {name=merktertioxi.web.app; types=domain;}
 neg {name=merkur-casino.fr; types=domain;}
+neg {name=merkur-casinos.fr; types=domain;}
 neg {name=merkurcasino.fr; types=domain;}
+neg {name=merkurcasinos.fr; types=domain;}
 neg {name=merkwelltoddbepo.ml; types=domain;}
 neg {name=merlaigrapurvedli.ml; types=domain;}
 neg {name=merlamifomu.ml; types=domain;}
@@ -241068,6 +241080,7 @@ neg {name=myliferouch.com; types=domain;}
 neg {name=mylifestyle.xyz; types=domain;}
 neg {name=mylikeled.com; types=domain;}
 neg {name=mylindt-entreprise.com; types=domain;}
+neg {name=mylinux.work; types=domain;}
 neg {name=mylissubasspuz.gq; types=domain;}
 neg {name=mylitelolysra.tk; types=domain;}
 neg {name=mylittlenecklace.fr; types=domain;}
@@ -252738,6 +252751,7 @@ neg {name=noveraxcapital.com; types=domain;}
 neg {name=novermessen.de; types=domain;}
 neg {name=noverramatech.tk; types=domain;}
 neg {name=noverrectca.cf; types=domain;}
+neg {name=novesta-fr.fr; types=domain;}
 neg {name=novestas.de; types=domain;}
 neg {name=noveteadram.com; types=domain;}
 neg {name=novexa.sbs; types=domain;}
@@ -344485,6 +344499,7 @@ neg {name=tecnicoencarroceriae.gq; types=domain;}
 neg {name=tecningpabela.cf; types=domain;}
 neg {name=tecnoairsystemshop.it; types=domain;}
 neg {name=tecnobits.com; types=domain;}
+neg {name=tecnoloblog.com; types=domain;}
 neg {name=tecnologiainpsicologiaclinica.it; types=domain;}
 neg {name=tecnologiatualcance.xyz; types=domain;}
 neg {name=tecnone.com; types=domain;}
@@ -368158,6 +368173,7 @@ neg {name=unlumfedi.cf; types=domain;}
 neg {name=unlun.ru; types=domain;}
 neg {name=unlutliaferogvi.ml; types=domain;}
 neg {name=unluvarrea.tk; types=domain;}
+neg {name=unlv-lyon2.fr; types=domain;}
 neg {name=unlying.site; types=domain;}
 neg {name=unma2k.cyou; types=domain;}
 neg {name=unmacfirad.ga; types=domain;}
@@ -400759,6 +400775,7 @@ neg {name=xn--rservation-g7taxi-btb.fr; types=domain;}
 neg {name=xn--rsiliation-esim-sfr-bzb.fr; types=domain;}
 neg {name=xn--rsiliation-prlvement-b2bmb.fr; types=domain;}
 neg {name=xn--rsultat-dpistage-bqbi.fr; types=domain;}
+neg {name=xn--s-mo-5oaa.re; types=domain;}
 neg {name=xn--s-mo-lpaa.re; types=domain;}
 neg {name=xn--sant-ameli-e7a.fr; types=domain;}
 neg {name=xn--sant-amli-e4ad.fr; types=domain;}
