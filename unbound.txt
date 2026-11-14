@@ -39365,6 +39365,7 @@ local-zone: "amazonparis.fr" always_refuse
 local-zone: "amazonppc.fr" always_refuse
 local-zone: "amazonprime-abonnement.fr" always_refuse
 local-zone: "amazonprime-connexion.fr" always_refuse
+local-zone: "amazonprime-network.fr" always_refuse
 local-zone: "amazonprime-video.fr" always_refuse
 local-zone: "amazonprimesec.fr" always_refuse
 local-zone: "amazonrenouvellement.fr" always_refuse
@@ -58431,6 +58432,7 @@ local-zone: "betifyofficial.fr" always_refuse
 local-zone: "betifyonline.fr" always_refuse
 local-zone: "betifyparis.fr" always_refuse
 local-zone: "betifyreview.fr" always_refuse
+local-zone: "betifys-casino.fr" always_refuse
 local-zone: "betifys-french.fr" always_refuse
 local-zone: "betifysh.fr" always_refuse
 local-zone: "betigma-casino.fr" always_refuse
@@ -120013,6 +120015,7 @@ local-zone: "edfidecerve.ml" always_refuse
 local-zone: "edfisitpo.ml" always_refuse
 local-zone: "edfmaconso.fr" always_refuse
 local-zone: "edfmoncompte.fr" always_refuse
+local-zone: "edfmoncontrat.fr" always_refuse
 local-zone: "edfnumero.fr" always_refuse
 local-zone: "edfobura.gq" always_refuse
 local-zone: "edfoporeka.tk" always_refuse
@@ -201969,6 +201972,7 @@ local-zone: "komansky.com" always_refuse
 local-zone: "komarpearo.tk" always_refuse
 local-zone: "komatsu-france.fr" always_refuse
 local-zone: "kombinezonyochronnedostepne.pl" always_refuse
+local-zone: "kombini.fr" always_refuse
 local-zone: "kombqy.bar" always_refuse
 local-zone: "kombucha-shop.dk" always_refuse
 local-zone: "kombuchabrewingkot.shop" always_refuse
@@ -216913,6 +216917,7 @@ local-zone: "loc17vh.work" always_refuse
 local-zone: "locahost" always_refuse
 local-zone: "locaiisation.fr" always_refuse
 local-zone: "locaiiser-app.fr" always_refuse
+local-zone: "locaiiser-map.fr" always_refuse
 local-zone: "locajardin.com" always_refuse
 local-zone: "locajet.fr" always_refuse
 local-zone: "local-ai-zone.github.io" always_refuse
@@ -306244,9 +306249,11 @@ local-zone: "rockstar-casino-365.fr" always_refuse
 local-zone: "rockstar-casino-777.fr" always_refuse
 local-zone: "rockstar-casino-888.fr" always_refuse
 local-zone: "rockstar-casino-99.fr" always_refuse
+local-zone: "rockstar-casinos.fr" always_refuse
 local-zone: "rockstar-france.fr" always_refuse
 local-zone: "rockstarcasino-france.fr" always_refuse
 local-zone: "rockstarcasino-officiel.fr" always_refuse
+local-zone: "rockstarcasino.fr" always_refuse
 local-zone: "rockstargsmes.com" always_refuse
 local-zone: "rockstarscasino.fr" always_refuse
 local-zone: "rockstinemreni.tk" always_refuse
@@ -314235,6 +314242,7 @@ local-zone: "scanunprovtato.tk" always_refuse
 local-zone: "scanvalnerus.tk" always_refuse
 local-zone: "scanvh.tokyo" always_refuse
 local-zone: "scanwardkitfimel.ml" always_refuse
+local-zone: "scaouest-france.fr" always_refuse
 local-zone: "scapadtradanprov.tk" always_refuse
 local-zone: "scapalnadomas.ml" always_refuse
 local-zone: "scapamarbusle.tk" always_refuse
@@ -330271,6 +330279,7 @@ local-zone: "spinmamascasino.fr" always_refuse
 local-zone: "spinmamasfr.fr" always_refuse
 local-zone: "spinmania-casino.fr" always_refuse
 local-zone: "spinmaniacasino.fr" always_refuse
+local-zone: "spinmas.fr" always_refuse
 local-zone: "spinmayacasino.fr" always_refuse
 local-zone: "spinmillion-casino.fr" always_refuse
 local-zone: "spinmillion-com.fr" always_refuse
@@ -330346,6 +330355,7 @@ local-zone: "spins-altos.fr" always_refuse
 local-zone: "spins-aura.fr" always_refuse
 local-zone: "spins-casino.fr" always_refuse
 local-zone: "spins-heaven.fr" always_refuse
+local-zone: "spins-mama.fr" always_refuse
 local-zone: "spins-of-glory-casino.fr" always_refuse
 local-zone: "spins-of-glorycasino.fr" always_refuse
 local-zone: "spinsahara-casino.fr" always_refuse
@@ -339002,6 +339012,7 @@ local-zone: "swisslosonline.com" always_refuse
 local-zone: "swissmain.com" always_refuse
 local-zone: "swissnovapharmaceuticals.com" always_refuse
 local-zone: "swisspartners-ag.com" always_refuse
+local-zone: "swisspay.fr" always_refuse
 local-zone: "swisspost-suivi.fr" always_refuse
 local-zone: "swisspost-tck.fr" always_refuse
 local-zone: "swissstand.com" always_refuse
@@ -368127,6 +368138,7 @@ local-zone: "univ-pgrp.fr" always_refuse
 local-zone: "univ-picardie.fr" always_refuse
 local-zone: "univ-polesup.fr" always_refuse
 local-zone: "univ-psaclay.fr" always_refuse
+local-zone: "univ-pucvl.fr" always_refuse
 local-zone: "univ-renne.fr" always_refuse
 local-zone: "univ-rennes-2.fr" always_refuse
 local-zone: "univ-sciencespo-grenoble-alpes.fr" always_refuse
@@ -368200,6 +368212,7 @@ local-zone: "universite-corse.fr" always_refuse
 local-zone: "universite-cotedazur.fr" always_refuse
 local-zone: "universite-evry.fr" always_refuse
 local-zone: "universite-jfc-rodez.fr" always_refuse
+local-zone: "universite-lemans.fr" always_refuse
 local-zone: "universite-lyon1.fr" always_refuse
 local-zone: "universite-lyon3.fr" always_refuse
 local-zone: "universite-paris-saciay.fr" always_refuse
@@ -396618,6 +396631,7 @@ local-zone: "wwwassuranceretraite.fr" always_refuse
 local-zone: "wwwaste.fr" always_refuse
 local-zone: "wwwauchan.fr" always_refuse
 local-zone: "wwwautoscout24.fr" always_refuse
+local-zone: "wwwaveniq.fr" always_refuse
 local-zone: "wwwavis.fr" always_refuse
 local-zone: "wwwazcardinals.buzz" always_refuse
 local-zone: "wwwbackinjob.de" always_refuse

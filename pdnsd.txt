@@ -39365,6 +39365,7 @@ neg {name=amazonparis.fr; types=domain;}
 neg {name=amazonppc.fr; types=domain;}
 neg {name=amazonprime-abonnement.fr; types=domain;}
 neg {name=amazonprime-connexion.fr; types=domain;}
+neg {name=amazonprime-network.fr; types=domain;}
 neg {name=amazonprime-video.fr; types=domain;}
 neg {name=amazonprimesec.fr; types=domain;}
 neg {name=amazonrenouvellement.fr; types=domain;}
@@ -58431,6 +58432,7 @@ neg {name=betifyofficial.fr; types=domain;}
 neg {name=betifyonline.fr; types=domain;}
 neg {name=betifyparis.fr; types=domain;}
 neg {name=betifyreview.fr; types=domain;}
+neg {name=betifys-casino.fr; types=domain;}
 neg {name=betifys-french.fr; types=domain;}
 neg {name=betifysh.fr; types=domain;}
 neg {name=betigma-casino.fr; types=domain;}
@@ -120013,6 +120015,7 @@ neg {name=edfidecerve.ml; types=domain;}
 neg {name=edfisitpo.ml; types=domain;}
 neg {name=edfmaconso.fr; types=domain;}
 neg {name=edfmoncompte.fr; types=domain;}
+neg {name=edfmoncontrat.fr; types=domain;}
 neg {name=edfnumero.fr; types=domain;}
 neg {name=edfobura.gq; types=domain;}
 neg {name=edfoporeka.tk; types=domain;}
@@ -201969,6 +201972,7 @@ neg {name=komansky.com; types=domain;}
 neg {name=komarpearo.tk; types=domain;}
 neg {name=komatsu-france.fr; types=domain;}
 neg {name=kombinezonyochronnedostepne.pl; types=domain;}
+neg {name=kombini.fr; types=domain;}
 neg {name=kombqy.bar; types=domain;}
 neg {name=kombucha-shop.dk; types=domain;}
 neg {name=kombuchabrewingkot.shop; types=domain;}
@@ -216913,6 +216917,7 @@ neg {name=loc17vh.work; types=domain;}
 neg {name=locahost; types=domain;}
 neg {name=locaiisation.fr; types=domain;}
 neg {name=locaiiser-app.fr; types=domain;}
+neg {name=locaiiser-map.fr; types=domain;}
 neg {name=locajardin.com; types=domain;}
 neg {name=locajet.fr; types=domain;}
 neg {name=local-ai-zone.github.io; types=domain;}
@@ -306244,9 +306249,11 @@ neg {name=rockstar-casino-365.fr; types=domain;}
 neg {name=rockstar-casino-777.fr; types=domain;}
 neg {name=rockstar-casino-888.fr; types=domain;}
 neg {name=rockstar-casino-99.fr; types=domain;}
+neg {name=rockstar-casinos.fr; types=domain;}
 neg {name=rockstar-france.fr; types=domain;}
 neg {name=rockstarcasino-france.fr; types=domain;}
 neg {name=rockstarcasino-officiel.fr; types=domain;}
+neg {name=rockstarcasino.fr; types=domain;}
 neg {name=rockstargsmes.com; types=domain;}
 neg {name=rockstarscasino.fr; types=domain;}
 neg {name=rockstinemreni.tk; types=domain;}
@@ -314235,6 +314242,7 @@ neg {name=scanunprovtato.tk; types=domain;}
 neg {name=scanvalnerus.tk; types=domain;}
 neg {name=scanvh.tokyo; types=domain;}
 neg {name=scanwardkitfimel.ml; types=domain;}
+neg {name=scaouest-france.fr; types=domain;}
 neg {name=scapadtradanprov.tk; types=domain;}
 neg {name=scapalnadomas.ml; types=domain;}
 neg {name=scapamarbusle.tk; types=domain;}
@@ -330271,6 +330279,7 @@ neg {name=spinmamascasino.fr; types=domain;}
 neg {name=spinmamasfr.fr; types=domain;}
 neg {name=spinmania-casino.fr; types=domain;}
 neg {name=spinmaniacasino.fr; types=domain;}
+neg {name=spinmas.fr; types=domain;}
 neg {name=spinmayacasino.fr; types=domain;}
 neg {name=spinmillion-casino.fr; types=domain;}
 neg {name=spinmillion-com.fr; types=domain;}
@@ -330346,6 +330355,7 @@ neg {name=spins-altos.fr; types=domain;}
 neg {name=spins-aura.fr; types=domain;}
 neg {name=spins-casino.fr; types=domain;}
 neg {name=spins-heaven.fr; types=domain;}
+neg {name=spins-mama.fr; types=domain;}
 neg {name=spins-of-glory-casino.fr; types=domain;}
 neg {name=spins-of-glorycasino.fr; types=domain;}
 neg {name=spinsahara-casino.fr; types=domain;}
@@ -339002,6 +339012,7 @@ neg {name=swisslosonline.com; types=domain;}
 neg {name=swissmain.com; types=domain;}
 neg {name=swissnovapharmaceuticals.com; types=domain;}
 neg {name=swisspartners-ag.com; types=domain;}
+neg {name=swisspay.fr; types=domain;}
 neg {name=swisspost-suivi.fr; types=domain;}
 neg {name=swisspost-tck.fr; types=domain;}
 neg {name=swissstand.com; types=domain;}
@@ -368127,6 +368138,7 @@ neg {name=univ-pgrp.fr; types=domain;}
 neg {name=univ-picardie.fr; types=domain;}
 neg {name=univ-polesup.fr; types=domain;}
 neg {name=univ-psaclay.fr; types=domain;}
+neg {name=univ-pucvl.fr; types=domain;}
 neg {name=univ-renne.fr; types=domain;}
 neg {name=univ-rennes-2.fr; types=domain;}
 neg {name=univ-sciencespo-grenoble-alpes.fr; types=domain;}
@@ -368200,6 +368212,7 @@ neg {name=universite-corse.fr; types=domain;}
 neg {name=universite-cotedazur.fr; types=domain;}
 neg {name=universite-evry.fr; types=domain;}
 neg {name=universite-jfc-rodez.fr; types=domain;}
+neg {name=universite-lemans.fr; types=domain;}
 neg {name=universite-lyon1.fr; types=domain;}
 neg {name=universite-lyon3.fr; types=domain;}
 neg {name=universite-paris-saciay.fr; types=domain;}
@@ -396618,6 +396631,7 @@ neg {name=wwwassuranceretraite.fr; types=domain;}
 neg {name=wwwaste.fr; types=domain;}
 neg {name=wwwauchan.fr; types=domain;}
 neg {name=wwwautoscout24.fr; types=domain;}
+neg {name=wwwaveniq.fr; types=domain;}
 neg {name=wwwavis.fr; types=domain;}
 neg {name=wwwazcardinals.buzz; types=domain;}
 neg {name=wwwbackinjob.de; types=domain;}
