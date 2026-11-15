@@ -328886,7 +328886,6 @@ local-zone: "sozmft.tokyo" always_refuse
 local-zone: "soznna.tokyo" always_refuse
 local-zone: "sozztingflavesto.ml" always_refuse
 local-zone: "sp-telegran.org" always_refuse
-local-zone: "sp.gov.br" always_refuse
 local-zone: "sp0hqtn.tokyo" always_refuse
 local-zone: "sp0krqk.shop" always_refuse
 local-zone: "sp0rji.cyou" always_refuse
