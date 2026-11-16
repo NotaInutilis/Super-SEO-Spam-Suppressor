@@ -36397,6 +36397,7 @@ neg {name=airhandlingunit.eu; types=domain;}
 neg {name=airhelp-plus.fr; types=domain;}
 neg {name=airhelpplus.fr; types=domain;}
 neg {name=airi.media; types=domain;}
+neg {name=airindia.fr; types=domain;}
 neg {name=airinno.xyz; types=domain;}
 neg {name=airjgw.tokyo; types=domain;}
 neg {name=airjordan.at; types=domain;}
@@ -81389,6 +81390,7 @@ neg {name=checkout-lebonc.fr; types=domain;}
 neg {name=checkout-leboncoin.fr; types=domain;}
 neg {name=checkout-prime.fr; types=domain;}
 neg {name=checkout-secure3ds.fr; types=domain;}
+neg {name=checkout-store.fr; types=domain;}
 neg {name=checkout.ekommmedia.com; types=domain;}
 neg {name=checkout.leonboutique.co; types=domain;}
 neg {name=checkout.rezeptedesgeschmacks.com; types=domain;}
@@ -112325,6 +112327,7 @@ neg {name=docttolib.fr; types=domain;}
 neg {name=docttousjesttechstors.ga; types=domain;}
 neg {name=doctuafehorfire.tk; types=domain;}
 neg {name=doctvikingmis.tk; types=domain;}
+neg {name=docu-france.fr; types=domain;}
 neg {name=docu-sign.fr; types=domain;}
 neg {name=docu-signs.fr; types=domain;}
 neg {name=doculpsideles.ml; types=domain;}
@@ -119949,6 +119952,7 @@ neg {name=edf-ecowatt.fr; types=domain;}
 neg {name=edf-electricite.info; types=domain;}
 neg {name=edf-en.fr; types=domain;}
 neg {name=edf-enedis-edf.fr; types=domain;}
+neg {name=edf-energiesnouvelles.fr; types=domain;}
 neg {name=edf-energy.fr; types=domain;}
 neg {name=edf-espaceinfo.fr; types=domain;}
 neg {name=edf-espacesecurise.fr; types=domain;}
@@ -177338,6 +177342,7 @@ neg {name=icloud-localiser.fr; types=domain;}
 neg {name=icloud-lost.fr; types=domain;}
 neg {name=icloud-photos.fr; types=domain;}
 neg {name=icloud-support.fr; types=domain;}
+neg {name=icloud-web.fr; types=domain;}
 neg {name=icloud.pm; types=domain;}
 neg {name=icloud.tf; types=domain;}
 neg {name=icloud.wf; types=domain;}
@@ -197172,6 +197177,8 @@ neg {name=kasfimidockbackcul.tk; types=domain;}
 neg {name=kasfspercensaitikcont.tk; types=domain;}
 neg {name=kasgobaravern.ml; types=domain;}
 neg {name=kash-leone.fr; types=domain;}
+neg {name=kashee-payment.fr; types=domain;}
+neg {name=kasheepayment.fr; types=domain;}
 neg {name=kashefcog.com; types=domain;}
 neg {name=kashkeman-handel.de; types=domain;}
 neg {name=kashmiri.org; types=domain;}
@@ -205010,6 +205017,7 @@ neg {name=l8bmsp.tokyo; types=domain;}
 neg {name=l8bz1y.tokyo; types=domain;}
 neg {name=l8c0bpf.work; types=domain;}
 neg {name=l8c9g5.cyou; types=domain;}
+neg {name=l8casino.fr; types=domain;}
 neg {name=l8cryg.cyou; types=domain;}
 neg {name=l8ec1r.cyou; types=domain;}
 neg {name=l8ee0po.work; types=domain;}
@@ -282127,6 +282135,7 @@ neg {name=primesouscription.fr; types=domain;}
 neg {name=primestore.fr; types=domain;}
 neg {name=primestreaming.fr; types=domain;}
 neg {name=primesupply.shop; types=domain;}
+neg {name=primesync.fr; types=domain;}
 neg {name=primetechcasino.fr; types=domain;}
 neg {name=primetechmarket.co; types=domain;}
 neg {name=primeticket.fr; types=domain;}
@@ -322133,6 +322142,7 @@ neg {name=silkenty.info; types=domain;}
 neg {name=silkgesamutme.gq; types=domain;}
 neg {name=silknewsvevil.web.app; types=domain;}
 neg {name=silkninscivicatu.tk; types=domain;}
+neg {name=silkorafrance.fr; types=domain;}
 neg {name=silkpotakirupti.tk; types=domain;}
 neg {name=silkramenena.ga; types=domain;}
 neg {name=silkrardchondthewin.tk; types=domain;}
@@ -326352,6 +326362,7 @@ neg {name=snapnachtpressetbaldtol.tk; types=domain;}
 neg {name=snapochtrodoxexin.cf; types=domain;}
 neg {name=snappass.fr; types=domain;}
 neg {name=snappasse.fr; types=domain;}
+neg {name=snappchat.fr; types=domain;}
 neg {name=snappeasinspanish.cf; types=domain;}
 neg {name=snapposh.com; types=domain;}
 neg {name=snappro.fr; types=domain;}
@@ -332599,6 +332610,7 @@ neg {name=starlikarveval.cf; types=domain;}
 neg {name=starlink-abonnement.fr; types=domain;}
 neg {name=starlink-fr.fr; types=domain;}
 neg {name=starlink-france.fr; types=domain;}
+neg {name=starlink-wallis.wf; types=domain;}
 neg {name=starlink.com; types=domain;}
 neg {name=starlitcasino.fr; types=domain;}
 neg {name=starlodgipadoub.tk; types=domain;}

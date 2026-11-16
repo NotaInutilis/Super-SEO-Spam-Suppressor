@@ -36397,6 +36397,7 @@ local-zone: "airhandlingunit.eu" always_refuse
 local-zone: "airhelp-plus.fr" always_refuse
 local-zone: "airhelpplus.fr" always_refuse
 local-zone: "airi.media" always_refuse
+local-zone: "airindia.fr" always_refuse
 local-zone: "airinno.xyz" always_refuse
 local-zone: "airjgw.tokyo" always_refuse
 local-zone: "airjordan.at" always_refuse
@@ -81389,6 +81390,7 @@ local-zone: "checkout-lebonc.fr" always_refuse
 local-zone: "checkout-leboncoin.fr" always_refuse
 local-zone: "checkout-prime.fr" always_refuse
 local-zone: "checkout-secure3ds.fr" always_refuse
+local-zone: "checkout-store.fr" always_refuse
 local-zone: "checkout.ekommmedia.com" always_refuse
 local-zone: "checkout.leonboutique.co" always_refuse
 local-zone: "checkout.rezeptedesgeschmacks.com" always_refuse
@@ -112325,6 +112327,7 @@ local-zone: "docttolib.fr" always_refuse
 local-zone: "docttousjesttechstors.ga" always_refuse
 local-zone: "doctuafehorfire.tk" always_refuse
 local-zone: "doctvikingmis.tk" always_refuse
+local-zone: "docu-france.fr" always_refuse
 local-zone: "docu-sign.fr" always_refuse
 local-zone: "docu-signs.fr" always_refuse
 local-zone: "doculpsideles.ml" always_refuse
@@ -119949,6 +119952,7 @@ local-zone: "edf-ecowatt.fr" always_refuse
 local-zone: "edf-electricite.info" always_refuse
 local-zone: "edf-en.fr" always_refuse
 local-zone: "edf-enedis-edf.fr" always_refuse
+local-zone: "edf-energiesnouvelles.fr" always_refuse
 local-zone: "edf-energy.fr" always_refuse
 local-zone: "edf-espaceinfo.fr" always_refuse
 local-zone: "edf-espacesecurise.fr" always_refuse
@@ -177338,6 +177342,7 @@ local-zone: "icloud-localiser.fr" always_refuse
 local-zone: "icloud-lost.fr" always_refuse
 local-zone: "icloud-photos.fr" always_refuse
 local-zone: "icloud-support.fr" always_refuse
+local-zone: "icloud-web.fr" always_refuse
 local-zone: "icloud.pm" always_refuse
 local-zone: "icloud.tf" always_refuse
 local-zone: "icloud.wf" always_refuse
@@ -197172,6 +197177,8 @@ local-zone: "kasfimidockbackcul.tk" always_refuse
 local-zone: "kasfspercensaitikcont.tk" always_refuse
 local-zone: "kasgobaravern.ml" always_refuse
 local-zone: "kash-leone.fr" always_refuse
+local-zone: "kashee-payment.fr" always_refuse
+local-zone: "kasheepayment.fr" always_refuse
 local-zone: "kashefcog.com" always_refuse
 local-zone: "kashkeman-handel.de" always_refuse
 local-zone: "kashmiri.org" always_refuse
@@ -205010,6 +205017,7 @@ local-zone: "l8bmsp.tokyo" always_refuse
 local-zone: "l8bz1y.tokyo" always_refuse
 local-zone: "l8c0bpf.work" always_refuse
 local-zone: "l8c9g5.cyou" always_refuse
+local-zone: "l8casino.fr" always_refuse
 local-zone: "l8cryg.cyou" always_refuse
 local-zone: "l8ec1r.cyou" always_refuse
 local-zone: "l8ee0po.work" always_refuse
@@ -282127,6 +282135,7 @@ local-zone: "primesouscription.fr" always_refuse
 local-zone: "primestore.fr" always_refuse
 local-zone: "primestreaming.fr" always_refuse
 local-zone: "primesupply.shop" always_refuse
+local-zone: "primesync.fr" always_refuse
 local-zone: "primetechcasino.fr" always_refuse
 local-zone: "primetechmarket.co" always_refuse
 local-zone: "primeticket.fr" always_refuse
@@ -322133,6 +322142,7 @@ local-zone: "silkenty.info" always_refuse
 local-zone: "silkgesamutme.gq" always_refuse
 local-zone: "silknewsvevil.web.app" always_refuse
 local-zone: "silkninscivicatu.tk" always_refuse
+local-zone: "silkorafrance.fr" always_refuse
 local-zone: "silkpotakirupti.tk" always_refuse
 local-zone: "silkramenena.ga" always_refuse
 local-zone: "silkrardchondthewin.tk" always_refuse
@@ -326352,6 +326362,7 @@ local-zone: "snapnachtpressetbaldtol.tk" always_refuse
 local-zone: "snapochtrodoxexin.cf" always_refuse
 local-zone: "snappass.fr" always_refuse
 local-zone: "snappasse.fr" always_refuse
+local-zone: "snappchat.fr" always_refuse
 local-zone: "snappeasinspanish.cf" always_refuse
 local-zone: "snapposh.com" always_refuse
 local-zone: "snappro.fr" always_refuse
@@ -332599,6 +332610,7 @@ local-zone: "starlikarveval.cf" always_refuse
 local-zone: "starlink-abonnement.fr" always_refuse
 local-zone: "starlink-fr.fr" always_refuse
 local-zone: "starlink-france.fr" always_refuse
+local-zone: "starlink-wallis.wf" always_refuse
 local-zone: "starlink.com" always_refuse
 local-zone: "starlitcasino.fr" always_refuse
 local-zone: "starlodgipadoub.tk" always_refuse
