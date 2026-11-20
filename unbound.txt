@@ -127558,7 +127558,6 @@ local-zone: "etv74qp.work" always_refuse
 local-zone: "etvda.yt" always_refuse
 local-zone: "etvext.tokyo" always_refuse
 local-zone: "etvgf.yt" always_refuse
-local-zone: "etvgozkl.shop" always_refuse
 local-zone: "etviccawell.tk" always_refuse
 local-zone: "etwadagode.ml" always_refuse
 local-zone: "etwalinklilah.ml" always_refuse
@@ -214316,6 +214315,7 @@ local-zone: "lottopcso.re" always_refuse
 local-zone: "lottoportugal.net" always_refuse
 local-zone: "lottoslovakia.sk" always_refuse
 local-zone: "lottosoldes.fr" always_refuse
+local-zone: "lottosouthafrica.net" always_refuse
 local-zone: "lottosportfrance.fr" always_refuse
 local-zone: "lottowardsbeats.bar" always_refuse
 local-zone: "lottumedazztron.gq" always_refuse
@@ -235254,6 +235254,7 @@ local-zone: "muurqxo.tokyo" always_refuse
 local-zone: "muutaitradicun.tk" always_refuse
 local-zone: "muv3ob.tokyo" always_refuse
 local-zone: "muvaconscelllonon.tk" always_refuse
+local-zone: "muvastore.com" always_refuse
 local-zone: "muvecorlaca.gq" always_refuse
 local-zone: "muvetorrobipo.tk" always_refuse
 local-zone: "muvkas.tokyo" always_refuse
@@ -262542,6 +262543,7 @@ local-zone: "paotenrifilocu.ml" always_refuse
 local-zone: "pap-verif.fr" always_refuse
 local-zone: "papa-mojo.dk" always_refuse
 local-zone: "papa78.com" always_refuse
+local-zone: "papabau.com" always_refuse
 local-zone: "papacomsenzto.tk" always_refuse
 local-zone: "papacphenili.ml" always_refuse
 local-zone: "papacpuarosu.tk" always_refuse
@@ -353329,6 +353331,7 @@ local-zone: "trivellazioniitalia.it" always_refuse
 local-zone: "trivellicelli.cf" always_refuse
 local-zone: "trivfulforthquawimblect.tk" always_refuse
 local-zone: "trivgo.co.uk" always_refuse
+local-zone: "trivio-handel.de" always_refuse
 local-zone: "trivnetelewan.tk" always_refuse
 local-zone: "trivona.de" always_refuse
 local-zone: "trivpakerpprecun.cf" always_refuse
