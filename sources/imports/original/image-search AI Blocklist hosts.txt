@@ -411,6 +411,7 @@
 0.0.0.0 prompti.ai
 0.0.0.0 qrcode.ai
 0.0.0.0 quicklines.ai
+0.0.0.0 rankcycle.ai
 0.0.0.0 readyai.ai
 0.0.0.0 realestate.ai
 0.0.0.0 recraft.ai
@@ -867,6 +868,7 @@
 0.0.0.0 askmkbhd.com
 0.0.0.0 askstockgpt.com
 0.0.0.0 astronymero.com
+0.0.0.0 atuin.linuz.com
 0.0.0.0 audiochamps.com
 0.0.0.0 augxlabs.com
 0.0.0.0 automationswitch.com
@@ -1058,6 +1060,7 @@
 0.0.0.0 fotor.com
 0.0.0.0 frenchicoai.com
 0.0.0.0 frequentart.myportfolio.com
+0.0.0.0 fresheditor.linuz.com
 0.0.0.0 fromdev.com
 0.0.0.0 funinformatique.com
 0.0.0.0 future-pedia.com
@@ -1187,6 +1190,7 @@
 0.0.0.0 linuxiac.com
 0.0.0.0 linuxjournal.com
 0.0.0.0 linuxkernal.com
+0.0.0.0 linuxkernel.com
 0.0.0.0 linuxstans.com
 0.0.0.0 linuxtechlab.com
 0.0.0.0 linuxteck.com
@@ -1240,6 +1244,7 @@
 0.0.0.0 mysterylores.com
 0.0.0.0 mythologyworldwide.com
 0.0.0.0 myxxgirl.com
+0.0.0.0 neovimcheatsheet.com
 0.0.0.0 nerdytechblog.com
 0.0.0.0 netwrck.com
 0.0.0.0 neuralframes.com
@@ -1316,6 +1321,7 @@
 0.0.0.0 portrait.vana.com
 0.0.0.0 portraitai.com
 0.0.0.0 poultryhatch.com
+0.0.0.0 privacydefend.com
 0.0.0.0 private-ai.com
 0.0.0.0 proactivebackend-pa.googleapis.com
 0.0.0.0 problembo.com
@@ -1458,6 +1464,7 @@
 0.0.0.0 thinkdiffusion.com
 0.0.0.0 thinkgamerz.com
 0.0.0.0 threwthelookingglass.com
+0.0.0.0 tidycrawl.com
 0.0.0.0 timesmojo.com
 0.0.0.0 toolbaz.com
 0.0.0.0 tools.capcut.com
@@ -1491,6 +1498,7 @@
 0.0.0.0 vibelf.com
 0.0.0.0 videogamer.com
 0.0.0.0 views.terabox.com
+0.0.0.0 vigodlabs.com
 0.0.0.0 violetforest.com
 0.0.0.0 viralnewsflare.com
 0.0.0.0 virtulook.wondershare.com
@@ -1689,6 +1697,7 @@
 0.0.0.0 english-ai.org
 0.0.0.0 enviroliteracy.org
 0.0.0.0 gameslearningsociety.org
+0.0.0.0 gitcheatsheets.org
 0.0.0.0 glukhov.org
 0.0.0.0 historyinpolitics.org
 0.0.0.0 historytools.org
@@ -1714,6 +1723,7 @@
 0.0.0.0 readyai.org
 0.0.0.0 solarissociety.org
 0.0.0.0 swapface.org
+0.0.0.0 tmuxcheatsheet.org
 0.0.0.0 toolsadvisor.org
 0.0.0.0 uef.org
 0.0.0.0 umatechnology.org
@@ -1763,6 +1773,7 @@
 0.0.0.0 bare.club
 0.0.0.0 batteriedrone.fr
 0.0.0.0 birdnerds.com.au
+0.0.0.0 blog.send.win
 0.0.0.0 bottr.me
 0.0.0.0 boutique-wp.fr
 0.0.0.0 browser.workers.dev
@@ -1937,6 +1948,7 @@
 0.0.0.0 wondershare.fr
 0.0.0.0 workspaceai.google
 0.0.0.0 yoohoo.cards
+0.0.0.0 zellijcheatsheet.dev
 0.0.0.0 zerochan.next
 0.0.0.0 zerogpt.plus
 0.0.0.0 zleague.gg
@@ -2356,6 +2368,7 @@
 0.0.0.0 www.prompti.ai
 0.0.0.0 www.qrcode.ai
 0.0.0.0 www.quicklines.ai
+0.0.0.0 www.rankcycle.ai
 0.0.0.0 www.readyai.ai
 0.0.0.0 www.realestate.ai
 0.0.0.0 www.recraft.ai
@@ -2812,6 +2825,7 @@
 0.0.0.0 www.askmkbhd.com
 0.0.0.0 www.askstockgpt.com
 0.0.0.0 www.astronymero.com
+0.0.0.0 www.atuin.linuz.com
 0.0.0.0 www.audiochamps.com
 0.0.0.0 www.augxlabs.com
 0.0.0.0 www.automationswitch.com
@@ -3003,6 +3017,7 @@
 0.0.0.0 www.fotor.com
 0.0.0.0 www.frenchicoai.com
 0.0.0.0 www.frequentart.myportfolio.com
+0.0.0.0 www.fresheditor.linuz.com
 0.0.0.0 www.fromdev.com
 0.0.0.0 www.funinformatique.com
 0.0.0.0 www.future-pedia.com
@@ -3132,6 +3147,7 @@
 0.0.0.0 www.linuxiac.com
 0.0.0.0 www.linuxjournal.com
 0.0.0.0 www.linuxkernal.com
+0.0.0.0 www.linuxkernel.com
 0.0.0.0 www.linuxstans.com
 0.0.0.0 www.linuxtechlab.com
 0.0.0.0 www.linuxteck.com
@@ -3185,6 +3201,7 @@
 0.0.0.0 www.mysterylores.com
 0.0.0.0 www.mythologyworldwide.com
 0.0.0.0 www.myxxgirl.com
+0.0.0.0 www.neovimcheatsheet.com
 0.0.0.0 www.nerdytechblog.com
 0.0.0.0 www.netwrck.com
 0.0.0.0 www.neuralframes.com
@@ -3261,6 +3278,7 @@
 0.0.0.0 www.portrait.vana.com
 0.0.0.0 www.portraitai.com
 0.0.0.0 www.poultryhatch.com
+0.0.0.0 www.privacydefend.com
 0.0.0.0 www.private-ai.com
 0.0.0.0 www.proactivebackend-pa.googleapis.com
 0.0.0.0 www.problembo.com
@@ -3403,6 +3421,7 @@
 0.0.0.0 www.thinkdiffusion.com
 0.0.0.0 www.thinkgamerz.com
 0.0.0.0 www.threwthelookingglass.com
+0.0.0.0 www.tidycrawl.com
 0.0.0.0 www.timesmojo.com
 0.0.0.0 www.toolbaz.com
 0.0.0.0 www.tools.capcut.com
@@ -3436,6 +3455,7 @@
 0.0.0.0 www.vibelf.com
 0.0.0.0 www.videogamer.com
 0.0.0.0 www.views.terabox.com
+0.0.0.0 www.vigodlabs.com
 0.0.0.0 www.violetforest.com
 0.0.0.0 www.viralnewsflare.com
 0.0.0.0 www.virtulook.wondershare.com
@@ -3634,6 +3654,7 @@
 0.0.0.0 www.english-ai.org
 0.0.0.0 www.enviroliteracy.org
 0.0.0.0 www.gameslearningsociety.org
+0.0.0.0 www.gitcheatsheets.org
 0.0.0.0 www.glukhov.org
 0.0.0.0 www.historyinpolitics.org
 0.0.0.0 www.historytools.org
@@ -3659,6 +3680,7 @@
 0.0.0.0 www.readyai.org
 0.0.0.0 www.solarissociety.org
 0.0.0.0 www.swapface.org
+0.0.0.0 www.tmuxcheatsheet.org
 0.0.0.0 www.toolsadvisor.org
 0.0.0.0 www.uef.org
 0.0.0.0 www.umatechnology.org
@@ -3708,6 +3730,7 @@
 0.0.0.0 www.bare.club
 0.0.0.0 www.batteriedrone.fr
 0.0.0.0 www.birdnerds.com.au
+0.0.0.0 www.blog.send.win
 0.0.0.0 www.bottr.me
 0.0.0.0 www.boutique-wp.fr
 0.0.0.0 www.browser.workers.dev
@@ -3882,6 +3905,7 @@
 0.0.0.0 www.wondershare.fr
 0.0.0.0 www.workspaceai.google
 0.0.0.0 www.yoohoo.cards
+0.0.0.0 www.zellijcheatsheet.dev
 0.0.0.0 www.zerochan.next
 0.0.0.0 www.zerogpt.plus
 0.0.0.0 www.zleague.gg
