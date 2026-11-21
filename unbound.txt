@@ -53015,6 +53015,7 @@ local-zone: "banpipetrinase.cf" always_refuse
 local-zone: "banpleculop.cf" always_refuse
 local-zone: "banpodan.ml" always_refuse
 local-zone: "banptihiribrusp.cf" always_refuse
+local-zone: "banq2france.fr" always_refuse
 local-zone: "banqepopulaire.fr" always_refuse
 local-zone: "banqne-france.fr" always_refuse
 local-zone: "banquan3.com" always_refuse
@@ -55288,6 +55289,7 @@ local-zone: "beesparliament.com" always_refuse
 local-zone: "beeswinged.best" always_refuse
 local-zone: "beetblast-fr.fr" always_refuse
 local-zone: "beeteam.net" always_refuse
+local-zone: "beetify.fr" always_refuse
 local-zone: "beetinworkbibosly.gq" always_refuse
 local-zone: "beetlechairmanran.com" always_refuse
 local-zone: "beetospin-fr.fr" always_refuse
@@ -76304,6 +76306,8 @@ local-zone: "cbzlse.tokyo" always_refuse
 local-zone: "cbzni.tokyo" always_refuse
 local-zone: "cbzzdi.tokyo" always_refuse
 local-zone: "cc-alberes-cote-vermeille.fr" always_refuse
+local-zone: "cc-montauban-de-bretagne.fr" always_refuse
+local-zone: "cc-paysbilurien.fr" always_refuse
 local-zone: "cc-techgroup.com" always_refuse
 local-zone: "cc1jn29.cyou" always_refuse
 local-zone: "cc2ag.rest" always_refuse
@@ -91053,6 +91057,7 @@ local-zone: "consnonrowhila.ga" always_refuse
 local-zone: "consnorthtoodroaphy.gq" always_refuse
 local-zone: "consodipsemb.cf" always_refuse
 local-zone: "consoglobe.com" always_refuse
+local-zone: "consogouv.fr" always_refuse
 local-zone: "consoipailobsmanti.ml" always_refuse
 local-zone: "consolab.fr" always_refuse
 local-zone: "consolador.eu" always_refuse
@@ -92469,6 +92474,7 @@ local-zone: "coris-bourses.fr" always_refuse
 local-zone: "corisbourses.fr" always_refuse
 local-zone: "coristeles.it" always_refuse
 local-zone: "coritesmarepcie.gq" always_refuse
+local-zone: "corivitus-fr.fr" always_refuse
 local-zone: "corjimoopaperc.tk" always_refuse
 local-zone: "corjoa.tokyo" always_refuse
 local-zone: "corjumpfike.ml" always_refuse
@@ -140295,6 +140301,7 @@ local-zone: "fr-coolzino.fr" always_refuse
 local-zone: "fr-cora.fr" always_refuse
 local-zone: "fr-corafrance.fr" always_refuse
 local-zone: "fr-corgibet.fr" always_refuse
+local-zone: "fr-corivitus.fr" always_refuse
 local-zone: "fr-crcindustriesfrancesas.fr" always_refuse
 local-zone: "fr-credindust.fr" always_refuse
 local-zone: "fr-cresus.fr" always_refuse
@@ -156877,6 +156884,7 @@ local-zone: "gta4.it" always_refuse
 local-zone: "gta5mobi.fun" always_refuse
 local-zone: "gta5recovery.xyz" always_refuse
 local-zone: "gta6-officiel.fr" always_refuse
+local-zone: "gta6-shop.fr" always_refuse
 local-zone: "gtafb.rest" always_refuse
 local-zone: "gtah.fr" always_refuse
 local-zone: "gtamoding.fr" always_refuse
@@ -218436,6 +218444,7 @@ local-zone: "maafetmoi.fr" always_refuse
 local-zone: "maafinsurance.fr" always_refuse
 local-zone: "maafsante.fr" always_refuse
 local-zone: "maagiakv.ee" always_refuse
+local-zone: "maagicalspin.fr" always_refuse
 local-zone: "maaguetulifi.tk" always_refuse
 local-zone: "maahharinclarad.ga" always_refuse
 local-zone: "maakescandcheckle.gq" always_refuse
@@ -230805,6 +230814,7 @@ local-zone: "mon-espace-client-orange.fr" always_refuse
 local-zone: "mon-espace-client-prime.fr" always_refuse
 local-zone: "mon-espace-client-sfr.fr" always_refuse
 local-zone: "mon-espace-client-sofinco.fr" always_refuse
+local-zone: "mon-espace-clients.fr" always_refuse
 local-zone: "mon-espace-colis.fr" always_refuse
 local-zone: "mon-espace-colissimo.fr" always_refuse
 local-zone: "mon-espace-commercial.fr" always_refuse
@@ -238615,7 +238625,6 @@ local-zone: "nan.ydns.eu" always_refuse
 local-zone: "nana-vypredaj.sk" always_refuse
 local-zone: "nanabernewstu.ml" always_refuse
 local-zone: "nanabmukesa.tk" always_refuse
-local-zone: "nanacalistar.com" always_refuse
 local-zone: "nanagolote.ga" always_refuse
 local-zone: "nanalballrenhi.tk" always_refuse
 local-zone: "nananatherol.ga" always_refuse
@@ -312587,6 +312596,7 @@ local-zone: "servicechronopost.fr" always_refuse
 local-zone: "servicechronopost2024.fr" always_refuse
 local-zone: "servicechronoposte.fr" always_refuse
 local-zone: "serviceclient-amazonfrance.fr" always_refuse
+local-zone: "serviceclient-assurance-retraite.fr" always_refuse
 local-zone: "serviceclient-auth.fr" always_refuse
 local-zone: "serviceclient-banquedefrance.fr" always_refuse
 local-zone: "serviceclient-bitpanda.fr" always_refuse
@@ -313149,6 +313159,8 @@ local-zone: "sevenloveresponses.buzz" always_refuse
 local-zone: "sevenmoto.ca" always_refuse
 local-zone: "sevennet-blog.tumblr.com" always_refuse
 local-zone: "sevennineteenth.com" always_refuse
+local-zone: "sevenplay-fr.fr" always_refuse
+local-zone: "sevenplay1.fr" always_refuse
 local-zone: "sevenseventech.com" always_refuse
 local-zone: "sevensistersescorts4u.eu" always_refuse
 local-zone: "seventyherbarduous.com" always_refuse
@@ -323517,6 +323529,7 @@ local-zone: "spin-pandacasino.fr" always_refuse
 local-zone: "spin-polo.fr" always_refuse
 local-zone: "spin-rollz-casino.fr" always_refuse
 local-zone: "spin-rollzcasino.fr" always_refuse
+local-zone: "spin-shake.fr" always_refuse
 local-zone: "spin-shark.fr" always_refuse
 local-zone: "spin-spirit-casino.fr" always_refuse
 local-zone: "spin-star.fr" always_refuse
@@ -323920,6 +323933,7 @@ local-zone: "spinscasino.fr" always_refuse
 local-zone: "spinscasinos.fr" always_refuse
 local-zone: "spinsdeluxe-casino.fr" always_refuse
 local-zone: "spinshadowpro.fr" always_refuse
+local-zone: "spinshake6.fr" always_refuse
 local-zone: "spinshark.fr" always_refuse
 local-zone: "spinshousecasino.fr" always_refuse
 local-zone: "spinsingtokilu.cf" always_refuse
@@ -323994,6 +324008,8 @@ local-zone: "spintogreen.com" always_refuse
 local-zone: "spintowin.fr" always_refuse
 local-zone: "spintrainer.fr" always_refuse
 local-zone: "spintroll.fr" always_refuse
+local-zone: "spintropolis-fr.fr" always_refuse
+local-zone: "spintropolis8.fr" always_refuse
 local-zone: "spintropolisonline.fr" always_refuse
 local-zone: "spintunonsthomte.tk" always_refuse
 local-zone: "spinuninsoche.ml" always_refuse
@@ -344573,6 +344589,7 @@ local-zone: "ticketsjoparis2024.fr" always_refuse
 local-zone: "ticketsjul.fr" always_refuse
 local-zone: "ticketslive.fr" always_refuse
 local-zone: "ticketslouvre.fr" always_refuse
+local-zone: "ticketsmaster-fr.fr" always_refuse
 local-zone: "ticketsmaster-jul.fr" always_refuse
 local-zone: "ticketsmaster.fr" always_refuse
 local-zone: "ticketsmasters.fr" always_refuse
@@ -351763,6 +351780,7 @@ local-zone: "transaction-leboncoins.fr" always_refuse
 local-zone: "transactions-prime.fr" always_refuse
 local-zone: "transactionsleboncoin.fr" always_refuse
 local-zone: "transactionsleboncoins.fr" always_refuse
+local-zone: "transaviasupport.fr" always_refuse
 local-zone: "transcach.fr" always_refuse
 local-zone: "transcash-activation.fr" always_refuse
 local-zone: "transcash-monespacepersonnel.fr" always_refuse
@@ -358560,6 +358578,7 @@ local-zone: "uggs-store.fr" always_refuse
 local-zone: "uggs.co.at" always_refuse
 local-zone: "uggsfrance.fr" always_refuse
 local-zone: "uggshoes.fr" always_refuse
+local-zone: "uggshop.fr" always_refuse
 local-zone: "uggsoldes.fr" always_refuse
 local-zone: "uggsparis.fr" always_refuse
 local-zone: "uggsshop.fr" always_refuse
