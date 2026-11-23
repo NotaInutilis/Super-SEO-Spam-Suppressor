@@ -1204,6 +1204,7 @@
 0.0.0.0 linuxjournal.com
 0.0.0.0 linuxkernal.com
 0.0.0.0 linuxkernel.com
+0.0.0.0 linuxlearncmd.com
 0.0.0.0 linuxstans.com
 0.0.0.0 linuxtechlab.com
 0.0.0.0 linuxteck.com
@@ -1778,6 +1779,7 @@
 # Sites that have other domain extensions
 0.0.0.0 .play.ht
 0.0.0.0 CMU.fr
+0.0.0.0 admindocs.de
 0.0.0.0 ai-art.tokyo
 0.0.0.0 ai-videos-generator.pro
 0.0.0.0 ai.alexa.amazon
@@ -1898,6 +1900,7 @@
 0.0.0.0 labs.google
 0.0.0.0 larevueia.fr
 0.0.0.0 linear.liftapp
+0.0.0.0 linuxcommand.dev
 0.0.0.0 linuxmind.dev
 0.0.0.0 lovelines.xyz
 0.0.0.0 made.porn
@@ -3209,6 +3212,7 @@
 0.0.0.0 www.linuxjournal.com
 0.0.0.0 www.linuxkernal.com
 0.0.0.0 www.linuxkernel.com
+0.0.0.0 www.linuxlearncmd.com
 0.0.0.0 www.linuxstans.com
 0.0.0.0 www.linuxtechlab.com
 0.0.0.0 www.linuxteck.com
@@ -3783,6 +3787,7 @@
 # Sites that have other domain extensions
 0.0.0.0 www..play.ht
 0.0.0.0 www.CMU.fr
+0.0.0.0 www.admindocs.de
 0.0.0.0 www.ai-art.tokyo
 0.0.0.0 www.ai-videos-generator.pro
 0.0.0.0 www.ai.alexa.amazon
@@ -3903,6 +3908,7 @@
 0.0.0.0 www.labs.google
 0.0.0.0 www.larevueia.fr
 0.0.0.0 www.linear.liftapp
+0.0.0.0 www.linuxcommand.dev
 0.0.0.0 www.linuxmind.dev
 0.0.0.0 www.lovelines.xyz
 0.0.0.0 www.made.porn
