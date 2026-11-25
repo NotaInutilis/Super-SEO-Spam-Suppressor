@@ -51543,7 +51543,6 @@ local-zone: "babylissfrance.fr" always_refuse
 local-zone: "babylissprofr.fr" always_refuse
 local-zone: "babylonia.es" always_refuse
 local-zone: "babymamashowerscenev4u.web.app" always_refuse
-local-zone: "babymodepur.com" always_refuse
 local-zone: "babynippon.com" always_refuse
 local-zone: "babynose.xyz" always_refuse
 local-zone: "babyphysicalscoach.biz" always_refuse
@@ -63991,6 +63990,7 @@ local-zone: "bomei007.com" always_refuse
 local-zone: "bomesmatosnyto.tk" always_refuse
 local-zone: "bomfynk.bar" always_refuse
 local-zone: "bomgawankind.tk" always_refuse
+local-zone: "bomiafx.com" always_refuse
 local-zone: "bomiljeogrillendchan.tk" always_refuse
 local-zone: "bomjjx.tokyo" always_refuse
 local-zone: "bomlakebalje.cf" always_refuse
@@ -221402,6 +221402,7 @@ local-zone: "marksurdilookse.ga" always_refuse
 local-zone: "markswoman.best" always_refuse
 local-zone: "markt-apo-uelsen.de" always_refuse
 local-zone: "markt-shop.com" always_refuse
+local-zone: "markt.agency" always_refuse
 local-zone: "markt.life" always_refuse
 local-zone: "markt010.nl" always_refuse
 local-zone: "marktechpost.com" always_refuse
@@ -243470,6 +243471,7 @@ local-zone: "nhc9r84.cyou" always_refuse
 local-zone: "nhcj3d.cn" always_refuse
 local-zone: "nhclxt.tokyo" always_refuse
 local-zone: "nhcngq.shop" always_refuse
+local-zone: "nhcol.com" always_refuse
 local-zone: "nhcondorental.buzz" always_refuse
 local-zone: "nhcow2g.cyou" always_refuse
 local-zone: "nhcqnp.tokyo" always_refuse
